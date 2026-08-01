@@ -1,0 +1,685 @@
+Methane, a gas produced by enteric bacteria, slows intestinal transit and
+augments small intestinal contractile activity
+Mark Pimentel,1 Henry C. Lin,2 Pedram Enayati,1 Brian van den Burg,1
+Hyo-Rang Lee,1 Jin H. Chen,1 Sandy Park,1 Yuthana Kong,1 and Jeffrey Conklin1
+1Cedars-Sinai Medical Center, Burns and Allen Research Institute, and UCLA Geffen School
+of Medicine, Los Angeles, California; 2Division of Gastrointestinal and Liver Diseases,
+Keck School of Medicine, University of Southern California, Los Angeles, California
+Submitted 30 December 2004; accepted in ﬁnal form 8 November 2005
+Pimentel, Mark, Henry C. Lin, Pedram Enayati, Brian van den
+Burg, Hyo-Rang Lee, Jin H. Chen, Sandy Park, Yuthana Kong,
+and Jeffrey Conklin. Methane, a gas produced by enteric bacteria,
+slows intestinal transit and augments small intestinal contractile activity.
+Am J Physiol Gastrointest Liver Physiol 290: G1089–G1095, 2006.
+First published November 17, 2005; doi:10.1152/ajpgi.00574.2004.—
+The presence of methane on lactulose breath test among irritable
+bowel syndrome (IBS) subjects is highly associated with the consti-
+pation-predominant form. Therefore, we set out to determine whether
+methane gas can alter small intestinal motor function. In dogs, small
+intestinal ﬁstulae were created to permit measurement of intestinal
+transit. Using a radiolabel, we evaluated transit during infusion of
+room air and subsequently methane. In this model, small intestinal
+infusion of methane produced a slowing of transit in all dogs by an
+average of 59%. In a second experiment, guinea pig ileum was pinned
+into an organ bath for the study of contractile activity in response to
+brush strokes applied to the mucosa. The force of contraction was
+measured both orad and aborad to the stimulus. The experiment was
+repeated while the bath was gassed with methane. Contractile activ-
+ities orad and aborad to the stimulus were signiﬁcantly augmented by
+methane compared with room air (P  0.05). In a third experiment,
+humans with IBS who had undergone a small bowel motility study
+were compared such that subjects who produced methane on lactulose
+breath test were compared with those producing hydrogen. The
+motility index was signiﬁcantly higher in methane-producing IBS
+patients (1,851  861) compared with hydrogen producers (1,199 
+301) (P  0.05). Therefore, methane, a gaseous by-product of intes-
+tinal bacteria, slows small intestinal transit and appears to do so by
+augmenting small bowel contractile activity.
+methane gas; peristalsis; irritable bowel syndrome
+THE DISCOVERY THAT a gas, nitric oxide (NO), produced by
+endothelial cells controls vascular smooth muscle tone was a
+major advancement in the understanding of gaseous cell sig-
+naling (11). NO was later shown to facilitate numerous phys-
+iological processes in the body, including neural control of
+many gastrointestinal motor functions. More importantly, ab-
+errations in NO production can mimic clinical gastrointestinal
+disease in humans, such as esophageal spasm (15, 29) and
+achalasia (26). Two other endogenously produced gases, car-
+bon monoxide (9) and hydrogen sulﬁde (H2S) (52), are bio-
+logically active; however, in the case of H2S, its role in
+gastrointestinal neuromuscular processes has not been well
+characterized. This small but growing list of gaseous transmit-
+ters raises the possibility that other gaseous mediators of
+biological processes may exist.
+Several gases are liberated in large quantities by fermenta-
+tion of food from bacteria colonizing the intestinal tract. The
+three most common of these exogenous gases are carbon
+dioxide, hydrogen, and methane (14, 16). Apart from the
+physical effect of gas buildup in the hollow viscous of the
+intestine, there is little direct evidence that any of these gases
+contribute to intestinal physiology or pathology.
+Methane gas is produced by enteric bacteria in 30–62% of
+humans (1, 3, 6, 8, 17, 24, 36). Although the large quantities of
+methane produced in the gut are thought to be inert (51), three
+independent groups (6, 24, 46) reported slower intestinal transit
+in subjects with known intestinal fermentation producing meth-
+ane compared with nonmethane producers. This association
+between methane and transit has never been investigated. In
+two studies of irritable bowel syndrome (IBS) subjects, our
+group (34, 35) reported that the presence of methane in expired
+breath after lactulose ingestion is universally associated with
+the constipation-predominant subgroup of IBS. Most of these
+subjects have an early rise in breath methane levels after
+lactulose, suggesting that the carbohydrate is being fermented
+to methane in the small intestine.
+Based on these observations, we tested the hypothesis that
+methane slows intestinal transit by altering intestinal neuro-
+muscular function. We tested this hypothesis is three ways.
+First, we used a well-characterized canine model (18, 20) to
+study the effects of methane on small bowel transit. Second, the
+effect of methane on neuromuscular function was explored using
+a physiological model of peristalsis in the guinea pig ileum (42).
+Finally, antroduodenal manometry ﬁndings were compared
+between methane- and nonmethane-producing IBS subjects.
+METHODS
+Methane and Transit in an In Vivo Canine Model
+Animal preparations. In ﬁve mongrel dogs, two chronic small
+intestinal ﬁstulas were each created surgically. Dogs averaged 25 kg
+in weight. The ﬁstulas were located 10 cm (distal to the bile and
+pancreatic ducts) and 160 cm (midgut ﬁstula) from the pylorus (18,
+20). Cannulas were placed into each ﬁstula and sutured in place to
+prevent rotation. A recovery period of 4 wk followed surgery so that
+testing was initiated only after normal feeding behaviors were well
+established. With this preparation, dogs remained healthy for more
+than 12 mo of observation.
+Address for reprint requests and other correspondence: M. Pimentel, Cedars-
+Sinai Medical Center, 8635 W. 3rd St., Suite 770, Los Angeles, CA 90048
+(e-mail: pimentelm@cshs.org).
+The costs of publication of this article were defrayed in part by the payment
+of page charges. The article must therefore be hereby marked “advertisement”
+in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+Am J Physiol Gastrointest Liver Physiol 290: G1089–G1095, 2006.
+First published November 17, 2005; doi:10.1152/ajpgi.00574.2004.
+0193-1857/06 $8.00 Copyright © 2006 the American Physiological Society
+http://www.ajpgi.org
+G1089
+Experimental preparations. Dogs were deprived of food, but not
+water, for an 18-h period before experiments. Thirty minutes before
+the start of each experiment, both intestinal cannulas were uncorked
+so that a Foley catheter could be placed into the distal limb of the
+duodenal and the midgut ﬁstulas. By inﬂating the Foley balloon with
+10 ml of water, we achieved a water-tight seal at each ﬁstula (18, 20).
+The output of each ﬁstula was allowed to drain freely by gravity via
+the catheter. With this method, the proximal (between ﬁstulas) and distal
+(beyond midgut ﬁstula) halves of the gut were compartmentalized.
+Phosphate buffer (pH 7.0) alone was delivered at 2 ml/min for 90
+min into the proximal half of gut via the catheter in the duodenal
+ﬁstula (18, 20). To test for the effect of gas on transit, room air or
+methane (Air Liquide, Houston, TX) was delivered into the distal half
+of the gut via the Foley catheter in the midgut ﬁstula at 2 ml/min for
+90 min. This rate of methane delivery was selected because it
+achieved a methane concentration (50 ppm) in the exhaled breath of
+the dogs within the range observed in patients with IBS who have
+methane production.
+Measurement of intestinal transit. Sixty minutes after the start of
+the 90-min perfusion of buffer, 20 Ci 99m-Tc-diethylenetriamine-
+pentaacetate was delivered as a bolus into the duodenal ﬁstula to begin
+measurement of intestinal transit. One-milliliter samples were col-
+lected every 5 min from the output of the midgut ﬁstula over 30 min.
+The radioactivity in each sample was measured in a gamma well
+counter to determine intestinal transit. The total radioactivity in the
+99m-Tc bolus delivered into the small intestine was determined by
+counting a matched dose of 99m-Tc. After correcting all counts to
+time zero, we calculated intestinal transit as the cumulative percent
+recovery of 99m-Tc-diethylenetriaminepentaacetate over the 30-min
+collection period.
+Methane and Guinea Pig Ileal Contractile Responses
+Animals. Albino guinea pigs (200–400 g) were euthanized via CO2
+asphyxiation. Laparotomy was then performed, and 3 cm of distal
+ileum were removed at a point 10 cm proximal to the ileocecal valve.
+The lumen was exposed by longitudinally cutting the ileal segment
+along the mesenteric insertion. The tissue was then pinned serosa side
+down at its length in situ in an organ bath (Radnoti Glass, Monrovia,
+CA) containing modiﬁed Kreb solution (in mM: 118 NaCl, 4.8 KCl,
+1.2 KH2PO4, 2.5 CaCl2, 25 NaHCO3, and 11 dextrose) at 37°C and
+gassed with 95% O2-5% CO2 at a rate necessary to maintain the pH
+at 7.4. The tissue was oriented in the bath with care to localize the oral
+and aboral sides of the tissue. The bath was then equilibrated for 30
+min. The procedures used in this study were approved by the Insti-
+tutional Animal Care and Use Committee at Cedars-Sinai Medical
+Center (Los Angeles, CA).
+Orad contractile response. In these experiments, the tissue was
+pinned in the bath such that the 1.5 cm of tissue on the aboral end was
+pinned on both longitudinal tissue borders. On the orad side, the tissue
+was only pinned on one longitudinal border. A suture was placed
+through the mucosal edge at the midpoint along the unpinned longi-
+tudinal border. The suture was connected to a strain gauge (FT-103;
+Grass Telefactor, West Warwick, RI) via a pulley. The tissue was
+stretched until it generated 0.25 g of resting force. After the tissue was
+equilibrated in the bath gassed with the O2-CO2 mixture, 2, 4, 6, 8,
+and 10 brush strokes were applied to the mucosa 1.5 cm aborad of the
+suture insertion site. The tissue was allowed to rest for 7–10 min
+between stroke sets.
+At the conclusion of the 10-stroke set, the bath was then gassed
+with 99.9% ultrapure methane (CH4; Air Liquide). The rate at which
+methane was bubbled into the bath remained constant, and the
+O2-CO2 ﬂow was adjusted to ensure a pH of 7.4. In a preliminary
+experiment, methane was infused into the bath at various rates, and
+aliquots of Krebs were siphoned from the bath, equilibrated with room
+air head gas, and the head gas was analyzed. All rates of methane
+gassing resulted in identical head gas concentrations of 980–1,010
+ppm. After a 10-min gassing period, the brush stroke sequence was
+repeated and contractile responses were measured.
+Aborad contractile response. In the next phase of experiments, the
+ileal tissue was reversed in the bath such that the orad side was pinned
+on both sides and the aborad side only on one. The study of the aborad
+side of the reﬂex used a new set of guinea pigs from the orad
+experiments since the length of study would result in tissue fatigue.
+The suture was attached to the free edge of the aborad side and to the
+strain gauge as above. In this experiment, 0.5 g of tension was placed
+on the tissue to evaluate contractile response. Once again, 2, 4, 6, 8,
+and 10 brush stroke sets were applied to the tissue, this time 1.5 cm
+orad to the suture, with relaxation or contraction being measured.
+After completion of this sequence, the bath was gassed with CH4;
+after 10 min of equilibration, the sequence of brush strokes was
+repeated.
+Methane and Small Bowel Motility in Humans
+Patient population. Between 2001 and 2003, subjects referred for
+evaluation of IBS underwent a lactulose breath test to determine the
+presence of bacterial overgrowth. Subjects with an abnormal breath
+test then had routine small bowel manometry recordings in an attempt
+to identify factors contributing to the breath test abnormalities. In a
+retrospective review, consecutive subjects with methane and contem-
+porary consecutive sex-matched IBS subjects with hydrogen on lac-
+tulose breath test who also had a small bowel manometry were
+eligible for inclusion in the study. Subjects were excluded if they had
+a history of small bowel obstruction, inﬂammatory bowel disease,
+celiac disease, narcotic use, autoimmune disease, diabetes, or previous
+bowel resection. The study was approved by the Cedars-Sinai Medical
+Center Institutional Review Board.
+Antroduodenal manometry. For the small bowel manometry, pa-
+tients presented to the gastrointestinal laboratory having fasted from
+midnight. After the nasal passage of the patient was anesthetized with
+2% xylocaine gel (ASTRA USA, Westborough, MA), an eight-
+channel water-perfused small bowel manometry catheter (5 cm spac-
+ing) was placed transnasally into the stomach. Subsequently, the
+catheter was advanced via ﬂuoroscopy into the small bowel such that
+ﬁve recording channels were in the small bowel with the distal
+channel at the ligament of Treitz and three channels in the antrum.
+Once the catheter was in place, it was attached to an Arndorffer
+perfusion pump (Arndorffer Medical Specialties, Greendale, WI) with
+pressure transducers continuously recording pressure via Medtronic
+Polygraph and Polygram software (Medtronic Functional Diagnostics,
+Shoreview, MN). Subjects underwent 4 h of fasting recording. Sub-
+sequently, all subjects received a standard test meal followed by 30
+additional minutes of postprandial recording. The motility index was
+then determined for the fasting and postprandial periods (4). In
+addition, the number of phase III events and the number of motor
+contractions greater than 20 mmHg were counted for each tracing.
+Both of these were done by an investigator blinded to the presence or
+absence of methane in the subject.
+Lactulose breath testing. All subjects must have had a lactulose
+breath test within 3 mo of the time of manometry. The breath test was
+performed by having the subjects fast for 12 h. Breath samples were
+then taken at baseline and every 15 min after the ingestion of 10 g of
+lactulose (Constulose; Alpharma USPD, Baltimore, MD) for 180 min.
+The breath was collected as an end-expiratory sample using the
+Quintron gas collection bag valve system (Quintron Instrument, Mil-
+waukee, WI). Breath samples were then analyzed for hydrogen and
+methane (in ppm) using a Quintron SC gas chromatograph (Quintron
+Instrument). The data were plotted graphically against time. From
+these data, the maximum hydrogen and methane levels as well as area
+under the curve of the breath test proﬁle for each subject were
+determined.
+G1090
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org
+Data Analysis
+Statistical analysis. In the canine experiments demonstrating intes-
+tinal transit, the percent recovery of tracer at 30 min was compared
+between dogs infused with room air and methane using a paired t-test.
+In the studies of ileal contraction, forces of the ileal contractions were
+plotted against the intensity of brush strokes. The contraction forces
+(in g) were compared between simple bath oxygenation and the
+addition of CH4 for both the orad and aborad compartments using a
+paired t-test. For the human study on small intestinal motility, the
+motility index and small bowel contraction frequencies were com-
+pared between methane- and nonmethane-producing subjects using a
+Student’s t-test. All data were expressed as means  SD, with
+signiﬁcance set at P  0.05 in a two-tailed analysis.
+RESULTS
+Effect of Exogenous Methane on Transit in Dog
+Small Intestine
+In the ﬁrst phase of experimentation, ﬁve dogs were surgi-
+cally outﬁtted with the intestinal ﬁstulae outlined above. Sub-
+sequently, when transit was measured with and without meth-
+ane in random order methane produced a reduction in transit
+(Fig. 1). Luminal methane infusion reduced radioactive marker
+recovery in all ﬁve dogs compared with room air by an average
+of 59% (P  0.0001).
+Effect of Exogenous Methane on Contractile Forces in
+Guinea Pig Ileum
+In the second phase of experimentation, the effect of meth-
+ane on the contractile response from mechanical stimulation of
+the guinea pig ileum was explored. After excision, mounting,
+and equilibration of the segment of ileum in the organ bath, the
+sets of brush strokes were applied. In the ﬁrst component of
+study, stroking the mucosa produced contraction orad to the
+stimulus (n  8), but the stimulus response was ﬂat (Fig. 2A).
+Exposing the tissue to methane increased the force of contrac-
+tions in response to mucosal stimulation (Fig. 2A). The change
+was statistically signiﬁcant with 4, 8, and 10 strokes (P 
+0.05). To better deﬁne the overall increase in contractile
+response and tone, the area under the curve produced by
+circular muscle contraction was studied. The area under the
+curve for the period of 10 s immediately after the brush strokes
+was also signiﬁcantly higher after the tissue was exposed to
+methane (Fig. 2B). An example of the exaggerated contractile
+response is shown in Fig. 3.
+Aborad to the stimulus, a similar response was seen (n  6).
+Under control conditions, stroking the mucosa produced con-
+traction aborad to the stimulus. Gassing the bath with methane
+again signiﬁcantly increased the amplitude of contraction (Fig.
+4A). In addition, the area under the curve for 10 s after
+stimulation was increased by methane (Fig. 4B).
+Association Between Endogenous Methane and Motility
+Patterns in IBS Subjects
+After retrospective review, 11 methane-producing and 12
+sex-matched hydrogen-producing subjects meeting Rome I
+criteria for IBS who had antroduodenal manometry were iden-
+tiﬁed. One subject had 10 min of postprandial recording
+(hydrogen producer) due to meal intolerance and was not
+included in the postprandial analysis. Of the subjects analyzed,
+the mean age of methane-producing subjects was 47  6 yr,
+which was signiﬁcantly older than the mean age of 38  12 yr
+in hydrogen producers (P  0.05).
+After evaluation of the small bowel motility tracings of these
+IBS subjects, the fasting motility index in methane-producing
+subjects was noted to be signiﬁcantly higher (1,851  861)
+compared with hydrogen-producing subjects (1,199  301)
+(P  0.05) (Fig. 5). Similarly, in the postprandial period, the
+Fig. 1. Intestinal transit is signiﬁcantly reduced with methane compared with
+room air infusion in dogs. DTPA, diethylenetriaminepentaacetate.
+Fig. 2. A: amplitudes of ileal contractions are increased orad to mucosal
+stimulation. B: area under the curve before and after methane on the orad side.
+G1091
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org
+motility index was also increased in methane producers com-
+pared with hydrogen producers (545  207 and 335  74 in
+methane and hydrogen producers, respectively) (P  0.05)
+(Fig. 6). When the number of contractions was compared,
+methane producers also had a larger number of isolated con-
+tractions in the fasting period. Over a 180-min fasting period,
+there were 155  51 contractions in the methane group and
+104  29 contractions in the hydrogen group. Finally, the
+frequency of phase III activity fronts was no different between
+methane- and hydrogen-producing IBS subjects.
+DISCUSSION
+We have previously demonstrated that subjects with IBS
+have a propensity for abnormal ﬁndings on the lactulose breath
+test, suggesting bacterial overgrowth (33, 34), although our
+group (33) initially failed to explain the constipation subgroup
+of IBS (49). Our group (34, 35) subsequently found that, when
+methane is the bacterial fermentation product, these IBS sub-
+jects almost universally suffer from constipation. Despite this
+association, any causal relationship between methane produc-
+tion and constipation remained unexplored. In this translational
+study, we show for the ﬁrst time that methane gas affects small
+intestinal neuromuscular function. Speciﬁcally, methane slows
+small intestinal transit in an in vivo dog model, it augments
+ileal circular muscle contraction produced by mechanical mu-
+cosal stimulation, and its presence during lactulose breath
+testing in humans with IBS is associated with an increase in the
+small bowel motility index.
+As the role of gut ecology in chronic gastrointestinal disor-
+ders evolves, new evidence suggests that enteric bacteria play
+a role in functional bowel diseases such as IBS. Research has
+conﬁdently demonstrated that an acute intestinal infection can
+trigger IBS in a substantial subset of patients (10), and IBS
+symptoms persist in one-third of patients after acute gastroen-
+teritis (30) despite documented clearance of the inciting organ-
+ism. These observations, however, fail to explain why persis-
+tent symptoms sometimes follow acute gastrointestinal infec-
+tions. Some studies suggest that it relates to persistent
+inﬂammatory changes (7, 45). Our recent work (34, 35) sug-
+gests that excessive small bowel bacteria may play a role in
+generating symptoms in IBS subjects. Based on an indirect
+measure for the presence of enteric bacteria (lactulose breath
+testing) (32, 40), we have shown that a large proportion of
+subjects with IBS have test results suggesting the presence
+small intestinal bacterial overgrowth (33, 34). In a well-con-
+trolled double-blind study, normalization of the breath test in
+IBS subjects after antibiotic treatment correlates with near
+complete resolution of altered bowel symptoms (34). Because
+conventional thinking suggests that bacterial overgrowth is a
+condition manifesting primarily as diarrhea (40), the varied
+symptoms of IBS, speciﬁcally the constipation-predominant
+variant, initially deﬁed explanation based on a bacterial theory.
+In subsequent analyses, however, our group (34, 35) found that
+methane-producing IBS subjects are universally constipation
+predominant.
+Methane production in humans is believed to be exclusively
+due to methane generation in the gut. This methane production
+is limited to only a few species of bacteria. Two of these
+methanogens, Methanobrevibacter smithii (27) and Meth-
+anobacterium ruminatum (31), are only found in the left colon
+where methane production is thought to occur in 54% of
+normal subjects (24). Speciﬁc species of Bacteroides and
+Clostridium that reside in the gut can also liberate CH4 (25)
+and could easily be part of the small intestinal ﬂora. There is
+some evidence for this. The study of methane using breath
+testing has demonstrated two discrete patterns of methane
+production after lactulose ingestion (6). One type of methane
+response is a high baseline level and an early rise in breath
+Fig. 3. Example of contractile response to 2 brush strokes before (A) and after
+(B) methane.
+Fig. 4. A: increased amplitudes of ileal contractions aborad to mucosal
+stimulation. B: area under the curve before and after methane on the aborad side.
+G1092
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org
+methane within 120 min after lactulose ingestion. A second
+type is a rise in methane beyond 600 min after lactulose.
+Methane detection beyond 600 min most likely represents
+lactulose arrival in the left colon, whereas production before
+120 min seems more compatible with a small bowel source
+because it is implausible for lactulose to reach the left colon in
+this short period of time. Consistent with this interpretation,
+another study reports a rise in methane by 90 min after
+lactulose ingestion (36).
+Although methane is widely considered to be inert, there are
+clues that it may affect intestinal function. In a study by
+Cloarec et al. (6), slower intestinal transit was observed in
+methane producers. In this study, healthy volunteers who
+produced methane on breath test had an orocecal transit time
+(based on rise in hydrogen during lactulose breath test) of 111
+min compared with 68 min in subjects not producing methane.
+Supporting this association, Stephan et al. (46) similarly re-
+ported a whole gut transit time of 84.6 h in methane producers
+compared with 48.6 h in nonmethane producers. These studies
+simply described an association but provided no concept of a
+cause and effect relationship between methane and transit.
+Could methane gas slow transit? The idea that gasses par-
+ticipate in physiological and pathophysiological processes is
+not novel. For example, NO is well established as a signaling
+molecule that controls myriad physiological processes. It and
+some products of its metabolism are important mediators of
+inﬂammatory processes that cause cellular and tissue injury.
+Bacterial fermentation of carbohydrate in the gut generates
+copious amounts of several gasses: H2, CO2, H2S, and CH4.
+Each of these is a small molecule that can easily traverse
+plasma membranes and move down its concentration gradient
+into tissues. In fact, the cecal wall of the mouse is supersatu-
+rated with CO2 produced by intraluminal bacteria (38). This
+means that small molecules generated by bacterial fermenta-
+tion in the intestinal lumen are likely to have local access to all
+components of the intestinal wall, including its neuromuscular
+apparatus. If this is so, any biologically active gas generated
+within the intestinal lumen may modulate intestinal function.
+This appears to be the case for CO2, as it stimulates the
+absorption of Na by colonic and ruminal epithelia (5). H2S is
+also biologically active. Although it seems to affect neuronal
+and smooth muscle function (2), there is as yet little evidence
+that its luminal generation affects intestinal function (50).
+Our data support the hypothesis that methane slows transit
+by altering intestinal motor function, but how? In our dog
+studies, infusing methane into the distal small bowel slowed
+transit in a proximal intestinal segment. This implies that
+methane activates a reﬂex pathway that produces slowing in
+the proximal intestinal segment. This reﬂex is not likely to be
+triggered by mechanical stimulation produced by gaseous dis-
+tension of the intestine because transit was not slowed when
+room air was infused at the same rate. There is already a
+well-established reﬂex pathway by which transit in the proxi-
+mal gut is slowed by ileal contents in the form of fat (19). This
+phenomenon, called the ileal brake, is a complex reﬂex that
+depends on serotonin, opiate, -adrenergic, and peptide YY
+signaling systems (21–23, 53). Discovery of such a mechanism
+for methane-induced slowing of transit would change our way
+of thinking about the control of intestinal motor function.
+We subsequently used the isolated guinea pig ileum to
+determine whether methane had local effects on signaling
+systems controlling intestinal motor function. For this, we used
+a well-established model for studying reﬂex control of intesti-
+nal neuromuscular function. In this model, stimulating sensory
+neurons sensitive to stretch, mucosal deformation, or sub-
+stances in the intestinal lumen trigger contractile reﬂexes.
+Sensory neurons synapse with interneurons that ascend or
+descend within the intestinal wall to communicate with mo-
+toneurons supplying the intestinal musculature. Brush strokes
+of the ileal mucosa or stretching the ileal wall generates
+circular and longitudinal muscle contraction orad and aborad to
+the stimulus (42–44). In our experiments, stroking the mucosa
+also produced circular muscle contraction orad and aborad to
+the stimulus, but the stimulus response relationship was rather
+ﬂat. This ﬂat response has also been reported by Monro et al.
+(28). When methane was gassed into the bath, it augmented the
+contractions on both sides of the stimulus. Because methane
+diffuses freely through membranes, it could affect any of the
+neuromuscular elements participating in the reﬂex. Although
+much work is needed to isolate this effect more conclusively,
+an effect on membrane channels would be an important future
+research area. Other hydrocarbon gases (similar to methane),
+such as halothane, have known demonstrable effects on smooth
+and striated muscle function (12, 37, 41).
+Although the data above suggest that methane augments
+small intestinal motor function, this basic work needs transla-
+Fig. 5. Comparison of fasting motility index between irritable bowel syn-
+drome (IBS) subjects with and without methane on lactulose breath test.
+Fig. 6. Comparison of postprandial (fed) motility index in IBS subjects with
+and without methane on lactulose breath test.
+G1093
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org
+tion back to human patients with IBS through which this
+concept of methane began (34, 35). Intestinal motility is often
+described using single values such as the motility index (14) as
+a gross measure of forces (resistive and propulsive) in the small
+intestine. However, the pattern of motility is also an important
+determinant of ﬂow (39, 47, 48). In the guinea pig experiments,
+methane augments contractions that are both orad and aborad
+to a stimulus. This suggests that methane may trigger nonpro-
+pulsive or segmental contractions, and this change in pattern
+may be responsible for the slowing effect of intestinal transit
+seen in the dog experiments (Fig. 1). The very localized events
+seen in the guinea pig are more difﬁcult to evaluate in vivo, and
+the motility index is a surrogate of overall activity. Our initial
+observation of early methane production in IBS subjects (34,
+35) with constipation led to the pursuit of methane as a factor
+inﬂuencing small intestinal motility. In the third phase of our
+investigation, antroduodenal manometry was used to evaluate
+the relationship between endogenous methane production and
+small bowel motor function in these humans. Through this
+work, we found a signiﬁcant increase in the motility index and
+contractile activity of the small bowel in methane-producing
+IBS subjects compared with nonmethane-producing IBS sub-
+jects. The consistencies in the response to methane between
+dogs, guinea pigs, and humans provide strong support for the
+contribution of methane in the constipation symptoms of IBS.
+Despite the observed response to methane in the small bowel
+seen in this study, the perception is that constipation is a
+reﬂection of colonic dysfunction. This has not been studied in
+vitro with methane. The present study looks primarily at small
+bowel motility. The reason for this choice is the ease of
+determining transit in the small bowel coupled with continuous
+infusion of methane. To simultaneously infuse methane into
+the colon of an animal and establish transit are more difﬁcult.
+Nevertheless, Stephan et al. (46) have already demonstrated
+that humans with methane on lactulose breath test have delayed
+colonic (whole gut) transit, suggesting that the effect extends
+beyond the small bowel. The second reason for testing the
+small bowel is to connect the theme of bacterial overgrowth as
+a potential mechanism for IBS in general. Obviously, further
+work is needed to determine whether methane exerts a similar
+effect on colonic function in vitro.
+In conclusion, our studies demonstrate that methane slows
+small bowel transit and augments contractile activity in the
+small bowel. In addition, small intestinal contractile activity is
+increased in IBS patients who produce methane. It is possible
+that methane predisposes to constipation because it promotes
+segmental (nonpropagating contractions). Obviously, further
+investigation is needed to elucidate the physiological mecha-
+nisms by which methane modulates intestinal motor function
+and to determine whether manipulation of methane production
+may affect intestinal transit in humans.
+GRANTS
+This work was supported in part by the Beatrice and Samuel A. Seaver
+Foundation
+REFERENCES
+1. Bjørneklett A and Jenssen E. Relationships between hydrogen (H2) and
+methane (CH4) production in man. Scand J Gastroenterol 17: 985–992,
+1982.
+2. Boehning D and Snyder SH. Novel neural modulators. Annu Rev Neu-
+rosci 26: 105–131, 2003.
+3. Bond JH, Engel RR, and Levitt MD. Factors inﬂuencing pulmonary
+methane excretion in man. J Exp Med 133: 572–588, 1971.
+4. Camilleri M, Hasler WL, Parkman HP, Quigley EM, and Soffer E.
+Measurement of gastrointestinal motility in the GI laboratory. Gastroen-
+terology 115: 747–762, 1998.
+5. Charney AN, Egnor RW, Cassai N, and Sidhu GS. Carbon dioxide
+affects rat colonic Na absorption by modulating vesicular trafﬁc. Gas-
+troenterology 122: 318–330, 2002.
+6. Cloarec D, Bornet F, Gouilloud S, Barry JL, Salim B, and Galmiche
+JP. Breath hydrogen response to lactulose in healthy subjects: relationship
+to methane producing status. Gut 31: 300–304, 1990.
+7. Collins SM, Piche T, and Rampal P. The putative role of inﬂammation
+in irritable bowel syndrome. Gut 49: 734–745, 2001.
+8. Flatz G, Czeizel A, Me´tneki J, Flatz SD, Ku¨hnau W, and Jahn D.
+Pulmonary hydrogen and methane excretion following ingestion of an
+unabsorbable carbohydrate: a study of twins. J Pediatr Gastroenterol Nutr
+4: 936–941, 1985.
+9. Gibbons SJ and Farrugia G. The role of carbon monoxide in the
+gastrointestinal tract. J Physiol 556: 325–336, 2004.
+10. Gwee KA, Graham JC, McKendrick MW, Collins SM, Marshall JS,
+Walters SJ, and Read NW. Psychometric scores and persistence of
+irritable bowel syndrome after infectious diarrhea. Lancet 347: 150–153,
+1996.
+11. Ignarro LJ, Buga GM, Wood KS, Byrns RE, and Chaudhuri G.
+Endothelium-derived relaxing factor produced and released from artery
+and vein is nitric oxide. Proc Natl Acad Sci USA 84: 9265–9269, 1987.
+12. Kai T, Jones KA, and Warner DO. Halothane attenuates calcium
+sensitization in airway smooth muscle by inhibiting G-proteins. Anesthe-
+siology 89: 1543–1552, 1998.
+13. Kerlin P, Zinsmeister A, and Phillip S. Relationship of motility to ﬂow
+of contents in the human small intestine. Gastroenterology 82: 701–706,
+1982.
+14. Kirk E. The quantity and composition of human colonic ﬂatus. Gastro-
+enterology 2: 782–794, 1949.
+15. Konturek JW, Gillessen A, and Domschke W. Diffuse esophageal
+spasm: a malfunction that involves nitric oxide. Scand J Gastroenterol 30:
+1041–1045, 1995.
+16. Levitt MD and Bond JH. Volume, composition, and source of intestinal
+gas. Gastroenterology 59: 921–929, 1970.
+17. Levitt MD and Ingelﬁnger FJ. Hydrogen and methane production in
+man. Ann NY Acad Sci 150: 75–81, 1968.
+18. Lin H, Zhao X, and Wang L. Jejunal brake: inhibition of intestinal transit
+by fat in the proximal small intestine. Dig Dis Sci 41: 326–329, 1996.
+19. Lin HC, Zhao XT, and Wang L. Intestinal transit is more potently
+inhibited by fat in the distal (ileal brake) than in the proximal (jejunal
+brake) gut. Dig Dis Sci 42: 19–25, 1997.
+20. Lin H, Zhao X, Wang L, and Wong H. Fat-induced ileal brake in the dog
+depends on peptide YY. Gastroenterology 110: 1491–1495, 1996.
+21. Lin HC, Chey WY, and Zhao X. Release of distal gut peptide YY (PYY)
+by fat in proximal gut depends on CCK. Peptides 21: 1561–1563, 2000.
+22. Lin HC, Neevel C, Chen PS, Suh G, and Chen JH. Slowing of intestinal
+transit by fat or peptide YY depends on -adrenergic pathway. Am J
+Physiol Gastrointest Liver Physiol 285: G1310–G1316, 2003.
+23. Lin HC, Neevel C, and Chen JH. Slowing intestinal transit by PYY
+depends on serotonergic and opioid pathways. Am J Physiol Gastrointest
+Liver Physiol 286: G558–G563, 2004.
+24. McKay LF, Eastwood MA, and Brydon WG. Methane excretion in
+man—a study of breath, ﬂatus and faeces. Gut 26: 69–74, 1985.
+25. McKay LF, Holbrook WP, and Eastwood MA. Methane and hydrogen
+production by human intestinal anaerobic bacteria. Acta path microbial
+Immunol Scand 90: 257–260, 1982.
+26. Mearin F, Mourelle M, Guarner F, Salas A, Riveros-Moreno V,
+Moncada S, and Malagelada JR. Patients with achalasia lack nitric oxide
+synthase in the gastro-esophageal junction. Eur J Clin Invest 23: 724–728,
+1993.
+27. Miller TL and Wolin MJ. Enumeration of Methanobrevibacter smithii in
+human faeces. Arch Microbiol 131: 14–18, 1992.
+28. Monro RL, Bertrand PP, and Bornstein JC. ATP and 5-HT are the
+principal neurotransmitters in the descending excitatory reﬂex pathway in
+the guinea-pig ileum. Neurogastroenterol Motil 14: 255–264, 2002.
+29. Murray JA, Ledlow A, Launspac J, Evans D, Loveday M, and
+Conklin JL. The effects of recombinant human hemoglobin on esopha-
+geal motor function in humans. Gastroenterology 109: 1241–1248, 1995.
+G1094
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org
+30. Neal KR, Hebden J, and Spiller R. Prevalence of gastrointestinal
+symptoms six months after bacterial gastroenteritis and risk factors for
+development of the irritable bowel syndrome: postal survey of patients.
+BMJ 314: 779–82, 1997.
+31. Nottingham PM and Hungate RE. Isolation of methanogenic bacteria
+from the feces of man. J Bacteriol 96: 2178–2179, 1968.
+32. Pimentel M. Lactulose breath testing, bacterial overgrowth and IBS: Just
+a lot of hot air? Gastroenterology 125: 1898–1900, 2003.
+33. Pimentel M, Chow EJ, and Lin HC. Eradication of small intestinal
+bacterial overgrowth reduces symptoms of irritable bowel syndrome. Am J
+Gastroenterol 95: 3503–3506, 2000.
+34. Pimentel M, Chow EJ, and Lin HC. Normalization of lactulose breath
+testing correlates with symptom improvement in irritable bowel syn-
+drome: a double-blind, randomized, placebo controlled study. Am J
+Gastroenterol 98: 412–419, 2003.
+35. Pimentel M, Mayer AG, Park S, Chow EJ, Hasan A, and Kong Y.
+Methane production during lactulose breath test is associated with gastro-
+intestinal disease presentation. Dig Dis Sci 48: 86–92, 2003.
+36. Pitt P, de Bruijn KM, Beeching MF, Goldberg E, and Blendis LM.
+Studies on breath methane: the effects of ethnic origins and lactulose. Gut
+21: 951–959, 1980.
+37. Puig MM, Warner W, Tang CK, Lovitz M, and Turndorf H. Syner-
+gistic interaction of morphine and halothane in the guinea pig ileum.
+Anesthesiology 68: 559–562, 1988.
+38. Rasmussen H, Kvarstein G, Johnsen H, Dirven H, Midtvedt T,
+Mirtaheri P, and Tonnessen TI. Gas supersaturation in the cecal wall of
+mice due to bacterial CO2 production. J Appl Physiol 86: 1311–1318,
+1999.
+39. Schemann M and Ehrlein HJ. The utility of cellulose meals for studies
+on gastrointestinal motility in dogs. Digestion 25: 194–196, 1982.
+40. Singh VV and Toskes PP. Small bowel bacterial overgrowth: presenta-
+tion, diagnosis, and treatment. Curr Treat Options Gastroenterol 7:
+19–28, 2004.
+41. Sokoll MD, Davies LR, Bhattacharyya B, and Zwagerman DQ. Halo-
+thane and isoﬂurane alter acetylcholine activated ion channel kinetics. Eur
+J Pharmacol 173: 27–34, 1989.
+42. Spencer N, Walsh M, and Smith TK. Does the guinea-pig ileum obey
+the law of the intestine? J Physiol 517: 889–898, 1999.
+43. Spencer N, McCarron SL, and Smith TK. Sympathetic inhibition of
+ascending and descending interneurones during the peristaltic reﬂex in the
+isolated guinea-pig distal colon. J Physiol 519: 539–550, 1999.
+44. Spencer N, Walsh M, and Smith TK. Purinergic and cholinergic neuro-
+neuronal transmission underlying reﬂexes activated by mucosal stimula-
+tion in the isolated guinea-pig ileum. J Physiol 522: 321–331, 2000.
+45. Spiller RC, Jenkins D, Thornley JP, Hebden JM, Wright T, Skinner
+M, and Neal KR. Increased rectal mucosal enteroendocrine cells, T
+lymphocytes, and increased gut permeability following acute Campy-
+lobacter enteritis and in postdysenteric irritable bowel syndrome. Gut 47:
+804–811, 2000.
+46. Stephen AM, Wiggins HS, Englyst HN, Cole TJ, Wayman BJ, and
+Cummings JH. The effect of age, sex and level of dietary ﬁbre from
+wheat on large-bowel function in thirty healthy subjects. Br J Nutr 56:
+349–361, 1986.
+47. Summers RW. Modulation of jejunal ﬂow by solutions of varying
+osmolality and acidity in the small intestine. Dig Dis Sci 12: 905, 1980.
+48. Summers RW, Cramer J, and Flatt AJ. Computerize analysis of spike
+burst activity in the small intestine. IEEE Trans Biomed Eng 5: 309–314,
+1982.
+49. Talley NJ, Zinsmeister AR, and Melton LJ III. Irritable bowel syn-
+drome in a community: symptom subgroups, risk factors, and health care
+utilization. Am J Epidemiol 142: 76–83, 1995.
+50. Teague B, Asiedu S, and Moore PK. The smooth muscle relaxant effect
+of hydrogen sulphide in vitro: evidence for a physiological role to control
+intestinal contractility. Br J Pharmacol 137: 139–145, 2002.
+51. Von Oettingen WF. Toxicity and potential dangers of aliphatic and
+aromatic hydrocarbons: a critical review of the literature. US Public
+Health Bull 255: 246, 1940.
+52. Wang R. Two’s company, three’s a crowd: can H2S be the third endog-
+enous gaseous neurotransmitter? FASEB J 16: 1792–1798, 2002.
+53. Zhao XT, Wang L, and Lin HC. Slowing of intestinal transit by fat
+depends on naloxone-blockable efferent, opioid pathway. Am J Physiol
+Gastrointest Liver Physiol 278: G866–G870, 2000.
+G1095
+THE INFLUENCE OF METHANE ON MOTILITY
+AJP-Gastrointest Liver Physiol • VOL 290 • JUNE 2006 • www.ajpgi.org

@@ -1,0 +1,2150 @@
+4
+Journal of Crohn's and Colitis, 2020, 4–22
+doi:10.1093/ecco-jcc/jjz180
+Advance Access publication November 11, 2019
+ECCO Guideline/Consensus Paper
+Copyright © 2019 European Crohn’s and Colitis Organisation (ECCO). Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com
+ECCO Guideline/Consensus Paper
+ECCO Guidelines on Therapeutics in Crohn's 
+Disease: Medical Treatment
+Joana Torres,a,* Stefanos Bonovas,b,c,*, Glen Doherty,d Torsten Kucharzik,e 
+Javier P. Gisbert,f Tim Raine,g Michel Adamina,h,i Alessandro Armuzzi,j 
+Oliver Bachmann,k, Palle Bager,l Livia Biancone,m Bernd Bokemeyer,n 
+Peter Bossuyt,o, Johan Burisch,p, Paul Collins,q Alaa El-Hussuna,r  
+Pierre Ellul,s Cornelia Frei-Lanter,t Federica Furfaro,c Christian Gingert,u 
+Paolo Gionchetti,v Fernando Gomollon,w Marien González-Lorenzo,b,c 
+Hannah Gordon,x Tibor Hlavaty,y Pascal Juillerat,z,  
+Konstantinos Katsanos,aa Uri Kopylov,ab Eduards Krustins,ac  
+Theodore Lytras,ad, Christian Maaser,ae Fernando Magro,af,  
+John Kenneth Marshall,ag Pär Myrelid,ah Gianluca Pellino,ai  
+Isadora Rosa,aj Joao Sabino,ak Edoardo Savarino,al Antonino Spinelli,am 
+Laurents Stassen,an Mathieu Uzzan,ao Stephan Vavricka,ap  
+Bram Verstockt,aq, Janindra Warusavitarne,ar Oded Zmora,as  
+Gionata Fiorinob,c, ; on behalf of the European Crohn’s and Colitis 
+Organisation [ECCO]
+aDepartment of Gastroenterology, Hospital Beatriz Ângelo, Loures, Portugal bDepartment of Biomedical Sciences, 
+Humanitas University, Milan, Italy cIBD Center, Humanitas Clinical and Research Center, Milan, Italy dCentre for 
+Colorectal Disease, St Vincent’s University Hospital and University College Dublin, Dublin, Ireland eDepartment of 
+Internal Medicine and Gastroenterology, Hospital Lüneburg, Lüneburg, Germany fGastroenterology Unit, Hospital 
+Universitario de La Princesa, Instituto de Investigación Sanitaria Princesa [IIS-IP], Universidad Autónoma de Madrid, 
+Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas [CIBEREHD], Madrid, Spain 
+gDepartment of Gastroenterology, Addenbrooke’s Hospital, Cambridge University Hospitals NHS Foundation Trust, 
+Cambridge, UK hDepartment of Surgery, Cantonal Hospital Winterthur, Winterthur, Switzerland iUniversity of Basel, 
+Basel, Switzerland jIBD Unit, Presidio Columbus Fondazione Policlinico Gemelli Universita Cattolica, Rome, Italy 
+kDepartment of Internal Medicine I, Siloah St. Trudpert Hospital, Pforzheim, Germany lDepartment of Hepatology and 
+Gastroenterology, Aarhus University Hospital, Aarhus, Denmark mDepartment of Systems Medicine, University ‘Tor 
+Vergata’ of Rome, Rome, Italy nGastroenterology Practice Minden, Minden, Germany oImelda GI Clinical Research 
+Centre, Imelda General Hospital, Bonheiden, Belgium pGastrounit, Medical Division, Hvidovre Hospital, University of 
+Copenhagen, Hvidovre, Denmark qDepartment of Gastroenterology, Royal Liverpool University Hospital, Liverpool, 
+UK rDepartment of Surgery, Aalborg University Hospital, Aalborg, Denmark sDepartment of Medicine, Division of 
+Gastroenterology, Mater Dei Hospital, Msida, Malta tDepartement of Surgery, Hospital Zollikerberg, Zollikerberg 
+Zurich, Switzerland uVisceral Surgery, Cantonal Hospital Winterthur, Winterthur, Switzerland; Department of Human 
+Medicine, University of Witten/Herdecke, Witten, Germany vIBD Unit, DIMEC, University of Bologna, Bologna, Italy 
+wIBD UNIT, Hospital Clíico Universitario ‘Lozano Blesa’; IIS Aragón, CIBEREHD, Zaragoza, Spain xDepartment of 
+Gastroenterology, Barts Health NHS Trust, Royal London Hospital, London, UK yFifth Department of Internal Medicine, 
+Comenius University Medical School, Bratislava, Slovakia zDivision of Gastroenterology & Hepatology, Inselspital 
+Bern, Bern, Switzerland aaDepartment of Gastroenterology and Hepatology, University and Medical School of Ioannina, 
+Ioannina, Greece abDepartment of Gastroenterology, Tel-HaShomer Sheba Medical Center, Ramat Gan, Israel; and 
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+Sackler Medical School, Tel Aviv, Israel acDepartment of Gastroenterology, Hepatology and Nutrition, Pauls Stradins 
+Clinical University Hospital, Department of Internal medicine, Riga Stradiņš university, Riga, Latvia adNational Public 
+Health Organization, Athens, Greece aeOutpatients Department of Gastroenterology, Hospital Lüneburg, Lüneburg, 
+Germany afDepartment of Pharmacology and Therapeutics; Institute for Molecular and Cell Biology, University of 
+Porto, Porto, Portugal agDepartment of Medicine [Division of Gastroenterology] and Farncombe Family Digestive 
+Health Research Institute, McMaster University, Hamilton, ON, Canada ahDepartment of Surgery, and Department 
+of Clinical and Experimental Medicine, Linköping University, Linköping, Sweden aiDepartment of Advanced Medical 
+and Surgical Sciences, Universitá degli Studi della Campania ‘Luigi Vanvitelli’, Naples, Italy ajDepartment of 
+Gastroenterology, IPOLFG, Lisbon, Portugal akDepartment of Gastroenterology and Hepatology, University Hospitals, 
+KU Leuven, Leuven, Belgium alDepartment of Surgery, Oncology and Gastroenterology, University of Padova, 
+Padova, Italy amHumanitas Clinical and Research Center, Division of Colon and Rectal Surgery, Humanitas University, 
+Milan, Italy anDepartment of General Surgery, Maastricht University Medical Centre, Maastricht, The Netherlands 
+aoDepartment of Gastroenterology, IBD unit, Beaujon Hospital, APHP, Clichy, France apDivision of Gastroenterology 
+and Hepatology, University Hospital, Zürich, Switzerland aqDepartment of Gastroenterology and Hepatology, 
+University Hospitals Leuven, KU Leuven, Leuven, Belgium; and Department of Chronic Diseases, Metabolism and 
+Ageing, TARGID-IBD, KU Leuven, Leuven, Belgium arImperial College London, Department of Surgery and Cancer, 
+St Mark’s Hospital, Department of Gastroenterology, London, UK asDepartment of Surgery, Shamir Medical Center 
+[Assaf Harofe], Tel Aviv, Israel
+* Contributed equally.
+Corresponding author: Gionata Fiorino, MD, PhD, Department of Biomedical Sciences, Humanitas University, Via Rita Levi 
+Montalcini, 20090 Pieve Emanuele, Milan, Italy. Tel.: +39[0]282245555; fax: +39[0]282242591; email: gionataf@gmail.com
+1.  Introduction
+Crohn’s disease [CD] is a chronic inflammatory bowel disease [IBD] 
+that can result in progressive bowel damage and disability.1 CD can 
+affect individuals of any age, from children to the elderly,2,3 and 
+may cause significant morbidity and impact on quality of life. Up to 
+one-third of patients present with complicated behaviour [strictures, 
+fistula, or abscesses] at diagnosis.4 Most patients over time will de-
+velop a complication, with roughly 50% of patients requiring sur-
+gery within 10 years of diagnosis.5–7 As the precise aetiology of CD 
+remains unknown, a curative therapy is not yet available.8 Several 
+agents are available for the medical treatment of CD. Medical 
+agents include mesalazine [5-ASA], locally active steroids [such as 
+budesonide], systemic steroids, thiopurines such as azathioprine 
+[AZA] and mercaptopurine [MP], methotrexate [MTX], and bio-
+logic therapies (such as anti-tumour necrosis factor [TNF], anti-
+integrins, and anti-interleukin [IL] 12/23].
+The European Crohn’s and Colitis Organisation [ECCO] pro-
+duces and regularly updates several guidelines aimed at providing 
+evidence-based guidance on critical aspects of IBD care to all health 
+care professionals who manage patients with IBD. To provide 
+high-quality evidence-based recommendations on medical treatment 
+in CD, ECCO decided to develop these guidelines by adopting the 
+GRADE [Grading of Recommendations Assessment, Development, 
+and Evaluation] approach.9 GRADE is a systematic process for 
+developing guidelines which addresses how to frame the health care 
+questions, summarise the evidence, formulate the recommenda-
+tions, and grade their strength and the quality of the associated evi-
+dence. GRADE increases transparency at all levels of this process 
+and makes explicit the three considerations that lead to a particular 
+recommendation: the quality of the evidence, the balance of bene-
+fits and harms, and the patients’ values and preferences. Therefore 
+ECCO reviewed the available high-quality evidence on the medical 
+management of CD and developed evidence-based recommendations 
+on the medical treatment of adult patients with CD. These guidelines 
+do not cover specific situations, such as postoperative management 
+of adult patients with CD, which was already covered in the latest 
+ECCO Guidelines on Crohn’s disease.10
+2.  Methods
+Based on the GRADE workflow, the Guidelines Committee of ECCO 
+[GuiCom] selected a panel of 48 experts supported by a team of 
+methodologists and librarians. Selection was based on IBD expertise, 
+scientific background, and knowledge of the GRADE methodology. 
+All panellists received adequate training in GRADE before starting 
+the process. Additionally, four patients with CD representing the 
+European Federation of Crohn’s and Colitis Associations [EFCCA] 
+were invited to participate in all face-to-face meetings and to provide 
+their experiences and state their preferences.
+Three domains for medical treatment of CD were identified:
+	 1]	 induction therapy;
+	 2]	 maintenance therapy;
+	 3]	 therapy of fistulising perianal disease.
+All panellists were assigned to one of three working groups coordin-
+ated by one to two working group leaders under the supervision of 
+two Guideline coordinators. The panellists first formulated a series of 
+specific questions using the PICO format [Population, Intervention, 
+Comparator, Outcomes] which were deemed to be clinically im-
+portant for the medical treatment of CD. The outcomes of all PICO 
+questions were subsequently graded as ‘not important’, ‘important’, 
+or ‘critical’ during a face-to-face kick-off meeting in Vienna, using a 
+Delphi consensus process.
+A team of professional librarians performed a comprehensive lit-
+erature search on EMBASE, PubMed/Medline, and Cochrane Central 
+databases using specific search strings for each PICO question 
+[Supplementary Files 1, 2, and 3, available as Supplementary data at 
+ECCO-JCC online]. Two independent working group members [one 
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+5
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+assigned to the PICO and another one from the same group as a 
+second reviewer] assessed the relevance of each abstract to PICO and 
+included or excluded all the relevant papers for the final data extrac-
+tion and analysis. Subsequently, the working group members assigned 
+to each PICO question systematically reviewed and summarised the 
+evidence on every outcome, to compile a Summary of Findings [SoF] 
+table for each question. The GRADE method follows a hierarchical 
+approach to synthesise evidence; recent high-quality systematic re-
+views and meta-analyses of clinical trials were preferentially used to 
+create the recommendations. When these were not available, indi-
+vidual randomised clinical trials [RCTs] followed by observational 
+studies were reviewed; results of individual studies were pooled using 
+random-effects meta-analysis as appropriate and when needed. To 
+define disease activity and severity [mild-to-moderate and moderate-
+to-severe], we accepted the definitions used by the investigators of the 
+studies selected as an evidence basis for our work.
+The quality of evidence was classified into the following four 
+categories in accordance with the GRADE approach: ‘high’ [meaning 
+that further research is unlikely to change our confidence in the ef-
+fect estimates], ‘moderate’ [further research may change our confi-
+dence in the effect estimates], ‘low’ [further research likely to change 
+our confidence in the effect estimates], and ‘very low’ [meaning that 
+any estimate of effect is very uncertain].9 For each PICO question, 
+the quality of evidence was equal to the lowest quality of evidence 
+among those outcomes graded as ‘critical’. The strength of each rec-
+ommendation was graded as either ‘strong’ [meaning the desirable 
+effects of an intervention clearly outweigh the undesirable effects, 
+or vice versa] or as ‘weak’ [meaning the balance is less certain], 
+considering also the quality of evidence, values or preferences, and 
+resource use. Whenever the chosen outcomes were not reported in 
+the clinical trials, this was indicated in the corresponding SoF table. 
+To support the recommendations, we either extracted summary ef-
+fect estimates from the preselected systematic reviews or our group 
+of methodologists directly performed the comparisons. All recom-
+mendations were subject to online voting by the panel members, the 
+ECCO National Representatives [two for each country affiliated 
+with ECCO], and 13 additional reviewers from a list of ECCO mem-
+bers who applied to the open call but were not selected to be part 
+of the Working Groups [see Acknowledgements section]. The final 
+version of all statements/recommendations was discussed among 
+panel members during a final consensus meeting in Vienna and put 
+to a vote; final recommendations were approved if at least 80% of 
+the panellists agreed with the statement and its associated strength 
+grading. The list of statements, the supporting text and material, and 
+the draft of the manuscript were critically reviewed by two external 
+Guideline Committee members and by the ECCO Governing Board 
+members, who also approved the final version of these Guidelines.
+The literature search strategies, the relevant definitions of patient 
+populations and outcomes, a detailed description of the process, and the 
+SoF tables summarising the evidence can be found in the Supplementary 
+Material, available as Supplementary data at ECCO-JCC online.
+3.  General approach to the management of 
+Crohn’s Disease
+As CD is a lifelong disease, therapy aims to induce remission in the 
+short term and maintain remission in the long term. The recognition 
+that chronic and untreated inflammation [even if asymptomatic] ul-
+timately results in poor outcomes11–14 has led to a recent paradigm 
+shift in medical treatment and disease monitoring; it is nowadays rec-
+ognised that early intervention and intensive monitoring may prevent 
+complications.15,16 Stratifying patients according to their prognostic 
+risk factors and individualising therapy are crucial steps to optimise 
+patient management, although high-quality evidence is not currently 
+available to support this approach. Many factors affect the choice of 
+medical therapy. These include disease location, disease activity and 
+severity, previous response to therapy, and presence of complications 
+[i.e., perianal or fistulising disease]. In addition, the individual risk fac-
+tors for progression and complications, the individual patient’s char-
+acteristics, and the costs and benefit/risk ratio of each drug should be 
+considered. As there is often a disconnect between clinical symptoms 
+and underlying inflammation, it is of crucial importance to monitor 
+disease and therapy at regular intervals based on objective and meas-
+urable markers [endoscopy, C-reactive protein [CRP], calprotectin, 
+imaging].17 This approach will provide the clinician with the possi-
+bility to adjust therapy if needed, thereby maximising the probability 
+of achieving tight control of the disease and inflammation, which is 
+believed to be essential to prevent disease progression.16–18 In add-
+ition to drug therapy, the management of CD should also involve a 
+series of general health care maintenance measures. Patients should 
+be encouraged to stop smoking, nutritional deficiencies should be cor-
+rected, therapy-related side effects [i.e., cancer and infections] should 
+be monitored, and appropriate guidance or surveillance for vaccin-
+ations, osteoporosis, and sun protection should be implemented, as 
+detailed in previous ECCO guidelines, topical reviews, or both.17,19–23
+4.  Medical management of Crohn’s disease
+Section 1 - Induction of Remission
+Mild-to-moderate disease
+5-ASA compounds
+We performed a meta-analysis of seven eligible RCTs that com-
+pared the use of oral 5-ASA [five trials]24–28 or sulphasalazine [two 
+trials]29,30 with placebo in patients with active CD [Supplementary 
+Material, SoF Table 1, available as Supplementary data at ECCO-
+JCC online]. The dosage of 5-ASA administered ranged from 1 g to 
+3.2  g/day; patients with mild-to-moderate disease with ileal, ileo-
+colonic, or colonic disease were included. Overall, there was no sig-
+nificant effect for induction of clinical remission (relative risk [RR]: 
+1.28; 95% confidence interval [CI]: 0.97–1.69) [Supplementary 
+Figure 1, available as Supplementary data at ECCO-JCC online]. 
+A recent Cochrane review also found no significant overall effect.31 
+Both 5-ASA and sulphasalazine appeared to be well tolerated in our 
+meta-analysis, as there was no significant increase in withdrawals 
+due to adverse effects [AEs] when compared with placebo [RR: 
+1.13; 95% CI: 0.73–1.84] [Supplementary Figure 2, available as 
+Supplementary data at ECCO-JCC online].
+Among the five trials of 5-ASA alone there was also no benefit 
+over placebo for inducing clinical remission [RR: 1.27; 95% CI: 
+0.79–2.03] [Supplementary Figure 3, available as Supplementary 
+data at ECCO-JCC online]. No significant increase in withdrawal 
+due to AEs was observed in trials that compared 5-ASA alone versus 
+placebo [RR: 1.0; 95% CI:0.58–1.71] [Supplementary Figure 4, 
+available as Supplementary data at ECCO-JCC online]. One pub-
+lished network meta-analysis noted a small statistically significant 
+Recommendation 1.1. ECCO CD Treatment GL [2019]
+We suggest against the use of 5-ASA for induction of 
+remission of Crohn’s disease [weak recommendation, 
+moderate-quality evidence].
+6
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+effect on clinical remission among the study arms that evaluated 
+5-ASA at daily doses of >2.4  g/day.32 However, another network 
+meta-analysis was unable to confirm any such dose effect.33 A pooled 
+analysis of three double-blind placebo-controlled trials of a slow-
+release preparation of 5-ASA reported a significantly greater reduc-
+tion in the Crohn’s Disease Activity Index [CDAI] with 5-ASA versus 
+placebo.34 However, the effect size [an 18-point greater reduction 
+in CDAI score comparing 5-ASA and placebo] was not clinically 
+significant.
+Two older trials compared sulphasalazine with placebo for in-
+duction of clinical remission. A  pooled analysis showed a small 
+effect of borderline statistical significance [RR: 1.38; 95% CI: 1.00–
+1.89] [Supplementary Figure 5, available as Supplementary data at 
+ECCO-JCC online]. This was not accompanied by any significant 
+increase in withdrawals for AEs [RR: 1.88; 95% CI: 0.65–5.47] 
+[Supplementary Figure 6, available as Supplementary data at ECCO-
+JCC online]. Subgroup analyses in both trials suggested that the ef-
+ficacy of sulphasalazine was limited to patients with colonic CD.29,30
+The use of topical 5-ASA [enema or suppository] for the treat-
+ment of CD has not been studied in RCTs.
+Budesonide
+A Cochrane systematic review and meta-analysis35 included 
+three RCTs36–38 that compared budesonide at a dose of 9  mg/day 
+with placebo [Supplementary Material, SoF Table 2, available as 
+Supplementary data at ECCO-JCC online]. Two of these trials37,38 
+evaluated clinical response [defined as decrease in CDAI score ≥100 
+or total CDAI score ≤150] at 8 weeks. Clinical remission [CDAI 
+score ≤150] at 8 weeks was reported in all three RCTs. Budesonide 
+was superior to placebo for inducing clinical response [RR: 1.46; 
+95% CI: 1.03–2.07] and clinical remission [RR: 1.93; 95% CI: 
+1.37–2.73] in patients with mildly active CD in the small and/or 
+large intestine limited to the ascending colon. As compared with 
+conventional steroids [e.g., prednisolone], which are usually asso-
+ciated with many systemic side effects, budesonide presented high 
+topical anti-inflammatory activity and low systemic absorption and 
+bioavailability, and therefore had a better safety profile. Budesonide 
+was shown to be safe [AEs; RR: 0.98; 95% CI: 0.77–1.25] in the 
+reviewed meta-analysis.35
+A Cochrane systematic review and meta-analysis from 2015 re-
+viewed two RCTs39,40 that compared budesonide at a dose of 9 mg/
+day with mesalazine up to 4.5  g/day. More recently, a Japanese 
+trial41 also evaluated budesonide versus mesalazine in patients 
+with active CD [Supplementary Material, SoF Table 3, available as 
+Supplementary data at ECCO-JCC online]. All trials evaluated clin-
+ical response [decrease in CDAI ≥ 100 or total CDAI ≤ 150] and 
+clinical remission [CDAI ≤ 150] at 8 weeks. Budesonide was not su-
+perior to mesalazine for inducing clinical remission [RR: 1.30; 95% 
+CI: 0.98–1.72] in patients with mildly active CD in the small and/or 
+large intestine [Supplementary Figure 7, available as Supplementary 
+data at ECCO-JCC online]. Nevertheless, clinical response was more 
+frequently seen in patients receiving budesonide [RR: 1.22; 95% CI: 
+1.03–1.45] than in patients receiving mesalazine [Supplementary 
+Figure 8, available as Supplementary data at ECCO-JCC online]. 
+The safety profile of both compounds was comparable, with similar 
+AE [RR: 0.91; 95% CI: 0.79–1.05] and serious AE [RR: 0.94; 95% 
+CI: 0.24–3.75] rates in both intervention groups [Supplementary 
+Figures 9 and 10, available as Supplementary data at ECCO-JCC 
+online].
+Antibiotics
+Numerous studies have studied the efficacy of antibiotic treatment on 
+luminal CD. Metronidazole, ciprofloxacin, and anti-mycobacterial 
+regimens have been extensively studied. Overall, none has demon-
+strated efficacy to consistently induce clinical remission or mucosal 
+healing compared with placebo.42–44 In addition, side effects limit the 
+use of these therapies; recently, the European Medicines Agency has 
+imposed restrictions on the use of ciprofloxacin due to disabling or 
+potentially permanent events [EMA/668915/2018]. Therefore a rec-
+ommendation was not made specifically on antibiotics to treat lu-
+minal CD, although they remain indicated for the treatment of septic 
+complications.
+Moderate-to-severe disease
+Systemic corticosteroids
+Two RCTs reported on the efficacy of systemic corticosteroids [oral 
+prednisolone or oral methylprednisolone] compared with placebo for 
+the treatment of moderately-to-severely active CD29,30[Supplementary 
+Material, SoF Table 4, available as Supplementary data at ECCO-
+JCC online]. Oral methylprednisolone was administered at a dose of 
+48 mg/day and reduced on a weekly basis to 32 mg, 24 mg, 20 mg, 
+16 mg, and 12 mg.29 Doses of oral prednisolone ranged from 0.50 
+to 0.75 mg/kg with a maximum daily dose of 60 mg.30 Prednisolone 
+is usually tapered at 5 mg/week over an 8-to 12-week period. Data 
+from these studies have been synthesised in a Cochrane systematic 
+review.45
+One trial involving 105 patients reported on induction of clinical 
+response.29 Clinical response was more common in patients receiving 
+methylprednisolone as compared with placebo [93.6% vs 53.4%; 
+RR: 1.75; 95% CI: 1.36–2.25]. Corticosteroids were reported to be 
+twice as effective in inducing clinical remission than placebo in the 
+two studies involving 267 patients [RR: 1.99; 95% CI: 1.51–2.64].45 
+Data on the proportion of patients experiencing AEs from the use 
+of systemic corticosteroids was available from one trial involving 
+162 patients treated with oral prednisolone.30,46 The frequency of 
+AEs was 5-fold higher in patients receiving corticosteroids compared 
+with placebo [31.8% vs 6.5%; RR: 4.89; 95% CI: 1.98–12.07]. 
+Steroid-related AEs included Cushing syndrome, acne, infection [in-
+creased risk of abdominal and pelvic abscesses in patients with CD], 
+ecchymoses, hypertension, diabetes mellitus, osteoporosis, cataracts, 
+glaucoma, and growth failure in children. Imprecision was serious 
+for the outcomes considered, due to sparse data, which yielded a 
+moderate quality of evidence overall.
+Recommendation 1.2. ECCO CD Treatment GL [2019]
+We recommend using budesonide for the induction 
+of clinical remission in patients with active mild-to-
+moderate Crohn’s disease limited to the ileum and/or 
+ascending colon [strong recommendation, moderate-
+quality evidence].
+Recommendation 1.3. ECCO CD Treatment GL [2019]
+In patients with active, moderate-to-severe Crohn’s dis-
+ease, we suggest the use of systemic corticosteroids for 
+the induction of clinical response and remission [weak 
+recommendation, moderate-quality evidence].
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+7
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+Immunosuppressants
+Thiopurines
+Several studies have reported on the use of thiopurines compared 
+with placebo for induction of remission and response in CD30,47–53 
+[Supplementary Material, SoF Table 5, available as Supplementary 
+data at ECCO-JCC online]. Five trials evaluated the use of 
+thiopurines for induction of clinical remission [12–17 weeks] in 
+comparison with placebo30,47,48,51 [using CDAI or Harvey-Bradshaw 
+index]. Overall, 380 patients were analysed. The active comparator 
+was AZA in four of these trials,30,47,51 and the active drug was MP 
+in the remaining trial.54 The trials were heterogeneous in terms of 
+study design, follow-up time, definition of active disease, and def-
+inition of remission. Except for Summers et al.,30 most of the trials 
+allowed for the use of concomitant steroids. The pooled analysis 
+was performed on an intention-to-treat basis and revealed no dif-
+ferences for induction of remission between thiopurines and pla-
+cebo; 48% [95/197] in the active intervention compared with 37% 
+[68/183] in the placebo group achieved remission [RR: 1.23; 95% 
+CI: 0.97–1.55]. 
+Three trials reported on clinical response, albeit not with stand-
+ardised measures of disease activity.49,52,53 In these trials, different 
+types of physician global assessment of disease improvement [clin-
+ical response] were used.49,52,53 Overall, 42.8% of the patients re-
+ceiving thiopurines, as compared with 26.9% of those receiving 
+placebo, showed clinical improvement. The RR of obtaining clinical 
+response was 1.87 [95% CI: 0.44–7.96]. Heterogeneity was serious 
+[I2 = 69%] and imprecision very serious due to sparse data and wide 
+confidence intervals; thus the quality of evidence was very low for 
+this outcome [Supplementary Figure 11, available as Supplementary 
+data at ECCO-JCC online].
+Only one trial reported on AEs during induction.51 The pooled 
+RR of any AEs was not significantly different between placebo and 
+thiopurines [86% vs 69%; RR: 0.81; 95% CI: 0.64–1.02]. Serious 
+AEs were reported in two trials30,51 including 125 patients; 13.5% 
+of those receiving AZA versus 3.8% of those receiving placebo de-
+veloped serious AEs [pooled RR: 2.57; 95% CI: 0.92–7.13]. The 
+quality of evidence was deemed low due to a very low number of 
+events [n = 19] and wide confidence intervals.
+One study reported on a validated quality of life measure 
+[Inflammatory Bowel Disease Questionnaire: IBDQ].51 The greatest 
+difference between groups was observed at Week 4 [43% for AZA 
+and 30% for placebo]. Regarding biochemical improvement, only 
+some of the trials reported on changes at the end of the induction 
+period; no dichotomous data were available that allowed for a 
+pooled analysis calculation. Overall, most trials reported no differ-
+ences in biomarkers of inflammation such as erythrocyte sedimenta-
+tion rate [ESR], CRP, or orosomucoid in those receiving thiopurines 
+as compared with placebo.48,52–54 Reinisch et al.51 reported a similar 
+proportion of elevated faecal calprotectin at baseline and at Weeks 
+4 and 12 for the thiopurines and placebo groups. Candy et al.47 re-
+ported a slight increase of ESR in the group receiving placebo and 
+prednisolone versus a statistically significant decrease in ESR in 
+those receiving AZA and prednisone.
+Methotrexate
+Only one relevant placebo-controlled RCT was retrieved. In this 
+study,55 141 steroid-dependent patients with active CD were ran-
+domised to either 25 mg/week of intramuscular MTX or placebo for 
+16 weeks, with a concomitant daily dose of prednisolone [20 mg at 
+initiation] that was reduced over a 3-month period [Supplementary 
+Material, SoF Table 6, available as Supplementary data at ECCO-
+JCC online]. After 16 weeks, a significantly larger proportion of 
+patients treated with MTX were in clinical remission than placebo 
+[RR: 2.06; 95% CI: 1.09–3.89]. The rate of treatment discontinu-
+ation for AEs [mainly liver enzyme elevations and nausea] was sig-
+nificantly higher in comparison with placebo [RR: 8.00; 95% CI: 
+1.09–58.51]. However, this study is strongly limited by imprecision 
+and some confounding factors, such as the concomitant use of ster-
+oids. No studies were found that compared MTX monotherapy 
+versus placebo for the induction of remission of moderate-to-severe 
+CD. No agreement was achieved in the Consensus regarding the use 
+of MTX for inducing CD remission, and therefore the Consensus 
+decided to make no recommendation.
+Three small and heterogeneous studies compared the efficacy 
+of MTX and thiopurines for induction of remission in CD56–60 
+[Supplementary Material, SoF Table 7, available as Supplementary 
+data at ECCO-JCC online]. These studies used different dosages and 
+routes of administration. Two studies used oral MTX at doses of 
+16 mg/week59 and 12.5 mg/week,56 and one used intravenous [IV] 
+MTX at 25 mg/week.60 All patients were steroid-dependent and re-
+ceived systemic steroids at inclusion. None of the individual studies 
+or the pooled analysis demonstrated a significant difference in the 
+likelihood to achieve remission [RR: 0.87; 95% CI: 0.70–1.09] 
+[Supplementary Figure 12, available as Supplementary data at 
+ECCO-JCC online]. Although the risk of AEs is higher with MTX, 
+the data are very sparse and the quality of evidence is very low for 
+both outcomes. Accordingly, no recommendation can be made.
+Based on the current evidence, agreement on a recommendation 
+for the use of MTX for inducing clinical remission in patients with 
+CD could not be reached. However, MTX may be considered as an 
+option for steroid-dependent patients with moderate-to-severe dis-
+ease when alternative options [including surgery] cannot be used. 
+The need to stop therapy in patients planning a pregnancy must be 
+considered.61
+Monoclonal antibodies
+Monoclonal antibodies directed against TNF-α are fast-acting 
+and potent anti-inflammatory agents. Anti-TNF therapies ap-
+proved for the treatment of CD include infliximab, adalimumab, 
+and certolizumab pegol [the latter is not approved in the European 
+Union for CD, but is commercially available in Switzerland and 
+Russia]. Infliximab is a chimeric mouse-human immunoglobulin [Ig] 
+G1 monoclonal antibody administered intravenously at a dose of 
+5 mg/kg at 0, 2, and 6 weeks during induction and every 8 weeks 
+thereafter. Adalimumab is a fully humanised IgG1 monoclonal 
+antibody given subcutaneously [SC] at a dose of 160 mg, and then 
+Recommendation 1.4. ECCO CD Treatment GL [2019]
+We suggest against the use of thiopurines as mono-
+therapy for the induction of remission of moderate-to-
+severe luminal Crohn’s disease [weak recommendation, 
+very low-quality evidence].
+Recommendation 1.5. ECCO CD Treatment GL [2019]
+We recommend the use of TNF inhibitors [infliximab, 
+adalimumab, and certolizumab pegol] to induce remis-
+sion in patients with moderate-to-severe Crohn’s disease 
+who have not responded to conventional therapy [strong 
+recommendation, moderate-quality evidence].
+8
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+80 mg 2 weeks after induction, followed by 40 mg SC every 2 weeks. 
+Certolizumab pegol is a PEGylated Fab fragment against TNF-α, 
+self-administered SC at a dose of 400 mg at Weeks 0, 2, and 4, fol-
+lowed by 400 mg every 4 weeks thereafter.
+Data 
+on 
+anti-TNF 
+agents 
+versus 
+placebo 
+[infliximab, 
+adalimumab, and certolizumab pegol] from several meta-analyses of 
+RCTs62–64 support their efficacy for induction of clinical remission 
+[RR: 1.6; 95% CI: 1.17–2.36] and clinical response [RR: 1.43; 95% 
+CI: 1.17–1.73] [Supplementary Material, SoF Table 8, available as 
+Supplementary data at ECCO-JCC online] in patients who did not 
+achieve adequate response or were intolerant to corticosteroids and/
+or immunosuppressants. Limited endoscopic data were available for 
+the induction period; two studies showed a non-significant trend to-
+wards enhanced mucosal healing [RR: 3.25; 95% CI: 0.53–19.8].65,66 
+However, the evidence was downgraded due to imprecision. Data on 
+clinical remission were highly heterogeneous [I2 = 63%], and data 
+on endoscopic improvement were affected by high imprecision due 
+to the low number of patients included in the meta-analysis [n = 35]. 
+Data on patient-reported outcomes [PRO] response and remission, 
+biochemical and radiological improvement, and quality of life are in-
+sufficient. There was no difference in terms of AEs [RR: 0.99; 95% 
+CI: 0.90–1.08].
+The choice of anti-TNF agent depends on patient preference, 
+availability, cost, and accessibility. However, in a 2015 network 
+meta-analysis, pairwise comparison revealed that infliximab with 
+AZA [OR: 3.1; 95% CI: 1.4–7.7] and adalimumab monotherapy 
+[OR: 2.1; 95% CI: 1–4.6] were superior to certolizumab pegol for 
+induction of remission.67
+The timing of introduction of biologic agents is a matter of 
+debate. It has been suggested that patients presenting with poor 
+prognostic factors [e.g. fistulising perianal disease, extensive dis-
+ease, deep ulcerations, complicated phenotype] would benefit from 
+the early introduction of anti-TNF to achieve a reduced risk of 
+surgery, hospitalisation, or development of disease-related compli-
+cations.15 Furthermore, anti-TNF agents might be more effective 
+if introduced earlier [in the first 2 years] in disease course,68–72 al-
+though these results are based on post-hoc analyses from clinical 
+trials.
+Only one RCT [the DIAMOND trial]73 studied the use of combin-
+ation therapy of adalimumab with thiopurine as compared with 
+adalimumab monotherapy for the induction of clinical remission 
+in patients naïve to both therapies [Supplementary Material, 
+SoF Table 9, available as Supplementary data at ECCO-JCC 
+online]. In this trial, combination therapy was not superior to 
+adalimumab monotherapy for inducing clinical remission [RR: 
+0.95; 95% CI: 0.78–1.15]. However, combination therapy was 
+associated with endoscopic improvement at Week 26 [RR: 1.32; 
+95% CI: 1.06–1.65], although this benefit was lost at the end 
+of 1 year. There was no increase in AEs leading to discontinu-
+ation associated with combination therapy [RR: 1.03; 95% CI: 
+0.60–1.78]. Of note, the dose of AZA used in this trial was lower 
+than the usual dose used in CD patients [25–100 mg/day instead 
+of 2–2.5 mg/kg/day].
+The SONIC [Study Of Biologic and Immunomodulator Naive 
+Patients In Crohn’s Disease] RCT70 compared the efficacy of 
+infliximab combined with AZA over infliximab monotherapy in 
+patients naïve to both therapies, who failed to respond to steroids 
+or 5-ASA [Supplementary Material, SoF Table 10, available as 
+Supplementary data at ECCO-JCC online]. Combination therapy 
+resulted in higher rates of clinical remission at Week 26 as com-
+pared with infliximab monotherapy [RR: 1.64; 95% CI: 1.07–2.53]. 
+Combination therapy was also more likely to result in mucosal 
+healing at this timepoint [RR: 1.82; 95% CI: 1.01–3.26]. There was 
+no difference in AEs for those receiving combination therapy. Rather, 
+there were significantly lower rates of serious AEs in those receiving 
+combination therapy [RR: 0.56; 95% CI: 0.32–0.97].
+A commonly encountered scenario in clinical practice is patients 
+who have failed or have had an inadequate response to thiopurines 
+and in whom anti-TNF therapy is planned. No RCT has directly 
+compared whether in such cases thiopurine maintenance in combin-
+ation with the anti-TNF would carry additional benefits in terms of 
+efficacy. A post-hoc analysis of RCTs has shown no added benefit of 
+the continued use of immunomodulator therapy after starting anti-
+TNF therapy in this setting.74 However, immunogenicity should be 
+considered and, in the absence of direct evidence, an individualised 
+approach should be considered.74
+Ustekinumab is an IgG1 monoclonal antibody that binds to the p40 
+subunit shared by the pro-inflammatory interleukins 12 and 23.75 
+In CD, induction should be given IV using a weight-based regimen 
+of approximately 6  mg/kg.75,76 One systematic review and meta-
+analysis pooled the results from RCTs in which ustekinumab was 
+compared with placebo for induction of remission in patients with 
+moderate-to-severe active luminal CD77[Supplementary Material, 
+SoF Table 11, available as Supplementary data at ECCO-JCC on-
+line]. Four trials76,78–80 involving 1947 patients treated with different 
+ustekinumab intravenous doses or equivalent placebo reported in-
+duction of clinical response and induction of clinical remission at 
+Week 6. Data were extracted and a meta-analysis was performed, 
+yielding an RR of obtaining clinical response of 1.56 [95% CI: 
+1.38–1.77] versus placebo [Supplementary Figure 13, available as 
+Supplementary data at ECCO-JCC online]. The quality of evidence 
+was high. The RR of obtaining clinical remission was 1.76 [95% CI: 
+1.40–2.22] [Supplementary Figure 14, available as Supplementary 
+data at ECCO-JCC online]. The quality of evidence was high. An 
+endoscopic substudy involving 252 CD patients revealed that 47.7% 
+of patients receiving ustekinumab achieved endoscopic improvement 
+at 8 weeks as compared with 29.9% of those receiving placebo [RR: 
+Recommendation 1.6. ECCO CD Treatment GL [2019]
+We suggest against the combination of adalimumab and 
+thiopurines over adalimumab alone to achieve clinical re-
+mission and response [weak recommendation, moderate-
+quality evidence].
+Recommendation 1.7. ECCO CD Treatment GL [2019]
+We recommend combination therapy with a thiopurine 
+when starting infliximab to induce remission in patients 
+with moderate-to-severe Crohn’s disease, who have had 
+an inadequate response to conventional therapy [strong 
+recommendation, moderate-quality evidence].
+Recommendation 1.8. ECCO CD Treatment GL [2019]
+We recommend ustekinumab for induction of remission 
+in patients with moderate-to-severe Crohn’s disease with 
+inadequate response to conventional therapy and/or to 
+anti-TNF therapy [strong recommendation, high-quality 
+evidence].
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+9
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+1.60; 95% CI: 1.13–2.26]. The quality of evidence was moderate. 
+Four trials76,78–80 reported on AEs [2024 patients] or serious AEs 
+[1947 patients] after induction. The pooled RR of any AEs was not 
+significantly different between ustekinumab and placebo [62.0% vs 
+63.9%; RR: 0.96; 95% CI: 0.90–1.03] [Supplementary Figure 15, 
+available as Supplementary data at ECCO-JCC online]. Similarly, 
+the pooled RR of any serious AEs was not significantly different be-
+tween ustekinumab and placebo [5.2% vs 6.4%; RR: 0.79; 95% CI: 
+0.54–1.15] [Supplementary Figure 16, available as Supplementary 
+data at ECCO-JCC online]; the quality of evidence was high. The 
+rate of antibody drug formation seems to be low [under 5%].81
+Vedolizumab is a monoclonal IgG1 antibody that acts by blocking 
+the α4β7 integrin resulting in gut-selective anti-inflammatory ac-
+tivity.82 It is administered intravenously at a fixed dose of 300 mg 
+at 0, 2, and 6 weeks for induction, and every 8 weeks thereafter. 
+Patients who do not achieve response at Week 6 can benefit from 
+an additional administration at Week 10.83 Three randomised trials 
+involving 969 patients treated with vedolizumab or placebo re-
+ported on induction of clinical response, induction of clinical re-
+mission, and serious AEs in adult patients with moderate-to-severe 
+active CD82,84,85[Supplementary Material, SoF Table 12, available as 
+Supplementary data at ECCO-JCC online]. Patients in these studies 
+were followed up for 6 to 10 weeks. Clinical remission was more 
+common in patients receiving vedolizumab compared with placebo 
+[RR: 2.01; 95% CI: 1.50–2.71] [Supplementary Figure 17, available 
+as Supplementary data at ECCO-JCC online]. Likewise, clinical re-
+sponse was also more common in patients receiving vedolizumab 
+compared with placebo [40.8% vs 25.7%; RR: 1.55; 95% CI: 
+1.14–2.11] [Supplementary Figure 18, available as Supplementary 
+data at ECCO-JCC online]. The quality of evidence for these out-
+comes was high. Rates of serious AEs with vedolizumab were not 
+significantly different with placebo [RR: 0.94; 95% CI: 0.61–1.45] 
+[Supplementary Figure 19, available as Supplementary data at 
+ECCO-JCC online]. The quality of evidence for this outcome was 
+moderate due to serious imprecision arising from sparse data.
+One systematic review and meta-analysis performed an indirect 
+comparison of ustekinumab and vedolizumab for induction of re-
+mission in patients with moderate-to-severe active luminal CD who 
+were non-responsive or intolerant to previous anti-TNF agents.86
+Four trials76,79,82,85 involving a total of 1249 patients treated with 
+ustekinumab or vedolizumab reported on induction of clinical response 
+and clinical remission [Supplementary Material, SoF Table 13, avail-
+able as Supplementary data at ECCO-JCC online]. The pooled RR of 
+clinical response [35.8% vs 33.1%; RR:1.14; 95% CI: 0.65–1.99] and 
+clinical remission [16.3% vs. 13.3%; RR: 1.16; 95% CI: 0.54–2.48] 
+were not significantly different between ustekinumab and vedolizumab, 
+but the quality of evidence was very low for both outcomes.
+Four trials76,79,82,85 involving a total of 1541 patients treated with 
+ustekinumab or vedolizumab reported on AEs or serious AEs after 
+induction. The pooled RR of any AEs was not significantly dif-
+ferent between ustekinumab and vedolizumab [64.2% vs 56.2%; 
+RR: 1.00; 95% CI: 0.82–1.23]. Finally, the pooled RR of any ser-
+ious AEs was not significantly different between ustekinumab and 
+vedolizumab [7.1% vs 7.7%; RR: 0.95; 95% CI: 0.43–2.12]; the 
+quality of evidence was very low. However, surgery should always 
+be considered as an option in refractory patients.
+Key Points for Clinical Practice
+Budesonide is effective for the induction of remission in patients with 
+mild-to-moderate CD, defined as a CDAI between 150 and 220, and/
+or presence of mild lesions at endoscopy, or a Simple Endoscopic 
+Score-CD [SES-CD] ≤6, or a Crohn’s Disease Endoscopic Index of 
+Severity [CDEIS] ≤8 with ileal and/or right colon involvement; 5-ASA 
+compounds and sulphasalazine have no therapeutic effect. There is a 
+knowledge gap on how to treat mild-to-moderate CD localised in dif-
+ferent parts of the gastrointestinal tract other than the ileum and right 
+colon, or in patients with extensive disease. Therefore the decision is 
+left to the clinician, who should consider the patient’s individual char-
+acteristics, prognostic factors, and cost/benefit ratios of therapies.
+Although systemic steroids are effective in inducing remission in 
+moderate-to-severe CD, they are limited by important side effects. 
+Additionally, long-term use of corticosteroids does not prevent dis-
+ease relapse.30,87 Therefore we suggest that the presence of cortico-
+steroid dependency or excess [the inability to wean steroids below 
+the equivalent of prednisolone 10 mg/day or budesonide 3 mg/day 
+within 3 months of starting steroids, a relapse within 3 months of 
+stopping steroids, or the need for more than a single course of cor-
+ticosteroids in 1 year] should all warrant a steroid-sparing strategy. 
+Thiopurines alone are not effective in inducing remission. However, 
+since thiopurines have a slow onset of action [8–12 weeks]43 and are 
+effective for maintaining remission in steroid-dependent CD patients 
+[see Maintenance, 6.2.1., Recommendation 2.2.], they are frequently 
+combined with steroids at the commencement of therapy. In patients 
+with steroid dependency, a combination of steroids and MTX has 
+limited efficacy in inducing remission at Week 16 and is associated 
+with a high risk of AEs. Therefore, this option may be considered 
+only where other medical treatments and surgery are not indicated 
+or are associated with some increased individual risks.88
+For patients with moderate-to-severe CD [usually defined as a 
+CDAI >220 and/or CDEIS >8 or SES-CD >6] with inadequate re-
+sponse or intolerance to conventional therapy [steroids and/or 
+thiopurines], we recommend the use of monoclonal antibodies. 
+These include anti-TNF agents [such as infliximab, adalimumab, and 
+certolizumab pegol], ustekinumab, or vedolizumab. All these agents 
+are effective both in biologic-naïve and -experienced CD populations. 
+The choice depends on patient characteristics and preferences, costs, 
+and local availability.8 For the induction of remission, in treatment-
+naïve patients, the combination of infliximab with thiopurines is 
+more effective than infliximab alone for achieving steroid-free re-
+mission.70 For adalimumab, no benefit of combination therapy over 
+Recommendation 1.9. ECCO CD Treatment GL [2019]
+We recommend vedolizumab for induction of response 
+and remission in patients with moderate-to-severe 
+Crohn’s disease with inadequate response to conven-
+tional therapy and/or to anti-TNF therapy [strong recom-
+mendation, moderate-quality evidence].
+Recommendation 1.10. ECCO CD Treatment GL [2019]
+We equally suggest the use of either ustekinumab or 
+vedolizumab for the treatment of moderate-to-severe 
+active luminal Crohn’s disease in patients who have pre-
+viously failed anti-TNF therapy [weak recommendation, 
+very low-quality evidence].
+10
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+adalimumab alone was observed in the only RCT performed to date.73 
+The SONIC trial70 demonstrated the superiority of either infliximab 
+alone or the combination of infliximab and AZA over AZA mono-
+therapy or even in combination with steroids; this option should be 
+considered and even preferred in steroid-dependent patients. The 
+REACT [Early Combined Immunosuppression for the Management 
+of Crohn’s Disease] trial showed that the early use of monoclonal 
+antibodies [adalimumab] combined with immunosuppressants in pa-
+tients at high risk of complications, as compared with a more conven-
+tional stepwise management, was associated with significantly lower 
+rates of complications and need for hospitalisation and/or surgery in 
+patients with early CD.15 A prospective cohort study demonstrated 
+that concomitant immunomodulator use is associated with lower im-
+munogenicity to anti-TNF.89 In clinical practice, the potential added 
+efficacy benefit and lower immunogenicity of combination therapy 
+needs to be balanced against a potential increase in AEs in the long 
+term.90,91 Combination therapy does not seem to be associated with 
+safety concerns, at least in the short term. However, a large nation-
+wide cohort study showed that combination therapy is associated 
+with higher risk for lymphoma and serious infection, as compared 
+with anti-TNF monotherapy. 90,91 Therefore the decision is left to the 
+clinician, who should consider patient characteristics, costs, risks, and 
+local regulations. Importantly, risk needs to be individualised as spe-
+cific patient groups, such as the elderly, maybe at higher risk for infec-
+tions or lymphoma and young males maybe at higher risk for specific 
+complications, such as hepatosplenic T cell lymphoma.92,93
+In patients who fail anti-TNF therapy, ustekinumab or vedolizumab 
+are indicated. There is currently no direct evidence on the comparison 
+between vedolizumab versus anti-TNF and ustekinumab versus anti-
+TNF in patients treated either with vedolizumab or ustekinumab as 
+a first biologic. No RCTS have specifically assessed the efficacy and 
+safety of these agents when used in combination therapy as compared 
+with monotherapy; however, overall immunogenicity rates seem to be 
+low. Besides, in the originator trials, no difference in efficacy was ob-
+served in those patients treated concomitantly with immunomodulator. 
+However, in patients with moderate-to-severe CD with limited dis-
+ease extent or refractory to at least one monoclonal antibody, surgery 
+should always be considered as an alternative option.
+While RCTs evaluate the efficacy of a drug for induction of remission 
+and thereafter for maintaining remission using validated indices of clinical 
+activity, the clinician usually bases his or her choice of first-line therapy 
+not only on symptoms but also on the perceived disease severity [the im-
+pact of disease in the individual patient, the cumulative complications 
+and surgical resections, risk factors for complications, the inflammatory 
+burden of disease, and disease course].1 Therefore, appropriate studies 
+that address the early use of biologics over a stepwise approach, focusing 
+on the prevention of complications and disease-modification outcomes, 
+and that validate risk factors for disease progression [age, extensive dis-
+ease, upper tract involvement] should be performed. Such studies were 
+identified by this Consensus as very important research gaps.
+Section 2 - Maintenance of Remission
+5-ASA compounds
+Oral 5-ASA compounds have been extensively studied for the main-
+tenance of medically induced remission of CD [Supplementary 
+Material, SoF Table 14, available as Supplementary data at ECCO-
+JCC online]. No statistically significant benefit has been demonstrated 
+[RR: 1.03; 95% CI: 0.92–1.16] [Supplementary Figure 20, available 
+as Supplementary data at ECCO-JCC online]. Overall, 11 placebo-
+controlled trials that assessed doses between 1 and 4  g/day were 
+identified. Treatment durations ranged from 4 months to 36 months, 
+with most trials evaluating a 12-month duration of therapy.94 There 
+were no significant differences in the proportion of patients experi-
+encing an AE, or withdrawing due to AEs or serious AEs [RR: 1.93; 
+95% CI: 0.18–21.1]. The safety data were very sparse [three events] 
+and considerably limited this conclusion [Supplementary Figure 21, 
+available as Supplementary data at ECCO-JCC online].
+Immunosuppressants
+Thiopurines
+The effect of maintenance treatment with AZA or MP administered 
+to patients with CD who are steroid-dependent has been investi-
+gated in one meta-analysis95 [Supplementary Material, SoF Table 
+15, available as Supplementary data at ECCO-JCC online]. This 
+meta-analysis included data from six trials published between 1971 
+and 2013.30,47,53,96–99 A total of 489 patients treated with AZA [1.0 
+to 2.5 mg/kg/day] were included and followed for 6 to 18 months. 
+Clinical remission was defined according to different criteria [CDAI 
+in three, disease activity score [DAS] two, in others one]. AZA was 
+superior to placebo for the maintenance of remission in steroid-
+dependent patients [RR: 1.19; 95% CI: 1.05–1.34].
+Safety outcomes were reported in four trials published between 
+1978 and 2013,30,96–98 including a total of 556 patients followed for 6 
+to 18 months. The overall risk of inducing serious AEs during main-
+tenance treatment with thiopurines was significantly higher than 
+with placebo [RR: 2.45; 95% CI: 1.22–4.90]. The rate of serious 
+AEs reported in patients treated with thiopurines versus placebo 
+was 9.0% [22/245] versus 2.9% [9/311]. Pancreatitis, leukopenia, 
+nausea, allergic reaction, and infections were the most frequent ser-
+ious AEs.
+It has been hypothesised that the early introduction of 
+thiopurines could modify disease course. Two studies have evaluated 
+the efficacy of early use of thiopurines: the AZTEC [AZathioprine 
+for Treatment of Early Crohn’s disease in adults]98 and the RAPID 
+[Résultat de l’Adjonction Précoce d’ImmunoDépresseurs]100 trials 
+[Supplementary Material, SoF Table 16, available as Supplementary 
+data at ECCO-JCC online]. The latter has been excluded from our 
+Recommendation 2.1. ECCO CD Treatment GL [2019]
+We recommend against the use of oral 5-aminosalicylic 
+acid for maintenance of medically induced remission in 
+patients with Crohn’s disease [strong recommendation, 
+low-quality evidence].
+Recommendation 2.2. ECCO CD Treatment GL [2019]
+Thiopurines are recommended for the maintenance of 
+remission in patients with steroid-dependent Crohn’s 
+disease 
+[strong 
+recommendation, 
+moderate-quality 
+evidence].
+Recommendation 2.3. ECCO CD Treatment GL [2019]
+We recommend against the early introduction of 
+thiopurine therapy in patients with newly diagnosed 
+Crohn’s disease for maintaining remission [weak recom-
+mendation, low-quality evidence]
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+11
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+SoF table because it was not conducted against placebo or no treat-
+ment. In the AZTEC study, adult patients with a recent [<8 weeks] 
+diagnosis of uncomplicated CD were randomised to receive either 
+AZA or placebo up to Week 76. Only corticosteroids were allowed 
+to treat active disease in this study population. The results were not 
+statistically significant for any of the critical outcomes evaluated. 
+After 76 weeks of treatment, clinical remission did not differ be-
+tween the two groups [RR: 1.27; 95% CI: 0.94–1.72]; 30 patients 
+treated with AZA [44.1%] and 23 given placebo [36.5%] were in 
+sustained corticosteroid-free remission [RR: 1.21; 95% CI: 0.79–
+1.84]. The rates of relapse [defined as CDAI score >175] and cor-
+ticosteroid requirements were similar between groups. Serious AEs 
+occurred in 14 patients [20.6%] in the AZA group and 7 [11.1%] in 
+the placebo group [RR: 1.85; 95% CI: 0.8–4.29].
+Methotrexate
+Data on the use of parenterally administered MTX are derived from 
+one double-blind, placebo-controlled RCT55 where patients were ad-
+ministered weekly intramuscular injections of 15 mg MTX, or pla-
+cebo of identical appearance, for 40 weeks [Supplementary Material, 
+SoF Table 17, available as Supplementary data at ECCO-JCC on-
+line]. Patients with previously active CD, who had entered remission 
+after 16 to 24 weeks of treatment with 25 mg MTX given intramus-
+cularly once weekly, were randomly assigned to receive either MTX 
+at a dose of 15 mg intramuscularly once weekly or placebo, for 40 
+weeks. No other treatments for CD were permitted. After 40 weeks, 
+the proportion of patients who remained in remission was higher in 
+the MTX group than in the placebo group [65% vs 39 %; RR: 1.67; 
+95% CI: 1.05–2.67]. Fewer than 50% of the patients in the MTX 
+group had relapsed by the end of the study.
+There were no differences in severe AEs in the MTX group 
+[n  =  40] as compared with the placebo group [n  =  36] over the 
+40-week observational period [one patient had cervical dysplasia 
+and the other had a viral respiratory tract infection]. Nausea and 
+vomiting occurred more frequently among patients in the MTX 
+group [40% vs 25% in the placebo group]. Although none of the 
+symptoms was severe, one patient discontinued treatment because 
+of these symptoms. No patient had leukopenia of sufficient severity 
+to require withholding treatment or withdrawal from the study. The 
+overall incidence of AEs was similar in both groups.
+Monoclonal antibodies
+Two systematic reviews analysed the effect of maintenance treatment 
+with anti-TNFs [infliximab, adalimumab, and certolizumab pegol] 
+administered to patients with CD who had achieved disease remission 
+with the same anti-TNF drug62,63 [Supplementary Material, SoF Table 
+18, available as Supplementary data at ECCO-JCC online]. Five land-
+mark trials published between 2002 and 200771,101–104 were pooled in 
+the meta-analysis from Stidham et al.62; one study was on infliximab, 
+two on adalimumab, and two on certolizumab pegol. A total of 1771 
+patients were included and followed for 24 to 30 weeks. Four of 
+the five studies included primary responders only, and one study in-
+cluded all subjects. Clinical remission was defined as a CDAI score 
+<150. The overall likelihood of maintaining remission with anti-
+TNFs versus placebo was 1.78 [95% CI: 1.51–2.09]. The following 
+values were achieved with infliximab: 1.86 [95% CI: 1.21–2.86]; 
+with adalimumab: 2.06 [95% CI: 1.59–2.82]; and with certolizumab 
+pegol: 1.62 [95% CI: 1.30–2.02]. A network meta-analysis62 found no 
+statistically significant differences between the three agents. 
+There are no pooled data available on serious AEs of all anti-
+TNFs as against placebo. In a network analysis performed in the 
+framework of a Cochrane collaboration,105 the dose-adjusted odds 
+ratios [Ors] [95% CI] for SAEs for adalimumab, infliximab, and 
+certolizumab pegol were 1.01 [0.64–1.59], 1.13 [0.79–1.62], and 
+1.57 [0.96–2.57], respectively. Thus monotherapy with anti-TNFs is 
+considered safe as compared with placebo for the maintenance of 
+remission in CD patients, although the relatively small sample size 
+and short follow-up of RCTs do not allow the detection of AEs that 
+may appear in larger and longer observational studies.
+Vedolizumab monotherapy, given IV at 300 mg every 8 weeks, was 
+superior to placebo in maintaining clinical remission in patients with 
+moderate-to-severe CD who achieved remission with vedolizumab 
+[RR: 1.81; 95% CI: 1.26–2.59] [Supplementary Material, SoF Table 
+19, available as Supplementary data at ECCO-JCC online]. At Week 
+52, 60/154 patients [39.0%] receiving vedolizumab every 8 weeks 
+and 56/154 patients [36.4%] receiving vedolizumab every 4 weeks 
+were in clinical remission as compared with 33/153 patients [21.6%] 
+receiving placebo [p <0.001 and p = 0.004, respectively]. Moreover, 
+vedolizumab was effective at maintaining steroid-free clinical remis-
+sion [RR: 2.00; 95% CI: 1.11–3.61] and showed a similar incidence 
+of AEs compared with placebo through week 54 [RR: 1.21; 95% 
+CI: 0.73–2.00].82 Longer-term data beyond 52 weeks are required to 
+correctly evaluate the safety profile.
+One RCT reported outcomes for the maintenance of remission 
+with ustekinumab in CD patients [Supplementary Material, SoF 
+Table 20, available as Supplementary data at ECCO-JCC online].79 
+Patients responding to ustekinumab in the induction period were 
+re-randomised to receive ustekinumab every 8 or 12 weeks or pla-
+cebo. Over a 44-week period, 51% of the patients receiving SC 
+ustekinumab were in clinical remission as compared with 35.9% 
+Recommendation 2.4. ECCO CD Treatment GL [2019]
+We recommend methotrexate administered parenterally 
+for the maintenance of remission in patients with steroid-
+dependent Crohn’s disease [weak recommendation, 
+moderate-quality evidence].
+Recommendation 2.5. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease who achieved remission 
+with anti-TNF agents, maintenance treatment using the 
+same treatment is recommended [strong recommenda-
+tion, moderate-quality evidence].
+Recommendation 2.6. ECCO CD Treatment GL [2019]
+We recommend vedolizumab for maintaining clinical re-
+mission in patients with moderate-to-severe Crohn’s dis-
+ease who achieved remission with vedolizumab [strong 
+recommendation, moderate-quality evidence].
+Recommendation 2.7. ECCO CD Treatment GL [2019]
+We recommend the use of ustekinumab to maintain 
+clinical remission in patients with Crohn’s disease who 
+achieved remission with ustekinumab [strong recommen-
+dation, moderate-quality evidence].
+12
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+of those receiving placebo [RR: 1.42; 95% CI: 1.10–1.84]. A sub-
+group analysis demonstrated that at Week 44, clinical remission was 
+achieved by 53.1% of patients receiving ustekinumab every 8 weeks 
+and by 48.8% of patients receiving ustekinumab every 12 weeks, 
+as compared with 35.9% in the placebo group. The difference be-
+tween treatment every 8 weeks and placebo was 17.2% [95% CI: 
+5.3–29.2] and was 13% between treatment every 12 weeks and 
+placebo [95% CI: 1.1–24.9]. Therefore there was no difference be-
+tween ustekinumab administered every 8 or 12 weeks. At 44 weeks, 
+corticosteroid-free remission was achieved in 29.8% of patients 
+receiving placebo versus 44.7% of patients receiving ustekinumab 
+[RR: 1.50; 95% CI: 1.12–2.02]. The pooled RR of any AEs was not 
+significantly different between patients who were given placebo and 
+those administered ustekinumab [15.0% vs 11.0%; RR: 0.73; 95% 
+CI: 0.43–1.25].
+There are limited data on endoscopic remission, as this was 
+assessed in a subgroup analysis of 70 patients [46 receiving 
+ustekinumab vs 24 receiving placebo] at 44 weeks. There was no 
+statistically significant difference in endoscopic remission between 
+patients in the placebo group as compared with patients in the treat-
+ment arm [RR: 2.61; 95% CI: 0.32–21.08].
+There were no deaths during the 44 weeks of maintenance. 
+Common AEs were headache, nausea, and arthralgia, with no sig-
+nificant difference in occurrence between the ustekinumab and pla-
+cebo groups. There was an identical occurrence of non-melanoma 
+skin cancers in the maintenance groups [n = 4 patients in placebo 
+and ustekinumab groups]. Longer-term data beyond 52 weeks are 
+required to correctly evaluate the safety profile.
+There are no randomised head-to-head trials comparing 
+vedolizumab or ustekinumab with anti-TNF agents for the main-
+tenance of clinical remission in patients with moderate-to-severe 
+CD who have achieved response or remission with the same agent. 
+A network meta-analysis106 included nine RCTs [all trials used the 
+CDAI to define clinical remission] with varying follow-up times. 
+The certolizumab pegol trial had a follow-up time of only 26 weeks. 
+All comparisons were indirect [through the placebo, the ‘common 
+comparator’]. Therefore, the quality of evidence was very low. No 
+specific agent was safer than the others in the maintenance phase. 
+Based on efficacy data, there is no evidence to support switching to 
+vedolizumab or ustekinumab in patients who responded to induc-
+tion treatment with any anti-TNF, or vice versa. There is a clear need 
+to identify biomarkers that could guide therapeutic choices, and to 
+conduct appropriately sized head-to-head trials that could allow for 
+the identification of patient subgroups who would benefit from a 
+given biologic over the other.
+Maintenance strategies
+Data from two RCTs with a total of 395 patients with CD were 
+used to support this recommendation [Supplementary Material, SoF 
+Table 21, available as Supplementary data at ECCO-JCC online]. 
+These two RCTs showed no advantage of therapeutic drug moni-
+toring [TDM] over clinically based anti-TNF dosing for any of our 
+critical outcomes, namely clinical remission [one study; 62.6% vs 
+54.9%; RR: 1.14; 95% CI: 0.89–1.47], steroid-free clinical remis-
+sion [one study; 30.5% vs 40.0%; RR: 0.76; 95% CI: 0.46–1.26], 
+endoscopic remission [one study; 51.2% vs 52.5%; RR: 0.98; 95% 
+CI: 0.68–1.40], biochemical remission [one study; 62.6% vs 54.9%; 
+RR: 1.14; 95% CI: 0.89–1.47], or serious AEs [one study; 34.1% vs 
+27.5%; RR: 1.24; 95% CI: 0.68–2.23].107,108
+In the TAXIT trial, a total of 273 IBD patients with stable re-
+sponse to maintenance infliximab therapy were randomised either 
+to concentration- or clinically-based infliximab dosing. Both groups 
+were dose-optimised or dose-reduced to achieve a baseline trough 
+level between 3 and 7 μg/mL. This dose-optimisation phase of the 
+study showed that in patients in clinical remission, a trough level 
+<3 μg/mL or >7 μg/mL was observed in 29% and 27% of patients, 
+respectively. No differences in clinical or biochemical remission at 
+1 year were observed between clinically- [66%] and proactive TDM- 
+[69%] based groups.107 Nevertheless, the group who received pro-
+active monitoring had fewer relapses during follow-up [7% vs 17%; 
+p = 0.018].
+In the TAILORIX trial, 122 biologically naïve patients with 
+CD, treated with an induction combination therapy with infliximab 
+and immunosuppressant, were randomised after 14 weeks to the 
+following three groups: dose intensification based on clinical fea-
+tures, biomarkers, and trough levels of infliximab, with optimisation 
+steps of 2.5  mg/kg [TDM1]; or of 5  mg/kg [TDM2]; or dose in-
+tensification based on clinical features alone [control group].108 The 
+infliximab dose was adapted to maintain a trough level >3 μg/mL. 
+There was no difference in sustained steroid-free clinical remission 
+with mucosal healing [CDAI <150 from Weeks 22 to 54] in the three 
+randomisation arms [33% in TDM1; 27% in TDM2; 40% in con-
+trol; p = 0.50].
+Both studies have important limitations in their study de-
+signs,107,108 which collectively have lowered the strength of our 
+recommendation. The outcomes in both studies were clinical remis-
+sion but other important issues, such as costs and immunogenicity, 
+also need to be considered. The prospective cohort study PANTS 
+[Personalised Anti-TNF Therapy in Crohn’s Disease Study] showed 
+that anti-TNF failure is highly dependent on low drug concentra-
+tions and immunogenicity, and that dose intensification, especially 
+during the induction period, may improve outcomes and treatment 
+success.89 Therefore, the Consensus believes that large, well-powered 
+prospective RCTs with adequate stratification of patients are still 
+required.
+Reactive TDM refers to the practice of measuring anti-TNF trough 
+level drug concentration and/or antidrug antibodies [ADA] in pa-
+tients on anti-TNF therapy with active disease, to elucidate the 
+mechanism of loss of response [LOR] and to guide clinical deci-
+sion making. Reactive TDM was compared with empirical IFX 
+Recommendation 2.8. ECCO CD Treatment GL [2019]
+In Crohn’s disease patients in clinical remission under 
+anti-TNF treatment, there is currently insufficient evi-
+dence to recommend for or against the use of proactive 
+therapeutic drug monitoring to improve clinical outcomes 
+as compared to routine care [weak recommendation, 
+moderate-quality evidence].
+Recommendation 2.9. ECCO CD Treatment GL [2019]
+In Crohn’s disease patients who have lost response to an 
+anti-TNF agent, there is currently insufficient evidence to 
+recommend for or against the use of reactive therapeutic 
+drug monitoring to improve clinical outcomes [weak rec-
+ommendation, low-quality evidence].
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+13
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+optimisation [based on clinical judgment alone] in only one ran-
+domised, controlled, single-blind, multicentre study in a cohort of 69 
+patients with CD with secondary IFX failure.109 Patients were ran-
+domised to IFX dose intensification [5 mg/kg every 4 weeks; n = 36] 
+or interventions based on serum IFX and IFX ADA levels using the 
+proposed algorithm [n = 33]. There was no difference in regaining 
+clinical response between the TDM-based group [19/33, 57.6%] and 
+the symptom-based group [19/36, 52.8%] [RR: 1.09; 95% CI: 0.71–
+1.67; p = 0.81] [Supplementary Material, SoF Table 22, available as 
+Supplementary data at ECCO-JCC online].
+However, numerous studies have shown a positive association 
+between adequate drug concentration and various clinical outcomes 
+from clinical response to mucosal healing. Based on these obser-
+vational data, recent clinical practice guidelines and a group of 25 
+international experts supported the use of reactive TDM, despite 
+recognising the very low quality of evidence.110,111 Supporting evi-
+dence comes from case-control observational studies.112,113 In a retro-
+spective study of 312 patients with endoscopically active IBD treated 
+with IFX who underwent dose escalation, TDM-based [n = 149] and 
+clinical decision-based [n = 163] cohorts were compared for endo-
+scopic remission and CRP at a median of 6 months after adjustment. 
+Post-adjustment, endoscopic remission was observed in 63% of pa-
+tients in the TDM cohort as compared with 48% in the non-TDM 
+cohort [p  =  0.05]; clinical response was observed in 69% versus 
+57% [p = 0.01], and there fewer hospitalisations in the TDM group 
+[22% TDM vs 35% non-TDM; p = 0.025].112 In another study, a 
+modified version of the Steenholdt optimisation algorithm,113 using 
+a cut-off of 3 μg/ml, was applied to a prospective cohort. Clinical 
+response at 12 weeks was compared between this group and a 
+retrospective control group in which dosing decisions were made 
+independently of TDM results. There was no significant difference 
+in clinical outcomes,113 but the TDM approach was significantly 
+more cost-effective [>10% decrease in costs]. Therefore, the existing 
+limited evidence does not support an association between a reactive 
+TDM strategy and superior clinical outcomes but does suggest a cost 
+savings benefit even after considering biosimilar use.114
+We conducted our own meta-analysis to compare the two strat-
+egies [i.e., cessation vs continuation of treatment] in 215 CD 
+patients in long-term remission on thiopurine maintenance 
+therapy [Supplementary Material, SoF Table 23, available as 
+Supplementary data at ECCO-JCC online]. Data from four trials 
+were included.96,97,115–117 Patients included received AZA from 6 to 
+42 months before being randomised to continue or stop AZA115 or to 
+continue AZA or placebo.96,97,116 All studies had a follow-up time of 
+12 to 18 months. Our results revealed that the RR of clinical relapse 
+is 2.39 [95% CI: 1.38–4.13] [Supplementary Figure 22, available as 
+Supplementary data at ECCO-JCC online]. Our meta-analysis effect 
+estimate for serious AEs was RR 0.32 [95% CI: 0.04–2.92]. Although 
+the data showed a trend towards fewer serious AEs occurring with 
+discontinuation of treatment, the results were not statistically signifi-
+cant [Supplementary Figure 23, available as Supplementary data at 
+ECCO-JCC online]. However, regular assessment for the long-term 
+risks/benefits should be performed considering the long-term safety 
+data from the population base. To summarise, the evidence for the 
+prevention of clinical relapse is in favour of continuation of treat-
+ment, as significantly more relapses occurred when the treatment 
+was discontinued; the risk of SAEs was not different between AZA 
+and placebo/no treatment. Data from studies that compared pa-
+tients receiving AZA versus placebo/no treatment for more than 
+18 months are lacking, and this represents an important research 
+gap. Data from observational population studies suggest caution 
+and regular monitoring, especially for the risk of non-melanoma skin 
+cancer and lymphoma in patients exposed to long-term treatment 
+with thiopurines.20 The limited follow-up time and the number of 
+patients included in the studies of the meta-analysis are unable to 
+capture AEs and serious AEs that may occur in the long term.
+We also reviewed the literature to compare the approach of using 
+long-term, low-dose thiopurines versus drug discontinuation. After 
+an exhaustive literature search, we did not find evidence comparing 
+the two treatment strategies. Only one trial was identified where 
+dose reduction of thiopurines was compared with discontinuing 
+thiopurines in the setting of combination therapy in patients with 
+IBD. The information was incomplete as it was not possible to sep-
+arate data from ulcerative colitis and CD patients.118 Therefore, no 
+specific recommendation was made.
+A Cochrane review117 based on two RCTs118,119 revealed the same 
+relapse rate among patients who continued combination therapy 
+with AZA [27/56; 48%] or infliximab monotherapy [27/55; 49%] 
+[RR: 1.02; 95% CI: 0.68–1.52] [Supplementary Material, SoF 
+Table 24, available as Supplementary data at ECCO-JCC online]. 
+The same meta-analysis117 analysed the rates of AEs for infliximab 
+versus combination therapy [RR:1.11; 95% CI: 0.44–2.81; very 
+low-quality evidence] or serious AEs [RR: 1.00; 95% CI: 0.21–4.66; 
+very low-quality evidence]. These results are rather uncertain due to 
+an unclear risk of bias. Common AEs in the combination therapy 
+studies included infections, elevated liver values, arthralgia, and in-
+fusion reactions. For some infrequent AEs, longer follow-up studies 
+[>12 months] are necessary to correctly evaluate the safety profile. 
+A higher risk of lymphoma exists when anti-TNF agents are com-
+bined with conventional immunosuppression. However, the absolute 
+rates remain very low [3.23; 95% CI 1.5–6.9] and were estimated 
+as 1.9 per 10  000 patient-years in one meta-analysis consisting of 
+almost 9000 patients included in the SEER database.120
+Recommendation 2.10. ECCO CD Treatment GL [2019]
+We suggest continuation of thiopurines in Crohn’s dis-
+ease patients in long-term remission on thiopurine main-
+tenance therapy, as the risk of relapse is higher when the 
+treatment is discontinued [weak recommendation, low-
+quality evidence].
+Recommendation 2.11. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease who have achieved 
+long-term remission with the combination of infliximab 
+and immunosuppressants, we suggest monotherapy 
+with infliximab [weak recommendation, very low-quality 
+evidence].
+Recommendation 2.12. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease who have achieved 
+long-term remission with the combination of adalimumab 
+and immunosuppressants, we suggest monotherapy 
+with adalimumab [weak recommendation, low-quality 
+evidence].
+14
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+On the basis of a meta-analysis of nine studies on adalimumab by 
+Chalhoub et al.,121 the data included were re-analysed because the 
+intervention and control groups had to be reversed to match the rele-
+vant PICO question. The result of this recalculation did not reveal 
+any differences in maintenance of clinical remission [RR: 1.01; 95% 
+CI: 0.91–1.13] between combination therapy and monotherapy 
+[Supplementary Material, SoF Table 25 and Supplementary Figure 
+24, available as Supplementary data at ECCO-JCC online]. Whereas 
+this meta-analysis was limited to 1 year of follow-up [Week 56] in 
+the sensitivity analysis, studies with a longer follow-up [>52 weeks] 
+showed similar results. There are no quality data available for 
+steroid-free clinical remission. However in the ADHERE cohort, 
+which is an open-label extension study that prospectively follows up 
+the cohort of patients originally enrolled in the CHARM study on 
+adalimumab,71 the rates of steroid-free remission were similar in pa-
+tients with or without concomitant immunosuppression at baseline 
+after 3 years of follow-up.122 The meta-analysis by Chalhoub et al.121 
+which was re-calculated did not show any differences in serious AEs 
+between monotherapy with adalimumab and combination therapy 
+[RR: 0.88; 95% CI: 0.62–1.26] [Supplementary Figure 25, available 
+as Supplementary data at ECCO-JCC online].
+Currently, no randomised controlled study data regarding the with-
+drawal of anti-TNF therapy in CD patients with inactive disease 
+are available.123 This is true for anti-TNF therapy as monotherapy 
+or when used in a combination therapy regimen. Several observa-
+tional studies investigated disease course in CD patients following 
+withdrawal of anti-TNF therapy. A prospective study followed 115 
+patients with CD on combination therapy for at least 1 year, who 
+discontinued anti-TNF after being in steroid-free clinical remission 
+for at least 6 months. The relapse rates at 12 and 24 months were 
+43.9% ± 5.0% and 52.2% ± 5.2%, respectively.70 A systematic re-
+view and meta-analysis included 23 observational cohort studies of 
+920 CD patients and found an overall relapse rate of 44% [95% 
+CI: 36–51%; follow-up range: 6–125 months].124 Furthermore, the 
+relapse rate was 38% [95% CI: 13–63%; 126 patients] at 6 months 
+after discontinuation, 40% [95% CI: 33–48%; 813 patients] at 
+12  months, and 49% [95% CI: 31–68%; 228 patients; range of 
+follow-up 28–125  months] at >25  months. The meta-analysis in-
+cluded studies in children and patients with perianal disease.
+Following the aforementioned meta-analysis, 10 observational 
+cohort studies reported relapse rates in accordance with the findings 
+of the meta-analysis.125–134 Two of these studies represent extensions 
+of studies included in the meta-analysis.131,132 One study investigated 
+the risk of relapse in patients treated with a combination of anti-
+TNF and an immunomodulator, who discontinued either of the two 
+drugs.134 The study found no difference in relapse rates with regards 
+to the withdrawn drug; that is, 17/55 patients [30.9%] on biologic 
+therapy withdrawal relapsed compared with 4/20 patients [20%] in 
+which the immunomodulator was withdrawn [p = 0.401].
+In conclusion, observational studies report that up to half of 
+patients will experience a relapse within the following 12 months 
+after withdrawal. However, in the absence of controlled studies, the 
+evidence surrounding withdrawal of anti-TNF therapy in patients 
+with long-term remission remains scarce and inconclusive. Hence, 
+no recommendation regarding anti-TNF therapy can be made. The 
+management decision therefore lies with the clinician, who should 
+carefully consider the patient’s profile, values, and preferences, and 
+any resource implications.135
+Key Points for Clinical Practice
+Immunosuppressants and biologic agents are the most effective ther-
+apies to maintain medically-induced remission in moderate-to-severe 
+CD patients. Aminosalicylates and steroids are not recommended 
+in this setting due to lack of efficacy and long-term risk of serious 
+AEs [steroids]. For patients with mild disease, no data are avail-
+able which suggest any specific treatment strategy; no therapy and 
+tight monitoring may be considered in this patient population in the 
+maintenance phase.
+Our literature search and data analysis showed that immuno-
+suppressants, such as thiopurines and MTX, are recommended to 
+maintain remission in steroid-dependent patients. As discussed in 
+the previous section, the role of adding MTX or thiopurines to 
+steroids for the induction of remission is limited. However, after 
+steroids are stopped, maintenance with thiopurines or MTX [ad-
+ministered parenterally] can be an appropriate strategy. The choice 
+between the two drug classes depends on careful consideration of 
+patient’s individual characteristics and preferences, safety profile, 
+and drug availability. There is low-quality evidence supporting the 
+continuation of thiopurines for long-term remission, as studies 
+that directly compared long-term treatment with AZA, versus no 
+treatment or placebo, did not have follow-up times >18 months. 
+Clinicians should balance the increased risk of relapse of thiopurine 
+discontinuation with the increased risk of AEs. Many observational 
+studies have now reported an increased risk of lymphoma and skin 
+cancer for patients treated with thiopurines.136,137 Therefore, regular 
+monitoring should be provided to patients continuing thiopurines 
+in the long term. Given the increased risk of AEs due to thiopurines, 
+monoclonal antibodies can also be considered in this particular 
+group of patients.
+For CD patients where medically-induced remission has been 
+achieved by a biologic agent-based strategy, the use of the same agent 
+is recommended to maintain remission. There is high-quality evi-
+dence in favour of this approach for anti-TNF agents, vedolizumab, 
+and ustekinumab. There is no evidence to support switching to a 
+different monoclonal antibody after treatment induction with a 
+monoclonal antibody that was successful. Longer-term data be-
+yond 52 weeks are required to correctly evaluate the safety profile 
+of monoclonal antibodies, as the relatively small sample size and 
+short follow-up of RCTs does not allow for detection of some AEs, 
+particularly very rare AEs, which may appear in larger and longer 
+observational studies.
+The combination of an anti-TNF agent and thiopurines is ef-
+fective and safe both for induction and for maintenance. The risk 
+of lymphoma with infliximab and thiopurines remains very low, 
+but should be considered19 and adequately addressed with the same 
+screening and prevention and regular monitoring recommended for 
+thiopurine therapy.19 Therefore, when remission is achieved with 
+combination therapy with anti-TNF agents, maintenance with the 
+same biologic agent in monotherapy can be suggested.
+Recommendation 2.13. ECCO CD Treatment GL [2019]
+There is insufficient evidence to recommend either con-
+tinuation or withdrawal of anti-TNF therapy in Crohn’s 
+disease patients after achieving long-term remission. 
+Therefore, the decision to continue anti-TNF therapy 
+should be individualised and potential consequences 
+[risks and benefits] should always be discussed with the 
+patient.
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+15
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+Routine strategies to monitor and optimise biologic therapy in CD 
+by a TDM approach are not supported by the available controlled evi-
+dence, although we recognise the limitations. There is no clear clinical 
+benefit in favour of a proactive or reactive TDM approach, from the 
+current data. However, some recent data suggest that a reactive TDM 
+approach can result in cost savings also in the era of biosimilars,114 
+potentially justifying the use of such an approach where TDM is avail-
+able. TDM can at least be used to guide dose optimisation.
+There is currently no evidence to give any recommendation re-
+garding dose reduction of thiopurines during maintenance and there 
+is no evidence on the benefits of withdrawing or continuing biologic 
+agents in patients with stable long-term remission, due to the lack of 
+controlled studies. As stated in our Consensus, the decision is left to 
+the clinicians and should be individualised and discussed with the 
+patient, carefully considering the risk of relapse, disease progression 
+and development of complications, and the risks of potential side 
+effects. The long-term management of patients in remission is there-
+fore an important research gap.
+Section 3 - Perianal Fistulising Disease
+Therapeutic management of complex perianal 
+fistulising disease
+Infliximab was the first agent shown to be effective in an RCT for 
+inducing closure of perianal fistulae and for maintaining this re-
+sponse over 1 year. Complete response [defined as the absence of any 
+draining fistulae at two consecutive visits at least 4 weeks apart] was 
+observed in 4/31 placebo patients [12.9%] versus 29/63 infliximab 
+patients [46%] [RR: 3.57; 95% CI: 1.38–9.25138] [Supplementary 
+Material, SoF Table 26, available as Supplementary data at ECCO-
+JCC online]. Subsequently, the ACCENT II trial evaluated the effi-
+cacy of infliximab [5 mg/kg every 8 weeks] in a maintenance trial in 
+195 patients who had a response [defined as a reduction of 50% of 
+draining fistulae in two visits at least 4 weeks apart] at Week 14 after 
+open-label induction treatment with infliximab. A complete response 
+was maintained until Week 54 in 19 of 99 placebo patients [19.2%] 
+versus 33 of 96 infliximab patients [34.4%] [RR: 1.79; 95% CI: 1.10–
+2.92].139 A meta-analysis of the existing data revealed that infliximab 
+was found to be effective in inducing fistula healing [RR: 3.57; 95% 
+CI:1.38–9.25] and in maintaining clinical fistula healing [RR: 1.79; 
+95% CI:1.10–2.92] with no significant risk of serious AEs as com-
+pared with placebo [RR: 1.31; 95% CI: 0.11–15.25] [Supplementary 
+Figure 26, available as Supplementary data at ECCO-JCC online]. 
+A combined evaluation of both RCTs for safety revealed a risk of ser-
+ious AEs of 18.9% [33/175 patients] in placebo groups versus 11.9% 
+[24/201] in infliximab patients. These data from RCTs have been con-
+firmed in several uncontrolled studies.140
+In clinical practice, infliximab is often used in combination with 
+immunosuppressants, antibiotics, and surgical treatment.141–144 Some 
+retrospective data suggest that fistula healing is more likely in pa-
+tients with higher infliximab trough levels, which suggests the need 
+for personalised dosing in this setting.145,146
+Fistula healing in the subgroup of patients with enterocutaneous and/
+or perianal fistulae at baseline [n = 117] was a secondary endpoint of 
+the CHARM double-blind, placebo-controlled, randomised trial.147 
+A subsequent post-hoc analysis that focused specifically on the effi-
+cacy of adalimumab over time in this subgroup confirmed the super-
+iority of adalimumab over placebo [RR: 2.57; 95% CI: 1.13–5.84] 
+for fistula healing after 56 weeks147 [Supplementary Material, SoF 
+Table 27, available as Supplementary data at ECCO-JCC online]. 
+Data from CHARM combined with data from the open-label ex-
+tension study ADHERE showed that there was no significant in-
+crease in serious AEs for patients treated with adalimumab [RR: 
+1.21; 95% CI: 0.43–3.38].71,148 Evidence was also sought for main-
+tenance of fistula healing beyond 56 weeks, resolution of perianal 
+sepsis, stoma-free survival, and quality of life; however, data were 
+insufficient. Although we strongly recommend infliximab as first-line 
+biologic therapy in complex perianal CD [Recommendation 3.1], 
+adalimumab may have a role in patients with previous infliximab 
+failure due to immunogenicity [either primary non-responders or 
+secondary loss-of-responders]. The open-label CHOICE trial in-
+deed demonstrated that complete fistula healing [mainly perianal 
+fistula] could be achieved in 39% of patients [34/88] who initiated 
+adalimumab after infliximab failure.149 This finding has also been 
+reported in a limited case series.150
+We identified a single study74 [a pooled analysis of individual 
+data from the intervention arms only of studies] that com-
+pared anti-TNF versus placebo. Only a pooled effect estimate 
+was provided [i.e., OR of complete fistula closure in those on 
+immunomodulators vs those not on immunomodulators was 1.10; 
+95% CI: 0.68–1.78] without further information on numbers of 
+patients by compared group. Therefore, event rates and absolute 
+risk differences could not be calculated. Furthermore, a retro-
+spective study revealed a hazard ratio of 2.58 [95% CI: 1.16–5.6] 
+for fistula healing in favour of the intervention arm [combination 
+infliximab and immunomodulator] in patients with CD naïve to 
+immunosuppressive therapy.151 There is thus insufficient evidence 
+to support a decision for or against the use of immunomodulators 
+in this context. Further research is necessary to reduce uncertainty 
+and may be warranted, considering the anticipated costs and side 
+effects of combination therapy. In particular, we note the evidence 
+in luminal CD, where addition of immunomodulators reduces im-
+munogenicity of long-term anti-TNF therapy. We therefore rec-
+ommend further research that should focus on the additional 
+treatment effect of combination therapy and the impact on im-
+munogenicity to anti-TNF agents.
+Recommendation 3.1. ECCO CD Treatment GL [2019]
+We recommend infliximab for the induction and main-
+tenance of remission in complex perianal fistulae in 
+Crohn’s disease [strong recommendation; low quality of 
+evidence].
+Recommendation 3.2. ECCO CD Treatment GL [2019]
+We suggest adalimumab may be used for induction and 
+maintenance of remission in complex perianal fistulae in 
+Crohn’s disease [weak recommendation, very low-quality 
+evidence].
+Recommendation 3.3. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease and complex perianal 
+fistula there is insufficient evidence regarding the ef-
+fect of adding immunomodulators to anti-TNF on fis-
+tula healing [weak recommendation, very low-quality 
+evidence].
+16
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+No randomised trial has directly assessed the role of ustekinumab 
+in fistula healing. A post-hoc analysis of 238 patients who entered 
+the phase 2 CERTIFI and phase 3 UNITI 1/2 studies with fistulae at 
+baseline has been reported152 [Supplementary Material, SoF Table 
+28, available as Supplementary data at ECCO-JCC online]. This 
+study included only patients with perianal fistulae and did not dif-
+ferentiate between simple and complex fistulae. The analysis showed 
+a measurable but statistically insignificant effect of ustekinumab for 
+induction of remission [RR: 1.77; 95% CI:0.93–3.37] but no differ-
+ence in comparison with placebo was found for maintenance of re-
+mission.153 We also sought evidence for the effect of ustekinumab on 
+longer-term maintenance of fistula remission, serious AEs, resolution 
+of perianal sepsis, stoma-free survival, and quality of life; however, 
+data were insufficient. Further research is therefore warranted to de-
+termine if ustekinumab is beneficial to patients with perianal fistulae.
+A post-hoc analysis of 45 patients, who entered the GEMINI 2 study 
+with complex perianal fistulae at baseline, demonstrated a trend in 
+favour of vedolizumab compared with placebo for fistula healing 
+[RR: 2.23; 95% CI: 0.57–8.72] although this result was not stat-
+istically significant153,154 [Supplementary Material, SoF Table 29, 
+available as Supplementary data at ECCO-JCC online]. The inter-
+pretation of this study was limited by sparse data [only 13 patients 
+met the endpoint across treatment arms] and specification of fistulae 
+type [perianal in only 74% of patients]. Evidence was sought also 
+for long-term maintenance of clinical fistula healing, serious AEs, 
+quality of life, resolution of perianal sepsis, and stoma-free survival; 
+however, data were insufficient. The only RCT [NCT02630966]155 
+that compared two different induction schedules of vedolizumab 
+[300 mg at Weeks 0, 2, 6, 10, and 14 vs 300 mg at Weeks 0, 2, 6, 
+and 14] was prematurely stopped due to slow recruitment and there-
+fore is inconclusive. However, significant differences were observed 
+between the two study groups. The efficacy of vedolizumab for fis-
+tula healing remains an important research gap.
+Antibiotics are widely used in the treatment of perianal CD, but 
+most published studies are uncontrolled.141 To our knowledge, 
+there is only one RCT that compared placebo with antibiotics in 
+perianal fistulae [Supplementary Material, SoF Table 30, available as 
+Supplementary data at ECCO-JCC online]. Remission at Week 10 
+was observed in 1/8 [12.5%] placebo patients versus 3/17 [17.6%] 
+patients treated with antibiotics [RR: 1.41; 95% CI: 0.17–11.54].156 
+Complete healing was observed in 3/10 [30%] patients treated 
+with ciprofloxacin and 0/8 patients treated with metronidazole. 
+Uncontrolled data or data from studies on combination therapy with 
+anti-TNF suggest that ciprofloxacin can improve the efficacy of anti-
+TNF in the short term with good safety. However, this combination 
+does not impact on longer-term healing rates.42,157 Despite the lack 
+of evidence to support their role as monotherapy in closing perianal 
+fistulae, antibiotics remain indicated and recommended to treat and 
+control perianal sepsis.
+The effect of AZA on fistula healing in complex perianal CD has 
+been numerically reported in RCTs in 18 patients only.49,52,53,158 
+A  meta-analysis on this limited group of patients demonstrated 
+that AZA is not superior to placebo for fistula healing [RR: 2.00; 
+95% CI: 0.67–5.93].95 A  fourth study50 reported complete fistula 
+closure in 9/29 [31%] fistulae during MP therapy, in contrast to 
+1/17 [6%] in placebo-treated fistulae [Supplementary Material, SoF 
+Table 31, available as Supplementary data at ECCO-JCC online]. 
+Nevertheless, these data could not be incorporated in the pooled 
+analysis, as data were reported as number of fistulae closing rather 
+than number of patients who had complete fistulae closing. With the 
+availability of effective anti-TNF agents, the group felt that it would 
+be inappropriate to recommend any further randomised, placebo-
+controlled, double-blind trial studying the efficacy of AZA in com-
+plex perianal fistulae.
+Key Points for Clinical Practice
+This section contains recommendations on the medical treatment of 
+perianal disease. However, the management of complex perianal dis-
+ease should be considered together with the concomitant treatment 
+of luminal disease.
+For the medical treatment of perianal fistulae, no evidence sup-
+ports the use of monotherapy with antibiotics or thiopurines. The 
+highest-quality evidence supports the use of infliximab as first choice. 
+In patients refractory or intolerant to infliximab, there is low-quality 
+evidence to support the use of adalimumab. The current evidence 
+is too limited to support the use of ustekinumab and vedolizumab 
+in clinical practice. However, ustekinumab or vedolizumab may be 
+considered in patients where anti-TNFs are ineffective or contra-
+indicated and there are no treatment options, especially when con-
+comitant luminal disease is present. There is insufficient evidence on 
+the use of combination therapy [specifically infliximab] combined 
+with thiopurines. However, this can be considered when chosen as a 
+therapy for concomitant luminal disease or for anti-immunogenicity 
+purposes.
+Although there is no randomised study that compared the com-
+bination of surgical treatment and infliximab with infliximab alone, 
+joint management and approach by IBD clinicians and surgeons is 
+Recommendation 3.4. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease and complex perianal fis-
+tula there is insufficient evidence to recommend the use 
+of ustekinumab for fistula healing [weak recommenda-
+tion, moderate-quality evidence].
+Recommendation 3.5. ECCO CD Treatment GL [2019]
+In patients with Crohn’s disease and complex perianal fis-
+tula there is insufficient evidence to recommend the use 
+of vedolizumab for fistula healing [weak recommenda-
+tion, low-quality evidence].
+Recommendation 3.6. ECCO CD Treatment GL [2019]
+We suggest against using antibiotics alone for fistula 
+closure in patients with Crohn’s disease and complex 
+perianal fistulae [weak recommendation, low-quality 
+evidence].
+Recommendation 3.7. ECCO CD Treatment GL [2019]
+We suggest against using thiopurine monotherapy 
+[azathioprine, mercaptopurine] for fistula closure in pa-
+tients with Crohn’s disease and complex perianal fistulae 
+[weak recommendation, very low-quality evidence].
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+17
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+considered the standard of care for treatment of complex perianal 
+disease. This is important, since control of sepsis and prevention of 
+perianal infections is necessary before starting any treatment that 
+affects the immune system response. Any immunosuppressive treat-
+ment must be stopped in case of onset of septic complications in 
+patients with IBD.
+5.  Conclusion
+These recommendations summarise the current evidence on the med-
+ical management of patients with CD. Several research gaps have 
+been identified during the revision and analysis of data, which should 
+be addressed by further research. Where evidence is lacking or is very 
+weak and evidence-based recommendations cannot be given, ECCO 
+provides alternative tools, such as Topical Reviews21,92,135,159–161 or 
+Position Papers.162 We state that Guidelines aim to guide the clin-
+icians’ decisions with the best evidence available, but it is up to every 
+clinician to adapt these Guidelines to local regulations and to the 
+patient’s individual characteristics and needs. ECCO will also aim 
+to disseminate these guidelines by educational activities [i.e., edu-
+cational platforms, ECCO Workshop, e-learning, and e-Guide] and 
+to support any initiative to integrate ECCO Guidelines into clinical 
+practice; the ECCO e-Guide will primarily serve as a resource to 
+examine how the Guideline recommendations can be implemented 
+into daily clinical practice and patient care pathways.163 These guide-
+lines will be regularly updated according to the Guideline Committee 
+outline for the update of Guidelines in the future, using the GRADE 
+approach and considering the most recent evidence emerging from 
+clinical research in the field.
+Funding
+This project was initiated, funded, and supported by the European Crohn’s 
+and Colitis Organisation.
+Conflict of Interest
+ECCO has diligently maintained a disclosure policy of potential conflicts of 
+interests [CoI]. The conflict of interest declaration is based on a form used by 
+the International Committee of Medical Journal Editors [ICMJE]. The CoI 
+disclosures are not only stored at the ECCO Office and the editorial office 
+of JCC, but are also open to public scrutiny on the ECCO website [https://
+www.ecco-ibd.eu/about-ecco/ecco-disclosures.html], providing a comprehen-
+sive overview of potential conflicts of interest of the authors.
+Acknowledgments
+We gratefully thank: Paul Freudenberger for the literature search and full 
+text retrieval; Torsten Karge for the support on informatics and on the web 
+Guidelines platform; and Julia Gabriel, Dauren Ramankulov, Karine David, 
+and the ECCO Office for logistical and coordination support. We gratefully 
+thank the EFCCA patient representatives Ciara Drohan, Evelyn Groß, Sanna 
+Lönnfors, and Marko Perovic, who proactively collaborated in the develop-
+ment of these Guidelines. We would like to acknowledge the ECCO National 
+Representatives who acted as external reviewers and reviewed and provided 
+suggestions on the recommendations and supporting text to this document: 
+Filiz Akyuz, Raja Atreya, Manuel Barreiro De Acosta, Dominik Bettenworth, 
+Clas-Göran Björkesten, Ante Bogut, Emma Calabrese, Mirjana Cvetkovic, 
+Pieter Dewint, Srdjan Djuranovic, David Drobne, Dana Duricová, Jérôme 
+Filippi, Christoph Högenauer, Ioannis Kaimakliotis, Gediminas Kiudelis, 
+Maria Klopocka, Ioannis Koutroubakis, Zeljko Krznaric, Hendrik Laja, 
+Alexander Moschen, Gregor Novak, Alexander Potapov, Ilus Tuire, Svetlana 
+Turcan, Willemijn van Dop, Fiona van Schaik, Ana Isabel Vieira, Stephanie 
+Viennot, and Signe Wildt. We would also like to thank the additional reviewers 
+of these Guidelines: Giorgos Bamias, Yago Gonzalez Lama, Marietta Iacucci, 
+Anna Valeryevna Kagramanova, Jost Langhorst, Gaetano Luglio, Annick 
+Moens, Nurulamin Noor, Iago Rodríguez-Lago, Gerhard Rogler, Simone 
+Saibeni, Carsten Schmidt, Tony Tham, and Andres Yarur.
+Author Contributions
+JT, GF, MA, OZ coordinated the project; SB, TL, and MG-L advised on 
+GRADE methodology, trained the working group members, and performed 
+the analysis of data; GD, TK, JG, TR, AS, and JW coordinated the working 
+groups; all the authors listed contributed to the identification of relevant data 
+and data interpretation, and drafted and discussed the final recommendations; 
+all the authors participated in the final Consensus; GF, JT, SB, GD, TK, JG, 
+and TR drafted this manuscript; all authors, the ECCO Guideline Committee 
+[GuiCom], and the ECCO Governing Board approved the final version of the 
+manuscript.
+Supplementary Data
+Supplementary data are available at ECCO-JCC online.
+References
+	1.	 Torres J, Mehandru S, Colombel JF, Peyrin-Biroulet L. Crohn’s disease. 
+Lancet 2017;389:1741–55.
+	2.	 Keyashian K, Dehghan M, Sceats L, et al. Comparative incidence of in-
+flammatory bowel disease in different age groups in the United States. 
+Inflamm Bowel Dis 2019;25:1983–1989.
+	3.	 Jones GR, Lyons M, Plevris N, et al. IBD prevalence in Lothian, Scotland, 
+derived by capture-recapture methodology. Gut 2019;68:1953–60.
+	4.	 Cosnes J, Cattan S, Blain A, et al. Long-term evolution of disease behavior 
+of Crohn’s disease. Inflamm Bowel Dis 2002;8:244–50.
+	5.	 Kruis W, Katalinic A, Klugmann T, et al. Predictive factors for an uncom-
+plicated long-term course of Crohn’s disease: a retrospective analysis. J 
+Crohns Colitis 2013;7:e263–70.
+	6.	 Danese S, Fiorino G, Peyrin-Biroulet L. Early intervention in Crohn’s dis-
+ease: towards disease modification trials. Gut 2017;66:2179–87.
+	7.	 Peyrin-Biroulet  L, Loftus  EV Jr, Colombel  JF, Sandborn  WJ. The nat-
+ural history of adult Crohn’s disease in population-based cohorts. Am J 
+Gastroenterol 2010;105:289–97.
+	8.	 Gomollón F, Dignass A, Annese V, et al.; ECCO. Third European evidence-
+based consensus on the diagnosis and management of Crohn’s dis-
+ease 2016. Part 1: diagnosis and medical management. J Crohns Colitis 
+2017;11:3–25.
+	9.	 Atkins D, Best D, Briss PA, et al.; GRADE Working Group. Grading quality 
+of evidence and strength of recommendations. BMJ 2004;328:1490.
+	10.	Gionchetti P, Dignass A, Danese S, et al.; ECCO. Third European evidence-
+based consensus on the diagnosis and management of Crohn’s disease 
+2016. Part 2: surgical management and special situations. J Crohns Colitis 
+2017;11:135–49.
+	11.	Nahon S, Lahmek P, Lesgourgues B, et al. Diagnostic delay in a French 
+cohort of Crohn’s disease patients. J Crohns Colitis 2014;8:964–9.
+	12.	Schoepfer  AM, Dehlavi  MA, Fournier  N, et  al.; IBD Cohort Study 
+Group. Diagnostic delay in Crohn’s disease is associated with a compli-
+cated disease course and increased operation rate. Am J Gastroenterol 
+2013;108:1744–53; quiz 1754.
+	13.	Thia  KT, Sandborn  WJ, Harmsen  WS, Zinsmeister  AR, Loftus  EV Jr. 
+Risk factors associated with progression to intestinal complications 
+of Crohn’s disease in a population-based cohort. Gastroenterology 
+2010;139:1147–55.
+	14.	Vavricka  SR, Spigaglia  SM, Rogler  G, et  al. Systematic evaluation of 
+risk factors for diagnostic delay in inflammatory bowel disease. Inflamm 
+Bowel Dis 2012;18:409–505.
+	15.	Khanna R, Bressler B, Levesque BG, et al.; REACT Study Investigators. 
+Early combined immunosuppression for the management of Crohn’s 
+18
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+disease [REACT]: a cluster randomised controlled trial. Lancet 
+2015;386:1825–34.
+	16.	Colombel JF, Panaccione R, Bossuyt P, et al. Effect of tight control man-
+agement on Crohn’s disease [CALM]: a multicentre, randomised, con-
+trolled phase 3 trial. Lancet 2018;390:2779–89.
+	17.	Maaser  C, Sturm  A, Vavricka  SR, et  al. ECCO-ESGAR Guideline for 
+Diagnostic Assessment in IBD. Part 1: Initial diagnosis, monitoring of 
+known IBD, detection of complications. J Crohns Colitis 2019;13:144–64.
+	18.	Peyrin-Biroulet L, Sandborn W, Sands BE, et al. Selecting therapeutic tar-
+gets in inflammatory bowel disease [STRIDE]: determining therapeutic 
+goals for treat-to-target. Am J Gastroenterol 2015;110:1324–38.
+	19.	Annese V, Beaugerie L, Egan L, et al.; ECCO. European evidence-based 
+consensus: inflammatory bowel disease and malignancies. J Crohns Colitis 
+2015;9:945–65.
+	20.	Rahier  JF, Magro  F, Abreu  C, et  al.; European Crohn’s and Colitis 
+Organisation [ECCO]. Second European evidence-based consensus on the 
+prevention, diagnosis and management of opportunistic infections in in-
+flammatory bowel disease. J Crohns Colitis 2014;8:443–68.
+	21.	Sigall-Boneh R, Levine A, Lomer M, et al. Research gaps in diet and nutri-
+tion in inflammatory bowel disease. a topical review by D-ECCO working 
+group [Dietitians of ECCO]. J Crohns Colitis 2017;11:1407–19.
+	22.	Harbord M, Annese V, Vavricka SR, et al.; European Crohn’s and Colitis 
+Organisation. The first European evidence-based consensus on extra-
+intestinal manifestations in inflammatory bowel disease. J Crohns Colitis 
+2016;10:239–54.
+	23.	Adamina M, Gerasimidis K, Sigall-Boneh R, et al. Perioperative dietary 
+therapy in inflammatory bowel disease. J Crohns Colitis 2019.
+	24.	Ford  AC, Kane  SV, Khan  KJ, et  al. Efficacy of 5-aminosalicylates in 
+Crohn’s disease: systematic review and meta-analysis. Am J Gastroenterol 
+2011;106:617–29.
+	25.	Rasmussen SN, Lauritsen K, Tage-Jensen U, et al. 5-Aminosalicylic acid 
+in the treatment of Crohn’s disease. A  16-week double-blind, placebo-
+controlled, multicentre study with Pentasa. Scand J Gastroenterol 
+1987;22:877–83.
+	26.	Singleton  JW, Hanauer  SB, Gitnick  GL, et  al. Mesalamine capsules for 
+the treatment of active Crohn’s disease: results of a 16-week trial. Pentasa 
+Crohn’s Disease Study Group. Gastroenterology 1993;104:1293–301.
+	27.	Tremaine WJ, Schroeder KW, Harrison JM, Zinsmeister AR. A random-
+ized, double-blind, placebo-controlled trial of the oral mesalamine [5-ASA] 
+preparation, Asacol, in the treatment of symptomatic Crohn’s colitis and 
+ileocolitis. J Clin Gastroenterol 1994;19:278–82.
+	28.	Ferring Pharmaceuticals. PEACE study: a study with Pentasa in patients 
+with active Crohn’s disease. 2012. https://clinicaltrials.gov/ct2/show/
+NCT00862121 Accessed Sep 16, 2019
+	29.	Malchow H, Ewe K, Brandes JW, et al. European Cooperative Crohn’s 
+Disease Study [ECCDS]: results of drug treatment. Gastroenterology 
+1984;86:249–66.
+	30.	Summers  RW, Switz  DM, Sessions  JT Jr, et  al. National cooperative 
+Crohn’s disease study: results of drug treatment. Gastroenterology 
+1979;77:847–69.
+	31.	Lim WC, Wang Y, MacDonald JK, Hanauer S. Aminosalicylates for induc-
+tion of remission or response in Crohn’s disease. Cochrane Database Syst 
+Rev 2016;7:CD008870.
+	32.	Coward S, Kuenzig ME, Hazlewood G, et al. Comparative effectiveness of 
+mesalamine, sulfasalazine, corticosteroids, and budesonide for the induc-
+tion of remission in Crohn’s disease: a Bayesian network meta-analysis: 
+republished. Inflamm Bowel Dis 2017;23:E26–37.
+	33.	Moja L, Danese S, Fiorino G, Del Giovane C, Bonovas S. Systematic re-
+view with network meta-analysis: comparative efficacy and safety of 
+budesonide and mesalazine [mesalamine] for Crohn’s disease. Aliment 
+Pharmacol Ther 2015;41:1055–65.
+	34.	Hanauer SB, Strömberg U. Oral Pentasa in the treatment of active Crohn’s 
+disease: A meta-analysis of double-blind, placebo-controlled trials. Clin 
+Gastroenterol Hepatol 2004;2:379–88.
+	35.	Rezaie  A, Kuenzig  ME, Benchimol  EI, et  al. Budesonide for induc-
+tion of remission in Crohn’s disease. Cochrane Database Syst Rev 
+2015;6:CD000296.
+	36.	Greenberg GR, Feagan BG, Martin F, et al. Oral budesonide for active 
+Crohn’s disease. Canadian Inflammatory Bowel Disease Study Group. N 
+Engl J Med 1994;331:836–41.
+	37.	Tremaine WJ, Hanauer SB, Katz S, et al.; Budesonide CIR United States 
+Study Group. Budesonide CIR capsules [once or twice daily divided-dose] 
+in active Crohn’s disease: a randomized placebo-controlled study in the 
+United States. Am J Gastroenterol 2002;97:1748–54.
+	38.	Suzuki Y, Motoya S, Takazoe M, et al. Efficacy and tolerability of oral 
+budesonide in Japanese patients with active Crohn’s disease: a multicentre, 
+double-blind, randomized, parallel-group Phase II study. J Crohns Colitis 
+2013;7:239–47.
+	39.	Thomsen  OO, Cortot  A, Jewell  D, et  al. A comparison of budesonide 
+and mesalamine for active Crohn’s disease. International Budesonide-
+Mesalamine Study Group. N Engl J Med 1998;339:370–4.
+	40.	Tromm A, Bunganič I, Tomsová E, et al.; International Budenofalk Study 
+Group. Budesonide 9 mg is at least as effective as mesalamine 4.5 g in pa-
+tients with mildly to moderately active Crohn’s disease. Gastroenterology 
+2011;140:425–34.e1; quiz e13–4.
+	41.	Yokoyama  T, Ohta  A, Motoya  S, et  al. Efficacy and safety of oral 
+budesonide in patients with active Crohn’s disease in Japan: a multicenter, 
+double-blind, randomized, parallel-group phase 3 study. Inflamm Intest 
+Dis 2018;2:154–62.
+	42.	Khan KJ, Ullman TA, Ford AC, et al. Antibiotic therapy in inflammatory 
+bowel disease: a systematic review and meta-analysis. Am J Gastroenterol 
+2011;106:661–73.
+	43.	Lichtenstein  GR, Loftus  EV, Isaacs  KL, Regueiro  MD, Gerson  LB, 
+Sands  BE. ACG clinical guideline: management of Crohn’s disease in 
+adults. Am J Gastroenterol 2018;113:481–517.
+	44.	Selby  W, Pavli  P, Crotty  B, et  al.; Antibiotics in Crohn’s Disease Study 
+Group. Two-year combination antibiotic therapy with clarithromycin, 
+rifabutin, and clofazimine for Crohn’s disease. Gastroenterology 
+2007;132:2313–9.
+	45.	Benchimol EI, Seow CH, Steinhart AH, Griffiths AM. Traditional cortico-
+steroids for induction of remission in Crohn’s disease. Cochrane Database 
+Syst Rev 2008;2:CD006792.
+	46.	Singleton  JW, Law  DH, Kelley  ML Jr, Mekhjian  HS, Sturdevant  RA. 
+National Cooperative Crohn’s Disease Study: adverse reactions to study 
+drugs. Gastroenterology 1979;77:870–82.
+	47.	Candy S, Wright J, Gerber M, Adams G, Gerig M, Goodman R. A con-
+trolled double blind study of azathioprine in the management of Crohn’s 
+disease. Gut 1995;37:674–8.
+	48.	Ewe  K, Press  AG, Singe  CC, et  al. Azathioprine combined with pred-
+nisolone or monotherapy with prednisolone in active Crohn’s disease. 
+Gastroenterology 1993;105:367–72.
+	49.	Klein M, Binder HJ, Mitchell M, Aaronson R, Spiro H. Treatment of Crohn’s 
+disease with azathioprine: a controlled evaluation. Gastroenterology 
+1974;66:916–22.
+	50.	Present DH, Korelitz BI, Wisch N, Glass JL, Sachar DB, Pasternack BS. 
+Treatment of Crohn’s disease with 6-mercaptopurine. A long-term, ran-
+domized, double-blind study. N Engl J Med 1980;302:981–7.
+	51.	Reinisch  W, Panés  J, Lémann  M, et  al. A multicenter, randomized, 
+double-blind trial of everolimus versus azathioprine and placebo to main-
+tain steroid-induced remission in patients with moderate-to-severe active 
+Crohn’s disease. Am J Gastroenterol 2008;103:2284–92.
+	52.	Rhodes J, Bainton D, Beck P, Campbell H. Controlled trial of azathioprine 
+in Crohn’s disease. Lancet 1971;2:1273–6.
+	53.	Willoughby JM, Beckett J, Kumar PJ, Dawson AM. Controlled trial of 
+azathioprine in Crohn’s disease. Lancet 1971;2:944–7.
+	54.	Oren R, Moshkowitz M, Odes S, et al. Methotrexate in chronic active 
+Crohn’s disease: a double-blind, randomized, Israeli multicenter trial. Am 
+J Gastroenterol 1997;92:2203–9.
+	55.	Feagan  BG, Rochon  J, Fedorak  RN, et  al. Methotrexate for the treat-
+ment of Crohn’s disease. The North American Crohn’s Study Group 
+Investigators. N Engl J Med 1995;332:292–7.
+	56.	Oren  R, Arber  N, Odes  S, et  al. Methotrexate in chronic active ul-
+cerative colitis: a double-blind, randomized, Israeli multicenter trial. 
+Gastroenterology 1996;110:1416–21.
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+19
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+	57.	Oren R, Moshkowitz M, Odes S, et al. Erratum: methotrexate in chronic 
+active Crohn’s disease: a double-blind, randomized, Israeli multicenter 
+trial [Am J Gastroenterol 1997;92:2203–9]. Am J Gastroenterol 
+2015;110:608.
+	58.	Oren  R, Moshkowitz  M, Odes  S, et  al. Corrigendum: methotrexate in 
+chronic active Crohn’s disease: a double-blind, randomized, Israeli 
+multicenter trial. Am J Gastroenterol 2015;110:608.
+	59.	Maté-Jiménez  J, Hermida  C, Cantero-Perona  J, Moreno-Otero  R. 
+6-mercaptopurine or methotrexate added to prednisone induces and 
+maintains remission in steroid-dependent inflammatory bowel disease. 
+Eur J Gastroenterol Hepatol 2000;12:1227–33.
+	60.	Ardizzone  S, Bollani  S, Manzionna  G, Imbesi  V, Colombo  E, 
+Bianchi Porro G. Comparison between methotrexate and azathioprine in 
+the treatment of chronic active Crohn’s disease: a randomised, investigator-
+blind study. Dig Liver Dis 2003;35:619–27.
+	61.	van der Woude CJ, Ardizzone S, Bengtson MB, et al.; European Crohn’s 
+and Colitis Organization. The second European evidenced-based con-
+sensus on reproduction and pregnancy in inflammatory bowel disease. J 
+Crohns Colitis 2015;9:107–24.
+	62.	Stidham RW, Lee TC, Higgins PD, et al. Systematic review with network 
+meta-analysis: the efficacy of anti-TNF agents for the treatment of Crohn’s 
+disease. Aliment Pharmacol Ther 2014;39:1349–62.
+	63.	Cholapranee  A, Hazlewood  GS, Kaplan  GG, Peyrin-Biroulet  L, 
+Ananthakrishnan AN. Systematic review with meta-analysis: comparative 
+efficacy of biologics for induction and maintenance of mucosal healing in 
+Crohn’s disease and ulcerative colitis controlled trials. Aliment Pharmacol 
+Ther 2017;45:1291–302.
+	64.	Ford AC, Sandborn WJ, Khan KJ, et al. Efficacy of biological therapies in 
+inflammatory bowel disease: systematic review and meta-analysis. Am J 
+Gastroenterol 2011;106:644–59, quiz 60.
+	65.	Rutgeerts P, Diamond RH, Bala M, et al. Scheduled maintenance treat-
+ment with infliximab is superior to episodic treatment for the healing of 
+mucosal ulceration associated with Crohn’s disease. Gastrointest Endosc 
+2006;63:433–42; quiz 464.
+	66.	Rutgeerts P, Van Assche G, Sandborn WJ, et al.; EXTEND Investigators. 
+Adalimumab induces and maintains mucosal healing in patients with 
+Crohn’s disease: data from the EXTEND trial. Gastroenterology 
+2012;142:1102–11.e2.
+	67.	Hazlewood  GS, Rezaie  A, Borman  M, et  al. Comparative effectiveness 
+of immunosuppressants and biologics for inducing and maintaining re-
+mission in Crohn’s disease: a network meta-analysis. Gastroenterology 
+2015;148:344–54.e5; quiz e14–5.
+	68.	Colombel JF, Reinisch W, Mantzaris GJ, et al. Randomised clinical trial: 
+deep remission in biologic and immunomodulator naïve patients with 
+Crohn’s disease a SONIC post hoc analysis. Aliment Pharmacol Ther 
+2015;41:734–46.
+	69.	Colombel JF, Sandborn WJ, Allez M, et al. Association between plasma 
+concentrations of certolizumab pegol and endoscopic outcomes of pa-
+tients with Crohn’s disease. Clin Gastroenterol Hepatol 2014;12:423–31.
+e1.
+	70.	Colombel  JF, Sandborn  WJ, Reinisch  W, et  al.; SONIC Study Group. 
+Infliximab, azathioprine, or combination therapy for Crohn’s disease. N 
+Engl J Med 2010;362:1383–95.
+	71.	Colombel JF, Sandborn WJ, Rutgeerts P, et al. Adalimumab for mainten-
+ance of clinical response and remission in patients with Crohn’s disease: 
+the CHARM trial. Gastroenterology 2007;132:52–65.
+	72.	Schreiber  S, Reinisch  W, Colombel  JF, et  al. Subgroup analysis of the 
+placebo-controlled CHARM trial: increased remission rates through 
+3  years for adalimumab-treated patients with early Crohn’s disease. J 
+Crohns Colitis 2013;7:213–21.
+	73.	Matsumoto T, Motoya S, Watanabe K, et al.; DIAMOND study group. 
+Adalimumab monotherapy and a combination with azathioprine for 
+Crohn’s disease: a prospective, randomized trial. J Crohns Colitis 
+2016;10:1259–66.
+	74.	Jones  JL, Kaplan  GG, Peyrin-Biroulet  L, et  al. Effects of concomitant 
+immunomodulator therapy on efficacy and safety of anti-tumor necrosis 
+factor therapy for Crohn’s disease: a meta-analysis of placebo-controlled 
+trials. Clin Gastroenterol Hepatol 2015;13:2233–40.e1–2; quiz e177–8.
+	75.	European Medicine Agency. Stelara Ustekinumab. 2009. https://www.
+ema.europa.eu/en/documents/product-information/stelara-epar-product-
+information_en.pdf Accessed Sep 16, 2019.
+	76.	Sandborn  WJ, Gasink  C, Gao  LL, et  al.; CERTIFI Study Group. 
+Ustekinumab induction and maintenance therapy in refractory Crohn’s 
+disease. N Engl J Med 2012;367:1519–28.
+	77.	MacDonald  JK, Nguyen  TM, Khanna  R, Timmer  A. Anti-IL-12/23p40 
+antibodies for induction of remission in Crohn’s disease. Cochrane 
+Database Syst Rev 2016;11:CD007572.
+	78.	Sandborn  WJ, Feagan  BG, Fedorak  RN, et  al.; Ustekinumab Crohn’s 
+Disease Study Group. A randomized trial of Ustekinumab, a human inter-
+leukin-12/23 monoclonal antibody, in patients with moderate-to-severe 
+Crohn’s disease. Gastroenterology 2008;135:1130–41.
+	79.	Feagan  BG, Sandborn  WJ, Gasink  C, et  al.; UNITI–IM-UNITI Study 
+Group. Ustekinumab as induction and maintenance therapy for Crohn’s 
+disease. N Engl J Med 2016;375:1946–60.
+	80.	Rutgeerts P, Gasink C, Chan D, et al. Efficacy of Ustekinumab for inducing 
+endoscopic healing in patients with Crohn’s disease. Gastroenterology 
+2018;155:1045–58.
+	81.	Hanauer SB, Sandborn WJ, Feagan BG, et al. IM-UNITI: 3 year efficacy, 
+safety, and immunogenicity of ustekinumab treatment of Crohn’s disease. 
+J Crohns Colitis 2020;14:23–32.
+	82.	Sandborn WJ, Feagan BG, Rutgeerts P, et al.; GEMINI 2 Study Group. 
+Vedolizumab as induction and maintenance therapy for Crohn’s disease. 
+N Engl J Med 2013;369:711–21.
+	83.	European Medicine Agency. Entyvio Summary of Product Characteristics. 
+2014. 
+https://www.ema.europa.eu/en/documents/product-information/
+entyvio-epar-product-information_en.pdf Accessed Sep 16, 2019.
+	84.	Feagan BG, Greenberg GR, Wild G, et al. Treatment of active Crohn’s dis-
+ease with MLN0002, a humanized antibody to the alpha4beta7 integrin. 
+Clin Gastroenterol Hepatol 2008;6:1370–7.
+	85.	Sands B, Feagan B, Rutgeerts P, et al. Effects of vedolizumab induction 
+therapy for patients with Crohn’s disease in whom tumor necrosis factor 
+antagonist treatment failed. Gastroenterology 2014;3;618–27.e3.
+	86.	Kawalec  P, Moćko  P. An indirect comparison of ustekinumab and 
+vedolizumab in the therapy of TNF-failure Crohn’s disease patients. J 
+Comp Eff Res 2018;7:101–11.
+	87.	Steinhart  AH, Ewe  K, Griffiths  AM, Modigliani  R, Thomsen  OO. 
+Corticosteroids for maintenance of remission in Crohn’s disease. Cochrane 
+Database Syst Rev 2003;4:CD000301.
+	88.	Kalman RS, Hartshorn K, Farraye FA. Does a personal or family history of 
+malignancy preclude the use of immunomodulators and biologics in IBD? 
+Inflamm Bowel Dis 2015;21:428–35.
+	89.	Kennedy  NA, Heap  GA, Green  HD, et  al.; UK Inflammatory Bowel 
+Disease Pharmacogenetics Study Group. Predictors of anti-TNF treatment 
+failure in anti-TNF-naive patients with active luminal Crohn’s disease: 
+a prospective, multicentre, cohort study. Lancet Gastroenterol Hepatol 
+2019;4:341–53.
+	90.	Kirchgesner J, Lemaitre M, Carrat F, Zureik M, Carbonnel F, Dray-Spira R. 
+Risk of serious and opportunistic infections associated with treatment of 
+inflammatory bowel diseases. Gastroenterology 2018;155:337–46.e10.
+	91.	Lemaitre M, Kirchgesner J, Rudnichi A, et al. Association between use of 
+thiopurines or tumor necrosis factor antagonists alone or in combination 
+and risk of lymphoma in patients with inflammatory bowel disease. JAMA 
+2017;318:1679–86.
+	92.	Sturm  A, Maaser  C, Mendall  M, et  al. European Crohn’s and Colitis 
+Organisation topical review on IBD in the elderly. J Crohns Colitis 
+2017;11:263–73.
+	93.	Beaugerie  L. Lymphoma: the bête noire of the long-term use of 
+thiopurines in adult and elderly patients with inflammatory bowel disease. 
+Gastroenterology 2013;145:927–30.
+	94.	Akobeng AK, Zhang D, Gordon M, MacDonald JK. Oral 5-aminosalicylic 
+acid for maintenance of medically-induced remission in Crohn’s disease. 
+Cochrane Database Syst Rev 2016;9:CD003715.
+20
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+	95.	 Chande  N, Patton  PH, Tsoulis  DJ, Thomas  BS, MacDonald  JK. 
+Azathioprine or 6-mercaptopurine for maintenance of remission in 
+Crohn’s disease. Cochrane Database Syst Rev; 2015;10:Cd000067.
+	96.	 Lémann  M, Mary  JY, Colombel  JF, et  al.; Groupe D’Etude 
+Thérapeutique des Affections Inflammatoires du Tube Digestif. A ran-
+domized, double-blind, controlled withdrawal trial in Crohn’s disease 
+patients in long-term remission on azathioprine. Gastroenterology 
+2005;128:1812–8.
+	97.	 O’Donoghue  DP, Dawson  AM, Powell-Tuck  J, Bown  RL, Lennard-
+Jones JE. Double-blind withdrawal trial of azathioprine as maintenance 
+treatment for Crohn’s disease. Lancet 1978;2:955–7.
+	98.	 Panés J, López-Sanromán A, Bermejo F, et al. Early azathioprine therapy 
+is no more effective than placebo for newly diagnosed Crohn’s disease. 
+Gastroenterology 2013;145:766–74.e1.
+	99.	 Rosenberg  JL, Levin  B, Wall  AJ, Kirsner  JB. A controlled trial of 
+azathioprine in Crohn’s disease. Am J Dig Dis 1975;20:721–6.
+	100.	Cosnes J, Bourrier A, Laharie D, et al.; Groupe d’Etude Thérapeutique 
+des Affections Inflammatoires du Tube Digestif [GETAID]. Early ad-
+ministration of azathioprine vs conventional management of Crohn’s 
+Disease: a randomized controlled trial. Gastroenterology 2013;145:758–
+65.e2; quiz e14–5.
+	101.	Hanauer  SB, Feagan  BG, Lichtenstein  GR, et  al.; ACCENT I  Study 
+Group. Maintenance infliximab for Crohn’s disease: the ACCENT I ran-
+domised trial. Lancet 2002;359:1541–9.
+	102.	Sandborn  WJ, Feagan  BG, Stoinov  S, et  al.; PRECISE 1 Study 
+Investigators. Certolizumab pegol for the treatment of Crohn’s disease. 
+N Engl J Med 2007;357:228–38.
+	103.	Sandborn WJ, Hanauer SB, Rutgeerts P, et al. Adalimumab for mainten-
+ance treatment of Crohn’s disease: results of the CLASSIC II trial. Gut 
+2007;56:1232–9.
+	104.	Schreiber S, Khaliq-Kareemi M, Lawrance IC, et al.; PRECISE 2 Study 
+Investigators. Maintenance therapy with certolizumab pegol for Crohn’s 
+disease. N Engl J Med 2007;357:239–50.
+	105.	Singh JA, Wells GA, Christensen R, et al. Adverse effects of biologics: a 
+network meta-analysis and Cochrane overview. Cochrane Database Syst 
+Rev 2011;2:CD008794.
+	106.	Singh S, Fumery M, Sandborn WJ, Murad MH. Systematic review and net-
+work meta-analysis: first- and second-line biologic therapies for moderate-
+severe Crohn’s disease. Aliment Pharmacol Ther 2018;48:394–409.
+	107.	Vande Casteele N, Ferrante M, Van Assche G, et al. Trough concentra-
+tions of infliximab guide dosing for patients with inflammatory bowel 
+disease. Gastroenterology 2015;148:1320–9.e3.
+	108.	D’Haens  G, Vermeire  S, Lambrecht  G, et  al.; GETAID. Increasing 
+infliximab dose based on symptoms, biomarkers, and serum drug concen-
+trations does not increase clinical, endoscopic, and corticosteroid-free re-
+mission in patients with active luminal Crohn’s disease. Gastroenterology 
+2018;154:1343–51.e1.
+	109.	Steenholdt C, Brynskov J, Thomsen OØ, et al. Individualised therapy is 
+more cost-effective than dose intensification in patients with Crohn’s dis-
+ease who lose response to anti-TNF treatment: a randomised, controlled 
+trial. Gut 2014;63:919–27.
+	110.	Feuerstein JD, Nguyen GC, Kupfer SS, Falck-Ytter Y, Singh S; American 
+Gastroenterological Association Institute Clinical Guidelines Committee. 
+American Gastroenterological Association Institute guideline on thera-
+peutic drug monitoring in inflammatory bowel disease. Gastroenterology 
+2017;153:827–34.
+	111.	Mitrev N, Leong RW. Therapeutic drug monitoring of anti-tumour ne-
+crosis factor-α agents in inflammatory bowel disease. Expert Opin Drug 
+Saf 2017;16:303–17.
+	112.	 Kelly  OB, Donnell  SO, Stempak  JM, Steinhart  AH, Silverberg  MS. 
+Therapeutic Drug monitoring to guide infliximab dose adjustment is asso-
+ciated with better endoscopic outcomes than clinical decision making alone 
+in active inflammatory bowel disease. Inflamm Bowel Dis 2017;23:1202–9.
+	113.	Guidi L, Pugliese D, Panici Tonucci T, et al. Therapeutic drug monitoring 
+is more cost-effective than a clinically-based approach in the manage-
+ment of loss of response to infliximab in inflammatory bowel disease: an 
+observational multi-centre study. J Crohns Colitis 2018.
+	114.	Ricciuto A, Dhaliwal J, Walters TD, Griffiths AM, Church PC. Clinical 
+outcomes with therapeutic drug monitoring in inflammatory bowel 
+disease: a systematic review with meta-analysis. J Crohns Colitis 
+2018;12:1302–15.
+	115.	Vilien  M, Dahlerup  JF, Munck  LK, Nørregaard  P, Grønbaek  K, 
+Fallingborg  J. Randomized controlled azathioprine withdrawal after 
+more than two years treatment in Crohn’s disease: increased relapse rate 
+the following year. Aliment Pharmacol Ther 2004;19:1147–52.
+	116.	Wenzl HH, Primas C, Novacek G, et al. Withdrawal of long-term main-
+tenance treatment with azathioprine tends to increase relapse risk in pa-
+tients with Crohn’s disease. Dig Dis Sci 2015;60:1414–23.
+	117.	Boyapati  RK, Torres  J, Palmela  C, et  al. Withdrawal of immunosup-
+pressant or biologic therapy for patients with quiescent Crohn’s disease. 
+Cochrane Database Syst Rev 2018;5:CD012540.
+	118.	Roblin X, Boschetti G, Williet N, et al. Azathioprine dose reduction in 
+inflammatory bowel disease patients on combination therapy: an open-
+label, prospective and randomised clinical trial. Aliment Pharmacol Ther 
+2017;46:142–9.
+	119.	Van Assche G, Magdelaine-Beuzelin C, D’Haens G, et al. Withdrawal of 
+immunosuppression in Crohn’s disease treated with scheduled infliximab 
+maintenance: a randomized trial. Gastroenterology 2008;134:1861–8.
+	120.	Siegel  CA, Marden  SM, Persing  SM, Larson  RJ, Sands  BE. Risk of 
+lymphoma associated with combination anti-tumor necrosis factor and 
+immunomodulator therapy for the treatment of Crohn’s disease: a meta-
+analysis. Clin Gastroenterol Hepatol 2009;7:874–81.
+	121.	Chalhoub JM, Rimmani HH, Gumaste VV, Sharara AI. Systematic re-
+view and meta-analysis: adalimumab monotherapy versus combination 
+therapy with immunomodulators for induction and maintenance of re-
+mission and response in patients with Crohn’s disease. Inflamm Bowel 
+Dis 2017;23:1316–27.
+	122.	Kamm  MA, Hanauer  SB, Rutgeerts  P, et  al. Results from an open-
+label extension of CHARM: Steroid-free remission in patients with 
+Crohn’s disease who received Adalimumab therapy for at least 3 years. 
+Gastroenterology 2009;136:A653.
+	123.	Torres J, Boyapati RK, Kennedy NA, Louis E, Colombel JF, Satsangi J. 
+Systematic review of effects of withdrawal of immunomodulators 
+or biologic agents from patients with inflammatory bowel disease. 
+Gastroenterology 2015;149:1716–30.
+	124.	Gisbert JP, Marín AC, Chaparro M. The risk of relapse after anti-TNF 
+discontinuation in inflammatory bowel disease: systematic review and 
+meta-analysis. Am J Gastroenterol 2016;111:632–47.
+	125.	Kennedy NA, Warner B, Johnston EL, et al.; UK Anti-TNF withdrawal 
+study group. Relapse after withdrawal from anti-TNF therapy for in-
+flammatory bowel disease: an observational study, plus systematic review 
+and meta-analysis. Aliment Pharmacol Ther 2016;43:910–23.
+	126.	Casanova  MJ, Chaparro  M, García-Sánchez  V, et  al. Evolution after 
+anti-TNF discontinuation in patients with inflammatory bowel dis-
+ease: a multicenter long-term follow-up study. Am J Gastroenterol 
+2017;112:120–31.
+	127.	Helwig U, Lutter F, Koppka N, Schreiber S. Proposal for an anti-tumour 
+necrosis factor-exit strategy based on trough serum level. J Crohns Colitis 
+2016;10:S252–3.
+	128.	Papamichael K, Rivals O, Billiet T, et al. Long-term outcome of IBD pa-
+tients with primary non-response to anti-TNF therapy. J Crohns Colitis 
+2015;9:S864.
+	129.	Hlavaty  T, Krajcovicova  A, Letkovsky  J, et  al. Relapse rates of in-
+flammatory bowel disease patients in deep and clinical remission after 
+discontinuing anti-tumor necrosis factor alpha therapy. Bratisl Lek Listy 
+2016;117:205–11.
+	130.	Bortlik  M, Duricova  D, Machkova  N, et  al. Discontinuation of anti-
+tumor necrosis factor therapy in inflammatory bowel disease patients: a 
+prospective observation. Scand J Gastroenterol 2016;51:196–202.
+	131.	Molander P, Färkkilä M, Kemppainen H, et al. Long-term outcome of in-
+flammatory bowel disease patients with deep remission after discontinu-
+ation of TNFα-blocking agents. Scand J Gastroenterol 2017;52:284–90.
+	132.	Reenaers C, Mary JY, Nachury M, et al.; Groupe d’Etude Therapeutique 
+des Affections Inflammatoires du tube Digestif. Outcomes 7 years after 
+ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment
+21
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023
+infliximab withdrawal for patients with Crohn’s disease in sustained re-
+mission. Clin Gastroenterol Hepatol 2018;16:234–43.e2.
+	133.	Hu H, Xiang C, Qiu C, et al. Discontinuation of scheduled infliximab 
+in Crohn’s patients with clinical remission: a retrospective single-center 
+study. Gastroenterol Res 2017;10:92–9.
+	134.	Ampuero  J, Rojas-Feria  M, Castro-Fernández  M, Millán-Lorenzo  M, 
+Guerrero-Jiménez P, Romero-Gómez M. Remission maintained by mono-
+therapy after biological + immunosuppressive combination for Crohn’s 
+disease in clinical practice. J Gastroenterol Hepatol 2016;31:112–8.
+	135.	Doherty G, Katsanos KH, Burisch J, et al. European Crohn’s and Colitis 
+Organisation topical review on treatment withdrawal [‘exit strategies’] in 
+inflammatory bowel disease. J Crohns Colitis 2018;12:17–31.
+	136.	Beaugerie  L, Brousse  N, Bouvier  AM, et  al.; CESAME Study Group. 
+Lymphoproliferative disorders in patients receiving thiopurines for in-
+flammatory bowel disease: a prospective observational cohort study. 
+Lancet 2009;374:1617–25.
+	137.	Peyrin-Biroulet  L, Khosrotehrani  K, Carrat  F, et  al.; Cesame Study 
+Group. Increased risk for nonmelanoma skin cancers in patients who 
+receive thiopurines for inflammatory bowel disease. Gastroenterology 
+2011;141:1621–8.e1–5.
+	138.	Present DH, Rutgeerts P, Targan S, et al. Infliximab for the treatment of fis-
+tulas in patients with Crohn’s disease. N Engl J Med 1999;340:1398–405.
+	139.	Sands  BE, Anderson  FH, Bernstein  CN, et  al. Infliximab maintenance 
+therapy for fistulizing Crohn’s disease. N Engl J Med 2004;350:876–85.
+	140.	Bermejo F, Guerra I, Algaba A, López-Sanromán A. Pharmacological ap-
+proach to the management of Crohn’s disease patients with perianal dis-
+ease. Drugs 2018;78:1–18.
+	141.	Panés J, Rimola J. Perianal fistulizing Crohn’s disease: pathogenesis, diag-
+nosis and therapy. Nat Rev Gastroenterol Hepatol 2017;14:652–64.
+	142.	Kotze PG, Shen B, Lightner A, et al. Modern management of perianal 
+fistulas in Crohn’s disease: future directions. Gut 2018;67:1181–94.
+	143.	Steinhart AH, Panaccione R, Targownik L, et al. Clinical practice guide-
+line for the medical management of perianal fistulizing Crohn’s disease: 
+the Toronto Consensus. Inflamm Bowel Dis 2019;25:1–13.
+	144.	Regueiro M, Mardini H. Treatment of perianal fistulizing Crohn’s disease 
+with infliximab alone or as an adjunct to exam under anesthesia with 
+seton placement. Inflamm Bowel Dis 2003;9:98–103.
+	145.	Yarur AJ, Kanagala V, Stein DJ, et al. Higher infliximab trough levels are 
+associated with perianal fistula healing in patients with Crohn’s disease. 
+Aliment Pharmacol Ther 2017;45:933–40.
+	146.	Davidov  Y, Ungar  B, Bar-Yoseph  H, et  al. Association of induction 
+infliximab levels with clinical response in perianal Crohn’s disease. J 
+Crohns Colitis 2017;11:549–55.
+	147.	Colombel JF, Schwartz DA, Sandborn WJ, et al. Adalimumab for the treat-
+ment of fistulas in patients with Crohn’s disease. Gut 2009;58:940–8.
+	148.	Panaccione R, Colombel JF, Sandborn WJ, et al. Adalimumab maintains 
+remission of Crohn’s disease after up to 4 years of treatment: data from 
+CHARM and ADHERE. Aliment Pharmacol Ther 2013;38:1236–47.
+	149.	Lichtiger S, Binion DG, Wolf DC, et al. The CHOICE trial: adalimumab 
+demonstrates safety, fistula healing, improved quality of life and in-
+creased work productivity in patients with Crohn’s disease who failed 
+prior infliximab therapy. Aliment Pharmacol Ther 2010;32:1228–39.
+	150.	Echarri  A, Castro  J, Barreiro  M, Carpio  D, Pereira  S, Lorenzo  A. 
+Evaluation of adalimumab therapy in multidisciplinary strategy for peri-
+anal Crohn’s disease patients with infliximab failure. J Crohns Colitis 
+2010;4:654–60.
+	151.	Bouguen G, Siproudhis L, Gizard E, et al. Long-term outcome of perianal 
+fistulizing Crohn’s disease treated with infliximab. Clin Gastroenterol 
+Hepatol 2013;11:975–81.e1–4.
+	152.	Sands BE, Gasink C, Jacobstein D, et al. Fistula healing in pivotal studies 
+of ustekinumab in Crohn’s disease. Gastroenterology 2017;152:S185.
+	153.	Lee MJ, Parker CE, Taylor SR, et al. Efficacy of medical therapies for 
+fistulizing Crohn’s disease: systematic review and meta-analysis. Clin 
+Gastroenterol Hepatol 2018;16:1879–92.
+	154.	Feagan  BG, Schwartz  D, Danese  S, et  al. Efficacy of vedolizumab in 
+fistulising Crohn’s disease: exploratory analyses of data from GEMINI 
+2. J Crohns Colitis 2018;12:621–6.
+	155.	National Library of Medicine [US]. Vedolizumab IV 300  mg in the 
+Treatment of Fistulizing Crohn’s Disease [ENTERPRISE]. 2015. https://
+clinicaltrials.gov/ct2/show/study/NCT02630966 Accessed April 
+1, 
+2019.
+	156.	Thia  KT, Mahadevan  U, Feagan  BG, et  al. Ciprofloxacin or metro-
+nidazole for the treatment of perianal fistulas in patients with Crohn’s 
+disease: a randomized, double-blind, placebo-controlled pilot study. 
+Inflamm Bowel Dis 2009;15:17–24.
+	157.	Dewint  P, Hansen  BE, Verhey  E, et  al. Adalimumab combined with 
+ciprofloxacin is superior to adalimumab monotherapy in perianal fistula 
+closure in Crohn’s disease: a randomised, double-blind, placebo con-
+trolled trial [ADAFI]. Gut 2014;63:292–9.
+	158.	Willoughby JM, Kumar P, Beckett J, Dawson AM. A double-blind trial of 
+azathioprine in Crohn’s disease. Gut 1971;12:864.
+	159.	Maaser C, Langholz E, Gordon H, et al. European Crohn’s and Colitis 
+Organisation topical review on environmental factors in IBD. J Crohns 
+Colitis 2017;11:905–20.
+	160.	Rieder  F, Latella  G, Magro  F, et  al. European Crohn’s and Colitis 
+Organisation topical review on prediction, diagnosis and management of 
+fibrostenosing Crohn’s disease. J Crohns Colitis 2016;10:873–85.
+	161.	van Rheenen PF, Aloi M, Biron IA, et al. European Crohn’s and Colitis 
+Organisation topical review on transitional care in inflammatory bowel 
+disease. J Crohns Colitis 2017;11:1032–8.
+	162.	Danese S, Fiorino G, Raine T, et al. ECCO position statement on the 
+use of biosimilars for inflammatory bowel disease-an update. J Crohns 
+Colitis 2017;11:26–34.
+	163.	European Crohn’s Colitis Organisation ECCO e-Guide. 2013. https://
+www.ecco-ibd.eu/publications/ecco-guidelines-science/ecco-e-guide.html 
+Accessed Oct 2, 2019.
+22
+J. Torres et al.
+Downloaded from https://academic.oup.com/ecco-jcc/article/14/1/4/5620479 by E-Library Insel user on 29 June 2023

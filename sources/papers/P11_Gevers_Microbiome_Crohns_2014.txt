@@ -1,0 +1,999 @@
+Cell Host & Microbe
+Resource
+The Treatment-Naive Microbiome
+in New-Onset Crohn’s Disease
+Dirk Gevers,1 Subra Kugathasan,4,24 Lee A. Denson,5,24 Yoshiki Va´ zquez-Baeza,6 Will Van Treuren,7 Boyu Ren,8
+Emma Schwager,8 Dan Knights,9,10 Se Jin Song,7 Moran Yassour,1 Xochitl C. Morgan,8 Aleksandar D. Kostic,1
+Chengwei Luo,1 Antonio Gonza´ lez,7 Daniel McDonald,7 Yael Haberman,5 Thomas Walters,11 Susan Baker,12 Joel Rosh,13
+Michael Stephens,14 Melvin Heyman,15 James Markowitz,16 Robert Baldassano,17 Anne Grifﬁths,18 Francisco Sylvester,19
+David Mack,20 Sandra Kim,21 Wallace Crandall,21 Jeffrey Hyams,19 Curtis Huttenhower,1,8 Rob Knight,7,22,23
+and Ramnik J. Xavier1,2,3,*
+1Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+2Gastrointestinal Unit and Center for the Study of Inﬂammatory Bowel Disease
+3Center for Computational and Integrative Biology
+Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA
+4Division of Gastroenterology, Hepatology, and Nutrition, Department of Pediatrics, Emory University, Atlanta, GA 30322, USA
+5Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children’s Hospital Medical Center, Cincinnati, OH 45229, USA
+6Department of Computer Science
+7BioFrontiers Institute
+University of Colorado, Boulder, CO 80309, USA
+8Department of Biostatistics, Harvard School of Public Health, Boston, MA 02115, USA
+9Department of Computer Science and Engineering, University of Minnesota, Minneapolis, MN 55108, USA
+10BioTechnology Institute, University of Minnesota, St. Paul, MN 55108, USA
+11Division of Gastroenterology, Hepatology, and Nutrition, Hospital for Sick Children, University of Toronto, Toronto, ON M5G 1X8, Canada
+12Children’s Hospital of Buffalo, Buffalo, NY 14222, USA
+13Goryeb Children’s Hospital, Morristown, NJ 07960, USA
+14Mayo Clinic, Rochester, MN 55902, USA
+15University of California, San Francisco, San Francisco, CA 94143, USA
+16North Shore Long Island Jewish Medical Center, New Hyde Park, NY 11040, USA
+17Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA
+18Hospital for Sick Children, Toronto, ON M5G 1X8, Canada
+19Connecticut Children’s Medical Center, Hartford, CT 06106, USA
+20Children’s Hospital of Eastern Ontario, Ottawa, ON K1H 8L1 Canada
+21Nationwide Children’s Hospital, Columbus, OH 43228, USA
+22Department of Chemistry and Biochemistry, University of Colorado, Boulder, CO 80309, USA
+23Howard Hughes Medical Institute, Boulder, CO 80309, USA
+24These authors contributed equally to this work
+*Correspondence: xavier@molbio.mgh.harvard.edu
+http://dx.doi.org/10.1016/j.chom.2014.02.005
+SUMMARY
+Inﬂammatory
+bowel
+diseases
+(IBDs),
+including
+Crohn’s disease (CD), are genetically linked to host
+pathways that implicate an underlying role for aber-
+rant immune responses to intestinal microbiota.
+However, patterns of gut microbiome dysbiosis in
+IBD patients are inconsistent among published
+studies. Using samples from multiple gastrointes-
+tinal locations collected prior to treatment in new-
+onset cases, we studied the microbiome in the
+largest pediatric CD cohort to date. An axis deﬁned
+by
+an increased abundance in bacteria which
+include Enterobacteriaceae, Pasteurellacaea, Veillo-
+nellaceae, and Fusobacteriaceae, and decreased
+abundance in Erysipelotrichales, Bacteroidales, and
+Clostridiales, correlates strongly with disease status.
+Microbiome comparison between CD patients with
+and without antibiotic exposure indicates that anti-
+biotic use ampliﬁes the microbial dysbiosis associ-
+ated with CD. Comparing the microbial signatures
+between the ileum, the rectum, and fecal samples
+indicates that at this early stage of disease, assess-
+ing the rectal mucosal-associated microbiome offers
+unique potential for convenient and early diagnosis
+of CD.
+INTRODUCTION
+Inﬂammatory bowel disease (IBD) is a complex disease in which
+genetic and environmental circuits establish and contribute to
+disease pathogenesis. Recent large-scale genome-wide asso-
+ciation studies link IBD to host-microbe pathways central to
+sensing/signaling and mucosal-initiated effector responses (Jos-
+tins et al., 2012). Studies of the intestinal gut microbiota imply
+that an unbalanced microbial community composition is asso-
+ciated with a dysregulated immune response (Khor et al., 2011).
+The microbiome thus likely plays a role in the pathogenesis of
+382
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+IBD (Manichanh et al., 2012), but this role remains poorly under-
+stood. Previous studies characterized patients with established
+disease, but the use of small cohorts resulted in a lack of statis-
+tical power to accommodate diverse clinical covariates (Kaa-
+koush et al., 2012), and results of these studies were likely
+affected by the application of treatments (Morgan et al., 2012).
+The existing new-onset studies that examine the fecal micro-
+biome (Papa et al., 2012) detected a disease signal; however,
+because fecal bacterial ecosystems differ from those in the in-
+testinal mucosa (Momozawa et al., 2011), studies of strictly fecal
+communities may face limitations in identifying microbes more
+directly involved in disease initiation or progression.
+To improve our understanding of how the microbiota con-
+tributes to the inﬂammatory cascade of Crohn’s disease (CD)
+pathogenesis, we performed a study that addresses several
+important limitations of previous work. We applied a standard-
+ized approach to a large, multicenter cohort of new-onset CD,
+collecting samples before treatment initiation, and including
+subjects representing the variety of disease phenotypes with
+respect to location, severity, and behavior. Here we report on
+668 patients that include those with CD and non-IBD controls
+(see Table S1A available online), representing the largest single
+cohort microbiome study related to new-onset IBD to date as
+well as representing the largest characterization of mucosal-
+associated microbiota in non-IBD subjects. We used a combina-
+tion of next-generation sequencing to deeply characterize the
+disease-associated microbiota, and a well-established multi-
+variate analysis method to account for a wide range of demo-
+graphic and clinical covariates (e.g., age, gender, race, disease
+severity, behavior, and location) (Morgan et al., 2012). The
+strength of this study lies in the sampling prior to treatment,
+the size of the cohort, and the concurrent sampling of different
+sites, including multiple mucosal tissue sites, and the luminal
+content as stool samples. Finally, we combined two additional
+cohorts with the RISK cohort, resulting in a total of 1,742 samples
+from pediatric or adult patients, with either new-onset or estab-
+lished disease, for which tissue biopsies and/or fecal samples
+were processed through a uniform sequencing and analysis
+approach. This multicohort study allows us to position the unique
+RISK cohort in the context of a comprehensively deﬁned diver-
+sity landscape of IBD, and to identify robust and generally appli-
+cable biomarkers.
+RESULTS
+A Unique Treatment-Naive Inception Cohort for
+Pediatric CD
+We studied the mucosal- and lumen-associated microbiota in a
+large, well-characterized inception cohort for CD in children. We
+included subjects from 3 to 17 years of age with a well-estab-
+lished diagnosis of CD (n = 447), and control subjects (n = 221)
+with noninﬂammatory conditions—for example, presenting with
+abdominal pain and diarrhea (Table S1A). Mucosal tissue
+biopsies (terminal ileum and rectum) and serum samples were
+collected as part of the diagnostic colonoscopic examination
+prior to the initiation of treatment. A subset of the enrolled
+patients (n = 233) also provided a fecal sample prior to treatment
+start. The diagnosis and disease categorization was conﬁrmed
+after a minimum of 6 months’ follow-up, and was based on a
+combination of endoscopic, histological, and radiological in-
+vestigations. A total of 1,321 samples, including 630 ileal and
+387 rectal tissue biopsies and 304 stool samples, were submit-
+ted for microbiome proﬁling using 16S rRNA gene sequencing
+on the Illumina MiSeq platform (version 2) with 175 bp paired-
+end reads. After quality ﬁltering and assembling overlapping
+paired-end reads, more than 45.5 million sequences were re-
+tained (mean of 29,915 sequences per sample), providing the
+most in-depth characterization of treatment-naive CD-associ-
+ated communities to date.
+The Key Players of the Microbial Dysbiosis in New-Onset
+Pediatric CD
+An unweighted UniFrac-based comparison of the mucosal-
+associated microbiota from patients with new-onset CD and
+controls indicated that the overall diversity in microbial composi-
+tion was mainly differentiated by sample type and microbial
+diversity, but disease phenotype was not strong enough to
+differentiate patients (Figure 1A). Instead, complex microbial
+communities from samples with multiple clinical covariates are
+best explored by multivariate association tests at the level of
+speciﬁc microbial community members. We identiﬁed microbial
+organisms that reached statistically signiﬁcant association with
+subjects’ disease phenotype using the MaAsLin pipeline, which
+identiﬁes signiﬁcant associations of the microbiota with multiple,
+potentially confounded sample variables (see Experimental Pro-
+cedures). This has the beneﬁt of testing for disease characteris-
+tics while controlling for several known or potential confounding
+variables, such as past antibiotic use, age, gender, and race.
+Correction for other factors that typically have a signiﬁcant
+impact on the microbial composition, including treatment and
+disease duration, was not necessary, because all samples
+were collected prior to treatment and at standard intestinal sites
+regardless of the segments involved in the disease.
+Biomarker detection analysis of mucosal-associated micro-
+biome showed that inﬂammatory conditions were most strongly
+associated with an overall drop in species richness and an alter-
+ation in the abundance of several taxa (Figure 1B; Table S2,
+panel A). Several of these taxa have been reported in previous
+studies (Papa et al., 2012; Morgan et al., 2012), including Enter-
+obacteriaceae, Bacteroidales, and Clostridiales. However, we
+were able to identify additional taxa as signiﬁcant biomarkers
+for disease. Most noticeably, we detected positive correlations
+between CD and abundances of Pasteurellaceae (Haemophilus
+sp.), Veillonellaceae, Neisseriaceae, and Fusobacteriaceae.
+Fusobacterium has previously been suggested as a biomarker
+for IBD (Strauss et al., 2011) and was also recently shown to
+promote a beneﬁcial microenvironment for the progression of
+colorectal carcinoma (Kostic et al., 2012), a long-term complica-
+tion of IBD. Subsampling the data set to either smaller sample
+sizes or lower sequencing depths indicated that sample size
+contributes more substantially to the increased statistical power,
+highlighting the importance of sampling a large cohort. Lowering
+the number of sequences to 300 reads/sample (1% of the data)
+did not affect our ability to detect these taxa (data not shown),
+but reducing to half of the samples or lower did begin to affect
+the recovery of some taxa (Figure S1A). Interestingly, few of
+these taxa were present at a higher abundance in patients under
+the age of 10, and were thus negatively correlated with age,
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+383
+including Pasteurellaceae and Neisseriaceae (Table S2, panel A;
+Figure S1B).
+An increased level of Bacteroides and Clostridiales was
+maintained in non-CD patients relative to those with CD (Table
+S2, panel A). Speciﬁc negative associations with CD were de-
+tected for several genera, including Bacteroides, Faecalibacte-
+rium, Roseburia, Blautia, Ruminococcus, Coprococcus, and a
+number of taxa within the families of Ruminococcaceae and
+Lachnospiraceae. A well-described anti-inﬂammatory organism
+that is considered to be a sensor and marker of health is
+Faecalibacterium prausnitzii (Sokol et al., 2008). Reduced ileal
+abundance of F. prausnitzii has been associated with a higher
+rate of endoscopic recurrence of inﬂammation 6 months after
+ileo-cecal resection.
+New-Onset Mucosal-Associated Dysbiosis Is Only
+Weakly Reﬂected in Stool
+The imbalance in the microbial community network was only
+observed in the microbiome proﬁles obtained from tissue
+samples, and was not seen in the stool samples collected at
+the time of the diagnosis (Figure 1B). This was conﬁrmed by per-
+forming separate biomarker detection on the stool samples of
+CD patients and controls with noninﬂammatory conditions, re-
+sulting in only a short list of taxa signiﬁcantly associated with dis-
+ease. This included a gain in Streptococcus and a loss in a few
+taxa belonging to the order of Clostridiales, including Dorea,
+Blautia, and Ruminococcus (Table S2, panel B). With a mean
+abundance far below 0.1%, all of these taxa were minimally
+contributing to the overall shift. Consequently, we further inves-
+tigated the precise differences between the mucosal tissue and
+stool samples within patients with new-onset CD (Figure S1C;
+Table S2, panel C). Of the four above-mentioned taxonomic
+groups that were decreased in CD, all except Bacteroidales
+were found to be signiﬁcantly increased in stool samples, along
+with Lactobacillus, Enterococcus, and Streptococcus. In addi-
+tion, the levels of Fusobacteriaceae and Neisseriaceae were
+reduced, but no signiﬁcant differences were noted for any of
+the other organisms typically associated with inﬂammatory
+conditions. Based on these observations, we can infer that the
+microbial balance is less shifted toward a dysbiotic state in the
+lumen despite the disease, explaining the lack of a biomarker
+signal and emphasizing the need to examine tissue biopsies in
+addition to stool samples in order to gain a better understanding
+of possible mechanisms.
+Antibiotic Exposure Ampliﬁes the Microbial Dysbiosis
+Antibiotic usage has previously been linked to substantial
+taxonomic changes in the gastrointestinal microbial com-
+position (Dethlefsen et al., 2008; Antonopoulos et al., 2009; Man-
+ichanh et al., 2010). Here, a small subset of the CD patients
+Figure
+1. Most
+Differential
+Taxa
+in
+Pediatric CD
+(A) A set of principal coordinate plots of the un-
+weighted UniFrac distance, with each sample
+colored either by the disease phenotype (left),
+alpha diversity (middle), or sample type (right).
+PC1, PC2, and PC3 represent the top three prin-
+cipal coordinates that captured most of the di-
+versity, with the fraction of diversity captured by
+that coordinate shown in percent.
+(B) Differences in abundance are shown for the
+taxonomic biomarkers that were detected using a
+multivariate statistical approach (see Experimental
+Procedures and Table S2). The fold change for
+each taxon was calculated by dividing the mean
+abundance in the cases by that of the controls.
+Several taxonomic biomarkers measured at both
+the ileal and the rectal sites were found to be
+signiﬁcantly correlated with disease phenotype;
+however, most of that microbial signal was lost in
+the stool samples. The fraction of patients that
+were on antibiotics during sample collection was
+considered as an individual subtype, due to the
+large confounding impact antibiotic exposure
+causes on the microbial composition (see Table
+S2). The left shows cases without antibiotic treat-
+ment, and the right includes the fraction of cases
+(10%) that were under antibiotic pressure at
+sampling. The taxa at the top are increased in
+disease state, whereas the taxa at the bottom
+follow an opposite trend. Apparent missing bars
+are cases in which there is no difference, or fold
+change equals 1. Use of antibiotics does impact
+the microbial composition by tipping the microbial
+community further toward a dysbiotic state, and
+has a differential impact on the taxa, depending on
+organism and sampling site. Related to Figure S1
+and Table S1.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+384
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+(n = 57/447, 13%) was on antibiotics during sample collection,
+allowing a comparison between the microbiome in CD patients
+with and without antibiotic exposure. Although a weak effect
+on disease severity (PCDAI) and overall species diversity be-
+tween the patient groups with and without antibiotics was found
+(p = 0.043 and 0.02, respectively; Student’s t test), we observed
+a strong effect on the microbial composition, and exposure to
+antibiotics generally ampliﬁed the dysbiosis. A more extreme
+impact was seen on the abundance levels of the phyla increased
+in noninﬂammatory conditions, including Bacteroides, Clostri-
+diales, and Erysipelotrichaceae, which was most pronounced
+in rectal biopsy and stool samples, with a differential effect de-
+pending on taxa and sample type, e.g., a 10-fold increase in
+Fusobacteriaceae in the ileum and Enterobacteriaceae in the
+rectum (Figure 1B). The Pasteurellaceae were suppressed in
+the ileum, whereas the Veillonellaceae were decreased in the
+rectum and stool. We note that excluding samples from subjects
+with antibiotics exposure during sampling does not change the
+key players of the dysbiotic state outlined above (Table S2, panel
+2A0). These results do not provide any causative explanation but
+are relevant in the context of previously described associations
+between higher antibiotic exposure and the diagnosis of CD
+(Hviid et al., 2011). We hypothesize that the use of antibiotics
+has the potential to impact the overall community structure
+and increase the potential for exposure to dysbiosis.
+The Functional Dysbiosis at the Mucosal Tissue Sites
+Reﬂects that of Established Disease
+Shotgun sequencing for metagenomics would provide the
+greatest precision of microbial community assays and direct
+evidence of microbial function. However, nucleotide extracts of
+mucosal tissue samples consist of extremely high fractions
+(>99%) of host-derived nucleotides. In the absence of methods
+to efﬁciently dissociate the microbial from the host fraction, no
+cost-effective shotgun sequencing of the microbial communities
+can be performed. Therefore, we predicted the functional
+composition of these mucosal-associated microbiota using
+PICRUSt (Morgan et al., 2012) (Table S2, panel D). This algorithm
+estimates the functional potential of microbial communities
+given a marker gene survey and the set of currently sequenced
+reference genomes with an accuracy of 80%–90% on human
+gut communities. The functional changes in the samples of
+new-onset CD patients included a loss in basic biosynthesis
+(related to reductions in Bacteroides and Clostridia) and a
+switch toward pathobiont-like auxotrophy (increase in aerobic
+or aerotolerant taxa, i.e., Proteobacteria and Pasteurellaceae).
+Further, biomethanation was replaced by acetogenesis in order
+to reduce accumulated hydrogen. An increased disease severity
+further ampliﬁed the disease signal of oxidative stress and
+auxotrophy. Interestingly, components of the benzoate meta-
+bolic pathway were associated with disease (aminobenzoate
+degradation) and disease severity (ﬂuorobenzoate degradation).
+Intermediaries of benzoate metabolism are known to inﬂuence
+microbial dysbiosis as a stress response (Eloe-Fadrosh and
+Rasko, 2013) and have the ability to promote Enterobacteria-
+ceae growth and virulence (Freestone et al., 2007). Antibiotic
+exposure had several overlapping effects on the functional
+composition of the gut microbiota and took up one-third of all
+signiﬁcant associations, including a unique series of pathways
+related to xenobiotic metabolism (degradation of aminoben-
+zoate, styrene, chloroalkene, toluene, benzoate, etc.).
+Describing Disease Status with the Microbial Dysbiosis
+Index
+We inferred a taxon-taxon interaction network for the ileal sam-
+ples (see Experimental Procedures) and found relationships
+among disease-associated organisms mentioned above (Fig-
+ure 2A; Table S2, panel E). Out of all signiﬁcant interactions
+found, 52% supported a co-occurrence within the two groups
+of taxa that behave similarly with respect to disease (i.e., increase
+or decrease in CD, respectively), and 30% supported a strong
+co-exclusion between these two groups. Importantly, the taxa
+within the families Enterobacteriaceae, Fusobacteriaceae, Pas-
+teurellaceae, and Veillonellaceae were often found together, as
+well as different taxa within the Clostridia or Clostridia and Bac-
+teroidetes teaming up with one another. These observations
+led us to calculate the log of [total abundance in organisms
+increased in CD] over [total abundance of organisms decreased
+in CD] for all samples, hereafter referred to as the Microbial
+Dysbiosis index (MD-index). This MD-index, derived on disease
+phenotype, showed a strong positive correlation with clinical dis-
+ease severity (PCDAI) (Figure 2B) and negative correlation with
+species richness (Figure 2C), demonstrating that a severe dis-
+ease state manifests a strongly reduced species diversity in favor
+of a more extreme dysbiosis. Further, this index was a straightfor-
+ward feature capturing the overall beta-diversity, resulting in a
+clear gradient by which samples group across all sample types
+(Figure 2D). This gradient reﬂects shifts in both groups of organ-
+isms, those increased and decreased with disease (Figure S2B).
+Lastly, the MD-index was also signiﬁcantly higher in those pa-
+tients positive for two or more microbial or cytokine serological
+markers (p < 0.0001, Student’s t test). Since serologic markers
+are increasingly being used to help differentiate IBD disease
+phenotypes, such an association might indicate a potential link
+between the gut microbial biomarkers and the presence of these
+serologic biomarkers. However, with the data collected for this
+cohort, no speciﬁc correlations were found.
+CD is characterized by inﬂammation spanning multiple tissue
+layers, with deep ulcer formation linked with worse long-term
+disease outcomes. The RISK cohort measured deep ulceration
+during the diagnostic colonoscopy, presenting us with the op-
+portunity to examine a link between the gut microbiota and
+mucosal ulceration. The recorded prevalence of any deep ulcers
+(ileum or colon) with CD patients amounted to 42% (Table S1A).
+In those patients, we observed increased levels of Pasteurella-
+caea and Veillonellaceae (p < 0.01, FDR corrected p < 0.15)
+and Rothia mucilaginosa (p = 0.0004, FDR corrected p = 0.02).
+In addition, an association with the KEGG pathway for patho-
+genic Escherichia coli infection was positively associated with
+ulcer formation (Table S2, panel D). Further experimental study
+will be needed to determine whether any of these organisms
+are causally involved in ulceration in IBD patients, or merely
+adapted to live in this affected environment.
+Shotgun Metagenome-Based Identiﬁcation of Microbial
+Biomarkers
+Most published studies of the microbiome in IBD so far have
+used a 16S rRNA gene-based approach and are thereby limited
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+385
+in characterizing the microbiota to a resolution at the family/
+genus level. To study the microbiota at a higher resolution, a
+subset of 43 stool samples (10 controls and 33 subjects) were
+shotgun sequenced for metagenomics using the Illumina
+HiSeq2000 platform (mean 13.3 gigabases [Gb] and SD 2.5 Gb
+per sample, paired-end reads, fragment insert size 180 bp).
+Metagenomic data were ﬁltered for human and low-quality
+reads, and further analyzed as described in Experimental Proce-
+dures. As indicated above, the stool samples of patients do not
+reﬂect the dysbiosis in a similar way as the mucosal tissue sam-
+ples, a ﬁnding that we conﬁrmed at both the taxonomic and the
+functional levels with these data (data not shown). Nevertheless,
+mucosal-associated organisms were not restricted to any
+particular intestinal location, and were readily observed in all
+sample types, although at lower abundances. Therefore, by
+adding metagenomics data on the subset of stool samples, we
+were able to proﬁle the composition of microbial communities
+at a ﬁner taxonomic resolution (Table S2, panel F). The dominant
+species increased in CD were Escherichia coli, Fusobacterium
+nucleatum,
+Haemophilus
+parainﬂuenzae
+(Pasteurellaceae),
+Veillonella parvula, Eikenella corrodens (Neisseriaceae), and
+Gemella moribillum. The dominant species decreased in CD
+were Bacteroides vulgatus, Bacteroides caccae, Biﬁdobacte-
+rium biﬁdum, Biﬁdobacterium longum, Biﬁdobacterium adoles-
+centis, Biﬁdobacterium dentum, Blautia hansenii, Ruminococcus
+gnavus, Clostridium nexile, Faecalibacterium prausnitzii, Rumi-
+noccus torques, Clostridium bolteae, Eubacterium rectale,
+Roseburia intestinalis, and Coprococcus comes.
+This detailed information and availability of genomic data
+will be useful in further functional characterization of these
+organisms and their roles in disease pathogenesis. In a ﬁrst
+exploration, we performed a comparison between representa-
+tive reference genomes for each of these species, generating a
+view of the differential KEGG pathways (Figure 3). The species
+increased in CD uniquely contributed pathway components of
+glycerophospholipid and lipopolysaccharide metabolism, found
+to instigate inﬂammation (Morita et al., 1999), and phosphonoa-
+cetate hydrolase, providing access to a novel carbon and phos-
+phate source not accessible to most other organisms (Kim et al.,
+2011). Interestingly, the latter is a zinc-dependent enzyme that
+might contribute to a mineral deﬁciency common in newly diag-
+nosed IBD patients. The pathway components unique to the
+Figure 2. The Microbial Dysbiosis Index Characterizes CD Severity
+(A) A correlation network was inferred for the ileal microbiota compositions using CCREPE with a checkerboard score, indicating a strong co-occurrence between
+taxa of the same disease-associated behavior and a co-exclusion between taxa of a different behavior. Nodes represent the different taxa, and color corresponds
+to their behavior in disease, with green for those decreased in CD and red for those increased in CD. Edges between nodes represent correlations between the
+nodes they connect, with edge colors of dark and light gray indicating positive and negative correlations, respectively. For clarity, only edges corresponding to
+correlations whose similarity was less than 0.3 are shown.
+(B) Scatterplot of the arcsine square root transformed abundances of all summed abundances for the taxa increased (top) or decreased (bottom) in CD, versus the
+pediatric CD activity index (PCDAI [Hyams et al., 1991]) as a measure for disease severity.
+(C) Scatter density plot of the species richness (Chao1 [Chao et al., 2006]) versus the Microbial Dysbiosis index (MD-index) for each sample. The increase in blue
+color (white to dark blue) reﬂects the density of the scatterplot. The MD-index is deﬁned as the log of [total abundance in organisms increased in CD] over [total
+abundance of organisms decreased in CD] (organisms listed in Figure 1A) and is intended as an overall summary statistic for the microbial dysbiosis described in
+more detail in (A). In samples with a high MD-index (>1), a strong reduction in the species richness was observed.
+(D) A principal coordinate plot of the unweighted UniFrac distance, colored by the MD-index. Sqrt, square root.
+Related to Figure S2 and Table S2.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+386
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+species decreased in CD contribute to the bile acid and amino
+acid biosynthesis pathways, including connections between
+amino acid metabolism and energy, carbohydrate, or nucleotide
+metabolism. Collectively, these provide access to complex
+carbohydrates, and the break at the alpha-ketoglutarate step
+of the TCA cycle is indicative of a true anaerobic lifestyle, as
+indicated previously (Morgan et al., 2012).
+Biopsy-Associated Microbiome Can Diagnose CD
+Several recent studies have explored the potential for identifying
+disease states based on the host-associated microbial com-
+position, including skin swabs for psoriasis (Statnikov et al.,
+2013), and fecal samples for obesity (Le Chatelier et al., 2013),
+autism (Hsiao et al., 2013), or IBD (Papa et al., 2012). Here, we
+evaluated how the microbiome composition in three different
+sample types performed for classifying subjects by CD state
+using a receiver-operating characteristic (ROC) analysis. We
+included a total of 425 tissue biopsies of the ileum, 300 of the
+rectum, and 199 stool samples in three independent analyses
+(Figures 4A–4C). Microbiome proﬁles were collapsed to the
+genus-level abundances and normalized (see Experimental Pro-
+cedures). The best performance was obtained by the ileal sam-
+ples (AUC = 0.85), closely followed by the rectal biopsies
+(AUC = 0.78), both with a narrow conﬁdence interval. The stool
+samples, however, performed less well (AUC = 0.66) and had
+also a low consistency (broader conﬁdence interval). A previous
+study was able to get a higher performance with stool samples
+for disease classiﬁcation in an IBD cohort (Papa et al., 2012),
+but their patient cohort distinguishes itself from RISK by the
+fact that subjects had a mean disease duration of 34.8 months,
+whereas the RISK cohort is entirely new-onset, with samples
+only taken at the time of diagnosis. This ﬁnding is consistent
+with the biomarker detection analysis that indicated that several
+taxonomic groups were increased or decreased between cases
+and controls when comparing mucosal-associated microbiome
+proﬁles, but not in stool samples (Figure 1). Interestingly, classi-
+ﬁcation of subjects by disease state was not affected by disease
+location. In this cohort, 22% had disease conﬁned to the ileum
+and 25% to the colon, and 53% had ileocolonic disease. Sam-
+ples from both tissue biopsy locations could classify subjects,
+even if disease was conﬁned to the other location. In fact, micro-
+biome composition between the different biopsy sites was found
+to be far less different than between tissue and stool, for all three
+disease subphenotypes (Figure 4D).
+Further, this cohort presented the opportunity to derive a
+predictive model for future disease outcome, as patients with a
+positive diagnosis for CD were re-examined at a 6- and
+12-month follow-up, at which point the disease activity index
+(PCDAI) was determined. For all patients with such follow-up
+data available (n = 305), 7.5% had an increased disease severity
+Figure 3. Comparative Genomics of CD Biomarkers
+The KEGG metabolic pathways that differentiate the species by behavior in disease state are shown as a heatmap. A selection of reference genomes that are
+representative for the species increased or decreased with disease were obtained from IMG (JGI), and biomarker detection was performed on their gene content
+at the level of KEGG pathways. Several were statistically signiﬁcant (Wilcoxon, p < 10e-8) and are visualized here. Related to Table S2.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+387
+6 months after diagnosis, and for 22% the severity reduced from
+severe (PCDAI > 30) to remission (PCDAI < 10). No tissue
+samples were collected at later time points, and thus no
+follow-up mucosal microbiome proﬁles exist. However, we could
+evaluate a model for predicting whether a patient will develop an
+exacerbated or reduced disease severity over the next 6 months,
+using the microbiome and clinical covariates collected at the
+time of onset of disease. Using a random forests classiﬁer
+trained on 90% of the data, we found we were able to predict
+high 6-month PCDAI (R10) in the remaining 10% of the data
+with 67.0% accuracy, a 14% improvement over the predictive
+accuracy of a model trained only on clinical covariates
+(52.9% ± 0.4%) (Figure S3A). Although the absolute level of
+accuracy is modest, the performance gain driven by the micro-
+biome is a direct and unbiased demonstration of the utility of
+microbiome features for predicting clinical outcomes. To deter-
+mine how inﬂuential a given feature was in building the predictive
+model, we tested the decrease in accuracy of the model when
+that feature was removed. The most inﬂuential features for
+predicting future PCDAI according to this test were age of
+onset, PCDAI at diagnosis, and levels of disease-associated
+organisms, including Enterobacteriaceae, Fusobacterium, and
+Haemophilus. Age of onset and levels of Enterobacteriaceae
+were negatively correlated with future PCDAI, and PCDAI at
+diagnosis and levels of Fusobacterium and Haemophilus were
+positively correlated with future PCDAI (Figure S3B).
+Comparing Pediatric CD with Other Adult-Established
+Disease Cohorts
+To position the above ﬁndings in the context of other IBD
+microbiome studies, we resequenced samples from a previously
+published study (Morgan et al., 2012) and included samples from
+Figure 4. Disease Classiﬁcation Performs Well on Biopsy-Associated Microbiome Proﬁles
+(A–C) For each of the three sample types, including terminal ileum biopsy (A), rectum biopsy (B), and stool sample (C), we evaluated the accuracy of disease
+classiﬁcation using L1 penalized logistic regression with ROC curves representing the results. Dashed lines show the mean performance obtained when genus-
+level features were used, and the surrounding gray area is the 95% conﬁdence interval. Terminal ileum biopsies performed best (AUC = 0.85), closely matched by
+the rectum biopsies (AUC = 0.78). However, the classiﬁer based on the stool samples collected at the time of the diagnosis performs less well (AUC = 0.66), and
+with low consistency (large conﬁdence interval).
+(D) The intrasubject diversity in microbiome composition was determined for all pairwise sample type combinations. Both biopsy samples were found to be highly
+similar, whereas the stool sample was quite diverse. Further, we also compared whether disease location would impact the intrasubject diversity between the
+two tissue biopsy locations. The location of the disease, ileal (L1), colonic (L2), or ileocolonic (L3), did not signiﬁcantly disrupt the similarity between the two in-
+trasubject mucosal-associated microbiota. Also, no biomarker was detected that would allow us to distinguish these disease subphenotypes. Related to Figure S3.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+388
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+several other cohorts, using the same sequencing approach.
+Combining all of these samples resulted in data from more
+than 1,500 subjects, of whom 46% had CD, 31% had ulcerative
+colitis (UC), and 19% were non-IBD controls, and included both
+tissue biopsies (88%) and stool samples (12%) (Table S1B). Two
+important differences between the RISK cohort participants and
+the other cohorts were (1) the lower age range (13 years, SD 3,
+versus 41 years, SD 15) and (2) the fact that RISK exclusively
+enrolled patients with new-onset disease, whereas the mean
+disease duration at time of sampling in the other cohorts was 7
+years since diagnosis (SD 11, range 0–62). The combined data
+set consisted of nearly 60 million paired-end 16S reads, with a
+mean of 23,620 ﬁltered sequences per sample.
+To our knowledge, this is the largest uniformly generated
+microbiome data set for CD speciﬁcally, but also IBD in general,
+revealing an extensive landscape of microbial diversity across a
+wide range of subjects and disease phenotypes. We therefore
+took the opportunity to examine the effect size of disease pheno-
+type on the microbiome composition relative to the effects intro-
+duced by cohort, age, gender, treatment, and biopsy location.
+We surveyed effects on the biodiversity as a whole, and on the
+organisms contributing to the dysbiosis speciﬁcally, and used
+a linear mixed-effects model including cohort and subject as
+random factors (see Experimental Procedures). The results
+revealed that interindividual variation, cohort, and sample type
+had signiﬁcant effects on the overall microbial community
+composition, and that variation introduced by disease pheno-
+Figure 5. A View of the Microbial Composi-
+tion across Different IBD Cohorts
+We combined microbial proﬁles obtained for 1,742
+subjects from three different IBD cohorts and
+generated a set of principal coordinate plots of the
+unweighted UniFrac distance, where each sample
+was colored by (A) cohort, (B) disease type, (C)
+MD-index, or (D) species richness (Chao1). From
+this combined view, it is clear that the ﬁrst principal
+coordinate (PC1) stratiﬁes the samples by species
+richness, which is negatively correlated with
+MD-index, and that the second principal coordi-
+nate (PC2) is largely affected by cohort. Disease
+phenotype is no obvious driver for sample clus-
+tering.
+type and treatment was hidden under-
+neath those primary factors (Table S2,
+panel G). However, within speciﬁc sample
+types (e.g., terminal ileum), disease can
+explain up to 10% of the variation seen
+in subsets of key dysbiotic taxa, in which
+the effects of having CD versus control do
+surface. The earlier described impact of
+antibiotics on the microbial community
+network was one of the stronger signals
+across all cohorts, and found in almost
+all included sample types. Interestingly,
+the signal was stronger in the mucosal-
+associated
+microbiome
+proﬁles
+than
+in the stool samples (Figure S2A). In
+contrast, the impact of antibiotics on
+overall microbial diversity was stronger in stool than in mucosal
+samples, again indicating that conclusions may differ based on
+which sample types are studied. Taken together, this advocates
+for a need to standardize sample collection, include diverse sam-
+ple types to represent different gastrointestinal compartments,
+and account for treatment effect in order to get the most statisti-
+cal power to study the role of the microbiome in diseases.
+Lastly, we aimed to determine the effect on individual taxa
+using a biomarker detection approach and compare the results
+across the different cohorts and disease phenotypes. Most of
+the organisms that were found to be increased in CD were also
+found to be signiﬁcantly correlated with UC, but those taxa
+that were negatively associated with CD were not found to be
+signiﬁcant in association with UC (Table S2, panel H). When
+using a weighted UniFrac distance calculation and a PCoA visu-
+alization (Figure 5), the clustering by overall microbial community
+composition was strongly affected by cohort (Figure 5B), and
+different disease subgroups signiﬁcantly overlapped (Figure 5A).
+However, the MD-index (Figure 5C) and species richness (Fig-
+ure 5D) still explained the ﬁrst principal coordinate even when
+the different cohorts were combined and demonstrate that the
+speciﬁc disease-associated taxa were consistent.
+DISCUSSION
+Our results on the microbiome at the onset of CD have identiﬁed
+the key constituents of the complex gut microbial community
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+389
+that deﬁne a mucosal surface in homeostasis or dysbiosis. Our
+work demonstrates that the creation of such a large multicenter
+cohort increases the resolution and statistical power for studying
+the role of the microbiome in disease. Several of the taxa we
+identiﬁed were only reliably associated with disease phenotype
+when using several hundreds of samples. Achieving similar
+sample sizes by combining independent cohorts for a cross-
+study comparison limits the study of parameters with large effect
+size that surpass the bias introduced by differences in collection
+and sample handling (Lozupone et al., 2013). Capturing micro-
+bial shifts in their full complexity, including taxa with smaller
+shifts in relative abundance comparing cases versus controls,
+require these large, optimal study designs.
+Several of the organisms identiﬁed in this study are known to
+reside at the inﬂamed mucosa with the potential to exacerbate
+inﬂammation and/or invade intestinal epithelial cells, including
+strains of Escherichia (Rolhion and Darfeuille-Michaud, 2007)
+and Fusobacterium (Strauss et al., 2011). Others, such as
+Haemophilus and Veillonella, have recently been reported to
+contribute to oral dysbiosis in IBD patients (Said et al., 2013).
+Haemophilus spp., like the Enterobacteriaceae, are well adapted
+to survive in oxidative stress environments and intensify oxida-
+tive stress in airway infections (Harrison et al., 2012). Interest-
+ingly, Veillonella spp. are closely related to the Clostridiales,
+who are otherwise considered to be beneﬁcial to the host (Furu-
+sawa et al., 2013). Prior literature, however, indicates that Veillo-
+nella produce lipopolysaccharides (Gupta, 2011), a gene cluster
+they might have gained through horizontal gene transfer
+(M. Fischbach, personal communication). Rothia mucilaginosa,
+here reported at increased levels in patients with intestinal ulcer
+formation, has been found to act as an opportunistic pathogen in
+immunocompromised patients (Chavan et al., 2013) and has a
+genomic content that is well adapted to live within the microaer-
+ophilic surface of the mucus layer in cystic ﬁbrosis lungs (Lim
+et al., 2013). Most of these organisms are relatively rare in the
+colon, and typically part of the normal human oral and upper
+respiratory tract microbiota, but could become opportunistic
+colonizers in conditions of altered mucosal changes in tissue
+oxygenation and disruption of mucosal barrier function.
+We observed that both the ileal and the rectal biopsy have
+similar discriminatory power for classifying disease, regardless
+of the disease location. This creates the opportunity to use a
+minimally invasive sampling approach that avoids bowel prepa-
+ration prior to the colonoscopy, and to perform dense sampling
+of the mucosal-associated microbiome to monitor the response
+to treatment and potentially predict changes in disease ﬂares.
+Being able to account more readily for the microbiota in larger
+cohort sizes will be of value in deﬁning disease subphenotypes
+and tracking treatment effects in clinical trials, something that
+is currently not annotated. Understanding the microbial commu-
+nities of the small intestine remains of tremendous value.
+Mucosal-associated microbes are uniquely positioned to inﬂu-
+ence the immune system (Belkaid and Naik, 2013); particularly,
+the porous mucus layer in the ileum has been shown to educate
+the immune system to develop tolerance toward commensals
+(Shan et al., 2013).
+Large-scale collection of stool samples would be an even less
+invasive approach but for this cohort did not reﬂect the mucosal
+dysbiosis, in contrast to an earlier study (Papa et al., 2012). The
+main difference between the two cohorts is that new-onset
+patients were sampled at the time of diagnosis. The earlier study
+included samples of patients with established disease (mean of 3
+years at time of sampling) and a treatment history. We observed
+that the microbial community associated with the inﬂamed
+epithelium had an increased level of aerobic and facultative
+anaerobes (e.g., Protebacteria), whereas obligate anaerobes
+prevailed in the feces (e.g., Bacteroides and Clostridiales). The
+microbial community in stool from patients with established
+disease also consists of less anaerobes (Papa et al., 2012).
+This is consistent with a recent observation that the oxygen level
+in the lumen increases with intestinal inﬂammation to such a
+level that gut microbiota start to shift toward an aerotolerant
+composition in response to an oxidative stress (Mimouna et al.,
+2011). In order to validate this observation, future work will
+need to consistently capture samples from patients across a
+wide range of disease durations.
+Another factor affecting the gut microbial composition is the
+use of antibiotics, as shown in a subset of the RISK cohort
+patients. Previously, antibiotics have been claimed to provide
+beneﬁts for CD patients as a ﬁrst-line therapy. However, we
+question this practice based on our observation that the micro-
+bial network appears more dysbiotic in the context of antibiotic
+exposure. Loss of protective microbes has the potential of
+triggering a proliferation of less beneﬁcial taxa (Looft and Allen,
+2012), exacerbating the inﬂammation. Similarly, changing die-
+tary patterns can introduce such shifts as quickly (Wu et al.,
+2011), particularly in those individuals with reduced microbial
+complexity (Fang and Evans, 2013). For example, the vitamin D
+pathway has importance in gut homeostasis and in signaling
+between the microbiota and the host immune system, and may
+thus have implications for the development, severity, and man-
+agement of inﬂammation (Mouli and Ananthakrishnan, 2014).
+The data presented here provide a unique framework for
+understanding the microbial dysbiosis in new-onset CD. This
+will further develop principles that are likely to govern therapeu-
+tics in IBD, but they will need to be carefully thought through
+(Fischbach et al., 2013). These include in particular those efforts
+that aim to shift the microbiome following a path that is based on
+the successful principles applied to recurrent Clostridium difﬁcile
+infections, as these are unlikely to be directly applicable to the
+multifactorial disease pathogenesis of IBD.
+EXPERIMENTAL PROCEDURES
+Study Population and Sample Collection
+A total of 447 children and adolescents (<17 years) with newly diagnosed CD
+and a control population composed of 221 subjects with noninﬂammatory
+conditions of the gastrointestinal tract were enrolled to the RISK study in 28
+participating pediatric gastroenterology centers in North America between
+November 2008 and January 2012 (Table S1A). Biopsies were taken from
+the terminal ileum and rectum using standard endoscopic forceps and placed
+into a sterile cryovial with RNAlater (QIAGEN) on ice in the Endoscopy Suite.
+Nucleotides were isolated from these biopsies using the QIAGEN AllPrep
+Mini Kit.
+16S rRNA Gene Sequencing
+The 16S gene data set consists of sequences targeting the V4 variable region.
+Sequencing was performed on the Illumina MiSeq platform according to
+the manufacturer’s speciﬁcations, with addition of 5% PhiX, and generating
+paired-end reads of 175 bp in length in each direction. The overlapping
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+390
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+paired-end reads were stitched together (approximately 97 bp overlap) and
+further processed in a data curation pipeline implemented in QIIME 1.7.0 as
+pick_closed_reference_otus.py.
+Shotgun Metagenomic Sequencing
+Metagenomic data production and processing were performed as described
+previously (HMP Consortium, 2012). In brief, library construction was per-
+formed on the Illumina HiSeq 2000 platform, targeting 7 Gb of sequence per
+sample with 101 bp, paired-end reads. Species abundances were calculated
+with MetaPhlAn 1.7.7, following Bowtie 2-2.1.0 alignment to the MetaPhlAn 1.0
+unique marker database.
+Statistical Analysis
+Association testing of all covariates versus all taxa was performed by re-
+gressing the relative abundance of each taxon on these linear clinical co-
+variates: subject, diagnosis, ulcering, ileal involvement, PCDAI, biopsy
+location, age, gender, race, and antibiotic exposure, with subject as a random
+variable, using the MaAsLin algorithm with default parameters (Morgan et al.,
+2012).
+Correlation Network
+We extracted the subnetworks of microbial interactions at the terminal ileum
+from subjects free of any antibiotics pressure, using CCREPE (Compositional-
+ity Corrected by REnormalization and PErmutation). This is a statistical meth-
+odology for covariation analysis in compositional data developed on top of
+previously published work, using the NC score, a similarity measure specif-
+ically designed to detect association patterns in the human microbiome and
+other microbial communities (see Supplemental Information).
+ROC Analysis
+ROC curves were constructed to evaluate the performance of sparse logistic
+regression classiﬁer (using L1 penalization) aiming to identify the IBD status of
+a subject based on his or her microbiome proﬁle. We have checked the perfor-
+mance for classiﬁer trained by samples from three different sites (ileum,
+rectum, and stool). Five ROC curves were gained per site using 5-fold cross-
+validation. A mean ROC curve was then given by averaging over all ﬁve individ-
+ual fold ROC curves, and an approximated 95% pointwise conﬁdence interval
+was also constructed by using normal approximation and the sample means
+and variances.
+ACCESSION NUMBERS
+All 16S rRNA sequences have been deposited at the National Center
+for Biotechnology Information as two BioProjects under ID numbers
+PRJNA237362 and PRJNA205152, and are also available in a variety of tables
+through http://www.microbio.me/qiime/ under Study ID 2516.
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes Supplemental Experimental Procedures,
+three ﬁgures, and two tables and can be found with this article at http://dx.
+doi.org/10.1016/j.chom.2014.02.005.
+ACKNOWLEDGMENTS
+We thank the patients who donated samples for this study, the health profes-
+sionals who collected them, and the Crohn’s and Colitis Foundation of America
+for supporting the RISK cohort. We thank Douglas Wendel, Gail Ackermann,
+Tim Vigers, and Tim L. Tickle for their valuable input and helpful discussions.
+We thank participating clinicians Marla Dubinsky, Joshua Noe, Scott Snapper,
+Richard Kellermayer, Michael Kappleman, Anthony Otley, Mirian Pfefferkorn,
+Stanley Cohen, Stephen Guthery, Neal LeLeiko, Maria Oliva-Hemker, David
+Keljo, Dedrick Moulton, Barbara Kircshner, Ashish Patel, David Ziring, Jona-
+than Evans, Jonah Essers, Bruce Aronow, and MiOk Kim. Work was supported
+by grants from the Crohn’s and Colitis Foundation of America, The Leona M.
+and Harry B. Helmsley Charitable Trust, ARO grant W911NF-11-1-0473
+(C.H.), and by NIH grants U54 DE023798, R01 HG005969 (C.H.), and R01
+DK092405 (R.J.X., C.H., and D.G.).
+Received: December 13, 2013
+Revised: January 31, 2014
+Accepted: February 12, 2014
+Published: March 12, 2014
+REFERENCES
+Antonopoulos, D.A., Huse, S.M., Morrison, H.G., Schmidt, T.M., Sogin, M.L.,
+and Young, V.B. (2009). Reproducible community dynamics of the gastrointes-
+tinal microbiota following antibiotic perturbation. Infect. Immun. 77, 2367–
+2375.
+Belkaid, Y., and Naik, S. (2013). Compartmentalized and systemic control of
+tissue immunity by commensals. Nat. Immunol. 14, 646–653.
+Chao, A., Chazdon, R.L., Colwell, R.K., and Shen, T.J. (2006). Abundance-
+based similarity indices and their estimation when there are unseen species
+in samples. Biometrics 62, 361–371.
+Chavan, R.S., Pannaraj, P.S., Luna, R.A., Szabo, S., Adesina, A., Versalovic, J.,
+Krance, R.A., and Kennedy-Nasser, A.A. (2013). Signiﬁcant morbidity and
+mortality attributable to rothia mucilaginosa infections in children with hemato-
+logical malignancies or following hematopoietic stem cell transplantation.
+Pediatr. Hematol. Oncol. 30, 445–454.
+Dethlefsen, L., Huse, S., Sogin, M.L., and Relman, D.A. (2008). The pervasive
+effects of an antibiotic on the human gut microbiota, as revealed by deep 16S
+rRNA sequencing. PLoS Biol. 6, e280.
+Eloe-Fadrosh, E.A., and Rasko, D.A. (2013). The human microbiome: from
+symbiosis to pathogenesis. Annu. Rev. Med. 64, 145–163.
+Fang, S., and Evans, R.M. (2013). Microbiology: wealth management in the
+gut. Nature 500, 538–539.
+Fischbach, M.A., Bluestone, J.A., and Lim, W.A. (2013). Cell-based therapeu-
+tics: the next pillar of medicine. Sci. Transl. Med. 5, 179ps177.
+Freestone, P.P., Walton, N.J., Haigh, R.D., and Lyte, M. (2007). Inﬂuence of
+dietary catechols on the growth of enteropathogenic bacteria. Int. J. Food
+Microbiol. 119, 159–169.
+Furusawa, Y., Obata, Y., Fukuda, S., Endo, T.A., Nakato, G., Takahashi, D.,
+Nakanishi, Y., Uetake, C., Kato, K., Kato, T., et al. (2013). Commensal
+microbe-derived butyrate induces the differentiation of colonic regulatory
+T cells. Nature 504, 446–450.
+Gupta, R.S. (2011). Origin of diderm (Gram-negative) bacteria: antibiotic selec-
+tion pressure rather than endosymbiosis likely led to the evolution of bacterial
+cells with two membranes. Antonie van Leeuwenhoek 100, 171–182.
+Harrison, A., Bakaletz, L.O., and Munson, R.S., Jr. (2012). Haemophilus inﬂu-
+enzae and oxidative stress. Front. Cell. Infect. Microbiol. 2, 40.
+Hsiao, E.Y., McBride, S.W., Hsien, S., Sharon, G., Hyde, E.R., McCue, T.,
+Codelli, J.A., Chow, J., Reisman, S.E., Petrosino, J.F., et al. (2013).
+Microbiota modulate behavioral and physiological abnormalities associated
+with neurodevelopmental disorders. Cell 155, 1451–1463.
+Human Microbiome Project Consortium (2012). A framework for human micro-
+biome research. Nature 486, 215–221.
+Hviid, A., Svanstro¨ m, H., and Frisch, M. (2011). Antibiotic use and inﬂammatory
+bowel diseases in childhood. Gut 60, 49–54.
+Hyams, J.S., Ferry, G.D., Mandel, F.S., Gryboski, J.D., Kibort, P.M., Kirschner,
+B.S., Grifﬁths, A.M., Katz, A.J., Grand, R.J., Boyle, J.T., et al. (1991).
+Development and validation of a pediatric Crohn’s disease activity index.
+J. Pediatr. Gastroenterol. Nutr. 12, 439–447.
+Jostins, L., Ripke, S., Weersma, R.K., Duerr, R.H., McGovern, D.P., Hui, K.Y.,
+Lee, J.C., Schumm, L.P., Sharma, Y., Anderson, C.A., et al.; International IBD
+Genetics Consortium (IIBDGC) (2012). Host-microbe interactions have shaped
+the genetic architecture of inﬂammatory bowel disease. Nature 491, 119–124.
+Kaakoush, N.O., Day, A.S., Huinao, K.D., Leach, S.T., Lemberg, D.A., Dowd,
+S.E., and Mitchell, H.M. (2012). Microbial dysbiosis in pediatric patients with
+Crohn’s disease. J. Clin. Microbiol. 50, 3258–3266.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.
+391
+Khor, B., Gardet, A., and Xavier, R.J. (2011). Genetics and pathogenesis of
+inﬂammatory bowel disease. Nature 474, 307–317.
+Kim, A., Benning, M.M., OkLee, S., Quinn, J., Martin, B.M., Holden, H.M., and
+Dunaway-Mariano, D. (2011). Divergence of chemical function in the alkaline
+phosphatase superfamily: structure and mechanism of the P-C bond cleaving
+enzyme phosphonoacetate hydrolase. Biochemistry 50, 3481–3494.
+Kostic, A.D., Gevers, D., Pedamallu, C.S., Michaud, M., Duke, F., Earl, A.M.,
+Ojesina, A.I., Jung, J., Bass, A.J., Tabernero, J., et al. (2012). Genomic analysis
+identiﬁes association of Fusobacterium with colorectal carcinoma. Genome
+Res. 22, 292–298.
+Le Chatelier, E., Nielsen, T., Qin, J., Prifti, E., Hildebrand, F., Falony, G.,
+Almeida, M., Arumugam, M., Batto, J.M., Kennedy, S., et al.; MetaHIT
+Consortium (2013). Richness of human gut microbiome correlates with meta-
+bolic markers. Nature 500, 541–546.
+Lim, Y.W., Schmieder, R., Haynes, M., Furlan, M., Matthews, T.D., Whiteson,
+K., Poole, S.J., Hayes, C.S., Low, D.A., Maughan, H., et al. (2013). Mechanistic
+model of Rothia mucilaginosa adaptation toward persistence in the CF lung,
+based on a genome reconstructed from metagenomic data. PLoS ONE 8,
+e64285.
+Looft, T., and Allen, H.K. (2012). Collateral effects of antibiotics on mammalian
+gut microbiomes. Gut Microbes 3, 463–467.
+Lozupone, C.A., Stombaugh, J., Gonzalez, A., Ackermann, G., Wendel, D.,
+Va´ zquez-Baeza, Y., Jansson, J.K., Gordon, J.I., and Knight, R. (2013). Meta-
+analyses of studies of the human microbiota. Genome Res. 23, 1704–1714.
+Manichanh, C., Reeder, J., Gibert, P., Varela, E., Llopis, M., Antolin, M., Guigo,
+R., Knight, R., and Guarner, F. (2010). Reshaping the gut microbiome with
+bacterial transplantation and antibiotic intake. Genome Res. 20, 1411–1419.
+Manichanh, C., Borruel, N., Casellas, F., and Guarner, F. (2012). The gut micro-
+biota in IBD. Nat. Rev. Gastroenterol. Hepatol. 9, 599–608.
+Mimouna, S., Gonc¸ alve` s, D., Barnich, N., Darfeuille-Michaud, A., Hofman, P.,
+and Vouret-Craviari, V. (2011). Crohn disease-associated Escherichia coli
+promote gastrointestinal inﬂammatory disorders by activation of HIF-depen-
+dent responses. Gut Microbes 2, 335–346.
+Momozawa, Y., Deffontaine, V., Louis, E., and Medrano, J.F. (2011).
+Characterization of bacteria in biopsies of colon and stools by high throughput
+sequencing of the V2 region of bacterial 16S rRNA gene in human. PLoS ONE
+6, e16952.
+Morgan, X.C., Tickle, T.L., Sokol, H., Gevers, D., Devaney, K.L., Ward, D.V.,
+Reyes,
+J.A.,
+Shah,
+S.A.,
+LeLeiko,
+N.,
+Snapper,
+S.B.,
+et
+al.
+(2012).
+Dysfunction of the intestinal microbiome in inﬂammatory bowel disease and
+treatment. Genome Biol. 13, R79.
+Morita, H., Nakanishi, K., Dohi, T., Yasugi, E., and Oshima, M. (1999).
+Phospholipid turnover in the inﬂamed intestinal mucosa: arachidonic acid-
+rich phosphatidyl/plasmenyl-ethanolamine in the mucosa in inﬂammatory
+bowel disease. J. Gastroenterol. 34, 46–53.
+Mouli, V.P., and Ananthakrishnan, A.N. (2014). Review article: vitamin D and
+inﬂammatory bowel diseases. Aliment. Pharmacol. Ther. 39, 125–136.
+Papa, E., Docktor, M., Smillie, C., Weber, S., Preheim, S.P., Gevers, D.,
+Giannoukos, G., Ciulla, D., Tabbaa, D., Ingram, J., et al. (2012). Non-invasive
+mapping of the gastrointestinal microbiota identiﬁes children with inﬂamma-
+tory bowel disease. PLoS ONE 7, e39242.
+Rolhion, N., and Darfeuille-Michaud, A. (2007). Adherent-invasive Escherichia
+coli in inﬂammatory bowel disease. Inﬂamm. Bowel Dis. 13, 1277–1283.
+Said, H.S., Suda, W., Nakagome, S., Chinen, H., Oshima, K., Kim, S., Kimura,
+R., Iraha, A., Ishida, H., Fujita, J., et al. (2013). Dysbiosis of salivary microbiota
+in inﬂammatory bowel disease and its association with oral immunological
+biomarkers. DNA Res. 21, 15–25.
+Shan, M., Gentile, M., Yeiser, J.R., Walland, A.C., Bornstein, V.U., Chen, K.,
+He, B., Cassis, L., Bigas, A., Cols, M., et al. (2013). Mucus enhances gut
+homeostasis and oral tolerance by delivering immunoregulatory signals.
+Science 342, 447–453.
+Sokol, H., Pigneur, B., Watterlot, L., Lakhdari, O., Bermu´ dez-Humara´ n, L.G.,
+Gratadoux, J.J., Blugeon, S., Bridonneau, C., Furet, J.P., Corthier, G., et al.
+(2008). Faecalibacterium prausnitzii is an anti-inﬂammatory commensal bacte-
+rium identiﬁed by gut microbiota analysis of Crohn disease patients. Proc. Natl.
+Acad. Sci. USA 105, 16731–16736.
+Statnikov, A., Alekseyenko, A.V., Li, Z., Henaff, M., Perez-Perez, G.I., Blaser,
+M.J., and Aliferis, C.F. (2013). Microbiomic signatures of psoriasis: feasibility
+and methodology comparison. Sci. Rep. 3, 2620.
+Strauss, J., Kaplan, G.G., Beck, P.L., Rioux, K., Panaccione, R., Devinney, R.,
+Lynch, T., and Allen-Vercoe, E. (2011). Invasive potential of gut mucosa-
+derived Fusobacterium nucleatum positively correlates with IBD status of
+the host. Inﬂamm. Bowel Dis. 17, 1971–1978.
+Wu, G.D., Chen, J., Hoffmann, C., Bittinger, K., Chen, Y.Y., Keilbaugh, S.A.,
+Bewtra, M., Knights, D., Walters, W.A., Knight, R., et al. (2011). Linking long-
+term dietary patterns with gut microbial enterotypes. Science 334, 105–108.
+Cell Host & Microbe
+The New-Onset Microbiome in Crohn’s Disease
+392
+Cell Host & Microbe 15, 382–392, March 12, 2014 ª2014 Elsevier Inc.

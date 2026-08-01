@@ -1,0 +1,1544 @@
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKbH4TTImqenVDZHALwmCBBpU87jZOsD+GlfyAayo1Vw8uP2RGAu3ZRM on 02/05/2020
+ACG Clinical Guideline: Small Intestinal
+Bacterial Overgrowth
+Mark Pimentel, MD, FRCP(C), FACG1, Richard J. Saad, MD, FACG2, Millie D. Long, MD, MPH, FACG (GRADE Methodologist)3 and
+Satish S. C. Rao, MD, PhD, FRCP, FACG4
+Small intestinal bacterial overgrowth is defined as the presence of excessive numbers of bacteria in the small bowel,
+causing gastrointestinal symptoms. This guideline statement evaluates criteria for diagnosis, defines the optimal
+methods for diagnostic testing, and summarizes treatment options for small intestinal bacterial overgrowth. This
+guideline provides an evidence-based evaluation of the literature through the Grading of Recommendations Assessment,
+Development, and Evaluation (GRADE) process. In instances where the available evidence was not appropriate for
+a formal GRADE recommendation, key concepts were developed using expert consensus.
+Am J Gastroenterol 2020;115:165–178. https://doi.org/10.14309/ajg.0000000000000501; published online January 8, 2020
+INTRODUCTION
+Small intestinal bacterial overgrowth (SIBO) has been recognized
+as a medical phenomenon for many decades. Although its deﬁni-
+tion has been debated, the principle concept is that the normal
+small bowel has lower levels of microbial colonization compared
+with the colon and this normal balance is signiﬁcantly altered in
+SIBO. SIBO is deﬁned as the presence of excessive numbers of
+bacteriainthesmallbowel causinggastrointestinal(GI)symptoms.
+These bacteria are usually coliforms, which are typically found in
+the colon and include predominantly Gram-negative aerobic and
+anaerobic species that ferment carbohydrates producing gas (1).
+Since the late 1990s, there has been a resurgence in SIBO
+research which has been further enhanced by the increasing
+knowledge of the gut microbiome and its roles in human health
+and disease (2). These include a series of articles linking SIBO to
+diseases such as irritable bowel syndrome (IBS) (3,4), in-
+ﬂammatory bowel disease (IBD) (5), systemic sclerosis (6), mo-
+tility
+disorders
+(7,8),
+cirrhosis
+(9),
+fatty
+liver
+(10),
+postgastrectomy syndrome (11), and a variety of other con-
+ditions. Although these ﬁndings are important, a recent con-
+sensus document
+identiﬁed a number
+of strengths and
+weaknesses in the published work in this area (12). As such, an
+eﬀort has been underway to re-evaluate the criteria for the di-
+agnosis of SIBO and deﬁne the optimal methods for diagnostic
+testing to identify this condition. Furthermore, treatment for
+SIBO has been largely empirical, has not undergone the scrutiny
+of sponsored clinical trials, and requires appraisal. In this
+guideline, we provide an evidence-based evaluation of the liter-
+ature and assess the current unmet needs in SIBO research.
+The guideline is structured in sections, each with recom-
+mendations, key concepts, and summaries of the evidence. Each
+recommendation statement has an associated assessment of the
+quality of evidence and strength of recommendation based on the
+Grading of Recommendations Assessment, Development, and
+Evaluation (GRADE) process. The GRADE system was used to
+evaluate the quality of supporting evidence (13). A “strong”
+recommendation is made when the beneﬁts clearly outweigh the
+negatives and/or the result of no action. “Conditional” is used
+when some uncertainty remains about the balance of beneﬁts and
+potential harms. The quality of the evidence is graded from high
+to low. “High” quality evidence indicates that further research is
+unlikely to change the authors’ conﬁdence in the estimate of
+eﬀect, and that we are very conﬁdent that the true eﬀect lies close
+to that of the estimate of the eﬀect. “Moderate” quality evidence is
+associated with moderate conﬁdence in the eﬀect estimate, al-
+though further research would be likely to have an impact on the
+conﬁdence of the estimate, whereas “low” quality evidence indi-
+cates that further study would likely have an important impact on
+the conﬁdence in the estimate of the eﬀect and would likely
+change the estimate. “Very low” quality evidence indicates very
+little conﬁdence in the eﬀect estimate, and that the true eﬀect is
+likely to be substantially diﬀerent than the estimate of eﬀect.
+Key concepts are statements that are not amenable to the
+GRADE process either because of the structure of the statement
+or because of the available evidence. In some instances, key
+concepts are based on extrapolation of evidence and/or expert
+opinion. Tables 1 and2 summarize the recommendations andkey
+concepts, respectively, in this guideline.
+DEFINITION OF SIBO
+SIBO can be most inclusively deﬁned as a clinical syndrome of GI
+symptoms caused by the presence of excessive numbers of bac-
+teria within the small intestine (potential thresholds are discussed
+below). This deﬁnition implies that there must be a measurable
+and excessive bacterial burden within the small bowel, and that
+this microbial overgrowth has resulted in speciﬁc GI signs and/or
+1Medically Associated Science and Technology (MAST) Program, Cedars-Sinai Medical Center, Los Angeles, California, USA; 2Michigan Medicine, University of
+Michigan, Ann Arbor, Michigan, USA; 3Division of Gastroenterology and Hepatology, University of North Carolina, Chapel Hill, North Carolina, USA; 4Division of
+Gastroenterology/Hepatology, Augusta University, Augusta, Georgia, USA. Correspondence: Mark Pimentel, MD, FRCP(C), FACG. E-mail: pimentelm@cshs.org.
+Received February 13, 2019; accepted November 12, 2019
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+CLINICAL GUIDELINES
+165
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+symptoms. For example, the pathologic fermentation of nutrients
+that would ordinarily be completely absorbed in the small in-
+testine could lead to the production of excess gas and bloating.
+The objective measurement of bacteria in the small intestine
+was initially achieved through quantitative culture of aspirates
+acquired from the proximal small bowel, akin to urine culture for
+urinary tract infection (14). However, the threshold cutoﬀfor the
+deﬁnition of a positive culture has been controversial, both in the
+published literature and among experts in the ﬁeld. The most
+recent North American Consensus found that the literature
+points more accurately to a bacterial colony count of $103
+colony-forming units per milliliter (CFU/mL) in a duodenal/
+jejunal aspirate as diagnostic of SIBO (12). This is based on
+a collation of the literature among normal subjects in trials. It
+should be noted that the bacterial colony counts in SIBO are based
+on growth of culturable bacteria.
+An alternative method for the diagnosis of SIBO is the mea-
+surement of exhaled hydrogen gas on the breath, after the in-
+gestion of a ﬁxed quantity of a carbohydrate substrate such as
+glucose or lactulose (15,16). Although popular, it is an indirect
+method of assessing whether there are excessive amounts of
+bacteria in the small bowel. Similar to the quantitative culture of
+small bowel aspirates, the published literature and expert opinion
+has varied widely regarding both the details of breath testing
+techniques and the deﬁnition of a positive test for SIBO. With
+these limitations in mind, the most recent published criteria on
+breath testing recommend a rise in exhaled hydrogen of at least 20
+parts per million (ppm) above baseline within 90 minutes of oral
+ingestion of either 75 g of glucose or 10 g of lactulose, as diagnostic
+of SIBO (12).
+The signs and/or symptoms of SIBO can arise from the mal-
+absorption of nutrients, alteration in intestinal permeability, in-
+ﬂammation, and/or immune activation that arises from the
+pathologic bacterial fermentation within the small bowel (17).
+Such symptoms can include, but may not be limited to, nausea,
+bloating, ﬂatulence, abdominal distension, abdominal cramping,
+abdominal pain, diarrhea, and/or constipation. In extreme cases,
+signs can include steatorrhea, weight loss, anemia, deﬁciencies in
+fat soluble vitamins, and/or mucosal inﬂammation of the small
+bowel. These are usually associated with extraordinary causes of
+SIBO such as iatrogenic (postsurgical blind loop) or sclero-
+derma (18).
+Evidence suggests that abdominal pain, bloating, gas, disten-
+sion, ﬂatulence, and diarrhea are the most common symptoms
+described in patients with SIBO and prevalent in more than two-
+thirds of patients (19–21). In severe cases, nutritional deﬁciencies
+including vitamin B12, vitamin D, and iron deﬁciencies can oc-
+cur, but in most cases, these are subtle or undetectable (22). Some
+patients may also manifest fatigue and poor concentration (23).
+However, no single symptom can be speciﬁcally attributed to
+SIBO. Symptoms often masquerade as other diagnoses such as
+IBS, functional diarrhea, functional dyspepsia, or bloating. This is
+due in part to the varied presentation of patients with SIBO and
+the number of underlying risk factors that can lead to the de-
+velopment of SIBO. For example, in a patient with chronic pan-
+creatitis, it is diﬃcult to determine whether diarrhea results from
+exocrine insuﬃciency or from coexistent SIBO and to what extent
+symptoms are related to pancreatic insuﬃciency vs SIBO. Simi-
+larly, in patients with Crohn’s disease, particularly those having
+undergone ileocecal valve resection, symptoms of abdominal
+pain, boating, and diarrhea could result from SIBO vs that of
+active inﬂammation, bile acid malabsorption, or postoperative
+strictures. Indeed, several studies have attempted to assess this in
+a systematic manner. For example, Jacobs et al. (21) obtained
+aerobic and anerobic duodenal cultures from subjects undergoing
+antroduodenal manometry and compared 38 subjects with
+culture-positive SIBO to 74 subjects with culture-negative SIBO
+and reported no diﬀerences in the intensity, frequency, and du-
+ration of abdominal pain or in bloating, fullness, belching, in-
+digestion, nausea, vomiting diarrhea, and gas. Therefore, close
+attention should be paid not only to a patient’s symptom proﬁle
+but also to risk factors for SIBO and any history of previous
+attempts to treat other underlying conditions, when evaluating
+SIBO as a possible diagnosis in a patient presenting with un-
+explained abdominal pain, gas, bloating, diarrhea, and/or mal-
+absorptive symptoms.
+Table 1. Summary and strength of GRADED recommendations for SIBO
+Diagnosis of SIBO
+1. We suggest the use of breath testing (glucose hydrogen or lactulose hydrogen) for the diagnosis of SIBO in patients with IBS (conditional recommendation,
+very low level of evidence).
+2. We suggest using glucose hydrogen or lactulose hydrogen breath tests for the diagnosis of SIBO in symptomatic patients with suspected motility disorders
+(conditional recommendation, very low level of evidence).
+3. We suggest testing for SIBO using glucose hydrogen or lactulose hydrogen breath tests in symptomatic patients (abdominal pain, gas, bloating, and/or
+diarrhea) with previous luminal abdominal surgery (conditional recommendation, very low level of evidence).
+Other conditions associated with SIBO
+4. We suggest against the use of breath testing for the diagnosis of SIBO in asymptomatic patients on PPIs (conditional recommendation, very low level of
+evidence).
+5. We suggest testing for methane using glucose or lactulose breath tests to diagnose the overgrowth of methane-producing organisms (IMO) in symptomatic
+patients with constipation (conditional recommendation, very low level of evidence).
+Treatment of SIBO
+6. We suggest the use of antibiotics in symptomatic patients with SIBO to eradicate overgrowth and resolve symptoms (conditional recommendation, low level of
+evidence).
+IBS, irritable bowel syndrome; IMO, intestinal methanogen overgrowth; PPI, proton-pump inhibitor; SIBO, small intestinal bacterial overgrowth.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+166
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+DIAGNOSIS OF SIBO
+Breath testing
+Quantitative measurement of breath hydrogen and/or methane is
+a relatively inexpensive, noninvasive, easy, and widely available
+test. Since theclinical deﬁnition ofSIBO isunclear inthe absence of
+validated patient-reported outcomes (PROs), the use of breath
+testing for SIBO is recognized as a key concept in Table 2 but not
+a GRADEable guideline. Newer mail-in kits are available for home
+testing for patients not able to travel or in remote locations. Often
+these kits are directed to laboratories with Clinical Laboratory
+Improvement Amendments certiﬁcation and as such have more
+stringent validation/calibration supervision as compared to clini-
+cians oﬃces. However, diet precautions before test, substrate in-
+gestion, and breath test collection occur in a home setting that may
+not be strictly controlled.
+The premise of breath tests is that human cells are incapable of
+producing hydrogen and methane gases (24). Consequently, if
+these gases can be detected in breath samples, it must signify
+another source such as the fermentation of carbohydrates by
+microbes in the gut, their subsequent absorption into the blood
+stream, and their expiration through the lungs (25). This prin-
+ciple has led to the development of several carbohydrate
+substrate-based breath tests. Here, after ingestion of a carbohy-
+drate load and its exposure to bacteria, the sugar is rapidly fer-
+mented to produce hydrogen gas along with short-chain fatty
+acids. Methanogenic archaea in turn use hydrogen as a substrate
+for the production of methane (26,27). A rise in the concen-
+trations of hydrogen in breath samples facilitates a diagnosis of
+SIBO, whereas the North American Consensus recommended
+that the presence of methane levels $10 ppm is diagnostic of
+methanogenic overgrowth (Figure 1a–c) (12). However, some
+experts recommend a rise of 10 ppm in methane levels, and this
+requires conﬁrmation. The carbohydrates traditionally used as
+substrates in breath testing for SIBO are glucose and lactulose,
+with each substrate possessing unique characteristics. Histori-
+cally, breath testing was performed using a radiolabeled substrate
+(e.g., xylose), which could be detected on exhaled breath samples,
+if excess bacteria were present (28). However, this technique is no
+longer used because of safety concerns regarding radiolabeled
+substrates (14).
+A recent North American Consensus article provides some
+guidelines for standardized methods of performing and inter-
+preting breath test results (12). Before breath testing, it is rec-
+ommended that patients avoid use of antibiotics for 4 weeks and
+avoid promotility agents and laxatives for at least 1 week. The day
+before the breath test, fermentable foods (e.g., complex carbo-
+hydrates) should be avoided, and patients should fast for 8–12
+hours. In addition, during the breath test, patients should avoid
+smoking and minimize physical exertion. The North American
+Consensus recommends administering 75-g glucose or 10-g
+lactulose, either taken with or followed by 1 cup of water (;250
+mL). The breath samples should be measured for hydrogen and
+methane. As noted previously, an increase in hydrogen concen-
+trations of $20 ppm from baseline within 90 (12)–120 (29)
+minutes is recommended to be diagnostic of SIBO (Figure 1a).
+Although methane is increasingly important and recognized,
+it creates a nomenclature problem in the SIBO framework. For
+methane, a concentration of $10 ppm at any point during the test
+is indicative of methanogen colonization. However, methanogens
+are not “bacteria” (representing the “B” in SIBO) but belong to the
+domain Archaea and may also overgrow in the colon and not just
+the small intestine. As such, we have proposed a new term, in-
+testinal methanogen overgrowth (IMO), for methanogens rather
+than SIBO (Figure 1b).
+Table 2. Summary of key concepts in SIBO
+1. The most common symptom of SIBO is bloating.
+2. Vitamin deficiencies in SIBO are not common and are usually seen in patients with an iatrogenic or structural abnormality of the bowel such as blind loop
+syndrome. Note: Folate may be elevated in SIBO as bacteria produce folate.
+3. The cause(s) of SIBO in patients are varied, and this may need to be determined in order to best prevent a recurrence of SIBO (see Table 3).
+4. Breath testing is useful for identifying SIBO noninvasively before antibiotic treatment.
+5. During breath testing, it is important to use the correct dose of glucose (75 g) and lactulose (10 g) for standardization purposes.
+6. Based on an evidence-based approach from the literature, a colony count of $103 CFU/mL is most suggestive of SIBO when using duodenal culture.
+7. The presence of excessive methane on breath testing does not indicate SIBO, since methanogens are not bacteria (they are archaea). A better term
+would be IMO.
+8. Methanobrevibacter smithii appears to be the key methanogen responsible for breath methane production.
+9. Constipation is associated with elevated levels of breath methane and stool M. smithii.
+10. Targeting methanogens may reduce methane production and improve constipation.
+11. A proportion of subjects with IBS are found to have SIBO, based both on breath testing and on culture.
+12. There is a lack of consistent data to support recommending specific probiotics in the treatment of SIBO.
+13. There is currently no basis for the use of fecal microbiota transplant in the treatment of SIBO.
+14. A focus on prevention of SIBO is important to avoid the need for repeated courses of antibiotics. Treatment of the underlying cause represents the primary mode
+of prevention.
+15. In subjects with an abnormal breath test, retesting after treatment may correlate with symptom improvement and may be confirmed by normalization of
+hydrogen or methane levels.
+CFU/mL, colony-forming units per milliliter; IBS, irritable bowel syndrome; IMO, intestinal methanogen overgrowth; SIBO, small intestinal bacterial overgrowth.
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+167
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+Figure 1. Breath test examples. (a) Hydrogen-positive breath test to suggest small intestinal bacterial overgrowth. (b) Methane-positive breath test to
+suggest intestinal methanogen overgrowth. (c) Normal breath test. ppm, parts per million.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+168
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+Irrespective of the nomenclature, a change in or measured
+level of hydrogen or methane that remains below the threshold
+levels noted above should be considered a negative test
+(Figure 1c). When using lactulose as a substrate, an initial peak
+from bacterial overgrowth in the small intestine followed by
+a second peak from colonic bacterial fermentation has been de-
+scribed. However, per the new consensus statement, a second
+peak is not required, but the ﬁrst peak must occur within 90
+minutes of substrate administration for the test to be considered
+positive. According to a systematic review by Khoshini et al. (14),
+the sensitivity of lactulose has ranged from 31% to 68% and
+speciﬁcity has ranged from 44% to 100%, whereas the sensitivity
+of glucose breath testing has varied from 20% to 93% and speci-
+ﬁcity from 30% to 86% when compared with cultures of aspirates
+from the small bowel. Recently, the use of fructose as a mono-
+saccharide substrate for persons with diabetes with suspected
+SIBO has been evaluated because a 75-g glucose load can cause
+acute hyperglycemia and gut dysmotility and possibly impact the
+breath test results. In this study, when compared with duodenal
+aspirates, the use of a fructose solution as the substrate in persons
+with diabetes yielded similar sensitivity, speciﬁcity, and di-
+agnostic accuracy (48%, 71%, and 58%, respectively) for the di-
+agnosis of SIBO when compared with glucose solution in persons
+without diabetes (30). Although not studied, lactulose may be
+preferred for diabetic subjects as a nonabsorbed carbohydrate. In
+addition to hydrogen and methane, hydrogen sulﬁde (H2S) is
+another gas produced by gut bacteria, but a commercial testing
+system is not yet available. A recent study evaluated the role of
+H2S in patients undergoing a workup for SIBO (31). However,
+a cutoﬀvalue for diagnosis of SIBO using H2S gas needs to be
+validated and its utility determined.
+Small bowel aspiration and culture
+Small bowel aspirate and culture is often considered the gold
+standard for the diagnosis of SIBO. Standardized techniques for
+aseptic collection of small bowel aspirate samples are lacking, as
+methods diﬀer regarding the placement of the device for sample
+aspiration and the amount of ﬂuid collected, as well as sample
+handling and subsequent culture. In general, during an upper
+endoscopy, a deep duodenal intubation can be achieved while
+minimizing suction during the insertion of the scope through
+mouth and stomach and preventing cross-contamination of
+secretions from outside the duodenum as described (20,21). In
+1 technique, a 2-mm Liguory catheter (COOK Medical, Bloo-
+mington, IN) with multiple side holes is passed through the
+biopsy channel of an upper endoscope into the third and fourth
+portions of the duodenum. Using gentle suction, approximately
+3–5 mL of duodenal ﬂuid is aspirated, and the specimen is sent
+to a microbiology laboratory for aerobic/anaerobic culture
+(20,21). Wearing of sterile gloves both by the endoscopist and
+assistant when assembling the catheter and collecting samples
+and placing a sterile cap on the syringe are all key components
+for proper specimen collection and handling. Once obtained,
+the specimen should be promptly transferred to a microbiology
+laboratory with rapid processing for aerobic and anaerobic
+cultures. It is important to communicate with the laboratory
+personnel regarding use of appropriate media and not to report
+results as positive or negative but to describe the growth of
+organisms as a precise colony count in CFU/mL. Historically,
+a level of $105 CFU/mL had been used for identifying patho-
+logical bacterial infection in humans, including a diagnosis of
+SIBO. However, in the case of SIBO, this cutoﬀappears too
+stringent and lacks validation (25,32). Healthy controls have
+,103 CFU/mL in the small bowel, and concentrations above
+105 CFU are almost exclusively seen in patients with gastrec-
+tomy (14). These levels were often from patients with Billroth I
+or II and blind loops or segments of intestinal stasis out of
+continuity with the digestive ﬂow. Therefore, a concentration of
+$103 CFU/mL is now generally considered diagnostic of SIBO
+and has been recommended by the North American Consensus
+(12). Diagnosis of SIBO using small bowel aspiration and cul-
+ture is time-consuming, expensive, and is an invasive pro-
+cedure which requires sedation and carries the usual risks of
+endoscopy, but is technically simple and can be widely per-
+formed outside of specialized referral centers or research en-
+vironment. In 1 study (20), the diagnostic agreement of small
+bowel aspirates with breath testing was ;65%, indicating that
+using 1 testing method may not deﬁnitively diagnose SIBO
+and that additional testing may be necessary, particularly in
+patients with persistent symptoms and a high likelihood of
+SIBO.
+Although published data are limited, there is a growing list of
+studies assessing SIBO by 16S ribosomal RNA (rRNA) gene se-
+quencing in a cohort of subjects with IBS (33). In this study,
+sequencing of a small cohort of subjects revealed lower microbial
+diversity in the duodenum in subjects with IBS compared with
+subjects without IBS. The most signiﬁcant ﬁndings were increases
+in Escherichia/Shigella (P 5 0.005) and Aeromonas (P 5 0.051)
+and decreases in Acinetobacter (P 5 0.024), Citrobacter (P 5
+0.031), and Microvirgula (P 5 0.036). In another study, Ker-
+ckhoﬀs et al. found higher levels of Pseudomonas in the small
+bowel of subjects with IBS compared with healthy controls (34).
+These results were mirrored in stool samples from the same co-
+hort. In the largest study to date, sequencing was able to validate
+SIBO as .103 CFU/mL by culture on MacConkey agar based on
+correlation to symptoms, sequencing, and breath testing results
+(35). In the same study, using a cutoﬀof .103 CFU/mL also
+correlated with a positive hydrogen breath test (i.e., a rise in
+hydrogen $20 ppm above baseline) at 90 minutes and also cor-
+related with the clinical symptoms of bloating and urgency (35).
+Another study sequenced microbes in duodenal samples and
+rectal biopsies from subjects with IBS and controls (36) and also
+found higher numbers of bacteria in the small bowel in subjects
+with IBS. However, a study of jejunal aspirates using culture and
+PCR of 16S rRNA genes found no signiﬁcant correlation between
+glucose breath test results and bacterial levels (37). Large-scale
+studies are currently underway to evaluate this further.
+Newer techniques
+It is recognized that the current breath tests have low sensitivity
+and speciﬁcity and that additional validation studies are needed
+for standardization (38). The lactulose breath test has been crit-
+icized for high false-positive values (because of the accelerated
+transit and colonic fermentation in some individuals) and the
+glucose breath test for being absorbed in proximal duodenum and
+therefore having low sensitivity for detecting distal SIBO—in
+other words, missing overgrowth in distal small bowel (12,14,39).
+A unique orally ingested capsule technology is also under-
+development that can measure in vivo hydrogen and carbon di-
+oxide after ingestion of a carbohydrate meal and may provide
+a better alternative to current breath hydrogen measurement
+techniques (40). Additional capsule technologies that can sample
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+169
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+small bowel bacteria (small bowel capsule detection system) are
+also emerging, and these technologies could provide a more direct
+and accurate evaluation of SIBO (41).
+Recommendations
+IBS is one of the most commonly evaluated condition with ties to
+SIBO, which has allowed this association to be graded in this
+guideline.AlthoughtherateofSIBOinIBSisdebated,meta-analyses
+suggest that up to 78% of IBS subjects suﬀer from SIBO (42). Al-
+thoughthereremainsaquestionofcauseoreﬀectinIBS,thereislittle
+controversy that a subset of subjects with IBS have SIBO. This evi-
+dence is now based on meta-analysis, and other evidence such as 16S
+rRNA gene sequencing continues to support this concept (33,34,36).
+Further evidence that IBS is associated with microbiome
+dysbiosis (or SIBO) is based on the successful use of antibiotics in
+the treatment of IBS. Although this will be discussed in more
+detail below, in 2015, the U.S. Food and Drug Administration
+(FDA) approved a nonabsorbed antibiotic, rifaximin, for the
+treatment of IBS with diarrhea based on the existing un-
+derstanding that one possible underlying cause of IBS is pertur-
+bation of the microbiome. A subset of subjects with IBS who
+participated in the TARGET 3 trial that supported approval of
+rifaximin (43) also underwent breath testing. Recently presented
+data suggested that the optimal beneﬁt of rifaximin was seen in
+subjects with IBS with abnormal baseline hydrogen levels during
+the lactulose breath test (44). In fact, 76% of subjects with an
+initial positive breath test that became negative following a course
+of antibiotics were deﬁned as a responder, based on the primary
+FDA outcome measure. This further supports that altered mi-
+crobial levels could play a role in IBS.
+Recommendations
+OTHER CONDITIONS ASSOCIATED WITH SIBO
+Thereareanumberofmechanismsresponsibleformaintainingthe
+relatively sterile milieu of the small intestine (Table 3). Deﬁciency
+orbreakdown in one ormoreofthese mechanisms can resultin the
+abnormal accumulation of bacteria in the small bowel. As such, in
+almost all instances, SIBO is an epiphenomenon related to some-
+thing else, usually a condition that leads to stasis in the small
+intestine. Table 4 provides a list of conditions that have historically
+been linked to SIBO, which include small bowel mechanical
+problems or motility disorders. However, conditions such as
+malabsorption, altered immunity, postgastric and colon surgeries,
+and systemic disorders can also be important. SIBO is not only
+associated with several conditions (Table 4) but can also cause
+malabsorption, vitamin deﬁciencies, and other problems. These
+data are based on animal and human studies, and in some cases,
+reversibility has been demonstrated after successful treatment of
+SIBO, supporting a cause-and-eﬀect relationship.
+The small bowel has an inherent cleansing function with re-
+curring antegrade peristalsis and migratory motor complexes
+organized into 3 phases. Of these, the phase III migrating motor
+complex (MMC) is an intense phasic and tonic contractile event
+that begins in the stomach or proximal bowel and sweeps through
+toward the colon, propelling chyme, secretions, and bacteria, and
+oﬀering a natural protection against SIBO (7,45). This organized
+bioprotective mechanism may be disturbed by motility disorders
+including neuropathy or myopathy (examples include sclero-
+derma and diabetes) or by medications such as opioids, anti-
+diarrheals, or anticholinergics, which can reduce propulsive
+movements and facilitate bacterial overgrowth. Likewise, post-
+surgical changes such as gastrojejunostomy with a blind loop or
+injury to the vagus nerve may each provide an opportunity for
+bacterial overgrowth. Although strictures causing partial or ﬁxed
+obstruction would be obvious causes of stagnation and have been
+considered to be risk factors for SIBO, there are currently no solid
+peer-reviewed publications validating this. Colectomy, either
+partial or complete, and especially with loss of the ileocecal valve,
+will allow retrograde movement of colonic contents resulting in
+colonization of the small bowel with bacteria normally found in
+the large intestine (46). Studies in patients with anatomical risk
+factors from intrinsic causes such as small bowel diverticulosis or
+ﬁstula formation or iatrogenic consequences such as post–Roux-
+en-Y, ileocolonic anastomosis, or post–radiation stricture/
+adhesion formation have all shown a higher prevalence of SIBO
+(8,21,32,46–50). Advanced age and female gender are also asso-
+ciated with a higher likelihood of SIBO, perhaps because of delays
+1. We suggest the use of breath testing (glucose hydrogen or lactulose
+hydrogen) for the diagnosis of SIBO in patients with IBS
+(conditional recommendation, very low level of evidence).
+2. We suggest using glucose hydrogen or lactulose hydrogen breath
+testing for the diagnosis of SIBO in symptomatic patients with
+suspected motility disorders (conditional recommendation, very
+low level of evidence).
+3. We suggest testing for SIBO using glucose hydrogen or lactulose
+hydrogen breath testing in symptomatic patients (abdominal pain,
+gas, bloating, and/or diarrhea) with previous luminal abdominal
+surgery (conditional recommendation, very low level of evidence).
+Table 3. Mechanisms for maintaining small bowel ecological
+homeostasis
+Mechanism
+Rationale
+Gastric acid
+Most ingested bacteria in food cannot survive
+the acidic stomach.
+Pancreatic enzymes
+Digestive enzymes in the proximal small bowel
+may also digest bacterial products.
+Efficient digestion of nutrients leaves less
+substrates for bacteria.
+Bile acids
+As detergents, bile acids can have an effect on
+bacterial membranes.
+Small bowel motility
+Migrating motor complexes and other events
+cleanse the small intestine of debris during
+fasting.
+IC valve
+The IC valve protects the small bowel from
+retrograde movement of colonic flora into the
+small bowel.
+Immune system
+Mucosal immunity may be important in the
+maintenance of a stable microbiota of the
+intestinal lumen.
+IC, ileocecal.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+170
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+in gut transit (51,52). Other systemic diseases known to alter
+motility and which are associated with SIBO include Parkinson
+disease, chronic renal failure, amyloidosis, systemic sclerosis,
+hypothyroidism, and diabetes mellitus (53–57). Although these
+many mechanisms for SIBO development are intuitive, multi-
+center randomized controlled trials of diagnosis and treatment of
+SIBO in these above-stated conditions are lacking, and thus from
+an evidence-based perspective, higher level data are needed here.
+Immune function and inflammation
+Evidence supports an association between SIBO and various
+immunodeﬁciency syndromes, such as immunoglobulin A de-
+ﬁciency and common variable immunodeﬁciency (58–61).
+Patients with celiac disease (62,63) are also known to have SIBO.
+In the case of Crohn’s disease, 16.8% of those in endoscopic re-
+mission had SIBO, and the presence of SIBO on breath testing was
+associated with ongoing GI complaints (64).
+Several other conditions have been associated with SIBO, in-
+cluding cirrhosis and spontaneous bacterial peritonitis (65),
+chronic pancreatitis (66), cystic ﬁbrosis (67), IBS (25), ﬁbro-
+myalgia (68), alcoholism (69), and multiple sclerosis (70), but the
+potential mechanism(s) underlying these relationships remains
+unclear.
+Recommendations
+Gastric acidity and proton-pump inhibitors
+Gastric acidity plays an important role as a gatekeeper
+preventing the overgrowth of bacteria in the upper GI tract.
+Patients with hypochlorhydria or achlorhydria, secondary to
+autoimmune gastritis, or partial or total gastrectomy are at
+increased risk of SIBO (11,71,72). PPIs are among the most
+common medications used to treat patients suﬀering from
+unexplained GI symptoms and are also used to treat gastro-
+esophageal reﬂux disease, ulcers, and functional dyspepsia.
+Spiegel et al. described an association between PPI use and
+SIBO (73), and most studies have shown a higher risk of de-
+veloping SIBO in PPI users (21,74–77). For example, a retro-
+spective study that included data from 1,263 duodenal
+aspirates noted that PPI use was signiﬁcantly more prevalent in
+patients with positive duodenal culture results compared with
+those with negative cultures (52.6% vs 30.2%) (74). Similarly,
+a meta-analysis of 19 studies with more than 7,000 subjects
+conﬁrmed an up to 3-fold higher risk of SIBO with PPI use (77).
+In a study by Compare et al. (78), 42 patients with nonerosive
+esophagitis were given 8 weeks of PPI therapy. All patients had
+negative glucose hydrogen breath tests before PPI use. On
+follow-up, 26% of the patients tested positive for SIBO on the
+breath test, and signiﬁcantly higher rates of bloating, ﬂatu-
+lence, abdominal pain, and diarrhea were reported. However,
+the association between SIBO and PPI is complex. Although
+most studies did not ﬁnd a relationship between the duration of
+PPI therapy and SIBO, some have suggested that double-dose
+PPI therapy is more likely to be associated with SIBO than
+single dose. However, a recent meta-analysis concluded that it
+was not possible to determine whether dose, duration, and type
+of PPI exposure had an eﬀect on the risk of developing SIBO
+because of insuﬃcient data from previous studies and stated
+that “more high-quality evidence is still required” (77). In-
+terestingly, another study showed that SIBO was independent
+of PPI use in patients with IBS, and that a positive methane
+breath test was less common in patients on PPI (79). This may
+be due to the fact that methanogens require hydrogen for the
+production of methane (discussed below), although this
+remains to be determined.
+Finally, a recent large-scale deep sequencing study was pre-
+sented examining the role ofPPI in the development ofalterations
+in the small bowel microbiome (80). The study demonstrated that
+SIBO was not seen by culture or sequencing and no changes in
+microbial diversity were observed. This further supports the lack
+of concrete evidence for the development of SIBO because of PPI
+therapy.
+Recommendations
+Methane production and IMO
+One aspect of breath testing that has become very intriguing is
+the role of methane. Multiple studies and 1 meta-analysis (81–84)
+have demonstrated that a positive methane breath test is associated
+with constipation (odds ratio 5 3.51, conﬁdence interval [CI] 5
+Table 4. Conditions associated with small intestinal bacterial
+overgrowth
+Category
+Specific condition
+Mechanical causes
+Small bowel tumor
+Volvulus
+Intussusception
+Postsurgical causes
+Systemic disease
+Diabetes
+Scleroderma
+Amyloidosis
+Motility
+IBS
+Pseudo-obstruction
+Visceral myopathies
+Mitochondrial diseases
+Medications
+Opiates
+Potent antisecretory agents
+Malabsorptive conditions
+Pancreatic insufficiency
+Cirrhosis (altered bile acid composition)
+Other malabsorptive conditions
+Immune-related
+Human immunodeficiency virus
+Combined variable immunodeficiency
+IgA deficiency
+Other
+Aging (the elderly)
+Small bowel diverticulosis
+IBS, irritable bowel syndrome; IgA, immunoglobulin A.
+4. We suggest against the use of breath testing for the diagnosis of
+SIBO in asymptomatic patients on proton-pump inhibitors (PPIs)
+(conditional recommendation, very low level of evidence).
+5. We suggest testing for methane using glucose or lactulose breath
+tests to diagnose the overgrowth of methane-producing organisms
+(IMO) in symptomatic patients with constipation (conditional
+recommendation, very low level of evidence).
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+171
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+2.00–6.16), and the level of methane on the breath is proportional
+to the degree of constipation (81). The North American Consensus
+deﬁnes a positive methane breath test as the presence of methane
+levels of $10 ppm during the breath test (12). Methane infusion
+into the small intestine has been shown to slow transit in a canine
+model (85), suggesting a direct causal relationship between the
+overgrowth of methane-producing organisms and constipation.
+This is supported by in vitro experiments demonstrating that
+methane can augment contractility and delay ileal peristaltic con-
+duction velocity (86) through eﬀects on cholinergic neurons (87).
+As will be discussed, methane may be important in disease con-
+ditions and may also be useful as a predictor of treatment.
+Although methane is interesting, it is also a conundrum.
+Methane is produced not by bacteria, but by archaea. Archaea are
+prokaryotic organisms and represent the third domain in the 3-
+domain system of life, distinct from both bacteria and eukaryotes
+(88), from which they can be diﬀerentiated through their rRNA and
+cell wall characteristics. In humans, excess methane production
+(i.e., levels high enough to result in a positive methane breath test)
+appears to be caused by Methanobrevibacter smithii, which is the
+predominant methanogen in the human gut (89,90). The problem
+then becomes one of nomenclature. Excessive methane production
+cannot be caused by “bacterial” overgrowth, but is rather due to
+archaeal overgrowth, so the term IMO may be more appropriate
+than “SIBO” or “methane-SIBO.” Furthermore, although metha-
+nogens do occur in the small bowel, individuals with positive
+methane breath tests also exhibit increased methanogen levels in
+stool, suggesting they may occur throughout the intestinal tract.
+Therefore, it may not be altogether correct to use the term “small
+intestinal” overgrowth, and as such, IMO may be more accurate.
+TREATMENT OF SIBO
+Antibiotics
+Recommendations
+The use of antibiotics has been the cornerstone of therapy for the
+treatment of SIBO (Table 5). Indeed, based solely on anecdotal ev-
+idence, it has been a longstanding common practice to use empiric
+antibiotic therapy in those with risk factors for and a clinical pre-
+sentation suggestive of SIBO. As the consequences of antibiotic use
+have increased, including the development of resistant bacteria,
+adverse reactions, and rise of opportunistic infections such as Clos-
+tridioides diﬃcile, a more cautious approach is needed. Before con-
+sidering antibiotic therapy, an eﬀort should be made to objectively
+diagnose SIBO. In general, the evidence for the use of antibiotics in
+SIBO has been limited to small clinical trials of poor to modest
+quality. The antibiotics assessed in these clinical trials have included
+amoxicillin-clavulanic acid, chlortetracycline, ciproﬂoxacin, doxy-
+cycline, metronidazole, neomycin, norﬂoxacin, rifaximin, tetracy-
+cline, and trimethoprim-sulfamethoxazole. A meta-analysis was
+performed on 32 clinical trials assessing the safety and eﬃcacy of
+rifaximin in the treatment of SIBO through March of 2015 (91). The
+analysis included 7 randomized clinical trials, 24 cohort studies, and
+1 randomized crossover trial comprising a total of 1,331 patients.
+Therewasconsiderableheterogeneityamongthetrials,includingthe
+method of SIBO diagnosis; dose of rifaximin, which ranged from
+600 to 1,600 mg a day; and duration of therapy, which ranged from
+5 to 28 days. Only 1 study compared rifaximin with placebo. With
+these limitations in mind, the overall success of therapy with an
+intention-to-treat was 70.8% (CI 5 61.4–78.2), and adverse reac-
+tions occurred in 4.6%. Two subsequent clinical trials have since
+been performed which assessed rifaximin eﬃcacy in treating SIBO.
+This included a trial of 18 patients with SIBO after surgery for
+colorectal cancer, which was diagnosed by the glucose breath test
+(92). Each participant received 10 days of rifaximin at a total daily
+dose of 1,200 mg, of whom 33% responded based on follow-up
+glucose breath testing. The second trial assessed 17 cirrhotic
+patients with SIBO diagnosed by the glucose breath test (93).
+Subjects received 7 days of rifaximin at 200 mg 3 times daily and
+exhibited a 76% response rate based on repeat breath testing (93).
+Three clinical trials have assessed ciproﬂoxacin. The ﬁrst of
+these compared treatment with 500 mg of ciproﬂoxacin twice
+daily for 10 days to treatment with metronidazole 250 mg 3 times
+daily, in a cohort of 29 patients with Crohn’s disease and SIBO
+(94). The presence of SIBO was conﬁrmed by the glucose breath
+test, and response to treatment was determined by the repeat
+glucose breath test. All 14 patients treated with ciproﬂoxacin
+responded, compared with 13 of 15 (86%) patients treated with
+metronidazole (94). In the second trial, 6 patients with non-
+alcoholic steatohepatitis were conﬁrmed to have SIBO by the
+glucose breath test. These patients were treated with 500-mg
+ciproﬂoxacin twice daily for 5 days, after which only 1 remained
+positive (95). In the third trial, 10 patients with cystic ﬁbrosis and
+SIBO based on the glucose breath test were treated with 35- to 50-
+mg ciproﬂoxacin per kg per day, and after an unspeciﬁed duration
+of therapy, 9 of 10 patients responded to treatment, as determined
+by the repeat breath test (96).
+In a single study assessing elderly nursing home residents, 9 of
+62 residents tested positive for SIBO by glucose breath testing (97)
+Those testing positive received 10 days of doxycycline, 100 mg
+a day, for 4 consecutive months. No follow-up breath testing was
+performed, but those with an initial positive breath demonstrated
+weight gain and increased body mass index at the end of 4 months,
+6. We suggest the use of antibiotics in symptomatic patients with SIBO
+to eradicate overgrowth and resolve symptoms (conditional
+recommendation, low level of evidence).
+Table 5. Suggested antibiotics for treatment of small intestinal
+bacterial overgrowth
+Antibiotic
+Recommended dose
+Efficacy
+Nonabsorbable antibiotic
+Rifaximin
+550 mg t.i.d.
+61%–78%
+Systemic antibiotic
+Amoxicillin-clavulanic acid
+875 mg b.i.d.
+_50%
+Ciprofloxacin
+500 mg b.i.d.
+43%–100%
+Doxycycline
+100 mg q.d. to b.i.d.
+a
+Metronidazole
+250 mg t.i.d.
+43%–87%
+Neomycin
+500 mg b.i.d.
+33%–55%
+Norfloxacin
+400 mg q.d.
+30%–100%
+Tetracycline
+250 mg q.i.d.
+_87.5%
+Trimethoprim-sulfamethoxazole
+160 mg/800 mg b.i.d.
+_95%
+aIn the study, no testing performed to reassess small intestinal bacterial
+overgrowth, although all participants had other objective measures of
+improvement.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+172
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+whereas those with a negative breath experience a decrease in
+weight and body mass index. There has been 1 randomized,
+placebo-controlled trial which assessed the eﬃcacy of norﬂoxacin
+treatment, 400 mg twice daily for 10 days, in 15 subjects with IBS
+and SIBO diagnosed by culture of small bowel aspirates (98). All 4
+subjects who consented to retesting for SIBO responded to treat-
+ment,butnoneofthe7subjectswhoreceivedplaceboresponded.A
+crossover clinical trial compared the eﬀects of 7 days of treatment
+with either amoxicillin-clavulanic acid (875 mg twice daily) or
+norﬂoxacin (400 mg twice daily) in 10 patients with SIBO di-
+agnosed by the glucose breath test (99). Based on the repeat breath
+test, the response rate for amoxicillin-clavulanic acid was 50%,
+compared with 30% for norﬂoxacin. A single study assessed the
+response of 7 days of tetracycline at a total daily dose of 1 g given to
+24 adults with jejunal cultures positive for Escherichia coli. After
+therapy, 21 of the 24 (87.5%) demonstrated negative jejunal cul-
+tures (100). Fianlly, in an open trial of 20 Brazilian children di-
+agnosed with SIBO by the lactulose breath test, treatment with
+trimethoprim-sulfamethoxazole in combination with metronida-
+zole was found to result in a response rate of 95% (101).
+As SIBO frequently recurs following a course of antibiotic
+therapy, it is common practice to retreat with another course of
+antibiotics. This practice of antibiotic retreatment is solely based
+on anecdotal evidence and expert opinion. As such, there are no
+universally accepted treatment approaches to therapy. One
+published study assessed the frequency of SIBO recurrence in 80
+adults following a course of antibiotic therapy and found re-
+currence rates of 12.6% at 3 months, 27.5% at 6 months, and
+43.7% at 9 months (102). Although no clinical trials have been
+published regarding the use of repeat antibiotic therapy for re-
+current SIBO, there is a study which evaluated the use of repeat
+antibiotics to treat SIBO and prevent recurrence in 51 patients
+with systemic sclerosis who had a signiﬁcant risk of SIBO re-
+currence (103). In this study, 7 days of norﬂoxacin 400 mg twice
+daily was alternated once monthly with 7 days of metronidazole
+250 mg 3 time daily for 3 consecutive months. Both the pres-
+ence of SIBO and SIBO resolution was assessed by glucose breath
+testing, with 52% of subjects exhibiting eradication of SIBO
+and signiﬁcant improvement of intestinal symptoms after treat-
+ment (103).
+Two studies have assessed the eﬃcacy of neomycin in the
+treatment of IMO. We note that both of these studies used
+methane levels $3 ppm to deﬁne positivity, not methane levels
+$10 ppm as more recently recommended by the North American
+Consensus. The ﬁrst was a placebo-controlled trial of 84 IBS
+patients with IMO based on lactulose breath testing (104). Ten
+days of neomycin dosed at 500 mg twice daily reduced methane
+levels on repeat breath testing to below 3 ppm in 20% of patients,
+compared with 1% of those receiving placebo. The second study
+was a retrospective chart review of 74 patients with IMO, as de-
+termined by the lactulose breath test (105). In this study, patients
+received either neomycin only (500 mg twice daily), rifaximin
+only (400 mg 3 times daily), or both antibiotics, for 10 days.
+Reduction of methane to undetectable levels (below 3 ppm) on
+repeat breath testing was 33% in subjects treated with neomycin
+alone, 28% in subjects treated with rifaximin alone, and 87% in
+subjects treated with both antibiotics (105).
+Diet
+There are a variety of proposed mechanisms by which dietary
+manipulation may be beneﬁcial in the treatment of SIBO.
+However, the dominant theme in diet manipulation for SIBO is
+the reduction of fermentable products. In most cases, this
+involves a low ﬁber approach as well as avoidance of alcohol
+sugars and other fermentable sweeteners such as sucralose. In
+addition, prebiotics such as inulin should also be avoided.
+However, the data on using diet for SIBO are principally exten-
+sions of the data from IBS. A recent meta-analysis of low FOD-
+MAP (Fermentable Oligo-, Di-, Mono-saccharides And Polyols)
+and gluten-free diets in IBS noted that there was no good evidence
+to support gluten-free approaches and “very low quality evi-
+dence” for low FODMAP diets (106).
+Despite the conclusions of the meta-analysis, data do support
+that a low FODMAP diet is associated with fewer fermentation
+products, as assessed by the breath test. In 1 study, daily hydrogen
+output was far higher when FODMAPS were ingested (107). A
+study by McIntosh et al. that compared the eﬀect of low vs high
+FODMAP diets on symptom severity, metabolomic markers, and
+the microbiome in subjects with IBSalso found asmall decrease in
+hydrogen production in subjects who consumed a low vs a high
+FODMAP diet (108).
+Probiotics
+The concept of using probiotics to treat a condition with excessive
+bacteria seems counterintuitive. However, a study in rats suggest
+that the eﬀects of probiotics may include prokinetic actions (109).
+Perhaps, shifts in bacteria may also be facilitated by this type
+of treatment eﬀecting a change in symptoms or gas pattern on
+breath testing.
+In an uncontrolled study, administration of Biﬁdobacterium
+infantis35624 did notappear to aﬀect hydrogenproduction during
+breath testing, but rather resulted in an increase in methane, such
+that twice the number of subjects met the criteria for positive
+methane production ($10 ppm) after treatment as did before
+(110). Another study examined the open label use of a proprietary
+probiotic cocktail on IBS subjects with or without SIBO. Although
+this was a small study with only 5 subjects with IBS/SIBO, these
+subjects appeared to have .70% improvement in clinical symp-
+toms, compared with 10.6% in IBS subjects without SIBO (111).
+A meta-analysis has recently examined the existing trials of
+probiotics in SIBO and found that probiotics appeared to reduce
+hydrogen production with an odds ratio of 1.61 (CI 5 1.19–2.17),
+but the studies were mostly small and of poor quality (112).
+However, the associated SIBO-causing conditions were mixed,
+and although there may have been some improvement in
+symptoms such as abdominal pain, stool frequency was not im-
+pacted by probiotic therapy (112). A recent controlled study
+showed that probiotics may cause SIBO and D-lactic acidosis
+leading to gas and bloating, and that withdrawal of probiotics
+combined with a course of antibiotics led to resolution of
+symptoms (23).
+Fecal microbiota transplant
+Although concrete data on the eﬀects of fecal microbiota trans-
+plant (FMT) on SIBO are limited, there are some important
+anecdotes that warrant discussion. The most important of these is
+a recent study in which the investigators screened donor patients
+for SIBO based on the lactulose breath test (113), although
+a positive breath test did not preclude donation of fecal material.
+Interestingly, subjects with C. diﬃcile receiving stool from donors
+with a positive lactulose breath test exhibited more GI symptoms
+after FMT, although this did not reach statistical signiﬁcance.
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+173
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+Even more concerning is that more recently, the FDA has issued
+warnings about multidrug resistant organisms passed on to
+recipients during FMT (114).
+Another interesting case report illustrates another concern
+with FMT in the context of SIBO (115). In this case, the authors
+describe severe constipation in a subject who underwent FMT for
+a C. diﬃcile infection. It was later determined that the recipient
+acquired the phenotypes of constipation and a methane-positive
+breath test from the FMT donor (115).
+GUIDANCE FOR TRIAL DESIGN
+Most of the GRADE eligible recommendations described in these
+SIBO guidelines have low levels of evidence to support them. This
+has to do with the grading criteria, which require large eﬀect sizes
+in double-blind clinical trials. These trials ordinarily involve
+therapeutics and not diagnostics. However, these guidelines also
+demonstrate that SIBO represents a signiﬁcant unmet need—
+despite the large population aﬀected by this condition, there are
+few treatment options that have undergone the scrutiny of large-
+scale randomized trials. Clearly, improved diagnostics and
+treatments are needed to help these patients. In this section, we
+outline the important path that these tests and treatments would
+need to follow to gain use in clinical practice. Table 6 outlines
+a proposed guideline on study design and outcomes in SIBO
+clinical trials.
+Screening
+Trials for SIBO will need to follow a path to identify subjects for
+inclusion. Although endoscopic culture of the small bowel for
+SIBO could be a potential standard for diagnosis, it has not been
+established as a gold standard because of limitations of the
+technology and access to more distal small bowel and associated
+risks. Indirect techniques such as breath testing can be used, but
+would require scrutiny in studies to demonstrate the correlation
+between parameters on breath testing and speciﬁc symptoms in
+SIBO.
+Based on the North American Consensus, a positive breath test
+should be based on the following parameters until studies guide
+the literature in a better direction to include:
+· Positive lactulose or glucose breath test for hydrogen (rise
+above baseline $20 ppm by 90 minutes)
+· Positive lactulose or glucose breath test for methane ($10
+ppm at any point during testing)
+It is important to recognize the limitations of breath testing,
+and therefore, in the enrollment of clinical trials, it is crucial to
+also have symptoms present. The most prominent symptom of
+SIBO is bloating. As such, this symptom should be considered
+mandatory for enrollment in a clinical trial and the primary
+enrollment symptom. However, other features of SIBO could
+also be examined as secondary symptoms, such as diarrhea,
+abdominal pain, ﬂatulence, belching, and even constipation (in
+the case of methane). Although there is no threshold for
+bloating, in the absence of a validated PRO, this primary
+symptom of SIBO should be experienced by the patient during
+entry enrollment a minimum of 50% of days.
+Outcome measures
+In the case of classic SIBO with a positive hydrogen breath test,
+endpoints should be an improvement in bloating in conjunction
+with normalization of the hydrogen breath test (postintervention
+rise in hydrogen ,20 ppm above baseline within 90 minutes of
+Table 6. Proposed study enrollment and outcome considerations for small intestinal bacterial overgrowth clinical trials
+Gas type
+Study stage
+Proposed criteria
+H2 positive
+Enrollment
+H2 $ 20 ppm within 90 minutes of lactulose or glucose and bloating (moderate
+to severe) at least 50% of days
+Or
+Sterile method duodenal aspirate with coliform count on appropriate agar of .
+103 CFU/mLa and bloating (moderate to severe) at least 50% of days
+Postintervention outcome measure
+Primary outcome measure: reduction of bloating severity or frequency by 50%
+plus normal H2 breath test (,20 ppm at or before 90 minutes) or duodenal
+aspirate on ,103 CFU/mLa
+Key secondary outcome: reduction in diarrhea if part of inclusion criteria
+Exploratory secondary endpoints: Improvements in abdominal pain, urgency,
+belching, flatulence, and frequency of stool
+CH4 positive
+Enrollment
+CH4 $ 10 ppm at any point during the first 90 minutes of the breath test and
+constipation (,3 CSBM/week)
+Postintervention outcome measure
+Primary outcome measure: improvement in constipation severity (increase in
+number of CSBM/week by .1 and normalization of CH4 (no CH4 $ 10 ppm
+within 90 minutes)
+Key secondary outcome: improvement in bloating by .50% (frequency or
+severity)
+Exploratory secondary endpoints: improvements in abdominal pain, straining,
+incomplete evacuation, SBM, and belching
+aNote that duodenal aspirates may be considered an undue burden and risk to study subjects being performed before and after clinical interventions.
+CFU/mL, colony-forming units per milliliter; CSBM, complete spontaneous bowel movements; ppm, parts per million; SBM, spontaneous bowel movements.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+174
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+lactulose or glucose). A key secondary endpoint in hydrogen
+subjects could be diarrhea or loose stool. Other symptoms would
+be exploratory secondary endpoints.
+Methane would be considered a special case. Since con-
+stipation is a key feature of methane, these symptoms could be
+considered as the primary symptom and endpoint with bloating
+as a key secondary outcome. For methane, a postintervention
+methane of no greater than 10 ppm would be considered suc-
+cessful eradication. However, since methane production and
+constipation have been shown to be correlated, a key secondary
+endpoint could be reduction in methane from baseline with
+corresponding reduction in constipation.
+FUTURE DIRECTIONS
+As this guideline points out, although indirect measures for
+SIBO evaluation using breath testing are the most practical
+approach to SIBO research, part of the challenge is that current
+breath testing technology provides an incomplete picture of the
+fermentation dynamics in the gut. Figure 2 illustrates the in-
+terrelationship between classes of organism in the gut and their
+fermentation products. The reason hydrogen has not correlated
+with symptoms clearly in clinical trial could be that hydrogen is
+consumed in the gut to produce methane and H2S gases. As
+such, measuring only methane and hydrogen produces an in-
+complete picture. Future studies are examining the role of
+measuring all 3 gases during breath testing. The value of these in
+overgrowth assessment may provide greater clarity and symp-
+tom correlation. Also, it is important to develop validated
+questionnaires and PROs for SIBO, as symptoms lack speciﬁc-
+ity. Furthermore, advancements are taking place in indirect
+microbiome testing. One such area is to assess breath volatile
+substances by mass spectroscopy. This work is in the early stages
+but oﬀers a great deal of promise for future considerations.
+As these unfold, what was once SIBO may become a collection
+of conditions named for the speciﬁc organism(s) that are re-
+sponsible for the phenotype.
+ACKNOWLEDGEMENTS
+This guideline was produced in collaboration with the Practice
+Parameters Committee of the American College of Gastroenterology.
+The committee gives special thanks to Scott Fink, MD, who served as
+guideline monitor for this document, and to Bryan G. Sauer, MD,
+MSc, FACG, who assisted with the GRADE methodology process.
+CONFLICTS OF INTEREST
+Guarantor of the article: Mark Pimentel, MD, FRCP(C), FACG.
+Speciﬁc author contributions: M.P., R.J.S., M.D.L., B.G.S., and
+S.S.C.R. wrote, reviewed, and edited the manuscript. All authors have
+approved the ﬁnal submission.
+Financial support: None to report.
+Potential competing interests: S.S.C.R. has received grant support
+from Progenity and Salix Pharmaceuticals (now Bausch Health) and
+is on the advisory boards for Progenity and Salix Pharmaceuticals.
+M.D.L. is a consultant for Takeda, Pﬁzer, Janssen, UCB, AbbVie,
+Valeant, Salix, Target Pharmasolutions, and Prometheus, and has
+received grant support from Pﬁzer and Takeda. R.J.S. is a consultant
+for Takeda. MP has equity in Gemelli Biotech and is a consultant for
+Synthetic Biologics. M.P. is also a consultant for and received grant
+support from Salix Pharmaceuticals. Cedars-Sinai has a licensing
+agreement with Bausch Health and Gemelli Biotech.
+REFERENCES
+1.
+Sachdev AH, Pimentel M. Antibiotics for irritable bowel syndrome:
+Rationale and current evidence. Curr Gastroenterol Rep 2012;14:
+439–45.
+2.
+Turnbaugh PJ, Ley RE, Hamady M, et al. The human microbiome
+project. Nature 2007;449:804–10.
+3.
+Pimentel M. The prevalence of small intestinal bacterial overgrowth in
+irritable bowel syndrome: IBS vs healthy controls (not historical
+deﬁnitions). Gut 2008;57:1334–5.
+4.
+Majewski M, McCallum RW. Results of small intestinal bacterial
+overgrowthtesting in irritablebowel syndromepatients: Clinical proﬁles
+and eﬀects of antibiotic trial. Adv Med Sci 2007;52:139–42.
+5.
+Shah A, Morrison M, Burger D, et al. Systematic review with meta-
+analysis: The prevalence of small intestinal bacterial overgrowth in
+inﬂammatory bowel disease. Aliment Pharmacol Ther 2019;49:624–35.
+6.
+Tauber M, Avouac J, Benahmed A, et al. Prevalence and predictors of
+small intestinal bacterial overgrowth in systemic sclerosis patients with
+gastrointestinal symptoms. Clin Exp Rheumatol 2014;32:S-82–7.
+7.
+Vantrappen G, Janssens J, Hellemans J, et al. The interdigestive motor
+complex of normal subjects and patients with bacterial overgrowth of
+the small intestine. J Clin Invest 1977;59:1158–66.
+8.
+Husebye E, Skar V, Høverstad T, et al. Abnormal intestinal motor
+patterns explain enteric colonization with gram-negative bacilli in late
+radiation enteropathy. Gastroenterology 1995;109:1078–89.
+9.
+Fukui H, Wiest R. Changes of intestinal functions in liver cirrhosis.
+Inﬂamm Intest Dis 2016;1:24–40.
+10.
+Fialho A, Fialho A, Thota P, et al. Small intestinal bacterial overgrowth is
+associated with non-alcoholic fatty liver disease. J Gastrointestin Liver
+Dis 2016;25:159–65.
+11.
+Paik CN, Choi MG, Lim CH, et al. The role of small intestinal bacterial
+overgrowth in postgastrectomy patients. Neurogastroenterol Motil
+2011;23:e191–6.
+12.
+Rezaie A,BuresiM,LemboA,etal.Hydrogenand methane-basedbreath
+testing in gastrointestinal disorders: The North American consensus.
+Am J Gastroenterol 2017;112:775–84.
+13.
+GuyattG,OxmanAD,Akl EA,etal.GRADEguidelines:1.Introduction-
+GRADE evidence proﬁles and summary of ﬁndings tables. J Clin
+Epidemiol 2011;64:383–94.
+14.
+Khoshini R, Dai SC, Lezcano S, et al. A systematic review of diagnostic
+tests for small intestinal bacterial overgrowth. Dig Dis Sci 2008;53:
+1443–54.
+15.
+Levitt MD, Bond JH Jr. Volume, composition, and source of intestinal
+gas. Gastroenterology 1970;59:921–9.
+Figure 2. Gas dynamics in the gastrointestinal tract.
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+175
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+16.
+Gasbarrini A, Corazza GR, Gasbarrini G, et al. Methodology and
+indications of H2-breath testing in gastrointestinal diseases: The Rome
+consensus conference. Aliment Pharmacol Ther 2009;29(Suppl 1):1–49.
+17.
+Ghoshal UC, Ghoshal U. Small intestinal bacterial overgrowth and other
+intestinal disorders. Gastroenterol Clin North Am 2017;46:103–20.
+18.
+Polkowska-Pruszynska B, Gerkowicz A, Szczepanik-Kulak P, et al. Small
+intestinal bacterial overgrowth in systemic sclerosis: A review of the
+literature. Arch Dermatol Res 2019;311:1–8.
+19.
+Erdogan A, Rao SS. Small intestinal fungal overgrowth. Curr
+Gastroenterol Rep 2015;17:16.
+20.
+Erdogan A, Rao SS, Gulley D, et al. Small intestinal bacterial overgrowth:
+Duodenal aspiration vs glucose breath test. Neurogastroenterol Motil
+2015;27:481–9.
+21.
+Jacobs C, Coss Adame E, Attaluri A, et al. Dysmotility and proton pump
+inhibitor use are independent risk factors for small intestinal bacterial
+and/or fungal overgrowth. Aliment Pharmacol Ther 2013;37:1103–11.
+22.
+Zaidel O, Lin HC. Uninvited guests: The impact of small intestinal
+bacterial overgrowth on nutritional status. Pract Gastroenterol 2003;7:
+27–34.
+23.
+Rao SSC, Rehman A, Yu S, et al. Brain fogginess, gas and bloating: A link
+between SIBO, probiotics and metabolic acidosis. Clin Transl
+Gastroenterol 2018;9:162.
+24.
+Baker J, Eswaran S, Saad R, et al. Abdominal symptoms are common and
+beneﬁt from biofeedback therapy in patients with dyssynergic
+defecation. Clin Transl Gastroenterol 2015;6:e105.
+25.
+Rezaie A, Nikfar S, Abdollahi M. The place of antibiotics in management
+of irritable bowel syndrome: A systematic review and meta-analysis.
+Arch Med Sci 2010;6:49–55.
+26.
+Krajmalnik-Brown R, Ilhan Z-E, Kang D-W, et al. Eﬀects of gut
+microbes on nutrient absorption and energy regulation. Nutr Clin Pract
+2012;27:201–14.
+27.
+Gaci N, Borrel G, Tottey W, et al. Archaea and the human gut: New
+beginning of an old story. World J Gastroenterol 2014;20:16062–78.
+28.
+Newman A. Breath-analysis tests in gastroenterology. Gut 1974;15:
+308–23.
+29.
+Erdogan ALY, Badger C, Hall P, et al. What is the optimal threshold for
+an increase in hydrogen and methane levels with glucose breath test
+(GBT) for detection of small intestinal bacterial overgrowth (SIBO)?
+Gastroenterology 2014;146:S-532.
+30.
+Bhagatwala JSA, Leelasinjaroen P, Tetangco E, et al. Investigation of
+small intestinal bacterial overgrowth (SIBO) in diabetics using fructose
+breath test. Gastroenterology 2018;154:53–4.
+31.
+Lin ECK, Pichetshote N, Rezaie A, et al. Measurement of hydrogen
+sulﬁde during breath testing correlates to patient symptoms.
+Gastroenterology 2017;152:205–6.
+32.
+Pyleris E, Giamarellos-Bourboulis EJ, Tzivras D, et al. The prevalence of
+overgrowth by aerobic bacteria in the small intestine by small bowel
+culture: Relationshipwith irritablebowel syndrome. Dig Dis Sci 2012;57:
+1321–9.
+33.
+Giamarellos-Bourboulis E, Tang J, Pyleris E, et al. Molecular assessment
+of diﬀerences in the duodenal microbiome in subjects with irritable
+bowel syndrome. Scand J Gastroenterol 2015;50:1076–87.
+34.
+Kerckhoﬀs AP, Ben-Amor K, Samsom M, et al. Molecular analysis of
+faecal and duodenal samples reveals signiﬁcantly higher prevalence and
+numbersofPseudomonasaeruginosain irritablebowelsyndrome.JMed
+Microbiol 2011;60:236–45.
+35.
+Leite G, Villanueva-Millan MJ, Celly S, et al. 4—First large scale study
+deﬁning the characteristic microbiome signatures of small intestinal
+bacterial overgrowth (SIBO): Detailed analysis from the reimagine
+study. Gastroenterology 2019;156:S-1–2.
+36.
+Li G, Yang M, Jin Y, et al. Involvement of shared mucosal-associated
+microbiota in the duodenum and rectum in diarrhea-predominant
+irritable bowel syndrome. J Gastroenterol Hepatol 2018;33:1220–6.
+37.
+Sundin OH, Mendoza-Ladd A, Morales E, et al. Does a glucose-based
+hydrogen and methane breath test detect bacterial overgrowth in the
+jejunum? Neurogastroenterol Motil 2018;30:e13350.
+38.
+Erdogan A, Rao SS, Gulley D, et al. Possible underestimation of SIBO in
+IBS patients: Is lack of glucose breath test standardization responsible?
+Neurogastroenterol Motil 2015;27:1192–3.
+39.
+Romagnuolo J, Schiller D, Bailey RJ. Using breath tests wisely
+in a gastroenterology practice: An evidence-based review of
+indications and pitfalls in interpretation. Am J Gastroenterol 2002;
+96:1113–26.
+40.
+Kalantar-Zadeh K, Berean KJ, Ha N, et al. A human pilot trial of
+ingestibleelectronic capsulescapableof sensingdiﬀerent gases inthe gut.
+Nat Electronics 2018;1:79–87.
+41.
+Singh S, Allan N, Wahl C, et al. Sa1717—Development of a swallowable
+diganostic capsule to monitor gastrointestinal health. Gastroenterology
+2019;156:S-376.
+42.
+Shah ED, Basseri RJ, Chong K, et al. Abnormal breath testing in IBS: A
+meta-analysis. Dig Dis Sci 2010;55:2441–9.
+43.
+Lembo A, Pimentel M, Rao SS, et al. Repeat treatment with rifaximin is
+safe and eﬀective in patients with diarrhea-predominant irritable bowel
+syndrome. Gastroenterology 2016;151:1113–21.
+44.
+Rezaie A, Heimanson Z, Israel RJ, et al. Lactulose breath testing predicts
+the response to rifaximin—Program no. P299. World Congress of
+Gastroenterology at ACG 2017 Meeting. Orlando, FL, 2017.
+45.
+Code CF, Marlett JA. The interdigestive myo-electric complex of the
+stomach and small bowel of dogs. J Physiol 1975;246:289–309.
+46.
+Rao SSC, Tan G, Abdulla H, et al. Does colectomy predispose to small
+intestinal bacterial (SIBO) and fungal overgrowth (SIFO)? Clin Transl
+Gastroenterol 2018;9:146.
+47.
+Bures J, Cyrany J, Kohoutova D, et al. Small intestinal bacterial
+overgrowth syndrome. World J Gastroenterol 2010;16:2978–90.
+48.
+Petrone P, Sarkisyan G, Fernandez M, et al. Small intestinal bacterial
+overgrowth in patients with lower gastrointestinal symptoms and
+a history of previous abdominal surgery. Arch Surg 2011;146:444–7.
+49.
+Yamini D, Pimentel M. Irritable bowel syndrome and small intestinal
+bacterial overgrowth. J Clin Gastroenterol 2010;44:672–5.
+50.
+Kim DB, Paik CN, Kim YJ, et al. Positive glucose breath tests in patients
+with hysterectomy, gastrectomy, and cholecystectomy. Gut Liver 2017;
+11:237–42.
+51.
+Newberry C, Tierney A, Pickett-Blakely O. Lactulose hydrogen breath
+test result is associated with age and gender. Biomed Res Int 2016;2016:
+1064029.
+52.
+Choung RS, RuﬀKC, Malhotra A, et al. Clinical predictors of small
+intestinal bacterial overgrowth by duodenal aspirate culture. Aliment
+Pharmacol Ther 2011;33:1059–67.
+53.
+Barboza JL, Okun MS, Moshiree B. The treatment of gastroparesis,
+constipation and small intestinal bacterial overgrowth syndrome in
+patients with Parkinson’s disease. Expert Opin Pharmacother 2015;16:
+2449–64.
+54.
+Lauritano EC, Bilotta AL, Gabrielli M, et al. Association between
+hypothyroidism and small intestinal bacterial overgrowth. J Clin
+Endocrinol Metab 2007;92:4180–4.
+55.
+Mulak A, Bonaz B. Brain-gut-microbiota axis in Parkinson’s disease.
+World J Gastroenterol 2015;21:10609–20.
+56.
+Strid H, Simren M, Stotzer PO, et al. Patients with chronic renal failure
+have abnormal small intestinal motility and a high prevalence of small
+intestinal bacterial overgrowth. Digestion 2003;67:129–37.
+57.
+Jigar Bhagatwala SWY, Erdogan A, Leelasinjaroen P, et al. Altered small
+bowel motility and small intestinal bacterial overgrowth: Time to target
+the culprit? Gastroenterology 2016;150:97.
+58.
+Riordan SM, McIver CJ, Wakeﬁeld D, et al. Serum immunoglobulin and
+soluble IL-2 receptor levels in small intestinal overgrowth with
+indigenous gut ﬂora. Dig Dis Sci 1999;44:939–44.
+59.
+Kett K, Baklien K, Bakken A, et al. Intestinal B-cell isotype response in
+relation to local bacterial load: Evidence for immunoglobulin A subclass
+adaptation. Gastroenterology 1995;109:819–25.
+60.
+Belitsos PC, Greenson JK, Yardley JH, et al. Association of gastric
+hypoacidity with opportunistic enteric infections in patients with AIDS.
+J Infect Dis 1992;166:277–84.
+61.
+Pignata C, Budillon G, Monaco G, et al. Jejunal bacterial overgrowth and
+intestinal permeability in children with immunodeﬁciency syndromes.
+Gut 1990;31:879–82.
+62.
+Lasa JS, Zubiaurre I, Fanjul I, et al. Small intestinal bacterial overgrowth
+prevalence in celiac disease patients is similar in healthy subjects and
+lower in irritablebowel syndrome patients. Rev Gastroenterol Mex 2015;
+80:171–4.
+63.
+Rubio-Tapia A, Barton SH, Rosenblatt JE, et al. Prevalence of small
+intestine bacterial overgrowth diagnosed by quantitative culture of
+intestinal aspirate in celiac disease. J Clin Gastroenterol 2009;43:157–61.
+64.
+Sanchez-Montes C, Ortiz V, Bastida G, et al. Small intestinal bacterial
+overgrowth in inactive Crohn’s disease: Inﬂuence of thiopurine and
+biological treatment. World J Gastroenterol 2014;20:13999–4003.
+65.
+Bauer TM, Steinbr¨uckner B, Brinkmann FE, et al. Small intestinal
+bacterial overgrowth in patients with cirrhosis: Prevalence and relation
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+176
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+with spontaneous bacterial peritonitis. Am J Gastroenterol 2001;96:
+2962–7.
+66.
+Therrien A, Bouchard S, Sidani S, et al. Prevalence of small intestinal
+bacterial overgrowth among chronic pancreatitis patients: A case-
+control study. Can J Gastroenterol Hepatol 2016;2016:7424831.
+67.
+Fridge JL,ConradC, GersonL, etal.Risk factorsforsmallbowelbacterial
+overgrowth in cystic ﬁbrosis. J Pediatr Gastroenterol Nutr 2007;44:
+212–8.
+68.
+Pimentel M, Wallace D, Hallegua D, et al. A link between irritable bowel
+syndrome and ﬁbromyalgia may be related to ﬁndings on lactulose
+breath testing. Ann Rheum Dis 2004;63:450–2.
+69.
+Gabbard SL, Lacy BE, Levine GM, et al. The impact of alcohol
+consumption and cholecystectomy on small intestinal bacterial
+overgrowth. Dig Dis Sci 2014;59:638–44.
+70.
+Zhang Y, Liu G, Duan Y, et al. Prevalence of small intestinal bacterial
+overgrowth in multiple sclerosis: A case-control study from China.
+J Neuroimmunol 2016;301:83–7.
+71.
+Saltzman JR, Kowdley KV, Pedrosa MC, et al. Bacterial overgrowth
+without clinical malabsorption in elderly hypochlorhydric subjects.
+Gastroenterology 1994;106:615–23.
+72.
+Husebye E, Skar V, Høverstad T, et al. Fasting hypochlorhydria with
+gram positive gastric ﬂora is highly prevalent in healthy old people. Gut
+1992;33:1331–7.
+73.
+Spiegel BM, Chey WD, Chang L. Bacterial overgrowth and irritable
+bowel syndrome: Unifying hypothesis or a spurious consequence of
+proton pump inhibitors? Am J Gastroenterol 2008;103:2972–6.
+74.
+Franco DL, Disbrow MB, Kahn A, et al. Duodenal aspirates for small
+intestine bacterial overgrowth: Yield, PPIs, and outcomes after
+treatment at a Tertiary Academic Medical Center. Gastroenterol Res
+Pract 2015;2015:971582.
+75.
+Lombardo L, Foti M, Ruggia O, et al. Increased incidence of small
+intestinal bacterial overgrowth during proton pump inhibitor therapy.
+Clin Gastroenterol Hepatol 2010;8:504–8.
+76.
+Ratuapli SK, Ellington TG, O’Neill MT, et al. Proton pump inhibitor
+therapy use does not predispose to small intestinal bacterial overgrowth.
+Am J Gastroenterol 2012;107:730–5.
+77.
+Su T, Lai S, Lee A, et al. Meta-analysis: Proton pump inhibitors
+moderately increase the risk of small intestinal bacterial overgrowth.
+J Gastroenterol 2018;53:27–36.
+78.
+Compare D, Pica L, Rocco A, et al. Eﬀects of long-term PPI treatment on
+producing bowel symptoms and SIBO. Eur J Clin Invest 2011;41:380–6.
+79.
+Giamarellos-Bourboulis EJ, Pyleris E, Barbatzas C, et al. Small intestinal
+bacterial overgrowth is associated with irritable bowel syndrome and is
+independent of proton pump inhibitor usage. BMC Gastroenterol 2016;
+16:67.
+80.
+Weitsman S, Leite G, Celly S, et al. 979—A large scale evaluation of the
+small intestinal microbiome in subjects on proton pump inhibitors.
+Gastroenterology 2019;156:S-206.
+81.
+Chatterjee S, Park S, Low K, et al. The degree of breath methane
+production in IBS correlates with the severity of constipation. Am J
+Gastroenterol 2007;102:837–41.
+82.
+Attaluri A, Jackson M, Valestin J, et al. Methanogenic ﬂora is associated
+with altered colonic transit but not stool characteristics in constipation
+without IBS. Am J Gastroenterol 2010;105:1407–11.
+83.
+Hwang L, Low K, Khoshini R, et al. Evaluating breath methane as
+a diagnostic test for constipation-predominant IBS. Dig Dis Sci 2010;55:
+398–403.
+84.
+Kunkel D, Basseri RJ, Makhani MD, et al. Methane on breath testing is
+associated with constipation: A systematic review and meta-analysis.
+Dig Dis Sci 2011;56:1612–8.
+85.
+Pimentel M, Lin HC, Enayati P, et al. Methane, a gas produced by enteric
+bacteria, slows intestinal transit and augments small intestinal
+contractile activity. Am J Physiol Gastrointest Liver Physiol 2006;290:
+G1089–95.
+86.
+Jahng J, Jung IS, Choi EJ,et al.The eﬀects of methaneand hydrogengases
+produced by enteric bacteria on ileal motility and colonic transit time.
+Neurogastroenterol Motil 2012;24:185–90, e92.
+87.
+Park YM,Lee YJ, HussainZ, et al. The eﬀects and mechanismof action of
+methane on ileal motor function. Neurogastroenterol Motil 2017;29:
+e13077.
+88.
+Woese CR, Kandler O, Wheelis ML. Towards a natural system of
+organisms: Proposal for the domains archaea, bacteria, and eucarya.
+Proc Natl Acad Sci USA 1990;87:4576–9.
+89.
+Miller TL, Wolin MJ. Enumeration of Methanobrevibacter smithii in
+human feces. Arch Microbiol 1982;131:14–8.
+90.
+Kim G, Deepinder F, Morales W, et al. Methanobrevibacter smithii is the
+predominant methanogen in patients with constipation-predominant
+IBS and methane on breath. Dig Dis Sci 2012;57:3213–8.
+91.
+Gatta L, Scarpignato C. Systematic review with meta-analysis: Rifaximin
+is eﬀective and safe for the treatment of small intestine bacterial
+overgrowth. Aliment Pharmacol Ther 2017;45:604–16.
+92.
+Deng L, Liu Y, Zhang D, et al. Prevalence and treatment of small
+intestinal bacterial overgrowth in postoperative patients with colorectal
+cancer. Mol Clin Oncol 2016;4:883–7.
+93.
+Zhang Y, Feng Y, Cao B, et al. Eﬀects of SIBO and rifaximin therapy on
+MHE caused by hepatic cirrhosis. Int J Clin Exp Med 2015;8:2954–7.
+94.
+Castiglione F, Rispo A, Di Girolamo E, et al. Antibiotic treatment of
+small bowel bacterial overgrowth in patients with Crohn’s disease.
+Aliment Pharmacol Ther 2003;18:1107–12.
+95.
+Sajjad A, Mottershead M, Syn WK, et al. Ciproﬂoxacin suppresses
+bacterial overgrowth, increases fasting insulin but does not correct low
+acylated ghrelin concentration in non-alcoholic steatohepatitis. Aliment
+Pharmacol Ther 2005;22:291–9.
+96.
+Lisowska A, Pogorzelski A, Oracz G, et al. Oral antibiotic therapy
+improves fat absorption in cystic ﬁbrosis patients with small intestine
+bacterial overgrowth. J Cyst Fibros 2011;10:418–21.
+97.
+Lewis SJ, Potts LF, Malhotra R, et al. Small bowel bacterial overgrowth in
+subjects living in residential care homes. Age Ageing 1999;28:181–5.
+98.
+Ghoshal UC, Srivastava D, Misra A, et al. A proof-of-concept study
+showing antibiotics to be more eﬀective in irritablebowel syndrome with
+than without small-intestinal bacterial overgrowth: A randomized,
+double-blind, placebo-controlled trial. Eur J Gastroenterol Hepatol
+2016;28:281–9.
+99.
+Attar A, Flouri´e B, Rambaud JC, et al. Antibiotic eﬃcacy in small
+intestinal bacterial overgrowth-related chronic diarrhea: A crossover,
+randomized trial. Gastroenterology 1999;117:794–7.
+100. Shindo K, Machida M, Fukumura M, et al. Omeprazole induces altered
+bile acid metabolism. Gut 1998;42:266–71.
+101. Tahan S, Melli LCFL, Mello CS, et al. Eﬀectiveness of trimethoprim-
+sulfamethoxazole and metronidazole in the treatment of small intestinal
+bacterial overgrowth in children living in a slum. J Pediatr Gastroenterol
+Nutr 2013;57:316–8.
+102. Lauritano EC, Gabrielli M, Scarpellini E, et al. Small intestinal bacterial
+overgrowth recurrence after antibiotic therapy. Am J Gastroenterol
+2008;103:2031–5.
+103. Marie I, Ducrott´e P, Denis P, et al. Small intestinal bacterial overgrowth
+in systemic sclerosis. Rheumatology (Oxford) 2009;48:1314–9.
+104. Pimentel M, Chow EJ, Lin HC. Normalization of lactulose breath testing
+correlates with symptom improvement in irritable bowel syndrome: A
+double-blind, randomized, placebo-controlled study. Am J
+Gastroenterol 2003;98:412–9.
+105. Low K, Hwang L, Hua J, et al. A combination of rifaximin and neomycin
+is most eﬀective in treating irritable bowel syndrome patients with
+methane on lactulose breath test. J Clin Gastroenterol 2010;44:547–50.
+106. Dionne J, Ford AC, Yuan Y, et al. A systematic review and meta-analysis
+evaluating the eﬃcacy of a gluten-free diet and a low FODMAPs diet in
+treating symptoms of irritable bowel syndrome. Am J Gastroenterol
+2018;113:1290–300.
+107. Ong DK, Mitchell SB, Barrett JS, et al. Manipulation of dietary short
+chain carbohydrates alters the pattern of gas production and genesis of
+symptoms in irritablebowel syndrome. J GastroenterolHepatol 2010;25:
+1366–73.
+108. McIntosh K, Reed DE, Schneider T, et al. FODMAPs alter symptoms
+and the metabolome of patients with IBS: A randomised controlled trial.
+Gut 2017;66:1241–51.
+109. Husebye E, Hellstr¨om PM, Sundler F, et al. Inﬂuence of microbialspecies
+on small intestinal myoelectric activity and transit in germ-free rats. Am
+J Physiol Gastrointest Liver Physiol 2001;280:G368–80.
+110. Kumar K, Saadi M, Ramsey FV, et al. Eﬀect of Biﬁdobacterium infantis
+35624 (Align) on the lactulose breath test for small intestinal bacterial
+overgrowth. Dig Dis Sci 2018;63:989–95.
+111. Leventogiannis K, Gkolfakis P, Spithakis G, et al. Eﬀect of a preparation
+of four probiotics on symptoms of patients with irritable bowel
+syndrome: Association with intestinal bacterial overgrowth. Probiotics
+Antimicrob Proteins 2019;11:627–34.
+© 2020 by The American College of Gastroenterology
+The American Journal of GASTROENTEROLOGY
+Small Intestinal Bacterial Overgrowth
+177
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+112. Zhong C, Qu C, Wang B, et al. Probiotics for preventing and treating
+small intestinal bacterial overgrowth: A meta-analysis and systematic
+review of current evidence. J Clin Gastroenterol 2017;51:300–11.
+113. Allegretti JR, Kassam Z, Chan WW. Small intestinal bacterial
+overgrowth: Should screening be included in the pre-fecal microbiota
+transplantation evaluation? Dig Dis Sci 2018;63:193–7.
+114. U.S. Food and Drug Administration. Important safety alert
+regarding use of fecal microbiota for transplantation and risk of
+serious adverse reactions due to transmission of multi-drug resistant
+organisms. 2019 (https://www.fda.gov/vaccines-blood-biologics/
+safety-availability-biologics/important-safety-alert-regarding-use-
+fecal-microbiota-transplantation-and-risk-serious-adverse).
+Accessed June 28, 2019.
+115. Chang BW, Rezaie A. Irritable bowel syndrome-like symptoms
+following fecal microbiota transplantation: A possible donor-dependent
+complication. Am J Gastroenterol 2017;112:186–7.
+The American Journal of GASTROENTEROLOGY
+VOLUME 115 | FEBRUARY 2020
+www.amjgastro.com
+Pimentel et al.
+178
+Copyright © 2020 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.

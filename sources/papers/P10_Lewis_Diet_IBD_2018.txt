@@ -1,0 +1,987 @@
+Accepted Manuscript
+Activity of Mesothelin-specific Chimeric Antigen Receptor T cells Against
+Pancreatic Carcinoma Metastases in a Phase 1 Trial
+Gregory L. Beatty, Mark H. O’Hara, Simon F. Lacey, Drew A. Torigian, Farzana
+Nazimuddin, Fang Chen, Irina M. Kulikovskaya, Michael C. Soulen, Maureen
+McGarvey, Anne Marie Nelson, Whitney L. Gladney, Bruce L. Levine, J. Joseph
+Melenhorst, Gabriela Plesa, Carl H. June
+PII:
+S0016-5085(18)30323-8
+DOI:
+10.1053/j.gastro.2018.03.029
+Reference:
+YGAST 61783
+To appear in:
+Gastroenterology
+Accepted Date: 13 March 2018
+Please cite this article as: Beatty GL, O’Hara MH, Lacey SF, Torigian DA, Nazimuddin F, Chen F,
+Kulikovskaya IM, Soulen MC, McGarvey M, Nelson AM, Gladney WL, Levine BL, Melenhorst JJ, Plesa
+G, June CH, Activity of Mesothelin-specific Chimeric Antigen Receptor T cells Against Pancreatic
+Carcinoma Metastases in a Phase 1 Trial, Gastroenterology (2018), doi: 10.1053/j.gastro.2018.03.029.
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+1 
+ 
+Activity of Mesothelin-specific Chimeric Antigen Receptor T cells Against Pancreatic 
+Carcinoma Metastases in a Phase 1 Trial 
+ 
+Gregory L. Beatty 1,3,*, Mark H. O’Hara,1,3, Simon F. Lacey 1,4,6, Drew A. Torigian 1,5, Farzana 
+Nazimuddin 1,4,6, Fang Chen 1,4,6, Irina M. Kulikovskaya 1,4,6, Michael C. Soulen 1,5, Maureen 
+McGarvey 1, Anne Marie Nelson1, Whitney L. Gladney 1, Bruce L. Levine 1,4,6, J. Joseph 
+Melenhorst 1,4,6, Gabriela Plesa 1, and Carl H. June 1,4,6,7 
+ 
+1Abramson Cancer Center; University of Pennsylvania, Philadelphia, PA 
+2Division of Pulmonary, Allergy, and Critical Care, Department of Medicine, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA 
+3Division of Hematology-Oncology, Department of Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 
+4Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University 
+of Pennsylvania, Philadelphia, PA 
+5Department of Radiology, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, PA 
+6Center for Cellular Immunotherapies, University of Pennsylvania, Philadelphia, PA 
+7Abramson Family Cancer Research Institute, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 
+ 
+Running title: CAR T cells in pancreatic cancer 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+2 
+ 
+Financial support: This work was supported by a research grant funded by the Lustgarten 
+Foundation and Cancer Research Institute. Additional support was provided in part by a Doris 
+Duke Charitable Foundation Clinical Investigator Award (to G.L. Beatty) and by grant number 
+K08 CA138907 (to G.L. Beatty). 
+ 
+Conflict of Interest Statement: B.L.L., C.H.J., G.L.B., G.P., S.F.L., and J.J.M. are inventors of 
+intellectual property related to CAR T cells that is licensed by the University of Pennsylvania to 
+Novartis. All other authors declare no conflict. 
+ 
+*To whom correspondence should be addressed:  
+Gregory L. Beatty, MD, PhD, Abramson Cancer Center of the University of Pennsylvania, 
+Perelman Center for Advanced Medicine, South Pavilion Room 8-107, 3400 Civic Center Blvd. 
+Bldg 
+421, 
+Philadelphia, 
+PA 
+19104-5156. 
+tele: 
+215-746-7764. 
+email: 
+gregory.beatty@uphs.upenn.edu. 
+ 
+Word Count: 986 
+Total number of figures and tables: 2 
+Total number of supplemental files: 6 
+ 
+This manuscript presents original results of a phase I study of autologous mesothelin-specific 
+chimeric antigen receptor modified T cells in patients with chemotherapy-refractory metastatic 
+pancreatic ductal adenocarcinoma. Preliminary findings have been reported at the 51st Annual 
+Meeting of the American Society of Clinical Oncology, May 29-June 2, 2015, Chicago, IL. 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+3 
+ 
+ 
+Author Contributions: Study concept and design: G.L.B., G.P., and C.H.J.; acquisition of data: 
+G.L.B., M.H.O., D.A.T., M.M., A.M.N.; analysis and interpretation of data: all authors 
+contributed; drafting of manuscript: G.L.B.; critical revision of the manuscript for important 
+intellectual content: all authors contributed; statistical analysis: G.L.B., F.N., S.F.L., F.C.; 
+obtained funding: G.L.B., C.H.J.; study supervision: G.L.B., G.P., C.H.J. All authors edited and 
+approved the final manuscript. 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+4 
+ 
+Abstract 
+Pancreatic ductal adenocarcinoma (PDAC) is resistant to T-cell mediated immunotherapy. We 
+engineered T cells to transiently express an mRNA encoding a chimeric antigen receptor (CAR) 
+specific for mesothelin—a protein that is over-expressed by PDAC cells. We performed a phase 
+1 study to evaluate the safety and efficacy of adoptive cell therapy with autologous mesothelin-
+specific CAR T cells (CARTmeso cells) in 6 patients with chemotherapy-refractory metastatic 
+PDAC. Patients were given intravenous CARTmeso cells 3 times weekly for 3 weeks. None of 
+the patients developed cytokine release syndrome or neurologic symptoms and there were no 
+dose limiting toxicities. Disease stabilized in 2 patients, with progression-free survival times of 
+3.8 and 5.4 months. We used FDG-positron emission tomography/computed tomography 
+imaging to monitor the metabolic active volume (MAV) of individual tumor lesions. The total 
+MAV remained stable in 3 patients and decreased by 69.2% in 1 patient with biopsy-proven 
+mesothelin expression; in this patient, all liver lesions had a complete reduction in FDG uptake at 
+1 month compared to baseline, although there was no effect on the primary PDAC. Transient 
+CAR expression was detected in patients’ blood after infusion and led to expansion of new 
+immunoglobulin G proteins. Our results provide evidence for the potential anti-tumor activity of 
+mRNA CARTmeso cells, as well as PDAC resistance to the immune response. 
+Keywords: immune response heterogeneity, immune therapy, anti-tumor immunity, pancreatic 
+cancer treatment 
+ 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+5 
+ 
+MAIN TEXT 
+ 
+Pancreatic ductal adenocarcinoma (PDAC) has demonstrated striking resistance to T cell 
+immunotherapy 1-3. This resistance may reflect PDAC’s lack of strong immunogenic neoantigens 
+4 or ineffective priming of endogenous T cells in vivo 5 6. To circumvent these issues, T cells can 
+be synthetically modified to express a chimeric antigen receptor (CAR) which activates T cells 
+upon engagement with its cognate cell surface target protein 7. However, the translation of CAR 
+T cells to solid malignancies has been hampered by on-target off-tumor toxicities as a result of 
+target antigen expression by normal healthy tissues 8, 9. To address this concern, we have used 
+mRNA electroporation to engineer T cells to transiently express a CAR, so as to limit exposure 
+and potential for toxicity. Here, we conducted a phase I study to evaluate adoptive cell therapy 
+with autologous T lymphocytes (CARTmeso cells) genetically modified with mRNA to express 
+a CAR recognizing mesothelin 10, a protein that is over-expressed in most surgically-resected 
+PDACs 11, 12 but also found on some normal tissues including the lining of the peritoneum, 
+pleura, and pericardium.  
+ 
+Six patients with chemotherapy-refractory metastatic PDAC received CARTmeso cells 
+administered intravenously three times weekly for three weeks (Figure 1A, Suppl Figure 1 and 
+Suppl Methods). 53 of 54 planned CARTmeso cell infusions were administered. None of the 
+patients experienced cytokine release syndrome or neurologic symptoms (Supplementary Table 
+1). There were no dose limiting toxicities. Safety and tolerability of the infusions are described in 
+Supplementary Methods.  
+The best overall response achieved with mRNA CARTmeso cells was stable disease by 
+RECIST v1.1, with two patients (08212-100 and 08212-108) demonstrating progression-free 
+survival lasting 3.8 and 5.4 months, respectively (Figure 1B and Supplementary Figure 1). We 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+6 
+ 
+used 18F-2-fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography 
+(FDG-PET/CT) imaging to monitor the metabolically active volume (MAV) and maximum 
+standardized uptake value (SUVmax) of individual tumor lesions (Figure 1C, D). We found that 
+the total MAV remained stable in three patients but decreased by 69.2% in one patient (08212-
+113). For 08212-113, SUVmax for all lesions was found to decrease with a complete reduction in 
+FDG uptake seen in all liver lesions at Month 1 compared to baseline, despite an increase in 
+MAV within the primary pancreatic lesion (Figure 1E, F). This dramatic reduction in FDG 
+uptake is atypical for the course of this disease and thus, this observation is highly suggestive of 
+the potential anti-tumor activity of mRNA CARTmeso cells. 
+ 
+CAR expression is transient in T cells when introduced as mRNA 13. Consistent with this, 
+we detected CAR transcripts transiently in the blood after each infusion in all patients (Figure 
+2A). To determine the impact of CARTmeso cell infusion on endogenous immune responses, we 
+first examined serum cytokine levels within the peripheral blood after infusion. We found 
+elevated levels of several inflammatory cytokines, including IL-6, HGF, IL-1RA, and IL-8, after 
+starting therapy in patient 08212-113, but not in any of the other patients (Figure 2B). We also 
+detected no significant levels of human anti-mouse antibodies (HAMA) in patients at baseline or 
+at multiple defined time points after CARTmeso infusion. In contrast, human anti-chimeric 
+antibodies (HACA) were seen in some patients (Supplementary Figure 2A). We next analyzed 
+serum from patients at baseline and 1-2 months after beginning CARTmeso therapy for the 
+presence of IgG antibodies reactive to an array of >9000 proteins. For all but one patient (08212-
+108), antibodies levels against multiple protein targets were found to increase, with some against 
+previously unrecognized proteins (Figure 2C, Supplementary Tables 2 and 3). Gene ontology 
+analysis of differentially recognized proteins from all patients identified oxidative stress and 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+7 
+ 
+leukocyte activation and proliferation as the most significantly upregulated protein function 
+groups (Supplementary Figure 2C). Increases in IgG antibodies reactive against six proteins, 
+including three immune-related proteins (BCMA, PD-1, and PD-L1), were detected in multiple 
+patients (Supplementary Figure 2D).  
+ 
+We next considered the possibility that exclusion of T cells from the tumor 
+microenvironment, lack of mesothelin expression on malignant cells, or both might limit the 
+efficacy of CARTmeso cell therapy. Tumor biopsies at 3-7 days after the last infusion were 
+available from patients 08212-104 and 08212-108 who demonstrated disease progression and 
+prolonged stable disease, respectively. CAR transcripts were not detected in either biopsy, 
+excluding the presence of CARTmeso cells within tumors at this time point. Baseline tumor 
+biopsies were available for patients 08212-108 and 08212-113 and showed CD3+ T cells 
+amongst malignant cells in both specimens suggesting the potential of T cells to penetrate the 
+tumor microenvironment in these patients (Figure 2D). For patient 08212-108, mesothelin 
+expression was confined to the cytoplasm of malignant cells, whereas for patient 08212-113, 
+malignant cells showed mesothelin expression on the cell surface, a pre-requisite for CARTmeso 
+effector activity (Figure 2D).  
+Our findings reveal the safety, feasibility and therapeutic potential of autologous T cells 
+redirected with a CAR recognizing mesothelin for the treatment of PDAC. The mixed metabolic 
+response detected in one patient with biopsy-proven cell surface expression of mesothelin 
+implies distinct biology associated with primary and metastatic lesions in this patient. We 
+hypothesized that CARTmeso cells may produce a vaccine effect by inducing tumor cell death 
+and the release of tumor-associated antigens. Consistent with this hypothesis, we found that 
+therapy induced a spreading of antibody responses against multiple proteins, including 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+8 
+ 
+immunoregulatory molecules (e.g. PD-1, PD-L1, and BCMA). Further, we have recently 
+reported that mRNA CARTmeso cell infusion stimulates clonal expansion of T cell clones, 
+which may contribute to the anti-tumor potential of CAR T cells 14. The ultimate fate of tumor-
+infiltrating T cells, though, is determined by signals received within the tumor 
+microenvironment. In our study, we were unable to evaluate the fate of adoptively transferred 
+CARTmeso cells due to transient CAR expression in vivo. In conclusion, we propose that 
+CARTmeso adoptive cell therapy can serve as a novel tool for probing the immunobiology of 
+PDAC, without issues of T cell priming, and in doing so, guide the development of effective T 
+cell immunotherapies in this disease. 
+ 
+Acknowledgements  
+ 
+The authors thank the nurses of the Clinical Trials Research Center, Don Siegel Director 
+of Transfusion Medicine and Therapeutic Pathology, and the staff of the Apheresis Unit at the 
+Hospital of the University of Pennsylvania for their outstanding and dedicated patient care and 
+careful data collection. We also acknowledge Natalka Kengle for cytokine luminex assays, 
+Jeffrey Finklestein, and Minnal Gupta for sample processing, Vanessa Gonzalez for data 
+management and quality control, and Andrea Brennan and the staff of the Clinical Cell and 
+Vaccine Production Facility for cell manufacturing and testing. We also thank the Lustgarten 
+Foundation and Cancer Research Institute for funding and support of this study. Additional 
+support was provided in part by a Doris Duke Charitable Foundation Clinical Investigator Award 
+(to G.L. Beatty) and by grant number K08 CA138907-02 (to G.L. Beatty) and 5R01 CA120409 
+(to C.H.J.). B.L.L., C.H.J., G.L.B., G.P., S.F.L., and J.J.M. are inventors of intellectual property 
+related to CAR T cells that is licensed by the University of Pennsylvania to Novartis.  
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+9 
+ 
+References 
+1. 
+Le DT et al. J Clin Oncol 2017;35:abstract 345. 
+2. 
+Brahmer JR et al. N Engl J Med 2012;366:2455-65. 
+3. 
+Royal RE et al. J Immunother 2010;33:828-33. 
+4. 
+Alexandrov LB et al. Nature 2013;500:415-21. 
+5. 
+Le DT et al. J Clin Oncol 2015;33:1325-33. 
+6. 
+Beatty GL et al. Gastroenterology 2015;149:201-10. 
+7. 
+Gill S et al. Immunol Rev 2015;263:68-89. 
+8. 
+Morgan RA et al. Mol Ther 2010;18:843-51. 
+9. 
+Lamers CH et al. J Clin Oncol 2006;24:e20-2. 
+10. 
+Beatty GL et al. Pharmacol Ther 2016;166:30-9. 
+11. 
+Pastan I et al. Cancer Res 2014;74:2907-12. 
+12. 
+Argani P et al. Clin Cancer Res 2001;7:3862-8. 
+13. 
+Beatty GL et al. Cancer Immunol Res 2014;2:112-120. 
+14. 
+Kim RH et al. Journal of Clinical Oncology 2017;35:3011-3011. 
+ 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+10 
+ 
+Figure Legends 
+ 
+Figure 1. Clinical responses. (A) Baseline patient demographics. (B)  Swimmer plot showing 
+patient outcomes. Percent change at 1 month relative to baseline in (C) total MAV and (D) 
+SUVmax for tumor lesions detected using FDG-PET/CT imaging. (E) Sequential coronal 
+maximum intensity projection PET images and (F) sequential unenhanced CT and FDG-PET 
+images for patient 08212-113. In (E), red and yellow arrows indicate liver and primary 
+pancreatic lesions, respectively. In (F), yellow arrows mark a representative liver lesion. 
+ 
+Figure 2. Pharmacodynamic analyses. (A) RT-qPCR analysis to detect CAR expression in 
+whole blood after CARTmeso cell infusion. (B) Longitudinal measurements of serum soluble 
+factors after CARTmeso cell infusion. (C) Differentially recognized proteins detected by self-
+reactive IgG antibodies in the serum of each patient at 1-2 months after CARTmeso cell infusion 
+compared to baseline. (D) Representative images of H&E staining (40x) and IHC staining to 
+detect CD3 (20x) and mesothelin (40x) expression in metastatic liver lesions analyzed from 
+patient 08212-108 and 08212-113.  Red arrowheads indicate malignant cells adjacent to CD3+ 
+cells.  
+ 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+A
+B
+C
+D
+E
+F
+No.
+%
+3
+50%
+3
+50%
+0
+4
+67%
+1
+2
+33%
+2
+33%
+2
+33%
+4
+67%
+1
+0
+0%
+2
+4
+67%
+>3
+2
+33%
+Site of Metastases
+Liver
+Lung
+Peritoneum
+No. of Prior therapies
+Range
+50-71
+Sex
+Male
+Female
+ECOG PS
+Baseline Patient Demographics and 
+Clinical Characteristics of Treated Patients
+Characteristic
+Age, years
+Median
+61
+Screening to Treatment
+Progression free survival
+Survival beyond progression
+Months
+0
+5
+10
+15
+08212-114
+08212-113
+08212-111
+08212-108
+08212-104
+08212-100
+20
+08212-100
+08212-104
+08212-108
+08212-111
+08212-113
+08212-114
+Percent change 
+(baseline to month 1)
+Total metabolically active
+tumor volume
+-100%
+-50%
+0%
+50%
+100%
+150%
+200%
+250%
+SUVmax
+Percent change 
+relative to baseline
+08212-100
+08212-104
+08212-108
+08212-111
+08212-113
+08212-114
+-50%
+-25%
+0%
+25%
+50%
+Figure 1
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+A
+B
+C
+D
+0
+10
+20
+30
+0
+2
+4
+6
+8
+10
+Fold change
+from baseline
+IL-6
+MCP-1
+HGF
+IL-1RA
+IL-8
+08212-100
+08212-104
+08212-108
+08212-111
+08212-113
+08212-114
+0
+10
+20
+30
+0
+2
+4
+6
+8
+10
+0
+10
+20
+30
+0
+2
+4
+6
+8
+10
+0
+10
+20
+30
+0
+2
+4
+6
+8
+10
+0
+10
+20
+30
+0
+2
+4
+6
+8
+10
+Day
+Day
+Day
+Day
+Day
+0
+20
+40
+60
+80
+100
+120
+>3 fold
+2-3 fold
+# of proteins
+Figure 2
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+1 
+ 
+SUPPLEMENTAL MATERIAL AND DATA 
+ 
+Mesothelin chimeric antigen receptor (CAR) T cells stimulate anti-tumor activity against 
+metastatic pancreatic carcinoma 
+ 
+Gregory L. Beatty 1,3,*, Mark H. O’Hara,1,3, Simon F. Lacey 1,4,6, Drew A. Torigian 1,5, Farzana 
+Nazimuddin 1,4,6, Fang Chen 1,4,6, Irina M. Kulikovskaya 1,4,6, Michael C. Soulen 1,5, Maureen 
+McGarvey 1, Anne Marie Nelson1, Whitney L. Gladney 1, Bruce L. Levine 1,4,6, J. Joseph 
+Melenhorst 1,4,6, Gabriela Plesa 1, and Carl H. June 1,4,6,7 
+ 
+1Abramson Cancer Center; University of Pennsylvania, Philadelphia, PA 
+2Division of Pulmonary, Allergy, and Critical Care, Department of Medicine, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA 
+3Division of Hematology-Oncology, Department of Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 
+4Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 
+5Department of Radiology, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, PA 
+6Center for Cellular Immunotherapies, University of Pennsylvania, Philadelphia, PA 
+7Abramson Family Cancer Research Institute, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+2 
+ 
+SUPPLEMENTAL RESULTS AND DISCUSSION 
+Safety of CARTmeso cellular therapy  
+We evaluated adverse events experienced from CARTmeso cellular therapy according to 
+CTCAE v4.0. The most common adverse events (AEs) (all grades) reported included fatigue 
+(67%), dysgeusia (50%), and abdominal pain (50%) (Supplementary Table 2). Dysgeusia was most 
+likely related to known effects of DMSO that was used to cryopreserve the CARTmeso cell 
+product. One patient (08212-113), who presented at baseline prior to CARTmeso cell infusion 
+with a pancreatic head mass and multiple metastases involving the mesentery, liver and lung, 
+experienced a cerebral vascular accident associated with disseminated intravascular coagulation 
+and deep venous thrombosis after tolerating 8 of the 9 planned CARTmeso cell infusions. This 
+patient’s treatment course was complicated by worsening fatigue, anorexia, and pain. In addition, 
+there was a notable rise in CA19-9 from baseline of 144,787 to 622,750 at the completion of the 
+CARTmeso cell infusions. FDG-PET/CT imaging performed on day 23 after beginning 
+CARTmeso cell therapy showed a complete metabolic response in liver metastases despite 
+continued FDG uptake detected in the primary pancreatic lesion. At that time, the patient also 
+presented with a new expressive aphasia and a follow-up MRI of the head performed on day 24 
+revealed numerous acute infarcts throughout the brain bilaterally with ultrasound dopplers 
+revealing evidence of acute deep vein thrombosis bilaterally in the lower extremities. Given the 
+temporal relationship of this event to the investigational treatment, these AEs were considered 
+“possibly related” but were more likely to be a result of disease progression that was seen on 
+imaging and consistent with a rising CA19-9 and worsening disease-related symptoms. The final 
+infusion of CARTmeso cells was not administered to this patient due to hospitalization and 
+medical management of AEs.  
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+3 
+ 
+Clinical activity of CARTmeso cells 
+For patient 08212-113, we observed a complete metabolic reduction in FDG uptake by 
+PET/CT imaging in all liver lesions at Month 1 compared to baseline (Figure 1E, F). However, the 
+metabolically active volume seen within the pancreas at Month 1 was found to increase (206% 
+increase), despite a slight decrease in SUVmax of the primary pancreatic lesion (6.59 to 3.09). A 
+similar swelling of lesions was also seen in the liver at Month 1 on unenhanced CT imaging (Figure 
+1E). Each of these lesions showed a loss of FDG uptake. This mixed tumor response implies 
+distinct biology associated with the primary and metastatic lesions that may regulate the efficacy 
+of CARTmeso cells in vivo. Analysis of a baseline metastatic lesion from this patient showed cell 
+surface expression of mesothelin on malignant cells (Figure 2D) and the presence of tumor-
+infiltrating T cells, suggesting that CARTmeso cells may have been capable of penetrating the 
+microenvironment of metastatic lesions in this patient. Tissue from the primary pancreatic lesion, 
+though, was not available for analysis. As a result, we can only speculate that the mixed metabolic 
+response seen in this patient may reflect (i) differences in target antigen expression between 
+metastatic and primary tumors; (ii) the reduced capacity of CAR T cells to effectively infiltrate 
+primary lesions; or (iii) mechanisms of immune suppression which may differ between primary 
+and metastatic lesions. Nonetheless, these findings highlight the potential role of tumor 
+heterogeneity in regulating the efficacy of T cell immunotherapy in PDAC. 
+ 
+CARTmeso cell persistence in vivo 
+CAR expression within the peripheral blood was detected transiently after each infusion 
+(Figure 2A). We have previously reported the emergence of human anti-mouse antibodies detected 
+after infusion of CARTmeso cells in patients 1. Although we did not detect the emergence of 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+4 
+ 
+human anti-mouse antibodies (HAMA) in any of the patients after CARTmeso infusion, human 
+anti-chimeric antibodies (HACA) were seen in some patients. Specifically, we detected increased 
+levels of HACA in 08212-113 (IgG, IgA, and IgM), 08212-111 (IgG), and 08212-104 (IgG, and 
+IgA) (Supplementary Figure 2A). HACA levels were not detectable at multiple defined time points 
+after CARTmeso infusion in patients 08212-100, 08212-108 or 08212-114. The lack of HAMA 
+and HACA responses in some patients indicates that humoral responses against the CAR cannot 
+explain the transient persistence of CARTmeso cells seen across all patients. While transient 
+persistence of CARTmeso cells in the peripheral blood could reflect trafficking to tissues or 
+lymphoid organs, it is likely that this finding, at least in part, is due to cell division and loss of 
+expression of the mRNA CAR which is expected to be short-lived based on in vitro studies 2. 
+However, since the completion of this clinical study, we have now conducted a second trial 
+evaluating the adoptive transfer of CARTmeso cells engineered to stably express a mesothelin-
+specific CAR using lentiviral technology 3. In this study, we also observed transient persistence of 
+lenti-CARTmeso cells in the peripheral blood. We are currently investigating whether this poor 
+persistence reflects immune-mediated rejection, trafficking, or poor functional capacity of T cells 
+isolated from PDAC patients as has been reported in chronic lymphocytic leukemia (CLL) 4. 
+ 
+CARTmeso cell infusion is associated with humoral immune responses 
+We evaluated the impact of CARTmeso cell infusion on endogenous humoral immune responses 
+using protoarray technology. Changes in reactive IgG antibody levels (>2 fold increase) between 
+baseline and Month 1-2 were evaluated for all patients. The maximum response was seen in patient 
+08212-113 who demonstrated an increase in IgG antibodies reactive against 115 proteins. Across 
+all patients except patient 08212-108, reactive IgG antibodies were detected that increased more 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+5 
+ 
+than 2-fold above baseline levels (Figure 2C). For patient 08212-108, there was no change in self-
+reactive IgG antibodies detected at 2 months or 4 months after beginning CARTmeso therapy. We 
+also detected increases in IgG antibodies reactive against three immune-related proteins (BCMA, 
+PD-1, and PD-L1) in multiple patients (Supplementary Figure 2D). While the mechanism and 
+implications of this immune response elicited by CARTmeso cells is uncertain, it could reflect the 
+capacity of activated T cells to stimulate B cells, possibly via CD40L on activated CARTmeso 
+cells which may engage CD40 on B cells. It is also possible that these changes reflect tumor 
+progression independent of therapy. However, the development of self-reactive antibodies in the 
+setting of vaccination has been previously seen in patients with PDAC treated with a granulocyte-
+macrophage colony-stimulating factor-secreting allogeneic PDAC vaccine. In this case, 
+neutralizing antibodies to galectin-3, a negative regulator of antigen-specific T cell activation, 
+were detected after immunization in patients responding to treatment 5. 
+ 
+CARTmeso cells stimulate systemic cytokine release 
+For patient 08212-113, CARTmeso cell infusion was associated with a rapid release of systemic 
+cytokines initially detected within 1 hour of infusion. We found that the levels of several 
+inflammatory cytokines, including IL-6, hepatocyte growth factor (HGF), interleukin-1 receptor 
+antagonist (IL-1RA), and IL-8, increased significantly after starting therapy in patient 08212-113, 
+but not in any of the other patients (Figure 2A). In addition, no changes in levels of cytokines 
+commonly associated with T cell activation, including IL-2, IL-4, IL-5, IL-7, IL-17, IL-21, tumor 
+necrosis factor (TNF), and interferon gamma (IFN- were noted among an array of 30 soluble 
+factors (see Supplementary Methods).  
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+6 
+ 
+We previously reported systemic cytokine release induced with repeated CARTmeso cell 
+infusion in a patient with metastatic PDAC (21211-101) 6. Similar to patient 08212-113, 
+CARTmeso cell therapy produced some anti-tumor activity in patient 21211-101 as well as a 
+spreading of antibody responses against multiple protein targets 6. However, the cytokine response 
+detected in the serum of 21211-101 was distinct from 08212-113. Whereas we detected significant 
+changes in IL-12, RANTES, MCP-1 and MIP-1beta for patient 21211-101, we detected no 
+significant changes in these cytokines for patient 08212-113. In contrast, in the current study, we 
+detected increases in IL-6 and IL-8 for patient 08212-113, whereas systemic release of these 
+cytokines was not seen in patient 21211-101. We can only speculate that the differences in the 
+systemic cytokine release detected may reflect distinct myeloid phenotypes stimulated by therapy 
+in the two patients, as each of the observed cytokines is consistent with an innate immune response. 
+For example, the lack of production of IL-12 but increase in IL-8 seen in patient 08212-113 may 
+reflect activation and mobilization of a distinct phenotype of myeloid cells.  
+  
+SUPPLEMENTAL METHODS 
+Patients 
+Between August 2013 and October 2014, ten patients with chemotherapy-refractory metastatic 
+pancreatic ductal adenocarcinoma were enrolled at the Abramson Cancer Center, University of 
+Pennsylvania (Philadelphia, PA) (Table 1 and Supplementary Figure 1). Two patients withdrew 
+from the study due to disease progression prior to receiving treatment. One patient missed 
+apheresis which was necessary for CARTmeso cell manufacturing. Sufficient CARTmeso cell 
+product could not be produced for one patient due to poor T cell expansion in vitro. Overall, six 
+patients with measurable metastatic disease were treated on study with autologous T cells 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+7 
+ 
+electroporated with a chimeric antigen receptor recognizing mesothelin. Inclusion criteria were 
+histologically confirmed metastatic pancreatic adenocarcinoma, age > 18 years, Eastern 
+Cooperative Oncology Group (ECOG) performance status of 0 to 1, life expectancy > 3 months, 
+evidence of metastatic disease, failure of at least 1 prior chemotherapy for metastatic disease, 
+measurable disease as defined by RECIST 1.1 criteria, satisfactory organ and bone marrow 
+function, and normal blood coagulation parameters. Patients were also required to have adequate 
+venous access for subsequent CAR T cell administration. Exclusion criteria included receipt of an 
+investigational study drug within 28 days (42 days for non-murine monoclonal antibodies), active 
+invasive cancer other than pancreatic adenocarcinoma (except active non-invasive cancers), active 
+autoimmune disease requiring immunosuppressive therapy within the past 4 weeks, ongoing or 
+active infection, concurrent treatment with systemic high dose corticosteroids, prior gene therapy 
+or therapy with murine monoclonal antibodies or products of murine origin, concurrent treatment 
+with any anticancer agent, history of allergy to murine proteins, and history of allergy or 
+hypersensitivity to study product excipients (i.e. human serum albumin, DMSO, and Dextran 40). 
+Patients with any clinically significant pericardial effusion; CHF (NY Heart Association Grade II-
+IV), or cardiovascular condition that would preclude assessment of mesothelin-induced 
+pericarditis were excluded. Subjects on active anti-coagulation therapy and pregnant women were 
+also excluded. All patients provided written informed consent and the study was approved by the 
+institutional review board of the University of Pennsylvania. 
+ 
+ 
+ 
+Study Design and Treatment Plan 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+8 
+ 
+This was a Phase I safety and feasibility study (NCT01897415). The primary objective was to 
+determine the safety and manufacturing feasibility of autologous chimeric antigen receptor (CAR) 
+T cells transfected with anti-mesothelin messenger RNA (mRNA) expressing a single chain 
+antibody variable fragment linked to the intracellular CD3 T cell receptor domain and the 4-1BB 
+co-stimulatory domain. Secondary objectives were to assess clinical anti-tumor activity and to 
+evaluate (i) short-term peripheral persistence and trafficking of CAR T cells, (ii) cytokine 
+responses, (iii) development of general humoral and cellular anti-tumor responses, and (iv) 
+development of host anti-CAR immune responses. 
+ 
+Subjects were initially screened for eligibility before undergoing large-volume 
+leukopheresis to obtain peripheral blood mononuclear cells (PBMC) for CAR T cell 
+manufacturing. To model CAR T cell persistence in vivo, subjects received intravenous 
+administration of 1 to 3 x 108/m2 T cells three times weekly (M-W-F) for three weeks. 
+Lymphodepletion was not incorporated in this study as the priority was to establish safety before 
+considering strategies to optimize efficacy. Tumor response was assessed by computed 
+tomography (CT) performed at baseline and 2 months according to Response Evaluation Criteria 
+in Solid Tumors (RECIST) 1.1. Tumor assessments also included 18F-2-fluoro-2-deoxy-D-glucose 
+positron emission tomography/computed tomography (FDG-PET/CT) imaging performed at 
+baseline and at the end of therapy. Optional tumor biopsies of accessible lesions were performed 
+at baseline and within 3-7 days after the last planned dose of RNA CAR T cells. Peripheral blood 
+samples were obtained at defined time points to monitor for measures of safety and efficacy. All 
+authors had access to the study data and reviewed and approved the final manuscript. 
+ 
+Safety Assessments 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+9 
+ 
+All patients who received CARTmeso cells were evaluated for safety. Safety assessments included 
+the incidence of treatment-related adverse events (AEs) according to the National Cancer Institute 
+Common Terminology Criteria for Adverse Events, version 4.0. A dose-limiting toxicity (DLT) 
+was defined as (i) any grade 3 or higher non-hematologic toxicity except asymptomatic Grade 3 
+electrolytes, Grade 3 nausea, vomiting, diarrhea or fatigue; Grade 3 non-hematologic toxicities 
+that can be controlled to Grade 1 or less with appropriate treatment were not considered dose 
+limiting; (ii) Grade 2 or higher autoimmune toxicity, including pericarditis, peritonitis, or pleuritis; 
+and (iii) Grade 3 or higher allergic reaction, or grade 2 allergic reactions in which symptoms 
+reappear after repeat infusion. AE reporting began on Day 0 and continued through approximately 
+3 months after the last infusion. Subjects were continually reassessed for evidence of acute and 
+cumulative toxicity. Dysgeusia reported as an AE was most likely related to known effects of 
+DMSO that was used to cryopreserve the CARTmeso cell product. 
+ 
+Sample collection and processing 
+Research sample processing, freezing, and laboratory analyses were performed in the Translational 
+and Correlative Studies Laboratory (TCSL) at the University of Pennsylvania. TCSL operates 
+under principle of Good Laboratory Practice based on standard operating procedures (SOP) and 
+protocols for sample receipt, processing, storage, and analysis. The described assays and data 
+reports conform to MIATA guidelines 7. Peripheral blood samples were collected in vacutainer 
+tubes (Becton Dickinson): lavender top (K2EDTA) tubes to obtain cells and red top (no addition) 
+tubes to obtain serum. Research tubes were delivered to TCSL within 2 hours of blood collection 
+for processing according to established SOPs. Peripheral blood mononuclear cells were purified, 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+10 
+ 
+processed and stored at -140°C, whereas serum was isolated and stored at -80oC. RNA was isolated 
+directly from whole blood using Ribopure blood kits (Ambion).  
+ 
+CARTmeso cell manufacturing 
+T cells were manufactured according to a U.S. Food and Drug Administration (FDA)-accepted 
+IND. T cells were isolated by elutriation from a large-volume apheresis. Cells were expanded in 
+vitro in cell culture medium supplemented with human serum for 10 + 2 days using bead-
+immobilized anti-CD3 and anti-CD28 antibodies. Expanded T cells were then electroporated with 
+anti-mesothelin ss1 scFv CAR mRNA construct containing the 4-1BB and CD3 signaling 
+domains, using a closed system electroporation device (Maxcyte Inc) as described previously 6. 
+The CAR transfected autologous T cell product was then cryopreserved in an infusible 
+cryoprotectant-supplemented solution. The infused cells were an average of 95.7% CD3+ and 
+93.7% scFv+ as assessed by flow cytometry. The % of infused cells expressing CD4, CD8 and 
+scFv as well as the CD4:CD8 ratio of the infused cell product for each patient was as follows: 
+Patient 
+%CD3+ CD45+ 
+%CD3+ CD4+ 
+%CD3+ CD8+ 
+CD4:CD8 ratio 
+%scFv 
+08212-100 
+92.5% 
+65.7 % 
+36.0% 
+1.8 
+98.6% 
+08212-104 
+93.1% 
+67.2% 
+25.0% 
+2.7 
+92.0% 
+08212-108 
+98.7% 
+87.5% 
+14.6% 
+6.0 
+97.8% 
+08212-111 
+95.6% 
+70.7% 
+30.7% 
+2.3 
+93.8% 
+08212-113 
+97.8% 
+78.6% 
+24.8% 
+3.2 
+87.2% 
+08212-114 
+96.4% 
+68.4% 
+32.0% 
+2.1 
+93.1% 
+ 
+The cell viability was 90.7% (mean, with a range of 76.9% to 95.9% among all products). One 
+manufacturing failure was encountered (Supplemental Figure 1B) due to limited in vitro expansion 
+of T cells and poor cell viability (41% viable cells) after in vitro electroporation and 
+cryopreservation. As a result, the CAR T cell product for this patient did not meet release criteria 
+for infusion, specifically a minimum of 70% cell viability and sufficient cells to complete 9 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+11 
+ 
+infusions was a protocol requirement. Frozen CARTmeso cells were thawed at the time of cell 
+infusion and administered to patients in the Clinical Trials Research Center at the Hospital of the 
+University of Pennsylvania.  
+ 
+PET Data Acquisition and Analysis 
+FDG-PET/CT was performed on all patients at baseline and at Month 1 using a multidetector row 
+whole-body PET/CT scanner with time-of-flight capabilities (Gemini TF, Philips Medical 
+Systems, Bothell, WA). Patients had fasted for > 6 hours and plasma glucose levels were < 200 
+mg/dl. At approximately 60 minutes prior to imaging, ~15 mCi of FDG were administered 
+intravenously. 3D PET images were acquired from the skull vertex to the toes. Rescaled low-dose 
+CT images were used for attenuation correction of the PET images. Images were analyzed using 
+an automatic adaptive thresholding method (ROVER, ABX GmbH, Radeberg, Germany) with an 
+initial threshold setting of 40% of maximum lesional metabolic activity and other settings on 
+default to delineate FDG avid lesions. Metabolically active volumes for individual lesions from 
+PET datasets were determined and summed to calculate the total metabolically active volume as 
+previously described 8, 9. 
+ 
+Real-time quantitative PCR analysis of RNA transcripts 
+iScriptTM Reverse Transcription Supermix for RT-qPCR (Biorad) was used to synthesize cDNA 
+from whole blood RNA. The abundance of transgene and CD3 transcripts was determined using 
+quantitative PCR (qPCR) assays from 50 ng of cDNA per replicate with three replicates for each 
+data point. Primer/probes that detect the 4-1BB-CD3 junctional fragment were used to quantify 
+transgene abundance as previously described 6. CD3 transcripts were quantified using TaqMan 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+12 
+ 
+assay (Life Technologies). Quantification of levels of T cells and transgene samples was 
+determined in relation to a 9-point standard curve derived from the infusion product of each patient, 
+as previously described 6.  
+ 
+Analysis of serum soluble factors 
+At baseline, day 0 and defined time points after CARTmeso adoptive cell therapy, whole blood 
+was collected in red top tubes without additive, processed to obtain isolate serum, and stored at -
+80°C in single use aliquots. Luminex bead array technology and 30-plex kits (Cat# LHC6003M, 
+Life Technologies, Carlsbad, CA) were used according to manufacturer instructions to quantify 
+the following soluble serum factors: (IL-1RA, FGF-Basic, MCP-1, G-CSF, IFN-γ, IL-12, IL-13, 
+IL-7, GM-CSF, TNF-α, IL-1β, IL-2, IL-4, IL-5, IL-6, IFN-α, IL-15, IL-10, MIP-1α, IL-17, IL-8, 
+EGF, HGF, VEGF, MIG, RANTES, Eotaxin, MIP-1β, IP-10, and IL-2R). Serum samples 
+cryopreserved at -80°C from day -1 or baseline to day 28 were thawed and analyzed according to 
+the manufacturers’ protocols.  Assay plates were measured using a FlexMAP 3D instrument 
+(Luminex, Austin, TX), and data acquisition and analysis were done using xPONENT software 
+(Luminex).   
+Data quality was examined based on the following criteria.  The standard curve for each 
+analyte has a R2 value > 0.95 with or without minor fitting using xPONENT software. The results 
+for the in-house control were required to be within the 95% of CI (confidence interval) derived 
+from historical in-house control data for >25 of the tested analytes. No further tests were done on 
+samples with results out of range low (<OOR). Samples with results that were out of range high 
+(>OOR) or greater than two times the standard curve maximum value (SC max) were re-tested at 
+higher dilutions. Results that passed the above quality controls or retests were used in this data set. 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+13 
+ 
+ 
+Detection of humoral immune responses 
+Humoral immune responses induced by CARTmeso treatment were evaluated using protoarrayTM 
+technology (Life Technologies). This high-throughput serological analysis was used to detect the 
+presence of IgG antibodies reactive to an array of 9,480 unique protein probes. Serum samples at 
+baseline and month 1 (patients 113 and 114) or month 2 (patients 100, 104, 108, and 111) were 
+diluted 1:500 per manufacturer instructions. Gpr files containing signal intensities were analyzed 
+using ProtoArray Prospector Software (v5.2, Life Technologies) to normalize intensities. Positive 
+“hits” were defined based on a Z-factor > 0 and ratio > 2 comparing post-therapy samples against 
+the patient-matched baseline pre-therapy sample. Where the signal intensity was less than the 
+median MFI intensity for the plate (i.e. 198), values were adjusted to the median MFI. Gene 
+ontology of differentially recognized proteins were classified according to their statistical 
+significance (p value) using DAVID Functional Annotation Bioinformatics Microarray Analysis 
+10, 11. Human anti-mouse antibodies (HAMA) were detected by ELISA and human anti-chimeric 
+antibodies (HACA) were detected using a flow cytometry-based assay as previously described 1. 
+ 
+Immunohistochemistry 
+Tissues from tumor biopsies obtained at baseline were fixed in 10% formalin and paraffin 
+embedded. Sections were stained with hematoxylin and eosin or with a CD3 or mesothelin-specific 
+primary antibody (clone 5B2, ThermoFisher) and detected using goat anti-mouse secondary 
+antibody. Staining was detected using DAB and slides were counterstained with hematoxylin. 
+Brightfield images were acquired on a BX43 upright (Olympus) microscope.  
+ 
+ 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+14 
+ 
+References 
+ 
+1. 
+Maus MV, Haas AR, Beatty GL, Albelda SM, Levine BL, Liu X, Zhao Y, Kalos M, June 
+CH. T cells expressing chimeric antigen receptors can cause anaphylaxis in humans. 
+Cancer Immunol Res 2013;1:26-31. 
+2. 
+Zhao Y, Moon E, Carpenito C, Paulos CM, Liu X, Brennan AL, Chew A, Carroll RG, 
+Scholler J, Levine BL, Albelda SM, June CH. Multiple injections of electroporated 
+autologous T cells expressing a chimeric antigen receptor mediate regression of human 
+disseminated tumor. Cancer Res 2010;70:9053-61. 
+3. 
+Tanyi JL, Haas AR, Beatty GL, Morgan MA, Stashwick CJ, O'Hara MH, Porter DL, Maus 
+MV, Levine BL, Lacey SF, Nelson AM, McGarvey M, Kerr NDS, Plesa G, June CH. 
+Abstract CT105: Safety and feasibility of chimeric antigen receptor modified T cells 
+directed against mesothelin (CART-meso) in patients with mesothelin expressing cancers. 
+Cancer Research 2015;75:CT105-CT105. 
+4. 
+Ramsay AG, Johnson AJ, Lee AM, Gorgun G, Le Dieu R, Blum W, Byrd JC, Gribben JG. 
+Chronic lymphocytic leukemia T cells show impaired immunological synapse formation 
+that can be reversed with an immunomodulating drug. J Clin Invest 2008;118:2427-37. 
+5. 
+Gardner RA, Finney O, Annesley C, Brakke H, Summers C, Leger K, Bleakley M, Brown 
+C, Mgebroff S, Kelly-Spratt KS, Hoglund V, Lindgren C, Oron AP, Li D, Riddell SR, Park 
+JR, Jensen MC. Intent-to-treat leukemia remission by CD19 CAR T cells of defined 
+formulation and dose in children and young adults. Blood 2015;129:3322-3331. 
+6. 
+Beatty GL, Haas AR, Maus MV, Torigian DA, Soulen MC, Plesa G, Chew A, Zhao Y, 
+Levine BL, Albelda SM, Kalos M, June CH. Mesothelin-specific chimeric antigen receptor 
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+15 
+ 
+mRNA-engineered T cells induce antitumor activity in solid malignancies. Cancer 
+Immunol Res 2014;2:112-120. 
+7. 
+Britten CM, Janetzki S, Butterfield LH, Ferrari G, Gouttefangeas C, Huber C, Kalos M, 
+Levitsky HI, Maecker HT, Melief CJ, O'Donnell-Tormey J, Odunsi K, Old LJ, Ottenhoff 
+TH, Ottensmeier C, Pawelec G, Roederer M, Roep BO, Romero P, van der Burg SH, 
+Walter S, Hoos A, Davis MM. T cell assays and MIATA: the essential minimum for 
+maximum impact. Immunity 2012;37:1-2. 
+8. 
+Torigian DA, Lopez RF, Alapati S, Bodapati G, Hofheinz F, van den Hoff J, Saboury B, 
+Alavi A. Feasibility and performance of novel software to quantify metabolically active 
+volumes and 3D partial volume corrected SUV and metabolic volumetric products of spinal 
+bone marrow metastases on 18F-FDG-PET/CT. Hell J Nucl Med 2011;14:8-14. 
+9. 
+Hofheinz F, Potzsch C, Oehme L, Beuthien-Baumann B, Steinbach J, Kotzerke J, van den 
+Hoff J. Automatic volume delineation in oncological PET. Evaluation of a dedicated 
+software tool and comparison with manual delineation in clinical data sets. Nuklearmedizin 
+2012;51:9-16. 
+10. 
+Huang da W, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene 
+lists using DAVID bioinformatics resources. Nat Protoc 2009;4:44-57. 
+11. 
+Huang da W, Sherman BT, Lempicki RA. Bioinformatics enrichment tools: paths toward 
+the comprehensive functional analysis of large gene lists. Nucleic Acids Res 2009;37:1-
+13. 
+ 
+ 

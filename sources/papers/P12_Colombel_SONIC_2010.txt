@@ -1,0 +1,1686 @@
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1383
+original article
+Infliximab, Azathioprine, or Combination 
+Therapy for Crohn’s Disease
+Jean Frédéric Colombel, M.D., William J. Sandborn, M.D., Walter Reinisch, M.D.,  
+Gerassimos J. Mantzaris, M.D., Ph.D., Asher Kornbluth, M.D.,  
+Daniel Rachmilewitz, M.D., Simon Lichtiger, M.D., Geert D’Haens, M.D., Ph.D., 
+Robert H. Diamond, M.D., Delma L. Broussard, M.D., Kezhen L. Tang, Ph.D.,  
+C. Janneke van der Woude, M.D., Ph.D., and Paul Rutgeerts, M.D., Ph.D.,  
+for the SONIC Study Group*
+From Hôpital Claude Huriez and Centre 
+d’Investigation Clinique, Centre Hospita-
+lier Universitaire de Lille, Université Lille 
+Nord de France, Lille, France (J.F.C.); 
+Mayo Clinic, Rochester, MN (W.J.S.); Uni-
+versity Hospital Vienna, ­Vienna (W.R.); 
+Evangelismos Hospital, Athens (G.J.M.); 
+Mount Sinai Medical Center, New York 
+(A.K., S.L.); Shaare Zedek Medical Cen-
+ter, Jerusalem (D.R.); Imelda Ziekenhuis, 
+Bonheiden (G.D.), and University Hospi-
+tal Gasthuisberg, Leuven (P.R.) — both 
+in Belgium; Centocor Ortho Biotech, 
+Malvern, PA (R.H.D., D.L.B., K.L.T.); and 
+Erasmus Medical Center, Rotterdam, the 
+Netherlands (C.J.W.). Address reprint re-
+quests to Dr. Colombel at Hôpital Claude 
+Huriez, Centre Hospitalier Universitaire de 
+Lille, Rue Michel Polonovski, Lille, 59037 
+France, or at ­jfcolombel@chru-lille.fr; or 
+to Dr. Sandborn at the Mayo Clinic, 200 
+First St. SW, Rochester, MN 55905, or at 
+sandborn.william@mayo.edu.
+Drs. Colombel, Sandborn, and Rutgeerts 
+contributed equally to this article.
+*Members of the Study of Biologic and 
+Immunomodulator Naive Patients in 
+Crohn’s Disease (SONIC) Study Group 
+are listed in the Supplementary Appen-
+dix, available with the full text of this 
+article at NEJM.org.
+N Engl J Med 2010;362:1383-95.
+Copyright © 2010 Massachusetts Medical Society.
+Abstr act
+Background
+The comparative efficacy and safety of infliximab and azathioprine therapy alone 
+or in combination for Crohn’s disease are unknown.
+Methods
+In this randomized, double-blind trial, we evaluated the efficacy of infliximab mono-
+therapy, azathioprine monotherapy, and the two drugs combined in 508 adults with 
+moderate-to-severe Crohn’s disease who had not undergone previous immunosup-
+pressive or biologic therapy. Patients were randomly assigned to receive an intrave-
+nous infusion of 5 mg of infliximab per kilogram of body weight at weeks 0, 2, and 
+6 and then every 8 weeks plus daily oral placebo capsules; 2.5 mg of oral azathio-
+prine per kilogram daily plus a placebo infusion on the standard schedule; or com-
+bination therapy with the two drugs. Patients received study medication through 
+week 30 and could continue in a blinded study extension through week 50.
+Results
+Of the 169 patients receiving combination therapy, 96 (56.8%) were in corticoste­
+roid-free clinical remission at week 26 (the primary end point), as compared with 
+75 of 169 patients (44.4%) receiving infliximab alone (P = 0.02) and 51 of 170 pa-
+tients (30.0%) receiving azathioprine alone (P<0.001 for the comparison with combi-
+nation therapy and P = 0.006 for the comparison with infliximab). Similar nu-
+merical trends were found at week 50. At week 26, mucosal healing had occurred 
+in 47 of 107 patients (43.9%) receiving combination therapy, as compared with 28 
+of 93 patients (30.1%) receiving infliximab (P = 0.06) and 18 of 109 patients (16.5%) 
+receiving azathioprine (P<0.001 for the comparison with combination therapy and 
+P = 0.02 for the comparison with infliximab). Serious infections developed in 3.9% of 
+patients in the combination-therapy group, 4.9% of those in the infliximab group, 
+and 5.6% of those in the azathioprine group.
+Conclusions
+Patients with moderate-to-severe Crohn’s disease who were treated with infliximab 
+plus azathioprine or infliximab monotherapy were more likely to have a cortico­
+steroid-free clinical remission than those receiving azathioprine monotherapy. 
+(ClinicalTrials.gov number, NCT00094458.)
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1384
+C
+rohn’s disease is a chronic inflam-
+matory disorder of the gastrointestinal 
+tract that is defined by relapsing and re-
+mitting episodes, with progression over time to 
+complications of stricture, fistulas, or abscesses.1 
+Symptoms of mild-to-moderate disease are treat-
+ed with mesalamine, budesonide, or systemic 
+corticosteroids.2,3 The therapeutic benefit of cor-
+ticosteroids is frequently offset by side effects of 
+prolonged exposure.4 In addition, systemic corti-
+costeroids and budesonide are not effective for 
+maintenance therapy.5-7 Azathioprine and 6-mer-
+captopurine are frequently prescribed for patients 
+in whom first-line therapies fail — in particular, 
+those who are dependent on or do not have a re-
+sponse to systemic corticosteroids.2,3,8 Approxi-
+mately 40% of patients treated with azathioprine 
+remain in remission at 1 year.9 Infliximab and 
+other monoclonal antibodies targeting tumor 
+necrosis factor (TNF) have shown efficacy in in-
+ducing and maintaining remission in patients 
+with Crohn’s disease.10-12 Treatment guidelines 
+generally recommend initiating treatment with 
+first-line agents, including mesalamine and sys-
+temic corticosteroids, followed by azathioprine, 
+with anti-TNF therapies reserved for patients in 
+whom conventional therapies have failed.2,3,8 In 
+a multicenter trial, we compared the efficacy of 
+infliximab, azathioprine, and the two drugs com-
+bined for inducing and maintaining corticoste­
+roid-free clinical remission in patients with ac-
+tive Crohn’s disease.
+Methods
+Study Design and Patients
+The Study of Biologic and Immunomodulator 
+Naive Patients in Crohn’s Disease (SONIC) was 
+a randomized, double-blind, 30-week trial, with 
+a 20-week extension in which blinding was main-
+tained. The trial was conducted at 92 centers 
+from March 2005 through November 2008. The 
+institutional review board at each center approved 
+the protocol, and all patients provided written 
+informed consent.
+Eligible patients were at least 21 years of age 
+and had had Crohn’s disease for at least 6 weeks, 
+with a score of 220 to 450 points on the Crohn’s 
+Disease Activity Index (CDAI).13 This index con-
+sists of eight factors, with each factor totaled 
+after adjustment with a weighting factor. (Severe 
+disease is defined as a score of more than 450, 
+and remission as a score of less than 150.) Pa-
+tients were either corticosteroid-dependent (with 
+a CDAI score of at least 220 points after reduc-
+tion of the corticosteroid dose), were being con-
+sidered for a second course of systemic cortico­
+steroids within 12 months, or had not had a 
+response to at least 4 weeks of either mesala-
+mine (at a dose of ≥2.4 g per day) or budesonide 
+(at a dose of ≥6 mg per day). None of the pa-
+tients had undergone previous treatment with 
+azathioprine, 6-mercaptopurine, methotrexate, or 
+an anti-TNF biologic agent.
+Patients with the short bowel syndrome, an 
+ostomy, a symptomatic stricture, an abscess, a 
+recent history of abdominal surgery (within the 
+previous 6 months), a history of tuberculosis or 
+other granulomatous infection, a positive chest 
+radiograph or tuberculin skin test with purified 
+protein derivative, a recent history of an oppor-
+tunistic infection (within the previous 6 months), 
+active infection with hepatitis B or C, infection 
+with the human immunodeficiency virus, multi-
+ple sclerosis, cancer, or a homozygous mutant or 
+heterozygous thiopurine methyltransferase pheno­
+type were not eligible (see Table 1 in the Supple-
+mentary Appendix, available with the full text of 
+this article at NEJM.org).
+Study Treatments and Randomization
+Patients were randomly assigned to receive intra-
+venous infusions of infliximab (Remicade, Cen-
+tocor Ortho Biotech) at a dose of 5 mg per kilo-
+gram of body weight plus daily oral placebo 
+capsules, oral azathioprine capsules at a daily 
+dose of 2.5 mg per kilogram plus placebo infu-
+sions, or combination therapy with infliximab 
+and azathioprine. Infusions were administered at 
+weeks 0, 2, and 6, and then every 8 weeks. Patients 
+were followed through week 30, when they were 
+given the option of continuing to receive their as-
+signed therapy, with blinding maintained, in a 20-
+week extension trial, with follow-up through week 
+50. A follow-up telephone interview was conduct-
+ed to collect reports of serious adverse events and 
+related concomitant use of medications 4 weeks 
+after a patient completed the study at week 30 or 
+week 50 or withdrew from the trial.
+Randomization was performed centrally with 
+the use of an adaptive randomization procedure 
+stratified according to center, the duration of 
+Crohn’s disease (<3 years or ≥3 years), and status 
+with respect to the systemic corticosteroid dose 
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1385
+(the equivalent of <20 mg or ≥20 mg of prednisone 
+daily).
+Oral mesalamine was continued at a stable 
+dose. Systemic corticosteroids could be initiated 
+(for patients not receiving them at baseline) with 
+the dose maintained, increased, or decreased 
+until week 14 (maximum allowed dose, 40 mg 
+per day). After week 14, the dose was tapered at 
+a rate of at least 5 mg per week. Budesonide 
+could be maintained or decreased until week 14 
+(maximum dose, 9 mg per day). After week 14, 
+budesonide was tapered at a rate of 3 mg every 
+2 weeks to a dose of 6 mg per day or less.
+Evaluation of Efficacy and Safety
+Scores on the CDAI and the Inflammatory Bowel 
+Disease Questionnaire (IBDQ)14 were determined 
+at weeks 0, 2, 6, 10, 18, 26, 34, 42, and 50. Ileo-
+colonoscopy was performed at baseline and again 
+at week 26 in patients who had mucosal ulcers at 
+the baseline examination. All colonoscopies were 
+videotaped with the use of a standard protocol 
+and interpreted by a single reviewer, who was 
+unaware of study-group assignments and the 
+timing of the procedure (i.e., at baseline or week 
+26). Clinical remission was defined as an abso-
+lute CDAI score of less than 150 points.13,15 Corti-
+costeroid-free clinical remission was defined as 
+clinical remission in patients who had not re-
+ceived budesonide at a daily dose of more than 
+6 mg or systemic corticosteroids for at least 
+3 weeks. Response-70 and response-100 were de-
+fined as reductions from baseline in the CDAI 
+score of at least 70 and 100 points, respective-
+ly.13,15 Mucosal healing was defined as the ab-
+sence of mucosal ulceration at week 26 in pa-
+tients who had confirmed mucosal ulceration at 
+baseline.
+Monitoring for adverse events and use of con-
+comitant medications was performed through 
+week 54. Blood samples were collected for test-
+ing at weeks 0 and 26 for levels of C-reactive 
+protein (CRP) and at weeks 0, 30, and 46 for the 
+presence of antibodies to infliximab.16
+Primary and Secondary End Points
+The primary efficacy end point was the rate of 
+corticosteroid-free clinical remission at week 26; 
+the rates of corticosteroid-free clinical remission 
+at other time points were secondary efficacy end 
+points. Additional secondary efficacy end points 
+included the proportion of patients with mucosal 
+healing at week 26 among those who had ulcer-
+ations at baseline, the rate of any remission, re-
+sponse-70, response-100, the IBDQ score, the cor-
+ticosteroid dose at each data-collection time point 
+(weeks 0, 2, 6, 10, 18, 26, 34, 42, and 50), and the 
+change in the CRP level from baseline to week 26.
+Study Oversight
+The study was jointly designed by members of 
+the SONIC executive committee of academic in-
+vestigators and researchers employed by Cento-
+cor Ortho Biotech, one of the trial sponsors. Data 
+were collected and analyzed by Quintiles. The two 
+lead academic authors wrote the first draft of the 
+manuscript. The academic authors and represen-
+tatives of the sponsor made the decision to sub-
+mit the manuscript for publication. The academic 
+authors vouch for the veracity and completeness 
+of the data and data analyses.
+Statistical Analysis
+For the primary end point, the rate of cortico­
+steroid-free clinical remission at week 26, it was 
+estimated that 500 patients would be needed to 
+provide a power of 94% in order to detect a dif-
+ference in remission rates of 20% between the 
+combination-therapy group and the azathioprine 
+group, on the assumption that the rate of remis-
+sion would be 60% in the combination-therapy 
+group and 40% in the azathioprine group.
+To control for a type I error of 0.05 or less, 
+the primary end-point analyses were conducted 
+in a prespecified, sequential manner, in which 
+the azathioprine group was compared with the 
+combination-therapy group first at a 0.05 (two-
+sided) significance level. The azathioprine and 
+infliximab groups were then compared at a 0.05 
+(two-sided) significance level only if the first 
+comparison was significant. If the first compari-
+son was not significant, then the second com-
+parison was to be considered not significant. 
+Given the large number of prespecified second-
+ary efficacy variables that were evaluated at mul-
+tiple time points during the study, the P values 
+for all secondary efficacy variables should be 
+considered nominal, since no adjustments were 
+made for multiple comparisons.
+Demographic and baseline characteristics were 
+compared with the use of the chi-square test or 
+Fisher’s exact test for categorical variables and 
+with analysis of variance on a van der Waerden 
+normal-scores test for continuous variables. A 
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1386
+two-sided Cochran–Mantel–Haenszel chi-square 
+test, stratified according to the duration of 
+Crohn’s disease and status with respect to corti-
+costeroid dose at baseline, was used to compare 
+remission, response, and mucosal healing. Chang-
+es in IBDQ scores were compared with the use 
+of analysis of variance on van der Waerden nor-
+mal scores, with adjustment for the duration of 
+Crohn’s disease and status with respect to the 
+corticosteroid dose at baseline. Descriptive sta-
+tistics summarize systemic corticosteroid use.
+To evaluate the consistency of the treatment 
+effect on corticosteroid-free clinical remission 
+among the azathioprine, infliximab, and combi-
+Table 1. Demographic and Clinical Characteristics of the Patients.*
+Characteristic
+Azathioprine 
+(N = 170)
+Infliximab 
+(N = 169)
+Combination 
+Therapy 
+(N = 169)
+All Patients 
+(N = 508)
+P Value†
+Male sex — no. (%)
+90 (52.9)
+84 (49.7)
+88 (52.1)
+262 (51.6)
+0.83
+White race — no. (%)‡
+147 (91.3)
+146 (93.0)
+142 (94.0)
+435 (92.8)
+0.22
+Median age — yr§
+35.0
+35.0
+34.0
+34.0
+0.95
+Median body weight — kg
+69.6
+68.9
+72.0
+70.2
+0.45
+Median disease duration — yr
+2.4
+2.2
+2.2
+2.3
+0.60
+Median C-reactive protein — mg/dl¶
+1.0
+1.1
+1.0
+1.1
+0.40
+Crohn’s Disease Activity Index score‖
+287.2±52.9
+284.8±62.1
+289.9±55.0
+287.3±56.7
+0.59
+Gastrointestinal area involved — no./ 
+total no. (%)
+Ileum or colon 
+170/170 (100.0) 163/169 (96.4) 167/169 (98.8) 500/508 (98.4)
+Ileum only 
+68/170 (40.0)
+54/163 (33.1)
+54/167 (32.3) 176/500 (35.2)
+0.34
+Colon only
+33/170 (19.4)
+45/163 (27.6)
+40/167 (24.0) 118/500 (23.6)
+Ileum and colon 
+69/170 (40.6)
+64/163 (39.3)
+73/167 (43.7) 206/500 (41.2)
+Proximal gastrointestinal tract 
+7/170 (4.1)
+12/169 (7.1)
+16/169 (9.5)
+35/508 (6.9)
+0.15
+Systemic corticosteroids — no. (%)
+Any type, according to daily dose**
+0
+130 (76.5)
+117 (69.2)
+122 (72.2)
+369 (72.6)
+0.59
+<20 mg
+14 (8.2)
+19 (11.2)
+14 (8.3)
+47 (9.3)
+≥20 mg
+26 (15.3)
+33 (19.5)
+33 (19.5)
+92 (18.1)
+Budesonide — no. (%)
+25 (14.7)
+28 (16.6)
+19 (11.2)
+72 (14.2)
+0.36
+5-Aminosalicylic compounds — no. (%)
+104 (61.2)
+87 (51.5)
+85 (50.3)
+276 (54.3)
+0.09
+*		 Plus–minus values are means ±SD.
+†		 P values are for all comparisons among the three groups. P values for all categorical variables are based on a two-sid-
+ed chi-square test. P values for continuous variables are based on analysis of variance on the van der Waerden nor-
+mal scores.
+‡		 Race was self-reported. Data regarding race were not collected for 39 patients in France: 9 in the azathioprine group, 
+12 in the infliximab group, and 18 in the combination-therapy group.
+§		 The age range was 18 to 79 years in the azathioprine group, 18 to 80 in the infliximab group, and 19 to 68 in the com-
+bination-therapy group. On March 27, 2007, after hepatosplenic T-cell lymphoma had been reported in adolescents 
+and very young adults receiving combination therapy with azathioprine and infliximab, the protocol was amended to 
+increase the minimum eligible age from 18 to 21 years.
+¶		 Data for C-reactive protein were missing for one patient each in the azathioprine and infliximab groups and for four 
+patients in the combination-therapy group.
+‖		 This index consists of eight factors, with each factor totaled after adjustment with a weighting factor ranging from  
+1 to 30, for a total possible score of approximately 600. Severe disease is defined as a total score of more than 450, 
+and remission as a score of less than 150.
+**	 Patients were stratified according to whether they were receiving a daily prednisone-equivalent dose of less than  
+20 mg (including those not taking corticosteroids at baseline) or 20 mg or more.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1387
+nation-therapy groups, we performed 11 pre-
+specified subgroup analyses of demographic and 
+baseline disease characteristics (Fig. 1 in the 
+Supplementary Appendix). The odds ratios were 
+calculated on the basis of logistic regression. We 
+also performed post hoc subgroup analyses of 
+the rates of corticosteroid-free clinical remission 
+according to baseline mucosal lesion status and 
+508 Underwent randomization
+817 Patients were assessed for eligibility
+309 Were excluded
+266 Were not eligible
+29 Withdrew consent
+8 Were lost to follow-up
+3 Had other reasons
+2 Had an adverse event
+1 Died
+170 Were assigned to receive
+azathioprine capsules daily
+plus placebo infusions at wk
+0, 2, 6, 14, and 22
+8 Received combination therapy
+and were assessed for safety
+on the basis of treatment
+received
+1 Underwent randomization
+but was not treated
+161 Were treated as assigned
+169 Were assigned to receive
+infliximab infusions at wk 0, 2,
+6, 14, and 22 plus azathioprine
+capsules daily
+1 Underwent randomization
+but was not treated
+179 Were treated (including 11
+patients who were inadver-
+tently given combination
+therapy)
+86 Completed 30-wk trial
+121 Completed 30-wk trial
+169 Were assigned to receive
+infliximab infusions at wk 0, 2,
+6, 14, and 22 plus placebo
+capsules daily
+3 Received combination therapy
+and were assessed for safety
+on the basis of treatment
+received
+3 Underwent randomization 
+but were not treated
+163 Were treated as assigned
+111 Completed 30-wk trial
+84 Discontinued the study
+3 Were not eligible
+18 Withdrew consent
+38 Had an adverse event
+5 Were lost to follow-up
+19 Had other reasons
+1 Died
+48 Discontinued the study
+2 Were not eligible
+7 Withdrew consent
+28 Had an adverse event
+2 Were lost to follow-up
+9 Had other reasons
+58 Discontinued the study
+8 Were not eligible
+9 Withdrew consent
+20 Had an adverse event
+5 Were lost to follow-up
+16 Had other reasons
+75 Were enrolled in the study
+extension and received
+azathioprine capsules daily
+through wk 50 plus placebo
+infusions at wk 30, 38, and 46 
+108 Were enrolled in the study
+extension and received
+infliximab infusions at wk 30,
+38, and 46 plus azathioprine
+capsules daily through wk 50
+67 Completed extension trial
+through wk 50
+90 Completed extension trial
+through wk 50
+97 Were enrolled in the study
+extension and received
+infliximab infusions at wk 30,
+38, and 46 plus placebo
+capsules daily through wk 50
+85 Completed extension trial
+through wk 50
+8 Discontinued extension trial
+2 Withdrew consent
+3 Had an adverse event
+2 Were lost to follow-up
+1 Had other reasons
+18 Discontinued extension trial
+4 Withdrew consent
+7 Had an adverse event
+4 Were lost to follow-up
+3 Had other reasons
+12 Discontinued extension trial
+9 Had an adverse event
+1 Was lost to follow-up
+2 Had other reasons
+Figure 1. Enrollment and Outcomes through Week 50.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1388
+Table 2. Efficacy Results.*
+Variable
+Azathioprine  
+(N = 170)
+Infliximab  
+(N = 169)
+P Value for  
+Infliximab vs.  
+Azathioprine†
+Combination 
+Therapy  
+(N = 169)
+P Value for  
+Combination  
+Therapy vs.  
+Infliximab†
+P Value for  
+Combination 
+Therapy vs.  
+Azathioprine†
+Patients with corticosteroid-free clinical 
+remission — no. (%)
+Week 6
+24 (14.1)
+50 (29.6)
+<0.001
+55 (32.5)
+0.55
+<0.001
+Week 10
+41 (24.1)
+63 (37.3)
+0.006
+79 (46.7)
+0.07
+<0.001
+Week 18
+44 (25.9)
+72 (42.6)
+<0.001
+89 (52.7)
+0.06
+<0.001
+Week 26
+51 (30.0)
+75 (44.4)
+0.006
+96 (56.8)
+0.02
+<0.001
+Week 34
+All patients‡
+45 (26.5)
+62 (36.7)
+0.04
+73 (43.2)
+0.22
+0.001
+Patients with week 26 status carried 
+forward through week 50§
+52 (30.6)
+70 (41.4)
+0.03
+89 (52.7)
+0.03
+<0.001
+Patients entering trial extension¶
+45 (60.0)
+62 (63.9)
+0.41
+73 (67.6)
+0.56
+0.20
+Week 42
+All patients‡
+44 (25.9)
+67 (39.6)
+0.007
+77 (45.6)
+0.27
+<0.001
+Patients with week 26 status carried 
+forward through week 50§
+51 (30.0)
+75 (44.4)
+0.006
+93 (55.0)
+0.04
+<0.001
+Patients entering trial extension¶
+44 (58.7)
+67 (69.1)
+0.13
+77 (71.3)
+0.67
+0.06
+Week 50
+All patients‡
+41 (24.1)
+59 (34.9)
+0.03
+78 (46.2)
+0.04
+<0.001
+Patients with week 26 status carried 
+forward through week 50§
+48 (28.2)
+67 (39.6)
+0.03
+94 (55.6)
+0.002
+<0.001
+Patients entering trial extension¶
+41 (54.7)
+59 (60.8)
+0.32
+78 (72.2)
+0.07
+0.01
+Patients who received systemic cortico­
+steroid during the main study‖
+No. of patients (%)
+60 (35.3)
+60 (35.5)
+58 (34.3)
+Baseline
+No. of patients
+40
+52
+47
+Mean dose (mg/day)
+23.8±12.6
+24.8±16.2
+ND
+24.9±12.8
+ND
+ND
+Week 2
+No. of patients
+48
+50
+49
+Mean dose (mg/day)
+22.9±12.5
+21.2±11.9
+ND
+22.8±11.9
+ND
+ND
+Week 6
+No. of patients
+53
+52
+51
+Mean dose (mg/day)
+18.6±11.6
+17.7±11.0
+ND
+18.3±11.6
+ND
+ND
+Week 10
+No. of patients
+56
+56
+52
+Mean dose (mg/day)
+16.2±11.2
+15.7±14.9
+ND
+15.0±11.1
+ND
+ND
+Week 18
+No. of patients
+59
+57
+56
+Mean dose (mg/day)
+13.5±10.9
+13.2±17.2
+ND
+11.6±10.9
+ND
+ND
+Week 26
+No. of patients
+60
+60
+58
+Mean dose (mg/day)
+11.6±10.3
+11.0±16.0
+ND
+9.4±10.1
+ND
+ND
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1389
+CRP level and the presence or absence of anti-
+bodies to infliximab.
+Efficacy analyses were performed according 
+to the intention-to-treat principle and included 
+all patients who had undergone randomization, 
+with analyses performed according to the ran-
+domized study-group assignments, except for 
+mucosal healing, which was analyzed according 
+to prespecified per-protocol methods. Patients 
+who required surgery for Crohn’s disease or 
+withdrew from the study were not considered to 
+be in remission. After week 30, prespecified 
+analyses were based on data only for patients 
+who entered the extension trial. To perform ex-
+ploratory analyses of outcomes for all patients 
+through week 50, we assumed that the clinical 
+end point at week 50 was not reached by patients 
+who did not enter the trial extension, and we 
+used the week 26 clinical end-point status car-
+ried forward through week 50 for those who did 
+not enter the trial extension.
+All patients receiving at least one dose of a 
+study drug (administered orally or by infusion) 
+were included in the safety analysis, according 
+to the study drug that was actually received, with 
+safety comparisons performed with the use of 
+Table 2. (Continued.)
+Variable
+Azathioprine  
+(N = 170)
+Infliximab  
+(N = 169)
+P Value for  
+Infliximab vs.  
+Azathioprine†
+Combination 
+Therapy  
+(N = 169)
+P Value for  
+Combination  
+Therapy vs.  
+Infliximab†
+P Value for  
+Combination 
+Therapy vs.  
+Azathioprine†
+Extension-study patients who received 
+systemic corticosteroid during the 
+main study or study extension‖
+No. of patients (%)
+22 (29.3)
+41 (42.3)
+36 (33.3)
+Week 34
+No. of patients
+22
+37
+36
+Mean dose (mg/day)
+7.4±6.3
+5.8±5.5
+ND
+6.4±5.7
+ND
+ND
+Week 42
+No. of patients
+22
+38
+36
+Mean dose (mg/day)
+6.3±5.3
+4.7±4.6
+ND
+5.7±5.8
+ND
+ND
+Week 50
+No. of patients
+22
+41
+36
+Mean dose (mg/day)
+5.7±5.0
+3.9±3.9
+ND
+5.0±5.4
+ND
+ND
+Mucosal healing
+Baseline lesions — no. (%)**
+115 (67.6)
+99 (58.6)
+0.08
+111 (65.7)
+0.18
+0.70
+Patients included in week 26 analysis — 
+no. (%)††
+109 (64.1)
+93 (55.0)
+0.09
+107 (63.3)
+0.12
+0.88
+Mucosal healing — no. (%)
+18 (16.5)
+28 (30.1)
+0.02
+47 (43.9)
+0.06
+<0.001
+*	 Plus–minus values are means ±SD.
+†	 P values were calculated by means of the Cochran–Mantel–Haenszel test, stratified according to the duration of Crohn’s disease and the dose 
+of systemic corticosteroid at baseline (the equivalent of 0 to <20 mg or ≥20 mg of prednisone daily). ND denotes not done; descriptive statis-
+tics were preplanned, and no post hoc statistical tests were performed because mean doses were similar among the three study groups.
+‡	 This category includes all patients who underwent randomization, with the assumption that patients who did not enter the trial extension 
+did not reach the end point through week 50.
+§	
+This category includes all patients who underwent randomization, with week 26 status carried forward through week 50 for patients who 
+did not enter the trial extension.
+¶	 Results for weeks 34, 42, and 50 are based on 75 patients in the azathioprine group, 97 in the infliximab group, and 108 in the combina-
+tion-therapy group who entered the trial extension.
+‖	
+The systemic corticosteroid dose for a study week was calculated as the cumulative dose that a patient received up to a given study week 
+divided by the number of days that the patient participated in the study up to that study week.
+**	 Sixteen patients (four in the combination-therapy group, six in the infliximab group, and six in the azathioprine group) were excluded from 
+the analysis of mucosal healing at week 26 because they underwent endoscopy before or after week 26.
+††	Patients with lesions at baseline who did not undergo endoscopy at week 26 or who had results that could not be evaluated were assumed 
+to have a lesion. These patients included 50 of 109 (45.9%) in the azathioprine group, 29 of 93 (31.2%) in the infliximab group, and 31 of 
+107 (29.0%) in the combination-therapy group.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1390
+Fisher’s exact test. Patients with at least one se-
+rum sample that was collected after the first 
+infliximab infusion were included in the analy-
+sis of trough levels. Infliximab levels were com-
+pared by means of analysis of variance on van 
+der Waerden normal scores, with adjustment for 
+the duration of Crohn’s disease and status with 
+respect to corticosteroid dose at baseline.
+Results
+Patients
+Of the 508 patients who underwent randomiza-
+tion, 170 were assigned to receive azathioprine 
+monotherapy, 169 to receive infliximab mono-
+therapy, and 169 to receive combination therapy 
+with the two drugs. The baseline disease charac-
+teristics were similar in the three groups (Table 1, 
+and Table 2 in the Supplementary Appendix). A 
+total of 318 patients completed the 30-week trial, 
+of whom 280 entered the extension trial (Fig. 1).
+Primary End Point
+At week 26, a total of 96 of the 169 patients 
+(56.8%) receiving combination therapy, 75 of the 
+169 patients (44.4%) receiving infliximab, and 51 
+of the 170 patients (30.0%) receiving azathio-
+prine were in corticosteroid-free clinical remis-
+sion (P = 0.006 for the comparison of infliximab 
+vs. azathioprine, P<0.001 for the comparison of 
+combination therapy vs. azathioprine, and P = 0.02 
+for the comparison of combination therapy vs. 
+infliximab) (Table 2 and Fig. 2A). The efficacy of 
+combination therapy and infliximab was generally 
+consistent among subgroups defined according 
+to demographic and baseline disease characteris-
+tics (Fig. 1A, 1B, and 1C in the Supplementary 
+Appendix).
+Secondary End Points and Exploratory 
+Analyses
+At baseline, mucosal ulcerations were detected in 
+325 patients: 111 of 169 patients (65.7%) in the 
+combination therapy group, 99 of 169 patients 
+(58.6%) in the infliximab group, and 115 of 170 
+patients (67.6%) in the azathioprine group. In 93 
+patients, no ulcerations were found on ileocolonos-
+copy, and in 90 patients, either the findings were 
+judged to be inconclusive by the central reader be-
+cause of poor colon preparation or poor videotape 
+technique or the procedure was not performed. At 
+week 26, mucosal healing had occurred in 47 of 
+107 patients (43.9%) receiving combination ther-
+apy, in 28 of 93 patients (30.1%) receiving inflix-
+imab, and in 18 of 109 patients (16.5%) receiving 
+azathioprine (P = 0.02 for infliximab vs. azathio-
+prine, P<0.001 for combination therapy vs. aza-
+thioprine, and P = 0.06 for combination therapy 
+vs. infliximab) (Table 2 and Fig. 2B).
+For secondary end points at weeks 34, 42, and 
+50, the between-group differences also favored 
+combination therapy and infliximab monother-
+apy over azathioprine (Table 2, and Table 3 in 
+the Supplementary Appendix). Results of explor-
+atory analyses that included all randomized pa-
+tients at week 50 were consistent with those at 
+week 26, with combination therapy and inflix-
+imab monotherapy providing a significantly 
+greater benefit than azathioprine monotherapy, 
+Patients (%)
+100
+80
+60
+40
+20
+0
+Azathioprine    
+Monotherapy
+Infliximab    
+Monotherapy
+Infliximab–    
+Azathioprine
+Corticosteroid-free Clinical Remission at Wk 26
+A
+P<0.001
+44.4
+P=0.02
+56.8
+P=0.006
+30.0
+75/169
+96/169
+51/170
+AUTHOR:
+RETAKE:
+1st
+d
+Colombel
+Patients (%)
+100
+80
+60
+40
+20
+0
+Azathioprine    
+Monotherapy
+Infliximab    
+Monotherapy
+Infliximab–    
+Azathioprine
+Mucosal Healing at Wk 26
+B
+P<0.001
+30.1
+P=0.06
+43.9
+P=0.02
+16.5
+28/93
+47/107
+18/109
+Figure 2. Patients with Corticosteroid-free Clinical 
+­Remission (Panel A) and Mucosal Healing (Panel B)  
+at Week 26.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1391
+and combination therapy providing a signifi-
+cantly greater benefit than infliximab mono-
+therapy (Table 2, and Tables 4 and 5 and Fig. 2A 
+and 2B in the Supplementary Appendix).
+At baseline (6 days before the first dose of 
+study medication was administered), budesonide 
+or a systemic corticosteroid was being adminis-
+tered in 66 of 169 patients (39.1%) receiving 
+combination therapy, 80 of 169 patients (47.3%) 
+receiving infliximab, and 65 of 170 patients 
+(38.2%) receiving azathioprine (Table 1). During 
+the main study, systemic corticosteroid therapy 
+was initiated in 11 patients receiving combina-
+tion therapy, 8 patients receiving infliximab, and 
+20 patients receiving azathioprine. Mean doses 
+of systemic corticosteroids through week 50 are 
+summarized in Table 2.
+The rates of corticosteroid-free clinical remis-
+sion at week 26 in both the combination-therapy 
+group and the infliximab group, as compared 
+with the azathioprine group, were greater among 
+subgroups of patients with higher baseline CRP 
+levels (0.8 mg per deciliter or more), baseline 
+mucosal lesions, and both higher baseline CRP 
+levels and mucosal lesions (Fig. 3A, 3B, and 3C 
+in the Supplementary Appendix).
+Safety
+Through week 50, the incidence of adverse events 
+was generally similar among the three groups 
+(Table 3). Infusion reactions occurred in 9 of 179 
+patients (5.0%) in the combination-therapy group, 
+in 27 of 163 patients (16.6%) in the infliximab 
+group, and in 9 of 161 patients (5.6%) in the aza-
+thioprine group.
+In one patient receiving combination therapy, 
+tuberculosis developed approximately 3 months 
+after a negative tuberculin skin test and chest 
+radiograph. The patient recovered after receiving 
+antituberculosis treatment. Colon cancer devel-
+oped in two patients receiving azathioprine. An-
+other patient receiving azathioprine died from 
+sepsis after colectomy.
+Antibodies to Infliximab and Infliximab Levels
+Antibodies to infliximab were detected at week 
+30 in 1 of 116 patients (0.9%) receiving combina-
+tion therapy and 15 of 103 patients (14.6%) re-
+ceiving infliximab. The rates of corticosteroid-
+free clinical remission at weeks 26 and 50 were 
+higher among patients with inconclusive results 
+of antibody tests (indicating the presence of in­
+fliximab in the serum) than among patients with 
+negative or positive results (Fig. 4A and 4B in the 
+Supplementary Appendix). Median trough levels 
+of serum infliximab at week 30 were 1.6 μg per 
+milliliter for patients in the infliximab group 
+and 3.5 μg per milliliter for those in the combi-
+nation-therapy group (P<0.001) (Fig. 5A in the 
+Supplementary Appendix). Rates of corticoste­
+roid-free clinical remission were greater among 
+patients with increased trough levels of serum 
+infliximab but were still high among patients with 
+lower trough levels (Fig. 5B in the Supplementary 
+Appendix). The findings were similar for serum in-
+fliximab trough levels and rates of corticosteroid-
+free clinical remission at week 46 (Fig. 6A and 6B 
+in the Supplementary Appendix).
+Discussion
+In this study, treatment with infliximab-based 
+strategies, as compared with azathioprine, re-
+sulted in significantly higher rates of corticoste­
+roid-free clinical remission and mucosal healing 
+at week 26 among patients with active Crohn’s 
+disease who did not have a response to first-line 
+therapy. The greatest efficacy was observed with 
+combination therapy.
+The absolute rate of corticosteroid-free clini-
+cal remission among patients treated with aza-
+thioprine (30% at week 26) was generally similar 
+to such rates that have been reported in previous 
+studies that used the CDAI to measure efficacy: 
+36% at week 17,5 27% at week 16,17 29% at week 
+24,18 and 38% at month 7.19 In contrast, several 
+other studies that either had very small sam-
+ples20,21 or used other, nonvalidated instruments 
+to measure efficacy22 have reported higher rates 
+of treatment success with azathioprine. The 
+time to the onset of action for azathioprine is 
+estimated at 8 to 12 weeks.17,22 For this reason, 
+we permitted the initiation or continuation of 
+systemic corticosteroid use until week 14. The 
+proportion of patients receiving corticosteroids 
+during the trial was similar among the three 
+study groups, and the magnitude of the differ-
+ence in the end points among the groups was 
+relatively greater among patients who had re-
+ceived corticosteroids at baseline. It is possible 
+that by excluding patients who had a heterozy-
+gous thiopurine methyltransferase phenotype we 
+excluded patients who were more likely to have 
+a response to azathioprine.23 However, such pa-
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1392
+Table 3. Safety Data at Week 54.*
+Variable
+Azathioprine 
+(N = 161)
+Infliximab 
+(N = 163)
+P Value for  
+Infliximab vs.  
+Azathioprine†
+Combination  
+Therapy  
+(N = 179)
+P Value for  
+Combination 
+Therapy vs.  
+Infliximab†
+P Value for  
+Combination 
+Therapy vs.  
+Azathioprine†
+Mean duration of treatment in main study 
+— wk
+21.1
+24.1
+24.9
+Mean duration of treatment in study exten-
+sion — wk‡
+18.9
+18.8
+18.7
+Mean duration of post-treatment follow-up 
+— wk
+5.1
+5.4
+5.3
+Total patient-years of follow-up — no.
+108.1
+126.9
+142.2
+Patients with any adverse event — no. (%)
+144 (89.4)
+145 (89.0)
+1.00
+161 (89.9)
+0.86
+1.00
+Adverse events occurring in >10% of any 
+study group — no. (%)
+Nausea
+52 (32.3)
+36 (22.1)
+45 (25.1)
+Abdominal pain
+26 (16.1)
+41 (25.2)
+31 (17.3)
+Worsening of Crohn’s disease
+27 (16.8)
+30 (18.4)
+19 (10.6)
+Vomiting
+28 (17.4)
+23 (14.1)
+15 (8.4)
+Diarrhea
+13 (8.1)
+20 (12.3)
+14 (7.8)
+Fatigue
+25 (15.5)
+24 (14.7)
+26 (14.5)
+Pyrexia
+18 (11.2)
+16 (9.8)
+16 (8.9)
+Arthralgia
+18 (11.2)
+32 (19.6)
+21 (11.7)
+Headache
+20 (12.4)
+27 (16.6)
+23 (12.8)
+Nasopharyngitis
+20 (12.4)
+15 (9.2)
+21 (11.7)
+Adverse events leading to discontinuation of 
+a study drug — no. (%)
+42 (26.1)
+29 (17.8)
+0.08
+37 (20.7)
+0.58
+0.25
+Any serious adverse event — no. (%)
+43 (26.7)
+39 (23.9)
+0.61
+27 (15.1)
+0.04
+0.01
+Infection — no. (%)
+Any
+73 (45.3)
+75 (46.0)
+0.91
+75 (41.9)
+0.45
+0.58
+Serious
+9 (5.6)
+8 (4.9)
+0.81
+7 (3.9)
+0.79
+0.61
+Adverse event of interest — no. (%)
+Colon carcinoma§
+2 (1.2)
+0
+0
+Sepsis
+1 (0.6)
+0
+0
+Tuberculosis
+0
+0
+1 (0.6)
+Infusions
+No. of patients with infusion reaction — 
+no. (%)¶
+9 (5.6)
+27 (16.6)
+0.002
+9 (5.0)
+<0.001
+1.00
+No. of infusions
+Mean no. per patient
+5.4
+6.1
+6.1
+Total no.
+862
+990
+1097
+With infusion reaction
+10
+45
+11
+*	Excluded from the safety analyses were five patients who underwent randomization but did not receive a study drug (one patient in the aza-
+thioprine group, three in the infliximab group, and one in the combination-therapy group). The safety population for the combination-thera-
+py group included 11 patients who were assigned to one of the monotherapy groups but inadvertently were given at least one dose of both 
+active oral and intravenous therapy (8 patients in the azathioprine group and 3 in the infliximab group).
+†	P values were calculated with the use of Fisher’s exact test.
+‡	Analyses of results for the trial extension included 75 patients in the azathioprine group, 97 in the infliximab group, and 108 in the combina-
+tion-therapy group.
+§	The two patients underwent colectomy. Although colonoscopy was performed at baseline, the protocol did not require that biopsy samples 
+be obtained.
+¶	Infusion reactions were defined as any adverse event that occurred during or within 1 hour after the infusion of a study drug.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1393
+tients are also more likely to be intolerant to 
+azathioprine,24,25 and we believe it is unlikely 
+that the net effect of these competing forces had 
+an important effect on the outcome of the study.
+Subgroup analyses of earlier clinical trials of 
+infliximab that included patients who did not 
+have a response to azathioprine have not shown 
+greater efficacy during a period of 6 to 12 
+months among patients receiving combination 
+therapy with infliximab and azathioprine, as 
+compared with patients receiving infliximab 
+monotherapy.26 In addition, a randomized trial 
+of azathioprine withdrawal in this patient popu-
+lation did not show a clinical benefit from con-
+tinued use of azathioprine,27 and toxic effects of 
+azathioprine combined with anti-TNF biologic 
+agents have recently been reported.28,29 Our trial 
+did not address the question of whether combi-
+nation therapy was superior to infliximab mono-
+therapy after failure of azathioprine. The bene-
+fits that we found for combination therapy may 
+not extend to patients in whom azathioprine has 
+already failed.
+Previously, no single variable has consistently 
+predicted a response to infliximab. In post hoc 
+analyses, we found that patients with objective 
+evidence of inflammation (i.e., a high CRP level 
+or observed mucosal lesions) had the best clini-
+cal results with infliximab. In patients with a 
+normal CRP level or no endoscopic lesions, no 
+significant differences were observed among the 
+three study groups. It is possible that prospec-
+tive studies will show that measurement of CRP 
+and endoscopy can identify patients who are 
+most likely to have a greater response to inflix-
+imab monotherapy or combination therapy than 
+to azathioprine monotherapy.
+The overall incidence of adverse events was 
+similar among the three groups. However, infu-
+sion reactions occurred less frequently among pa-
+tients receiving combination therapy than among 
+those receiving infliximab monotherapy. Serious 
+infections (including tuberculosis) developed in 
+3.9% of patients in the combination-therapy group, 
+4.9% of those in the infliximab group, and 5.6% 
+of those in the azathioprine group. Evidence sug-
+gests that the combination of azathioprine and 
+anti-TNF biologic agents increases the relative 
+risk of serious and opportunistic infections and 
+hepatosplenic T-cell lymphoma.28,29 Our data 
+showed that for patients who had not received 
+previous therapy with azathioprine, combination 
+therapy was superior to infliximab monotherapy. 
+However, the increased risks of rare but serious 
+toxic effects associated with combination therapy 
+must also be considered. The concomitant use of 
+corticosteroids as a third immunosuppressive 
+agent may further increase the relative risk of seri-
+ous and opportunistic infections.30 Ultimately, 
+the choice of infliximab monotherapy or combi-
+nation therapy in patients who have not received 
+such therapy previously is an individualized ben-
+efit–risk decision. Although the greater efficacy 
+of combination therapy in our study may have been 
+due in part to suppression of immunogenicity, it 
+is likely that the enhanced benefit was primarily 
+due to the additive effects of two effective drugs. 
+The two drugs have also been shown to share 
+mechanisms of action, such as apoptosis.31,32
+In conclusion, infliximab monotherapy and 
+combination therapy with infliximab plus azathi-
+oprine, as compared with azathioprine alone, re-
+sulted in significantly higher rates of cortico­
+steroid-free clinical remission among patients with 
+moderate-to-severe Crohn’s disease. Combination 
+therapy was the most effective treatment.
+Supported by research grants from Centocor Ortho Biotech 
+and Schering-Plough.
+Dr. Colombel reports receiving consulting or advisory board 
+fees from Abbott Laboratories, ActoGeniX, AstraZeneca, Bayer-
+Schering Pharma, Biogen Idec, Boehringer Ingelheim, Bristol-
+Myers Squibb, Cellerix, ChemoCentryx, Centocor Ortho Biotech, 
+Cosmo Technologies, Danone France, Elan Pharmaceuticals, 
+Genentech, Giuliani SPA, Given Imaging, GlaxoSmithKline, 
+Merck, Millennium Pharmaceuticals, Neovacs, Ocera Therapeu-
+tics, Otsuka America Pharmaceuticals, PDL Biopharma, Pfizer, 
+RiboVacs Biotech, Schering-Plough, Shire Pharmaceutical, Synta 
+Pharmaceutical, Teva Pharmaceuticals, Therakos, UCB Pharma, 
+and Wyeth, lecture fees from Abbott Laboratories, Centocor 
+Ortho Biotech, Elan, Falk Pharma, Ferring Pharmaceuticals, 
+Given Imaging, Otsuka America Pharmaceuticals, PDL Bio­
+pharma, Schering-Plough, Shire Pharmaceuticals, and UCB 
+Pharma, grant support from Abbott Laboratories, Centocor 
+Ortho Biotech, Synta Pharma, Otsuka America Pharmaceuticals, 
+Bristol-Myers Squibb, PDL Biopharma, Chiltem, AstraZeneca, 
+Pfizer, Teva Pharmaceuticals, Lesaffre, Giuliani SPA, Danisco, 
+Ocera Therapeutics, Danone France, Roquette, Mapi Naxis, Dys-
+phar, Ferring Pharmaceuticals, Schering-Plough, and UCB 
+Pharma, and having an equity interest in Intestinal Biotech De-
+velopment; Dr. Sandborn, receiving consulting or advisory 
+board fees from Abbott Laboratories (fees paid to the Mayo 
+Clinic), ActoGeniX, AGI Therapeutics, Alba Therapeutics, Albi­
+reo, AM-Pharma, Amgen, Ardea Biosciences, Aspreva Pharma-
+ceuticals, Astellas Pharma, Athersys, Atlantic Healthcare Limit-
+ed, Axcan Pharma, BioBalance, Bristol-Myers Squibb, Celgene, 
+Celek Pharmaceuticals, Cellerix, Centocor Ortho Biotech (fees 
+paid to the Mayo Clinic), Cerimon Pharmaceutical, ChemoCen-
+tryx, CombinatoRx, CoMentis, Cosmo Technologies, Cytokine 
+Pharmasciences, Eagle Pharmaceuticals, Eisai Medical Research, 
+Elan Pharmaceuticals, Enteromedics, Enzo Therapeutics, Ferring 
+Pharmaceuticals, Flexion Therapeutics, Funxional Therapeutics, 
+Genentech, Genzyme, Given Imaging, GlaxoSmithKline, Human 
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 362;15  nejm.org  april 15, 2010
+1394
+Genome Sciences, Hutchison Medipharma, Ironwood Pharma-
+ceuticals, KaloBios Pharmaceuticals, Merck Research Laborato-
+ries, MerckSerono, Millennium Pharmaceuticals, Nisshin Kyorin 
+Pharmaceutical, Novo Nordisk, Ocera Therapeutics, Pfizer, 
+Procter & Gamble (fees paid to the Mayo Clinic), Prometheus 
+Laboratories, Purgenesis Technologies, Salient Pharmaceuticals, 
+Salix Pharmaceuticals, Santarus, Schering-Plough, Shire Phar-
+maceuticals (fees paid to the Mayo Clinic), Sigmoid Pharma, 
+Sirtris Pharmaceuticals, S.L.A. Pharma, Teva Pharmaceuticals, 
+Tillotts Pharma, Tioga Pharmaceuticals, UCB Pharma (fees paid 
+to the Mayo Clinic), Vascular Biogenics, Ventech, Viamet Phar-
+maceuticals, and Wyeth, and research support from Abbott 
+Laboratories, Bristol-Myers Squibb, Celltech, Centocor Ortho 
+Biotech, Genentech, Millennium Pharmaceuticals, Novartis, 
+Otsuka America Pharmaceuticals, PDL Biopharma, Pfizer, 
+Procter & Gamble, Robarts Research Institute, Shire Pharma-
+ceuticals, and UCB Pharma; Dr. Reinisch, receiving consulting 
+or advisory board fees from Abbott Laboratories, Centocor 
+Ortho Biotech, Schering-Plough, and Genentech and lecture fees 
+from Abbott Laboratories, Otsuka America Pharmaceuticals, 
+and Schering-Plough; Dr. Mantzaris, receiving advisory board 
+fees from Centocor Ortho Biotech, Schering-Plough, Abbott Im-
+munology, Schering-Plough Hellas, and Abbott Hellas and lec-
+ture fees from Ferring International, Schering-Plough Hellas, 
+and Abbott Hellas; Dr. Kornbluth, receiving consulting or advi-
+sory board fees from Abbott Laboratories, Elan-Biogen, Cento-
+cor Ortho Biotech, and UCB Pharma, lecture fees from Abbott 
+Laboratories and UCB Pharma, and grant support from Cento-
+cor Ortho Biotech and Abbott Laboratories; Dr. Lichtiger, receiv-
+ing consulting or advisory board fees from Abbott Laboratories, 
+Centocor Ortho Biotech, Shire Pharmaceuticals, Prometheus 
+Laboratories, and UCB Pharma, lecture fees from Abbott Labo-
+ratories, Procter & Gamble, Prometheus Laboratories, and Shire 
+Pharmaceuticals, and grant support from Abbott Laboratories, 
+Bristol-Myers Pharmaceuticals, Celgene, Centocor Ortho Biotech, 
+Osiris Pharmaceuticals, Procter & Gamble, and UCB Pharma; 
+Dr. D’Haens, receiving consulting fees from Centocor Ortho 
+Biotech, Schering-Plough, UCB Pharma, and Abbott and lecture 
+fees from Schering-Plough, Abbott Laboratories, and UCB 
+Pharma; Drs. Diamond, Broussard, and Tang, being employed 
+by Centocor Ortho Biotech and having an equity interest in 
+Johnson & Johnson; Dr. van der Woude, receiving consulting or 
+advisory board fees from Schering-Plough and Abbott Laborato-
+ries, lecture fees from Ferring, Tramedico, Schering-Plough, and 
+Abbott, and grant support from Ely Broad Foundation, Erasmus 
+Medical Center, Schering-Plough, and Abbott Laboratories; and 
+Dr. Rutgeerts, receiving consulting or advisory board fees from 
+Centocor Ortho Biotech, Schering-Plough, UCB Pharma, Abbott, 
+Millennium, Genetech, NovImmune, ChemoCentryx, Glaxo­
+SmithKline, and Italifarmako, lecture fees from Centocor Ortho 
+Biotech, Schering-Plough, UCB Pharma, and Abbott, and re-
+search support from Centocor Ortho Biotech, Schering-Plough, 
+UCB Pharma, and Abbott. No other potential conflict of interest 
+relevant to this article was reported.
+We thank James Barrett and Mary Whitman, employees of the 
+Medical Affairs Publication Group of Centocor Ortho Biotech, 
+for their editorial and writing support; and David Krupa and 
+Alex Brink, employees of Quintiles, and Ronald Hegedus and 
+David Zelinger, employees of Centocor Ortho Biotech, for their 
+statistical support.
+References
+Cosnes J, Cattan S, Blain A, et al. 
+1.	
+Long-term evolution of disease behavior 
+of Crohn’s disease. Inflamm Bowel Dis 
+2002;8:244-50.
+Travis SP, Stange EF, Lémann M, et al. 
+2.	
+European evidence based consensus on the 
+diagnosis and management of Crohn’s 
+disease: current management. Gut 2006; 
+55:Suppl 1:i16-i35.
+Lichtenstein GR, Hanauer SB, Sand-
+3.	
+born WJ. Management of Crohn’s disease 
+in adults. Am J Gastroenterol 2009;104: 
+465-83.
+Faubion WA Jr, Loftus EV Jr, Harmsen 
+4.	
+WS, Zinsmeister AR, Sandborn WJ. The 
+natural history of corticosteroid therapy 
+for inflammatory bowel disease: a popu-
+lation-based study. Gastroenterology 2001; 
+121:255-60.
+Summers RW, Switz DM, Sessions JT 
+5.	
+Jr, et al. National Cooperative Crohn’s 
+Disease Study: results of drug treatment. 
+Gastroenterology 1979;77:847-69.
+Greenberg GR, Feagan BG, Martin F, 
+6.	
+et al. Oral budesonide for active Crohn’s 
+disease. N Engl J Med 1994;331:836-41.
+Idem.
+7.	
+ Oral budesonide as maintenance 
+treatment for Crohn’s disease: a placebo-
+controlled, dose-ranging study. Gastroen-
+terology 1996;110:45-51.
+Lichtenstein GR, Abreu MT, Cohen R, 
+8.	
+Tremaine W. American Gastroenterologi-
+cal Association Institute technical review 
+on corticosteroids, immunomodulators, 
+and infliximab in inflammatory bowel 
+disease. Gastroenterology 2006;130:940-
+87.
+Pearson DC, May GR, Fick GH, 
+9.	
+Sutherland LR. Azathioprine and 6-mer-
+captopurine in Crohn disease: a meta-
+analysis. Ann Intern Med 1995;123:132-
+42.
+Targan SR, Hanauer SB, van Deventer 
+10.	
+SJ, et al. A short-term study of chimeric 
+monoclonal antibody cA2 to tumor necro-
+sis factor alpha for Crohn’s disease. 
+N Engl J Med 1997;337:1029-35.
+Hanauer SB, Feagan BG, Lichtenstein 
+11.	
+GR, et al. Maintenance infliximab for 
+Crohn’s disease: the ACCENT 1 ran-
+domised trial. Lancet 2002;359:1541-9.
+Peyrin-Biroulet L, Deltenre P, de Suray 
+12.	
+N, Branche J, Sandborn WJ, Colombel JF. 
+Efficacy and safety of tumor necrosis 
+­antagonists in Crohn’s disease: a meta-
+analysis of placebo-controlled trials. Clin 
+Gastroenterol Hepatol 2008;6:644-53.
+Best WR, Becktel JM, Singleton JW, 
+13.	
+Kern F Jr. Development of a Crohn’s dis-
+ease activity index. Gastroenterology 1976; 
+70:439-44.
+Irvine EJ, Feagan B, Rochon J, et al. 
+14.	
+Quality of life: a valid and reliable mea-
+sure of therapeutic efficacy in the treat-
+ment of inflammatory bowel disease. 
+Gastroenterology 1994;106:287-96.
+Sandborn WJ, Feagan BG, Hanauer 
+15.	
+SB, et al. A review of activity indices and 
+efficacy endpoints for clinical trials of 
+medical therapy in adults with Crohn’s 
+disease. Gastroenterology 2002;122:512-
+30.
+Hanauer SB, Wagner CL, Bala M, et al. 
+16.	
+Incidence and importance of antibody re-
+sponses to infliximab after maintenance 
+or episodic treatment in Crohn’s disease. 
+Clin Gastroenterol Hepatol 2004;2:542-53.
+Sandborn WJ, Tremaine WJ, Wolf DC, 
+17.	
+et al. Lack of effect of intravenous admin-
+istration on time to respond to azathio-
+prine for steroid-treated Crohn’s disease. 
+Gastroenterology 1999;117:527-35.
+Lémann M, Mary J-Y, Duclos B, et al. 
+18.	
+Infliximab plus azathioprine for steroid-
+dependent Crohn’s disease patients: a ran-
+domized placebo-controlled trial. Gastro-
+enterology 2006;130:1054-61.
+Reinisch W, Panés J, Lémann M, et al. 
+19.	
+A multicenter, randomized, double-blind 
+trial of everolimus versus azathioprine 
+and placebo to maintain steroid-induced 
+remission in patients with moderate-to-
+severe active Crohn’s disease. Am J Gas-
+troenterol 2008;103:2284-92.
+Candy S, Wright J, Gerber M, Adams 
+20.	
+G, Gerig M, Goodman R. A controlled 
+double blind study of azathioprine in the 
+management of Crohn’s disease. Gut 1995; 
+37:674-8.
+Markowitz J, Grancher K, Kohn N, 
+21.	
+Lesser M, Daum F. A multicenter trial of 
+6-mercaptopurine and prednisone in chil-
+dren with newly diagnosed Crohn’s dis-
+ease. Gastroenterology 2000;119:895-902.
+Present DH, Korelitz BI, Wisch N, 
+22.	
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+Infliximab, Azathioprine, or Both for Crohn’s Disease
+n engl j med 362;15  nejm.org  april 15, 2010
+1395
+Glass JL, Sachar DB, Pasternack BS. Treat-
+ment of Crohn’s disease with 6-mercapto­
+purine: a long-term, randomized, double-
+blind study. N Engl J Med 1980;302:981-7.
+Dubinsky MC, Lamothe S, Yang HY, et 
+23.	
+al. Pharmacogenomics and metabolite 
+measurement for 6-mercaptopurine ther-
+apy in inflammatory bowel disease. Gas-
+troenterology 2000;118:705-13.
+Black AJ, McLeod HL, Powrie RH, et 
+24.	
+al. Thiopurine methyltransferase geno-
+type predicts therapy-limiting severe tox-
+icity from azathioprine. Ann Intern Med 
+1998;129:716-8.
+Lewis JD, Gelfand JM, Troxel AB, et al. 
+25.	
+Immunosuppressant medications and 
+mortality in inflammatory bowel disease. 
+Am J Gastroenterol 2008;103:1428-35.
+Lichtenstein GR, Diamond RH, Wag-
+26.	
+ner CL, et al. Clinical trial: benefits and 
+risks of immunomodulators and mainte-
+nance infliximab for IBD-subgroup analy-
+ses across four randomized trials. Ali-
+ment Pharmacol Ther 2009;30:210-26.
+Van Assche G, Magdelaine-Beuzelin 
+27.	
+C, D’Haens G, et al. Withdrawal of im-
+munosuppression in Crohn’s disease 
+treated with scheduled infliximab main-
+tenance: a randomized trial. Gastroenter-
+ology 2008;134:1861-8.
+Marehbian J, Arrighi HM, Hass S, Tian 
+28.	
+H, Sandborn WJ. Adverse events associated 
+with common therapy regimens for mod-
+erate-to-severe Crohn’s disease. Am J Gas-
+troenterol 2009;104:2524-33.
+Mackey AC, Green L, Liang LC, 
+29.	
+Dinndorf P, Avigan M. Hepatosplenic 
+T cell lymphoma associated with inflix-
+imab use in young patients treated for 
+inflammatory bowel disease. J Pediatr 
+Gastroenterol Nutr 2007;44:265-7.
+Lichtenstein GR, Feagan BG, Cohen 
+30.	
+RD, et al. Serious infections and mortality 
+in association with therapies for Crohn’s 
+disease: TREAT registry. Clin Gastroen-
+terol Hepatol 2006;4:621-30.
+Tiede I, Fritz G, Strand S, et al. CD28-
+31.	
+dependent Rac1 activation is the molecu-
+lar target of azathioprine in primary hu-
+man CD4+ T lymphocytes. J Clin Invest 
+2003;111:1133-45.
+ten Hove T, van Montfrans C, Pep-
+32.	
+pelenbosch MP, van Deventer SJ. Inflix-
+imab treatment induces apoptosis of 
+lamina propria T lymphocytes in Crohn’s 
+disease. Gut 2002;50:206-11.
+Copyright © 2010 Massachusetts Medical Society.
+receive immediate notification when  
+a journal article is released early
+To be notified when an article is released early  
+on the Web and to receive the table of contents  
+of the Journal by e-mail every Wednesday evening,  
+sign up through our Web site at  
+NEJM.org.
+The New England Journal of Medicine 
+Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on March 27, 2015. For personal use only. No other uses without permission. 
+ Copyright © 2010 Massachusetts Medical Society. All rights reserved. 

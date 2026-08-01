@@ -1,0 +1,502 @@
+ORIGINAL ARTICLE
+Patients Perceive Clinical Beneﬁt with the Speciﬁc Carbohydrate
+Diet for Inﬂammatory Bowel Disease
+David L. Suskind1
+• Ghassan Wahbeh1 • Stanley A. Cohen3 • Christopher J. Damman4 •
+Jani Klein1 • Kim Braly1 • Michele Shaffer1,2 • Dale Lee1
+Received: 17 June 2016 / Accepted: 7 September 2016 / Published online: 16 September 2016
+ Springer Science+Business Media New York 2016
+Abstract
+Background Recent studies suggest that dietary therapy
+may be effective for patients with inﬂammatory bowel
+disease (IBD), but limited published data exist on the usage
+and efﬁcacy of dietary therapy.
+Aim To evaluate the perspective of IBD patients using the
+speciﬁc carbohydrate diet (SCD).
+Methods An anonymous online survey was conducted
+using REDCap, a Web-based survey tool. Survey links
+were sent to known Web sites as well as support groups in
+an attempt to characterize patient utilization of the SCD
+and perception of efﬁcacy of the SCD.
+Results There were 417 respondents of the online survey
+on the SCD with IBD. Mean age for individuals on the
+SCD was 34.9 ± 16.4 years. Seventy percent were female.
+Forty-seven percent had Crohn’s disease, 43 % had ulcer-
+ative colitis, and 10 % had indeterminate colitis. Individ-
+uals perceived clinical improvement on the SCD. Four
+percent reported clinical remission prior to the SCD, while
+33 % reported remission at 2 months after initiation of the
+SCD, and 42 % at both 6 and 12 months. For those
+reporting clinical remission, 13 % reported time to achieve
+remission of less than 2 weeks, 17 % reported 2 weeks to a
+month, 36 % reported 1–3 months, and 34 % reported
+greater than 3 months. For individuals who reported
+reaching remission, 47 % of individuals reported associ-
+ated improvement in abnormal laboratory values.
+Conclusions The SCD is utilized by many patients as a
+primary and adjunct therapy for IBD. Most patients per-
+ceive clinical beneﬁt to use of the SCD.
+Keywords Crohn’s disease  Ulcerative colitis 
+Inﬂammatory bowel disease  Speciﬁc carbohydrate diet 
+Diet  Nutrition
+Introduction
+Inﬂammatory bowel disease (IBD) is an immune dysreg-
+ulation triggered by environmental factors and the fecal
+microbiome in a genetically susceptible individual. The
+primary therapies for IBD focus on suppressing the
+immune response in order to eliminate inﬂammation, but
+dietary therapy with exclusive enteral nutrition (EEN) has
+also been shown to be an effective therapeutic option [1].
+With further evidence mounting in regard to the role of the
+fecal microbiome in IBD, research is now focusing on
+alternative therapies, including diet, which could modulate
+environmental exposures and the fecal microbiome and
+thus decrease the inﬂammatory response.
+Aside from EEN, diet as a primary or adjunct therapy
+for IBD is not a standard approach to Crohn’s disease or
+ulcerative colitis (UC) treatment. Despite this, alternative
+and complementary therapies which include diets are used
+frequently by patients with IBD [2]. Many diets have
+anecdotally been reported to be efﬁcacious without rigor-
+ous scientiﬁc evaluation [3]. One of the more commonly
+& David L. Suskind
+David.Suskind@seattlechildrens.org
+1
+Department of Pediatrics, Seattle Children’s Hospital,
+University of Washington, 4800 Sandpoint Way NE, Seattle,
+WA 98105, USA
+2
+Center for Clinical and Translational Research, Seattle
+Children’s Research Institute, Seattle, WA, USA
+3
+Children’s Center for Digestive Health Care, Children’s
+Healthcare of Atlanta, Atlanta, GA, USA
+4
+Department of Medicine, Division of Gastroenterology,
+University of Washington Medical Center, Seattle, WA, USA
+123
+Dig Dis Sci (2016) 61:3255–3260
+DOI 10.1007/s10620-016-4307-y
+used dietary therapies trialed is the speciﬁc carbohydrate
+diet (SCD). This diet was developed by Dr. Sydney Haas, a
+pediatrician, in the 1930s to treat patients with Celiac
+disease [4]. It was popularized in the late twentieth century
+by Elaine Gottschall whose daughter was successfully
+treated by Dr. Haas with SCD for her UC [5]. This diet
+excludes all grains, sugars except for honey, processed
+foods, and milk. The SCD purports decreased intestinal
+inﬂammation by restoring the balance of bacteria within
+the bowels and resolving the associated dysbiosis found in
+IBD.
+Currently, a number of small studies evaluating the SCD
+for IBD therapy have shown clinical improvement and
+decline in objective markers in inﬂammation [6–9]. These
+studies evaluate therapeutic efﬁcacy but lack assessment of
+patient perception of efﬁcacy and tolerability of the SCD.
+To better understand patient perspective on the SCD, we
+undertook an online survey to evaluate attitudes and clin-
+ical practice of patients with IBD on the SCD.
+Methods
+We developed an online anonymous survey for patients
+with CD or UC who had been on SCD as dietary therapy.
+The SCD survey remained available for patient response
+from December 2014 to June 2015. The protocol was
+approved by the Seattle Children’s Hospital Institutional
+Review Board (IRB study #15404). The survey contained
+45 questions covering ﬁve main areas regarding usage of
+the SCD: patient demographics, reasons for initiation of
+SCD, maintenance of the SCD, disease complications
+before/after SCD, and healthcare management/follow-ups.
+Demographic questions included age and sex. Clinical
+questions were structured to understand disease diagnosis,
+extent, and duration. Questions regarding initiation of the
+SCD focused on reasons for beginning the SCD and con-
+comitant therapies at initiation of the SCD. Questions
+revolving around a SCD maintenance/course focused on
+changes in symptoms on the SCD, dietary adherence of the
+SCD, and changes in medication while on the SCD.
+Questions
+on
+healthcare
+management
+and
+follow-up
+focused on the interactions between patient and healthcare
+providers including gastroenterologist, dietitian, natur-
+opath, and others healthcare providers. Finally, questions
+regarding disease complications delved into problems that
+occurred secondary to disease activity before and after
+initiating the SCD as well as difﬁculties and complications
+with the SCD itself. The survey link was sent to multiple
+Web sites for publication including breakingtheviciouscy-
+cle.info, scdlifestyle.com, scdrecipe.com, comfybelly.com,
+and patient support groups involved with the SCD
+including SCD support groups on Yahoo and Facebook.
+Participants were asked to complete the survey only if they
+or a family member were on the SCD and had either CD or
+UC.
+Calculation
+The survey was administered and data was captured using
+REDCap [10]. Descriptive analysis of the data was per-
+formed using Stata 12.1 (Statacorp, College Station, TX,
+USA). All demographic and clinical variables were sum-
+marized using frequencies and percentages for categorical
+variables and mean, standard deviation, median, range, and
+interquartile range (IQR) for continuous variables, as
+appropriate. Survey responses were included in analysis if
+respondents completed the entire survey and clicked the
+submit button at the survey conclusion. To prevent con-
+founding from repeated entries, partially completed sur-
+veys were not included in ﬁnal analysis.
+Results
+In total, 578 individuals responded to the survey of which
+417 subjects went through the entire survey, answered all
+question, and submitted their responses. Mean age for
+individuals on the SCD was 34.9 ± 16.4 years (range
+1.5–70 years). Twenty-three percent of individuals were
+less then 19 years of age. Thirty percent of individuals
+were male and 70 % female. Forty-seven percent of indi-
+viduals had CD, while 43 % had UC and 10 % had inde-
+terminate colitis. For patients with Crohn’s disease, 51 %
+reported large bowel disease, 16 % reported small bowel
+disease, and 22 % indicated both small and large bowel
+involvement.(Table 1) Initial source of knowledge for the
+SCD came primarily from the internet (59 %), from a
+family or friend (29 %), or from a healthcare provider
+(17 %).
+The
+mean
+duration
+on
+the
+SCD
+was
+31.6 ± 54.9 months with the range of 0.25–780 months.
+The reason for individuals starting the SCD was for
+avoidance of medication (49 %), incomplete improvement
+with medication (28 %), no improvement with medication
+(9 %), and/or side effects or allergies to medication
+(19 %). Forty-three percent of individuals on dietary
+therapy were on the strict SCD (unmodiﬁed), while 57 %
+of individuals made changes to their SCD food intake after
+initiating the diet. Deviation from an unmodiﬁed/strict
+SCD were guided by healthcare practitioner recommen-
+dation (12 %), based on online forum or Web site recom-
+mendation (13 %), because of missing a favorite food
+(23 %), because of food allergy/sensitivity (19 %), because
+of a medical intervention (4 %) or because of laboratory
+value abnormalities (3 %).
+3256
+Dig Dis Sci (2016) 61:3255–3260
+123
+Forty-four percent of individuals on the SCD diet were
+not taking concomitant medication, while 56 % took
+medication in addition to the SCD. Medications taken for
+IBD included aminosalicylate (31 %), immune modulators
+(11 %), biologic or corticosteroids (17 %), antibiotics
+(2 %),
+nutraceuticals/probiotics
+(9 %),
+and
+vitamins
+(35 %).
+Overall, symptom decreased over time. Prior to starting
+the SCD 80 % of respondents had abdominal pain. After 2,
+6, and 12 months, the individuals reporting abdominal pain
+Table 1 Patient demographics
+Patient characteristics
+N (%)
+Age group of SCD participants [n (%)]
+\10 years
+24 (6)
+10–19
+70 (17)
+20–29
+52 (12)
+30–39
+95 (23)
+40–49
+91 (22)
+50–59
+48 (12)
+60–69
+25 (6)
+C70
+3 (1)
+Gender (% female)
+70
+Age at diagnosis of IBD [n (%)]
+0–10 years
+55 (14)
+10–17 years
+75 (18)
+17–40 years
+181 (44)
+C40 years
+96 (24)
+IBD diagnosis [n (%)]
+Crohn’s disease
+188 (47)
+Ulcerative colitis
+174 (43)
+Indeterminate colitis
+38 (10)
+For individuals with Crohn’s disease location of disease at diagnosis [n (%)]
+Small bowel
+66 (16)
+Large bowel
+210 (51)
+Both small and large bowel
+90 (22)
+Unknown
+42 (10)
+IBD complications [n (%)]
+Bowel obstruction
+33 (8)
+Bowel resection
+35 (8)
+Drainage of abscess/infection
+28 (7)
+Fistula
+46 (11)
+C. difﬁcile infection
+32 (8)
+Structure
+36 (9)
+Unknown
+11 (3)
+None of the above
+283 (68)
+Timing of IBD complications relative to starting SCD [n (%)]
+Before
+101 (89)
+After
+7 (6)
+Unknown
+6 (5)
+History of prior hospitalization for IBD [n (%)]
+No
+241 (59)
+Yes
+168 (41)
+If hospitalized, timing relative to start SCD
+Before
+140 (83)
+After
+11 (7)
+Dig Dis Sci (2016) 61:3255–3260
+3257
+123
+decreased to 24, 11, and 7 % respectively. Prior to starting
+the SCD, limitations in activities were reported by 65 % of
+respondents. After 2, 6, and 12 months, this decreased to
+15, 7, and 4 % respectively. Prior to starting the SCD,
+diarrhea was reported by 81 % of individuals. After 2, 6,
+and 12 months, this decreased to 31, 18, and 10 %,
+respectively. Prior to starting the SCD, blood in the stool
+was reported by 67 % of individuals. After 2, 6, and
+12 months, this decreased 19, 10, and 5 %, respectively.
+Prior to starting the SCD, weight loss was reported by
+58 % of individuals. After 2, 6, and 12 months, this
+decreased 18, 9, and 4 %, respectively (Fig. 1).
+There is a signiﬁcant shift toward clinical improvement for
+majority of patients with 4 % perceiving they were in clinical
+remission prior to the SCD, 33 % perceiving remission at
+2 months, and 42 % perceiving remission at 6 and 12 months
+(Fig. 2). For those who perceived that they were able to
+achieve clinical remission, the time it took to get into remis-
+sion varied. Thirteen percent indicated remission within less
+than 2 weeks, 17 % reported remission by 2 weeks to a
+month, 36 % reported remission within 1 month to 3 months,
+and 34 % indicated taking greater than 3 months to achieve
+remission. For those individuals who reported remission,
+47 % of individuals reported that this was associated with
+improvement in abnormal laboratory values, while 7 %
+reported noimprovement in laboratory values, and 46 % were
+unsure. Age at time of survey completion, age at diagnosis,
+gender, IBD diagnosis, and location of disease were evaluated
+forassociationwithachievementofremissionstatus,andnone
+of these characteristics demonstrated an association (p [ 0.26
+for all). When medications were evaluated, participants not on
+mesalamines, immunomodulators, and biologicals, respec-
+tively, were more likely to report remission on the SCD
+(p \ 0.009 for all). Additional analysis to evaluate partici-
+pants requiring immunosuppressive medications versus no
+immunosuppressive medications demonstrated that a signiﬁ-
+cantly greater portion of subjects requiring no immunosup-
+pression achieved remission (60.7 vs. 35.6 %; p \ 0.001).
+Subjects who were hospitalized for their IBD versus not ever
+hospitalized had similar rates of reported remission on the
+SCD (p = 0.87).
+Ninety-six percent of respondents continue on the SCD,
+while 4 % discontinued the SCD (n = 18). Of the 18
+respondents who discontinued the SCD, 10 subjects
+reported achieving clinical remission of disease. Individu-
+als who discontinued the SCD varied in terms of time on
+the SCD: Two followed the diet for less than 6 months, ﬁve
+adhered for 6–12 months, and 10 greater than 12 months.
+Of those stopping the SCD, 17 % felt that it was ineffec-
+tive, 11 % had too much weight loss, 39 % felt it was too
+difﬁcult to maintain, and 11 % felt it was too expensive.
+Discussion
+Dietary interventions including the SCD have been shown
+efﬁcacious in small studies for both UC and Crohn’s dis-
+ease; however, the mechanism remains unclear [6–9].
+Hypothesized mechanisms by which diet can effect GI tract
+inﬂammation include the mechanical properties of food,
+delivery of essential nutrients, impact on composition and
+function of the gut microbiota, alterations in bile acid
+secretion, and reduced exposure to deleterious compounds
+[11]. With this in mind and further larger-scaled dietary
+studies underway, we sought to evaluate the patient per-
+spectives on dietary management with the speciﬁc carbo-
+hydrate diet for IBD.
+Although not all patients in this study felt the SCD was
+effective, the majority of respondents felt that the diet did
+have
+a
+positive
+effect
+on
+their
+disease.
+Symptoms
+Fig. 1 Patient-reported symptoms over time once initiating the
+speciﬁc carbohydrate diet
+Fig. 2 Patient-reported remission over time once initiating the
+speciﬁc carbohydrate diet
+3258
+Dig Dis Sci (2016) 61:3255–3260
+123
+diminished progressively with most of the improvement
+see by 6 months. Over a third of patients felt the diet
+helped them go into clinical remission. This is true despite
+the majority of patients not maintaining a strict SCD as
+deﬁned by Elaine Gottschall in ‘‘Breaking the Viscous
+Cycle’’ [5]. The survey results are similar to what we found
+in our retrospective study of SCD within our IBD center at
+Seattle Children’s Hospital [8].
+This study demonstrated signiﬁcant heterogeneity in the
+population using dietary treatment in IBD, with variability in
+disease phenotype, patient age, reasons for using diet, and
+concomitant medication exposures. Although age at time of
+survey completion, age at diagnosis, gender, IBD diagnosis,
+and location of disease did not demonstrated an association
+with disease remission, lack of concomitant medication
+including mesalamines, immunomodulators, and biologicals
+was more likely to report remission on the SCD. It is unclear
+why this association exists, but therapy with immunosup-
+pressive mediations may imply greater disease severity. Par-
+ticipants witha history of hospitalization, though,did not have
+different rates of reported remission. Adherence and inter-
+pretation of the SCD was highly variable with the reported
+addition of numerous new foods to the strict SCD. The vari-
+ations in practice of the SCD introduce challenges for both
+patients and providers in evaluating the true efﬁcacy of the
+diet. Based upon our personal experience, successful addi-
+tional of foods to the SCD is possible, but requires further
+systematic evaluation.
+With clinical studies showing a positive impact of the SCD
+on clinical symptoms and laboratory values [6–9], animal
+studies linking diet to the development of IBD in genetically
+predisposed animals [12–14], broad patient interest in diet as
+therapy, and 49 % beginning the diet because of the percep-
+tion of risk from medications, integration of diet into the
+treatment paradigm of IBD is likely to evolve over the coming
+years. With this in mind, understanding the perspective of the
+patients will be an important element in effectively incorpo-
+rating diet into conventional IBD therapy.
+Although the results of the study suggests an overall
+beneﬁt for patients on the SCD with the majority of
+patients going into clinical remission, there are limitations
+to this study. Our online questionnaire has not been vali-
+dated as a tool to assess inﬂammatory bowel disease. With
+that caveat, the internet has been shown to be reliable in
+assessing accurately the health status of patients with
+inﬂammatory bowel disease [15]. Also given the anony-
+mous nature of the study we are limited in our ability to
+verify the underlying diagnosis and clinical disease status
+of each patient. We were also unable to verify compliance
+with the diet in individuals. In addition this survey evalu-
+ates perceived beneﬁt versus objective evidence of clinical
+remission. Though patients may feel clinically improved, it
+is quite possible that they still have ongoing inﬂammation.
+Also, the majority of internet sites that the survey was sent
+to were SCD-speciﬁc interest sites, therefore introducing
+likely response bias. With this being said, the overall
+results of this anonymous survey shed further light on the
+use and perception of dietary therapy in IBD, and these
+ﬁndings are similar to our clinical experience in the IBD
+center. Dietary therapy is promising, but further study is
+required to better deﬁne the role of diet in inﬂammatory
+bowel disease. In addition, as further studies on the effect
+of dietary therapy in IBD are carried out, special attention
+is needed to focus on the unique challenges that occur with
+dietary therapy. While medication requires relatively little
+in the way of lifestyle change for an individual, dietary
+therapy requires signiﬁcant changes in an individual’s daily
+life. This means for the SCD to be effective, medical
+community will need to develop patient support systems
+including routine integration of dietician into patient care.
+Author contributions DS developed the concept of the study, while
+DS, GW, SC, CD, JK, KM, MS, and DL all contributed to design of
+the study, generation, collection, analysis, and interpretation of data
+as well as draft the manuscript and had approval of the ﬁnal version of
+the manuscript.
+Compliance with ethical standards
+Conﬂict of interest None of the authors have a conﬂict of interest in
+regards to this article and have adhered to strict ethical standards.
+References
+1. Heuschkel RB. Enteral nutrition in children with Crohn’s disease.
+J Pediatr Gastroenterol Nutr. 2000;31:575.
+2. Wong AP, Clark AL, Garnett EA, et al. Use of complementary
+medicine in pediatric patients with inﬂammatory bowel disease:
+results from a multicenter survey. J Pediatr Gastroenterol Nutr.
+2009;48:55–60.
+3. Hou JK, Lee D, Lewis J. Diet and inﬂammatory bowel disease:
+review of patient-targeted recommendations. Clin Gastroenterol
+Hepatol. 2014;12:1592–1600.
+4. Haas SV, Haas MP. The treatment of celiac disease with the
+speciﬁc carbohydrate diet; report on 191 additional cases. Am J
+Gastroenterol. 1955;23:344–360.
+5. Gottschall E, ed. Breaking the viscous cycle. 2nd ed. Baltimore:
+Kirkton Press Limited; 1994.
+6. Suskind DL, Wahbeh G, Gregory N, Vendettuoli H, Christie D.
+Nutritional therapy in pediatric Crohn disease: the speciﬁc car-
+bohydrate diet. J Pediatr Gastroenterol Nutr. 2014;58:87–91.
+7. Cohen SA, Gold BD, Oliva S, et al. Clinical and mucosal
+improvement with speciﬁc carbohydrate diet in pediatric Crohn
+disease. J Pediatr Gastroenterol Nutr. 2014;59:516–521.
+8. Obih C, Wahbeh G, Lee D, et al. Speciﬁc carbohydrate diet for
+pediatric inﬂammatory bowel disease in clinical practice within
+an Academic IBD Center. Nutrition. 2016;32:418–425.
+9. Kakodkar S, Farooqui AJ, Mikolaitis SL, Mutlu EA. The speciﬁc
+carbohydrate diet for inﬂammatory bowel disease: a case series. J
+Acad Nutr Diet. 2015;115:1226–1232.
+10. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG.
+Research electronic data capture (REDCap)—a metadata-driven
+methodology and workﬂow process for providing translational
+research informatics support. J Biomed Inform. 2009;42:377–381.
+Dig Dis Sci (2016) 61:3255–3260
+3259
+123
+11. Lee D, Albenberg L, Compher C, et al. Diet in the pathogenesis
+and treatment of inﬂammatory bowel diseases. Gastroenterology.
+2015;148:1087–1106.
+12. Nickerson KP, McDonald C. Crohn’s disease-associated adher-
+ent-invasive Escherichia coli adhesion is enhanced by exposure
+to the ubiquitous dietary polysaccharide maltodextrin. PloS One.
+2012;7:e52132.
+13. Martinez-Medina M, Denizot J, Dreux N, et al. Western diet
+induces dysbiosis with increased E. coli in CEABAC10 mice,
+alters host barrier function favouring AIEC colonisation. Gut.
+2014;63:116–124.
+14. Chassaing B, Koren O, Goodrich JK, et al. Dietary emulsiﬁers
+impact the mouse gut microbiota promoting colitis and metabolic
+syndrome. Nature. 2015;519:92–96.
+15. Randell RL, Long MD, Cook SF, et al. Validation of an internet-
+based cohort of inﬂammatory bowel disease (CCFA partners).
+Inﬂamm Bowel Dis. 2014;20:541–544.
+3260
+Dig Dis Sci (2016) 61:3255–3260
+123

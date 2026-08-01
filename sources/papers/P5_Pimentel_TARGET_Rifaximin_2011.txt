@@ -1,0 +1,1371 @@
+original article
+The new engl and jour nal of medicine
+n engl j med 364;1  nejm.org  january 6, 2011
+22
+Rifaximin Therapy for Patients with Irritable 
+Bowel Syndrome without Constipation
+Mark Pimentel, M.D., Anthony Lembo, M.D., William D. Chey, M.D.,  
+Salam Zakko, M.D., Yehuda Ringel, M.D., Jing Yu, Ph.D.,  
+Shadreck M. Mareya, Ph.D., Audrey L. Shaw, Ph.D., Enoch Bortey, Ph.D.,  
+and William P. Forbes, Pharm.D., for the TARGET Study Group*
+From Cedars–Sinai Medical Center, Los 
+Angeles (M.P.); Beth Israel Deaconess 
+Medical Center and Harvard Medical 
+School — both in Boston (A.L.); Univer-
+sity of Michigan Health System, Ann Ar-
+bor (W.D.C.); Connecticut Gastroenterol-
+ogy Institute at Bristol Hospital, Bristol 
+(S.Z.); University of North Carolina at 
+Chapel Hill, Chapel Hill (Y.R.); and Salix 
+Pharmaceuticals, Morrisville, NC (J.Y., 
+S.M.M., A.L.S., E.B., W.P.F.). Address re-
+print requests to Dr. Forbes at 1700 Pe-
+rimeter Park Dr., Morrisville, NC 27560.
+*Members of the TARGET Study Group 
+are listed in the Supplementary Appen-
+dix, available at NEJM.org.
+N Engl J Med 2011;364:22-32.
+Copyright © 2011 Massachusetts Medical Society.
+ABSTR ACT
+Background
+Evidence suggests that gut flora may play an important role in the pathophysiology 
+of the irritable bowel syndrome (IBS). We evaluated rifaximin, a minimally ab-
+sorbed antibiotic, as treatment for IBS.
+Methods
+In two identically designed, phase 3, double-blind, placebo-controlled trials 
+(TARGET 1 and TARGET 2), patients who had IBS without constipation were ran-
+domly assigned to either rifaximin at a dose of 550 mg or placebo, three times 
+daily for 2 weeks, and were followed for an additional 10 weeks. The primary end 
+point, the proportion of patients who had adequate relief of global IBS symptoms, 
+and the key secondary end point, the proportion of patients who had adequate relief 
+of IBS-related bloating, were assessed weekly. Adequate relief was defined as self-
+reported relief of symptoms for at least 2 of the first 4 weeks after treatment. 
+Other secondary end points included the percentage of patients who had a response 
+to treatment as assessed by daily self-ratings of global IBS symptoms and individual 
+symptoms of bloating, abdominal pain, and stool consistency during the 4 weeks 
+after treatment and during the entire 3 months of the study.
+Results
+Significantly more patients in the rifaximin group than in the placebo group had 
+adequate relief of global IBS symptoms during the first 4 weeks after treatment 
+(40.8% vs. 31.2%, P = 0.01, in TARGET 1; 40.6% vs. 32.2%, P = 0.03, in TARGET 2; 
+40.7% vs. 31.7%, P<0.001, in the two studies combined). Similarly, more patients in 
+the rifaximin group than in the placebo group had adequate relief of bloating 
+(39.5% vs. 28.7%, P = 0.005, in TARGET 1; 41.0% vs. 31.9%, P = 0.02, in TARGET 2; 
+40.2% vs. 30.3%, P<0.001, in the two studies combined). In addition, significantly 
+more patients in the rifaximin group had a response to treatment as assessed by 
+daily ratings of IBS symptoms, bloating, abdominal pain, and stool consistency. 
+The incidence of adverse events was similar in the two groups.
+Conclusions
+Among patients who had IBS without constipation, treatment with rifaximin for 
+2 weeks provided significant relief of IBS symptoms, bloating, abdominal pain, and 
+loose or watery stools. (Funded by Salix Pharmaceuticals; ClinicalTrials.gov num-
+bers, NCT00731679 and NCT00724126.)
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+Rifaximin for IBS without Constipation
+n engl j med 364;1  nejm.org  january 6, 2011
+23
+T
+he irritable bowel syndrome (IBS) 
+is a functional gastrointestinal disorder 
+characterized by recurring symptoms of 
+abdominal pain, bloating, and altered bowel func-
+tion in the absence of structural, inflammatory, 
+or biochemical abnormalities.1 IBS often does not 
+respond to current treatment options, including 
+dietary and lifestyle modifications, fiber supple-
+mentation, psychological therapy, and pharmaco-
+therapy.2,3 Because no reliable biologic or struc-
+tural markers have been identified, the effects of 
+pharmacotherapy are typically assessed by ask-
+ing patients to report whether they had adequate 
+relief of IBS symptoms (with a binary response of 
+yes or no).4 Given the limitations of available 
+therapies, there is an unmet medical need for 
+novel therapeutic approaches.
+Patients with IBS may have alterations in the 
+intestinal microbiota,5-7 thus leading investigators 
+to consider targeting the intestinal microbiota for 
+the treatment of this condition. Although some 
+patients have had improvement with neomycin 
+therapy, clinical trials have shown that it has 
+marginal efficacy, and side effects limit the use 
+of the drug.8 The use of systemic antibiotics has 
+been reported with mixed results.9
+Rifaximin (Xifaxan, Salix Pharmaceuticals) is 
+an oral, nonsystemic, broad-spectrum antibiotic 
+that targets the gut and is associated with a low 
+risk of bacterial resistance.10-12 It has shown ef-
+ficacy in small-scale studies of IBS.13,14 We pre­
+sent the results of two large-scale, identically 
+designed, multicenter trials — TARGET 1 and 
+TARGET 2 — of 3 months’ duration that exam-
+ined the relief of IBS symptoms after a 2-week 
+course of rifaximin.
+Methods
+Study Patients
+Eligible patients were at least 18 years of age; had 
+undergone a colonoscopic examination within the 
+previous 2 years; had received a diagnosis of and 
+had current symptoms of IBS (as assessed accord-
+ing to the Rome II diagnostic criteria for IBS15), 
+in particular, symptoms of abdominal pain and 
+discomfort; and did not have adequate relief of 
+global IBS symptoms and of IBS-related bloating 
+at both the time of screening and the time of 
+randomization. Eligible patients rated the aver-
+age daily amount of abdominal pain and of bloat-
+ing as a score of 2 to 4.5 on a 7-point Likert scor-
+ing system (with 0 indicating not at all; 1, hardly; 
+2, somewhat; 3, moderately; 4, a good deal; 5, a 
+great deal; and 6, a very great deal) and rated the 
+average daily consistency of their stools as 3.5 or 
+more on a 5-point scale for stool consistency 
+(with 1 indicating very hard; 2, hard; 3, formed; 
+4, loose; and 5, watery) over the course of at least 
+7 days.
+Exclusion criteria were constipation-predom-
+inant IBS (according to the definition in the 
+Rome II criteria15), a history of inflammatory 
+bowel disease, diabetes, unstable thyroid disease, 
+previous abdominal surgery (other than chole-
+cystectomy or appendectomy), human immuno-
+deficiency virus infection, and renal or hepatic 
+disease. Patients were excluded if they were cur-
+rently taking alosetron, tegaserod, lubiprostone, 
+warfarin, or antipsychotic, antispasmodic, anti­
+diarrheal, probiotic, or narcotic drugs or if they 
+had taken antibiotics within the previous 14 days 
+or rifaximin within 60 days before signing the 
+informed-consent form for the study. Patients 
+were allowed to take antidepressant agents of 
+the selective serotonin-reuptake inhibitor and 
+tricyclic antidepressant classes, provided that they 
+had been taking a stable dose for at least 6 weeks. 
+All patients provided written informed consent 
+before study-related procedures were initiated.
+Study Design and Procedures
+The protocols were approved by the institutional 
+review board or independent ethics committee 
+at each center, and the studies were conducted in 
+accordance with applicable laws and regulations 
+(see the Supplementary Appendix, available with 
+the full text of this article at NEJM.org). After a 
+screening phase of 7 to 13 days, eligible patients 
+were randomly assigned with the use of an inter-
+active voice-response system to either rifaximin 
+or placebo, in a 1:1 ratio. The randomization code 
+was computer-generated, and randomization was 
+performed in blocks of four, stratified according 
+to center. After completing the 14-day study-
+treatment period, patients were evaluated for 10 
+additional weeks. Study visits were conducted on 
+days 1, 7, 14, 28, and 84, and patients were mon-
+itored by means of telephone calls on days 42, 56, 
+and 70. Efficacy assessments were obtained daily 
+by means of an interactive voice-response system 
+over the course of the entire study (Fig. 1).
+The protocol was designed by Salix Pharma-
+ceuticals in collaboration with the academic au-
+Comment on 
+this article at
+NEJM.org 
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 364;1  nejm.org  january 6, 2011
+24
+thors. Data were collected by investigators at 
+each center (see the Supplementary Appendix) 
+and were monitored by Quintiles (a contract re-
+search organization) under the supervision of 
+Salix Pharmaceuticals. The data were analyzed 
+by personnel at Salix Pharmaceuticals, in collabo-
+ration with the academic authors. All the authors 
+participated in the interpretation of the data and 
+in the writing of the manuscript. The first two 
+authors wrote the first draft of the manuscript, 
+and all the authors, in addition to an employee 
+of Salix, assisted in the revision of subsequent 
+drafts. All the authors made the decision to sub-
+mit the manuscript for publication. The trial pro-
+tocol, including the statistical analysis plan, is 
+available at NEJM.org. All the authors vouch for 
+the completeness and veracity of the data and 
+analyses, as well as the fidelity of this report to 
+the trial protocol.
+Efficacy and Safety End Points
+The primary end point was the proportion of 
+patients who had adequate relief of global IBS 
+symptoms for at least 2 of the 4 weeks during the 
+primary evaluation period (weeks 3 through 6). 
+This end point was determined from the response 
+(yes or no) to the following question, which was 
+asked weekly: “In regard to all your symptoms of 
+IBS, as compared with the way you felt before you 
+started the study medication, have you, in the 
+past 7 days, had adequate relief of your IBS symp-
+toms?” The threshold for clinical relevance — 
+adequate relief during at least 2 weeks per month 
+— was defined prospectively. In addition, the 
+proportion of patients who reported that they 
+had adequate relief during at least 2 weeks per 
+month (“monthly response”) during months 1, 2, 
+and 3 was assessed to identify the onset and du-
+ration of the therapeutic effect. Patients who 
+started to take antibiotics (other than the study 
+medication) or who took more than two doses of 
+a medication that was prohibited per the study 
+protocol were considered not to have had a re-
+sponse to treatment starting from the time the 
+medication was initiated, regardless of their re-
+sponse data.
+1
+7
+14
+21
+28
+35
+49
+63
+70
+77
+84
+56
+42
+Month 1
+Month 2
+Day
+Month 3
+Screening
+14-Day double-
+blind treatment
+phase (rifaximin
+550 mg 3 times
+daily or placebo)
+10-Wk follow-up
+(no study medication)
+Primary efficacy
+evaluation period
+Randomization
+1:1
+End
+of
+study
+Efficacy
+Weekly global IBS symptoms
+Weekly IBS-related bloating
+Daily IBS symptoms
+Quality of life
+Safety
+Adverse effects and con-
+comitant medications
+Vital signs
+Laboratory tests
+Physical examinations
+Figure 1. Study Design.
+The TARGET 1 and TARGET 2 studies had the same study design. There was a screening period of 7 to 13 days be-
+fore randomization (day 1). Study visits occurred on days 1, 7, 14, 28, and 84; patients were monitored by means of 
+telephone calls on days 42, 56, and 70 (telephone symbols). Triangles indicate the days on which the efficacy and 
+safety end points were assessed (except in the case of daily symptoms of irritable bowel syndrome [IBS], which were 
+assessed every day).
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+Rifaximin for IBS without Constipation
+n engl j med 364;1  nejm.org  january 6, 2011
+25
+The key secondary end point, the proportion 
+of patients who had adequate relief of IBS-related 
+bloating during the primary evaluation period, 
+was determined from the response (yes or no) to 
+the weekly question, “In regard to your symp-
+toms of bloating, as compared with the way you 
+felt before you started study medication, have 
+you, in the past 7 days, had adequate relief of 
+your IBS symptom of bloating?” The onset and 
+duration of relief of bloating were also assessed 
+in an analysis of monthly response, as described 
+above for the primary end point.
+For other secondary end points, the propor-
+tion of patients who had relief was determined 
+from the patients’ daily assessments of IBS symp-
+toms, bloating, and abdominal pain and discom-
+fort (as rated on a 7-point scale); relief was de-
+fined as a score of either 0 (not at all) or 1 (hardly) 
+for at least 50% of the days in a given week or a 
+score of 0 (not at all), 1 (hardly), or 2 (somewhat) 
+for 100% of the days in a given week for at least 
+2 of the 4 weeks during a given month.
+An exploratory end point, which was included 
+at the request of the Food and Drug Administra-
+tion (FDA), was the proportion of patients who 
+had relief of the composite of abdominal pain 
+and discomfort and loose or watery stools (as 
+measured by improvement in stool consistency), 
+on the basis of daily assessments. Relief was de-
+fined as a decrease of at least 30% from baseline 
+in weekly mean ratings of IBS-related abdominal 
+pain or discomfort and a weekly mean stool-
+consistency score of less than 4 (with 4 indicat-
+ing loose stools and lower scores indicating more 
+formed stools) for at least 2 of the 4 weeks dur-
+ing a given month. This exploratory end point is 
+consistent with the recommended composite end 
+point for IBS with diarrhea in a recently released 
+draft of FDA guidelines.16 Safety assessments in-
+cluded the monitoring of adverse events, results 
+of clinical laboratory testing, findings from 
+physical examinations, and vital signs.
+Statistical Analysis
+We estimated the sample size for each study as-
+suming that 40% of the patients in the placebo 
+group and 55% in the rifaximin group would 
+meet the criteria for the primary end point (i.e., 
+would have adequate relief of global IBS symp-
+toms, as assessed weekly) for at least 2 of the 
+first 4 weeks after treatment. With these as-
+sumptions, a sample of 300 patients would be 
+needed in each group for the studies to have 95% 
+power to show the 15-percentage-point differ-
+ence between the groups, at a significance level 
+of 0.05.
+All efficacy and safety analyses were per-
+formed on a modified intention-to-treat popula-
+tion, which included all patients who received at 
+least one dose of the study drug. Missing data 
+were imputed with the use of the last-observation-
+carried-forward method, whereby missing values 
+were replaced with the last nonmissing value; 
+baseline values were not carried forward. Two 
+sensitivity analyses were conducted, one in which 
+missing data were regarded as indicating that 
+the patients who terminated the study prema-
+turely had had no relief of symptoms, and the 
+other in which missing data were imputed with 
+the use of the multiple-imputation method.
+Binary data (i.e., data on the proportion of 
+patients who had or did not have adequate relief 
+of symptoms) were analyzed with the use of lo-
+gistic regression; fixed-effect terms included the 
+study group and the analysis center. There were 
+five analysis centers, which we formed prospec-
+tively by grouping the study centers according to 
+geographic region in order to assess the effects 
+of geographic location on the end points. For the 
+analysis of ordinal data (i.e., data on the number 
+of months in which patients had relief for at 
+least 2 weeks per month), we used the propor-
+tional-odds model for the ordinal outcome. The 
+number of consecutive months with relief during 
+the first 3 months after treatment was summed 
+for each patient, so that each patient received a 
+score of 0, 1, 2, or 3.
+We analyzed the changes from baseline in 
+continuous outcomes (i.e., symptom scores) by 
+fitting fixed-effects linear models to the data. 
+An initial model with terms for treatment, 
+analysis center, baseline ratings of the response 
+variable, and interaction of baseline ratings with 
+treatment was fitted. The interaction term was 
+tested at the 0.05 level. A nonsignificant interac-
+tion was dropped from the model in subsequent 
+analyses.
+Spearman correlation analyses were applied to 
+the mean change from baseline in daily assess-
+ments of adequate relief of IBS symptoms (yes or 
+no) to determine whether the weekly assessments 
+of adequate relief paralleled the pattern seen with 
+the daily assessments. Safety data were summa-
+rized with the use of descriptive statistics.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 364;1  nejm.org  january 6, 2011
+26
+Results
+Study Patients
+A total of 1260 patients who had IBS without 
+constipation were enrolled in the studies (623 pa-
+tients in TARGET 1 and 637 in TARGET 2) and 
+underwent randomization at one of 179 investi-
+gative sites in the United States (1217 patients) 
+and Canada (43 patients) (Fig. 2). The studies 
+were conducted in parallel from June 2008 
+through August 2009. In TARGET 1, all the pa-
+tients who underwent randomization took at 
+least one dose of the study drug. In TARGET 2, 
+two patients (one in each group) underwent ran-
+domization but did not receive a study drug. 
+Thus, 1258 patients received at least one dose of 
+the study drug and were included in the modified 
+intention-to-treat population. More than 90% of 
+the patients completed the entire 12-week study. 
+The baseline characteristics of the patients were 
+similar in the two studies and across treatment 
+groups (Table 1). The rate of adherence to the 
+study drug, defined as the use of at least 70% of 
+the dispensed tablets, was at least 97% in both 
+study groups in both studies.
+Efficacy during the Primary Evaluation 
+Period (Weeks 3 through 6)
+Adequate Relief of Global IBS Symptoms
+Significantly more patients in the rifaximin group 
+than in the placebo group met the criteria for the 
+primary end point of adequate relief of global IBS 
+symptoms for at least 2 of the first 4 weeks after 
+treatment (40.8% vs. 31.2%, P = 0.01, in TARGET 1; 
+40.6% vs. 32.2%, P = 0.03, in TARGET 2; 40.7% 
+vs. 31.7%, P<0.001, in the two studies combined) 
+(Fig. 3A). The last-observation-carried-forward 
+method was applied in the case of 5.8% of the 
+patients in the rifaximin group and 5.7% of the 
+patients in the placebo group in TARGET 1 and 
+in the case of 5.4% in the rifaximin group and 
+8.4% in the placebo group in TARGET 2. Overall, 
+1260 Patients were enrolled
+637 Were assigned to Target 2
+623 Were assigned to Target 1
+321 Were assigned to receive
+placebo
+19 Discontinued study
+2 Had adverse event
+8 Withdrew
+6 Were lost to
+follow-up
+2 Did not adhere to
+regimen
+1 Had other reason
+320 Were included in the
+modified intention-to-treat
+analysis
+309 Were assigned to receive
+rifaximin
+26 Discontinued study
+8 Had adverse event
+8 Withdrew
+8 Were lost to
+follow-up
+1 Did not adhere to
+regimen
+1 Was pregnant
+309 Were included in the
+modified intention-to-treat
+analysis
+314 Were assigned to receive
+placebo
+22 Discontinued study
+7 Had adverse event
+8 Withdrew
+7 Were lost to
+follow-up
+314 Were included in the
+modified intention-to-treat
+analysis
+316 Were assigned to receive
+rifaximin
+15 Discontinued study
+6 Withdrew
+6 Were lost to
+follow-up
+1 Did not adhere to
+regimen
+2 Had other reason
+315 Were included in the
+modified intention-to-treat
+analysis
+Figure 2. Enrollment, Randomization, and Follow-up in the TARGET 1 and TARGET 2 Studies.
+A total of 92.3% of the patients in TARGET 1 and 94.7% of the patients in TARGET 2 completed the study. Two patients from TARGET 2, 
+one in each study group, were excluded from the analysis because they did not take the study drug. Thus, 1258 patients in TARGET 2 re-
+ceived at least one dose of the study drug and were included in the modified intention-to-treat analysis.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+Rifaximin for IBS without Constipation
+n engl j med 364;1  nejm.org  january 6, 2011
+27
+sensitivity analyses that were performed to ad-
+dress the effect of missing values yielded results 
+that were consistent with those of the primary 
+efficacy analysis (see the Supplementary Appen-
+dix). On the basis of daily assessments of IBS 
+symptoms, the proportion of patients with a re-
+sponse to treatment, as rated on a 7-point scale 
+during the primary evaluation period, was sig-
+nificantly greater in the rifaximin group than in 
+the placebo group (42.7% vs. 30.6%, P<0.001, in 
+TARGET 1; 37.8% vs. 28.4%, P = 0.007, in TARGET 
+2; 40.2% vs. 29.5%, P<0.001, in the two studies 
+combined) (Fig. 3A).
+Adequate Relief of IBS-Related Bloating
+Significantly more patients in the rifaximin group 
+than in the placebo group met the criteria for the 
+key secondary end point, adequate relief of IBS-
+related bloating for at least 2 of the first 4 weeks 
+after treatment (39.5% vs. 28.7%, P = 0.005, in 
+TARGET 1; 41.0% vs. 31.9%, P = 0.02, in TARGET 
+2; 40.2% vs. 30.3%, P<0.001, in the two studies 
+combined) (Fig. 3A). Sensitivity analyses that were 
+performed to assess the effect of missing values 
+yielded similar results (see the Supplementary Ap-
+pendix). On the basis of daily assessments of IBS-
+related bloating as rated on a 7-point scale during 
+Table 1. Demographic and Baseline Characteristics of the Modified Intention-to-Treat Population in the Two Studies.*
+Characteristic
+TARGET 1
+TARGET 2
+Rifaximin  
+(N = 309)
+Placebo 
+(N = 314)
+P Value†
+Rifaximin
+(N = 315)
+Placebo 
+(N = 320)
+P Value†
+Age — yr
+46.2±15.0
+45.5±14.6
+0.55
+45.9±13.9
+46.3±14.6
+0.72
+Age group — no. (%)
+0.71
+0.44
+<65 yr
+275 (89.0)
+276 (87.9)
+285 (90.5)
+283 (88.4)
+≥65 yr
+34 (11.0)
+38 (12.1)
+30 (9.5)
+37 (11.6)
+Sex — no. (%)
+0.15
+0.66
+Male
+74 (23.9)
+92 (29.3)
+88 (27.9)
+95 (29.7)
+Female
+235 (76.1)
+222 (70.7)
+227 (72.1)
+225 (70.3)
+Race — no. (%)‡
+0.50
+0.08
+Black or of African ancestry
+24 (7.8)
+30 (9.6)
+21 (6.7)
+14 (4.4)
+White
+281 (90.9)
+280 (89.2)
+282 (89.5)
+302 (94.4)
+Other
+4 (1.3)
+4 (1.3)
+12 (3.8)
+4 (1.2)
+Average daily scores
+Global IBS symptoms§
+3.4±0.7
+3.4±0.7
+0.47
+3.4±0.7
+3.4±0.7
+0.53
+IBS-related bloating§
+3.3±0.8
+3.3±0.7
+0.43
+3.2±0.7
+3.3±0.7
+0.28
+Abdominal pain and discomfort§
+3.3±0.7
+3.2±0.7
+0.75
+3.3±0.7
+3.3±0.7
+0.69
+Stool consistency¶
+3.9±0.3
+3.9±0.3
+0.18
+3.9±0.3
+3.9±0.3
+0.80
+Average daily bowel movements — no.
+2.9±1.3
+3.0±1.4
+0.27
+3.0±1.6
+3.0±1.5
+0.78
+Days with stool urgency — %‖
+81.8±22.3
+82.9±22.3
+0.53
+81.3±22.8
+82.2±22.5
+0.64
+Duration of IBS symptoms — yr**
+11.9±10.5
+11.4±11.9
+0.61
+10.8±10.2
+11.8±10.4
+0.19
+*		Plus–minus values are means ±SD. IBS denotes irritable bowel syndrome.
+†		P values were calculated with the use of a t-test for continuous variables and Fisher’s exact test for nominal variables.
+‡		Race was self-reported.
+§		Patients were asked to rate how bothersome their symptoms were on that day, on a scale of 0 to 6. A score of 0 indicated not at all; 1, 
+hardly; 2, somewhat; 3, moderately; 4, a good deal; 5, a great deal; and 6, a very great deal.
+¶	 Patients were asked to rate the overall stool form of their bowel movements on that day. A score of 1 indicated very hard; 2, hard; 3, 
+formed; 4, loose; and 5, watery.
+‖		The percentage of days with stool urgency was calculated with the use of the following formula: 100 × (no. of days with a sense of urgency 
+with any of the bowel movements ÷ no. of days with bowel movements).
+**	The duration of IBS symptoms was calculated with the use of the following formula: (date written informed consent was provided − date of 
+first IBS symptom) ÷ 365.25.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 364;1 nejm.org january 6, 2011
+28
+the same primary evaluation period, a significant-
+ly greater proportion of patients in the rifaximin 
+group than in the placebo group had relief (39.2% 
+vs. 32.5%, P = 0.05, in TARGET 1; 43.5% vs. 30.9%, 
+P<0.001, in TARGET 2; 41.3% vs. 31.7%, P<0.001, 
+in the two studies combined) (Fig. 3A).
+Relief of IBS-Related Abdominal Pain and Loose 
+or Watery Stools
+A significantly greater proportion of patients in 
+the rifaximin group than in the placebo group 
+had relief of IBS-related abdominal pain and dis-
+comfort during the primary evaluation period 
+1.50
+2.00
+2.50
+3.00
+Rifaximin
+Better
+Placebo
+Better
+Primary end point
+Weekly global IBS symptoms
+TARGET 1
+TARGET 2
+Combined
+Key secondary end point
+Weekly IBS-related bloating
+TARGET 1
+TARGET 2
+Combined
+Secondary end points
+Daily global IBS symptoms
+TARGET 1
+TARGET 2
+Combined
+Daily IBS-related bloating
+TARGET 1
+TARGET 2
+Combined
+Daily IBS-related abdominal pain
+TARGET 1
+TARGET 2
+Combined
+Daily abdominal pain and stool consistency
+TARGET 1
+TARGET 2
+Combined
+Daily abdominal pain
+TARGET 1
+TARGET 2
+Combined
+Daily stool consistency
+TARGET 1
+TARGET 2
+Combined
+Odds Ratio (95% CI)
+Placebo
+Rifaximin
+Efficacy Outcome
+1.00
+0.50
+126/309
+128/315
+254/624
+122/309
+129/315
+251/624
+132/309
+119/315
+251/624
+121/309
+137/315
+258/624
+137/309
+135/315
+272/624
+144/309
+147/315
+291/624
+159/309
+165/315
+324/624
+244/309
+233/315
+477/624
+  98/314
+103/320
+201/634
+  90/314
+102/320
+192/634
+  96/314
+  91/320
+187/634
+102/314
+  99/320
+201/634
+114/314
+110/320
+224/634
+121/314
+116/320
+237/634
+132/314
+138/320
+270/634
+212/314
+206/320
+418/634
+0.01  
+0.03  
+<0.001
+0.005
+0.02  
+<0.001
+<0.001
+0.007
+<0.001
+0.05  
+<0.001
+<0.001
+0.03  
+0.02  
+0.003
+0.04  
+0.008
+<0.001
+0.02  
+0.02  
+<0.001
+0.002
+0.01  
+<0.001
+1.53
+1.45
+1.49
+1.62
+1.49
+1.56
+1.76
+1.59
+1.61
+1.41
+1.76
+1.52
+1.45
+1.46
+1.42
+1.40
+1.55
+1.47
+1.48
+1.46
+1.46
+1.80
+1.57
+1.67
+Proportion of Patients with a Response
+no./total no.
+A
+P Value for
+Treatment
+Effect
+Figure 3. Analyses of Primary, Key Secondary, and Other Secondary End Points.
+The odds ratios for relief of symptoms during the primary evaluation period (weeks 3 through 6 of the study) (Panel A) and for the entire 
+3-month study period (Panel B) are shown for the modified intention-to-treat population (with the use of the last-observation-carried-
+forward approach). Two patients from TARGET 2, one in each study group, were excluded from the analysis because they did not take 
+the study drug. The analyses were performed on data from weekly or daily assessments of symptoms, as noted. The analyses of the 
+composite end point of abdominal pain and stool consistency and of the two components of that composite end point were exploratory 
+end points requested by the Food and Drug Administration.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+Rifaximin for IBS without Constipation
+n engl j med 364;1 nejm.org january 6, 2011
+29
+(44.3% vs. 36.3%, P = 0.03, in TARGET 1; 42.9% 
+vs. 34.4%, P = 0.02, in TARGET 2) (Fig. 3A). In an 
+assessment of the composite end point of ab-
+dominal pain or discomfort and loose or watery 
+stools, significantly more patients in the rifaxi-
+min group than in the placebo group had relief 
+during the primary evaluation period (46.6% vs. 
+38.5%, P = 0.04, in TARGET 1; 46.7% vs. 36.3%, 
+P = 0.008, in TARGET 2), and a significantly great-
+er proportion of patients in the rifaximin group 
+had relief with respect to the individual compo-
+nents of this end point (Fig. 3A).
+Efficacy during the Entire Study Period 
+(Months 1 through 3)
+Durability of Response on the Basis of Weekly 
+Assessment
+In analyses of the monthly response evaluated on 
+the basis of weekly assessments, more patients 
+in the rifaximin group than in the placebo group 
+in both studies had adequate relief of global IBS 
+symptoms within the first month, with continued 
+relief during the first 2 months and during all 3 
+months in both studies (P = 0.05 in TARGET 1, 
+P = 0.005 in TARGET 2, and P<0.001 in the two 
+1.50
+2.00
+2.50
+Rifaximin
+Better
+Placebo
+Better
+Primary end point
+Weekly global IBS symptoms
+TARGET 1
+TARGET 2
+Combined
+Key secondary end point
+Weekly IBS-related bloating
+TARGET 1
+TARGET 2
+Combined
+Secondary end points
+Daily global IBS symptoms
+TARGET 1
+TARGET 2
+Combined
+Daily IBS-related bloating
+TARGET 1
+TARGET 2
+Combined
+Daily IBS-related abdominal pain
+TARGET 1
+TARGET 2
+Combined
+Daily abdominal pain and stool consistency
+TARGET 1
+TARGET 2
+Combined
+Daily abdominal pain
+TARGET 1
+TARGET 2
+Combined
+Daily stool consistency
+TARGET 1
+TARGET 2
+Combined
+Odds Ratio (95% CI)
+Efficacy Outcome
+1.00
+0.50
+P Value for
+Treatment
+Effect
+0.05  
+0.005
+<0.001
+0.10  
+0.003
+0.001
+0.003
+0.01  
+<0.001
+0.01  
+<0.001
+<0.001
+0.05  
+0.04  
+0.01  
+0.04  
+0.01  
+0.001
+0.07  
+0.03  
+0.006
+<0.001
+0.01  
+<0.001
+ 
+1.35 (1.00–1.82)
+1.52 (1.13–2.03) 
+1.44 (1.17–1.77)
+1.28 (0.95–1.73)
+1.56 (1.16–2.09)
+1.42 (1.15–1.75)
+1.60 (1.18–2.18)
+1.47 (1.09–1.99)
+1.48 (1.20–1.83)
+1.50 (1.10–2.04)
+1.67 (1.24–2.25)
+1.53 (1.24–1.89)
+1.35 (1.00–1.83)
+1.35 (1.01–1.81)
+1.31 (1.06–1.61)
+1.36 (1.01–1.83)
+1.44 (1.08–1.92)
+1.40 (1.14–1.72)
+1.31 (0.98–1.75)
+1.37 (1.03–1.83)
+1.33 (1.09–1.64)
+1.70 (1.24–2.33)
+1.48 (1.09–2.00)
+1.58 (1.27–1.97)
+B
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+The new engl and jour nal of medicine
+n engl j med 364;1 nejm.org january 6, 2011
+30
+studies combined, for relief during all 3 months) 
+(Fig. 3B). With respect to IBS-related bloating, in 
+TARGET 1, significantly more patients in the ri-
+faximin group than in the placebo group had 
+adequate relief in the first month, with contin-
+ued relief during the first 2 months, but there 
+were no significant between-group differences 
+with respect to relief during all 3 months; in 
+TARGET 2, significant benefits of rifaximin were 
+seen with respect to IBS-related bloating for all 
+3 months (P = 0.10 in TARGET 1, P = 0.003 in 
+TARGET 2, and P = 0.001 in the two studies com-
+bined, for relief during all 3 months) (Fig. 3B). The 
+percentages of patients in each group with ade-
+quate relief of global IBS symptoms in TARGET 1 
+and TARGET 2 are provided in Figure 4, and in 
+Figure 1A and 1B in the Supplementary Appendix.
+Durability of Response on the Basis of Daily Assessment
+The analyses of monthly response evaluated on 
+the basis of daily assessments also support a du-
+rable response to rifaximin in patients with IBS 
+over the course of 3 months. Patients treated 
+with rifaximin, as compared with patients who 
+received placebo, had adequate relief of global 
+IBS symptoms during the entire 3 months of the 
+study (P = 0.003 in TARGET 1, P = 0.01 in TARGET 
+2, and P<0.001 in the two studies combined) and 
+of IBS-related bloating (P = 0.01 in TARGET 1, 
+P<0.001 in TARGET 2, and P<0.001 in the two 
+studies combined) (Fig. 3B).
+An analysis of the monthly response evaluated 
+on the basis of daily assessments of IBS-related 
+abdominal pain and discomfort showed that 
+significantly more patients in the rifaximin group 
+than in the placebo group had relief for the en-
+tire 3 months (P = 0.05 in TARGET 1, P = 0.04 in 
+TARGET 2, and P = 0.01 in the two studies com-
+bined) (Fig. 3B). An analysis of the monthly re-
+sponse evaluated on the basis of the assessment 
+of the composite end point of abdominal pain 
+and stool consistency also showed a significant 
+benefit with rifaximin as compared with placebo 
+(P = 0.04 in TARGET 1, P = 0.01 in TARGET 2, and 
+P = 0.001 in the two studies combined) (Fig. 3B).
+The mean improvement from baseline in daily 
+symptom scores (global IBS symptoms, IBS-relat-
+ed bloating, IBS-related abdominal pain or dis-
+comfort, stool consistency, and the percentage 
+of days with stool urgency) was greater for the 
+patients who received rifaximin than for the pa-
+tients who received placebo (Fig. 2 through 6 in 
+the Supplementary Appendix).
+Responsiveness and Construct Validity 
+of Patient-Reported Outcomes
+The response of patients with respect to adequate 
+relief of global IBS symptoms and of IBS-related 
+bloating was consistent with the response with 
+respect to other IBS-related assessments. In addi-
+tion, patients who had adequate relief of global 
+IBS symptoms and of IBS-related bloating had 
+greater improvements in daily symptom-severity 
+scores than did patients who did not have ade-
+quate relief, regardless of study group, during 
+each week in each study (P<0.001).
+We tested the validity of using assessments of 
+global IBS symptoms to measure changes in IBS 
+symptoms by examining the correlation between 
+these measures and changes in daily severity 
+scores and bowel function; the results support 
+the validity and usefulness of the primary end 
+point of global IBS symptoms. Evidence for con-
+vergent validity (Spearman’s correlation of 0.40 or 
+higher) was observed between weekly adequate 
+relief of global IBS symptoms and measures of 
+daily symptom severity and bowel function.
+Safety
+The safety profile of rifaximin was similar to 
+that of placebo (Table 2). Serious adverse events 
+Patients with Adequate Relief (%)
+60
+40
+30
+10
+50
+20
+0
+0
+2
+4
+6
+8
+10
+12
+Week
+P=0.001
+14-Day
+double-
+blind
+treatment
+phase
+10-Wk follow-up
+(no study medication)
+Rifaximin
+Placebo
+Figure 4. Percentage of Patients with Adequate Relief of Global IBS Symptoms 
+in the TARGET 1 and TARGET 2 Studies Combined.
+Adequate relief was defined as self-reported relief from symptoms for at 
+least 1 week of every 2-week period. The P value was calculated on the basis 
+of a longitudinal data analysis with the use of a generalized-estimating-
+equation model, with fixed effects of treatment, analysis center, and week. 
+Similar figures for the individual TARGET 1 and TARGET 2 trials are shown 
+in the Supplementary Appendix.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+Rifaximin for IBS without Constipation
+n engl j med 364;1  nejm.org  january 6, 2011
+31
+were recorded in 10 patients in the rifaximin 
+group (1.6%) and 15 patients in the placebo group 
+(2.4%). There were no cases of Clostridium difficile–
+associated diarrhea or ischemic colitis. No deaths 
+were reported.
+Discussion
+Treating IBS is important because the symptoms 
+cause substantial impairment in health-related 
+quality of life, leading to increased use of health 
+resources and reduced work productivity.17-20 
+These two phase 3 studies showed that a short 
+course of rifaximin leads to sustained ameliora-
+tion of the symptoms of IBS without constipation 
+in a subgroup of affected patients.
+The antibiotic effect of rifaximin is the pre-
+sumed mechanism for its sustained beneficial 
+effects in patients with IBS. A response to anti-
+biotic therapy in patients with IBS has been 
+shown to correlate with normalization of the 
+results of lactulose hydrogen breath tests.8,13 
+However, there is debate about which antibiotic-
+related effect is most important. On the basis of 
+existing data, there are three reasonable explana-
+tions: rifaximin affects gut bacteria and reduces 
+bacterial products that negatively affect the host, 
+the effect on gut flora reduces local mucosal 
+engagement of bacteria such as the immune re-
+sponses of the host, or the antibiotic alters both 
+the bacteria and the host response. Whatever the 
+final pathway, the durable effects suggest that 
+rifaximin is affecting an underlying cause of IBS 
+that is linked to an alteration in the intestinal 
+microbiota.6,7,21,22 Some patients in both of our 
+studies did not have a response to treatment, a 
+finding that is consistent with the results of 
+other placebo-controlled clinical trials involving 
+patients with IBS23-25 and that may reflect differ-
+ences in the underlying cause of the symptoms.
+Similar percentages of patients in the rifaxi-
+min group and in the placebo group had adverse 
+events. In this short-term study, the incidence of 
+infections was similar in the two groups, and 
+there were no cases of C. difficile–associated diar-
+rhea or ischemic colitis.
+In summary, the results of these two phase 3 
+studies showed that treatment with rifaximin at 
+a dose of 550 mg three times daily for 14 days 
+provides better relief of symptoms of IBS than 
+does placebo for up to 10 weeks after comple-
+tion of therapy.
+Supported by Salix Pharmaceuticals.
+Dr. Pimentel reports receiving grant support (to his institu-
+tion) and consulting fees and honoraria from Salix Pharma-
+ceuticals and reports that Cedars–Sinai Medical Center holds 
+patents licensed by Salix Pharmaceuticals; Dr. Lembo reports 
+receiving consulting fees from Salix Pharmaceuticals, Ironwood 
+Pharmaceuticals, Prometheus, Ardelyx, Theravance, GlaxoSmith­
+Kline, and AstraZeneca, receiving payment for participation in 
+several advisory-board meetings relating to the development of 
+rifaximin for the treatment of IBS, and receiving payment as a 
+member of the speakers’ bureau of Salix Pharmaceuticals; Dr. 
+Chey reports receiving consulting fees and honoraria from 
+Table 2. Adverse Events during the 12-Week Study.*
+Event
+Rifaximin
+(N = 624)
+Placebo 
+(N = 634)
+number (percent)
+Adverse events†
+Headache
+38 (6.1)
+42 (6.6)
+Upper respiratory tract infection
+35 (5.6)
+39 (6.2)
+Abdominal pain
+29 (4.6)
+35 (5.5)
+Nausea
+27 (4.3)
+24 (3.8)
+Diarrhea
+27 (4.3)
+22 (3.5)
+Nasopharyngitis
+19 (3.0)
+34 (5.4)
+Sinusitis
+17 (2.7)
+16 (2.5)
+Vomiting
+15 (2.4)
+9 (1.4)
+Bronchitis
+13 (2.1)
+17 (2.7)
+Cough
+13 (2.1)
+9 (1.4)
+Flatulence
+10 (1.6)
+14 (2.2)
+Back pain
+10 (1.6)
+15 (2.4)
+Pharyngolaryngeal pain
+9 (1.4)
+15 (2.4)
+Serious adverse events‡
+Chest pain
+1 (0.2)
+2 (0.3)
+Breast cancer
+1 (0.2)
+1 (0.2)
+Cholecystitis or acute cholecystitis
+0
+2 (0.3)
+Adverse events possibly related to infection§
+Upper respiratory tract infection
+35 (5.6)
+39 (6.2)
+Viral gastroenteritis
+7 (1.1)
+8 (1.3)
+Gastroenteritis
+6 (1.0)
+3 (0.5)
+Cellulitis
+3 (0.5)
+1 (0.2)
+Pneumonia
+1 (0.2)
+5 (0.8)
+Viral infection
+1 (0.2)
+4 (0.6)
+*	Values are pooled data from the TARGET 1 and TARGET 2 studies. Adverse 
+events are listed in descending order of frequency in the rifaximin group.
+†	The adverse events listed were reported in 2% or more of the patients in ei-
+ther treatment group.
+‡	The serious adverse events listed were reported in at least 2 of the patients in 
+any treatment group.
+§	The listed adverse events possibly related to infections are known side effects 
+of the use of systemic antibiotics as a drug class, as well as known effects of 
+rifaximin.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 
+n engl j med 364;1  nejm.org  january 6, 2011
+32
+Rifaximin for IBS without Constipation
+Procter & Gamble, Ortho-McNeil, Prometheus, and Salix Pharma-
+ceuticals, payment for the development of educational presen-
+tations, and payment or reimbursement for travel and accom-
+modations from Procter & Gamble, Prometheus, and Salix 
+Pharmaceuticals; Dr. Zakko reports receiving grant support (to 
+his institution), consulting fees, payment for the development of 
+educational presentations, and payment or reimbursement for 
+travel and accommodations from Salix Pharmaceuticals and hold-
+ing stock in Salix Pharmaceuticals; Dr. Ringel reports receiving 
+consulting fees from Salix Pharmaceuticals, Ironwood Pharma-
+ceuticals, Procter & Gamble, Pfizer, and Danisco, participating 
+in several advisory-board meetings related to the development of 
+rifaximin for the treatment of IBS, receiving payment for the 
+development of educational presentations and as a member of 
+the speakers’ bureau of Salix Pharmaceuticals, and receiving 
+research grants from Danisco USA, General Mills, and Smart-
+Pill. Drs. Yu, Mareya, and Bortey report being employees of and 
+holding stock in Salix Pharmaceuticals; Dr. Shaw reports being 
+an employee of Salix Pharmaceuticals and reports that she holds 
+stock in the company; and Dr. Forbes reports being an officer and 
+employee of Salix Pharmaceuticals and holding stock in the com-
+pany. No other potential conflict of interest relevant to this ar-
+ticle was reported.
+Disclosure forms provided by the authors are available with 
+the full text of this article at NEJM.org.
+We thank Kristofer Klein, M.S. (Salix Pharmaceuticals), for 
+assistance with the preparation of the manuscript.
+References
+1.	 Brandt LJ, Chey WD, Foxx-Orenstein 
+AE, et al. An evidence-based systematic 
+review on the management of irritable 
+bowel syndrome. Am J Gastroenterol 2009; 
+104:Suppl 1:S1-S35.
+2.	 Cash BD, Chey WD. Advances in the 
+management of irritable bowel syndrome. 
+Curr Gastroenterol Rep 2003;5:468-75.
+3.	 Schoenfeld P. Efficacy of current drug 
+therapies in irritable bowel syndrome: 
+what works and does not work. Gastro-
+enterol Clin North Am 2005;34:319-35.
+4.	 Spiegel B, Camilleri M, Bolus R, et al. 
+Psychometric evaluation of patient-report-
+ed outcomes in irritable bowel syndrome 
+randomized controlled trials: a Rome 
+Foundation report. Gastroenterology 2009; 
+137:1944-53.
+5.	 Ringel Y, Carroll IM. Alterations in 
+the intestinal microbiota and functional 
+bowel symptoms. Gastrointest Endosc 
+Clin N Am 2009;19:141-50.
+6.	 Posserud I, Stotzer P, Björnsson E, 
+Abrahamsson H, Simrén M. Small intesti-
+nal bacterial overgrowth in patients with 
+irritable bowel syndrome. Gut 2007;56: 
+802-8.
+7.	 Kassinen A, Krogius-Kurikka L, 
+Makivuokko H, et al. The fecal microbiota 
+of irritable bowel syndrome patients dif-
+fers significantly from that of healthy sub-
+jects. Gastroenterology 2007;133:24-33.
+8.	 Pimentel M, Chow EJ, Lin HC. Normal-
+ization of lactulose breath testing corre-
+lates with symptom improvement in irri-
+table bowel syndrome: a double-blind, 
+randomized, placebo-controlled study. 
+Am J Gastroenterol 2003;98:412-9.
+9.	 Attar A, Flourié B, Rambaud J-C, 
+Franchisseur C, Ruszniewski P, Bouhnik 
+Y. Antibiotic efficacy in small intestinal 
+bacterial overgrowth–related chronic diar-
+rhea: a crossover, randomized trial. Gas-
+troenterology 1999;117:794-7.
+10.	 Gerard L, Garey KW, DuPont HL. Ri-
+faximin, a nonabsorbable rifamycin anti-
+biotic for use in nonsystemic gastrointes-
+tinal infections. Expert Rev Anti Infect 
+Ther 2005;3:201-11.
+11.	 Jiang ZD, DuPont HL. Rifaximin: in 
+vitro and in vivo antibacterial activity — 
+a review. Chemotherapy 2005;51:Suppl: 
+67-72.
+12.	 Debbia EA, Maioli E, Roveta S, Mar-
+chese A. Effects of rifaximin on bacterial 
+virulence mechanisms at supra- and sub-
+inhibitory concentrations. J Chemother 
+2008;20:186-94.
+13.	 Sharara AI, Aoun E, Abdul-Baki H, 
+Mounzer R, Sidani S, Elhajj I. A random-
+ized double-blind placebo-controlled trial 
+of rifaximin in patients with abdominal 
+bloating and flatulence. Am J Gastroen-
+terol 2006;101:326-33.
+14.	 Pimentel M, Park S, Mirocha J, Kane 
+SV, Kong Y. The effect of a nonabsorbed 
+oral antibiotic (rifaximin) on the symp-
+toms of the irritable bowel syndrome: 
+a randomized trial. Ann Intern Med 2006; 
+145:557-63.
+15.	 Thompson WG, Longstreth GF, Dross­
+man DA, Heaton KW, Irvine EJ, Müller-
+Lissner SA. Functional bowel disorders 
+and functional abdominal pain. Gut 1999; 
+45:Suppl 2:1143-7.
+16.	 Guidance for industry: irritable bowel 
+syndrome: clinical evaluation of products 
+for treatment. Silver Spring, MD: Food 
+and Drug Administration Center for Drug 
+Evaluation and Research (CDER) and 
+Center for Biologics Evaluation and Re-
+search (CBER), March 2010.
+17.	 Drossman DA, Li Z, Andruzzi E, et al. 
+U.S. householder survey of functional gas-
+trointestinal disorders: prevalence, socio­
+demography, and health impact. Dig Dis 
+Sci 1993;38:1569-80.
+18.	 Camilleri M, Andresen V. Current and 
+novel therapeutic options for irritable 
+bowel syndrome management. Dig Liver 
+Dis 2009;41:854-62.
+19.	 Hammerle CW, Surawicz CM. Up-
+dates on treatment of irritable bowel syn-
+drome. World J Gastroenterol 2008;14: 
+2639-49.
+20.	 El-Serag HB. Impact of irritable bowel 
+syndrome: prevalence and effect on health-
+related quality of life. Rev Gastroenterol 
+Disord 2003;3:Suppl 2:S3-S11.
+21.	 Pimentel M. Review of rifaximin as 
+treatment for SIBO and IBS. Expert Opin 
+Investig Drugs 2009;18:349-58.
+22.	 Brigidi P, Swennen E, Rizzello F, Boz-
+zolasco M, Matteuzzi D. Effects of rifaxi-
+min administration on the intestinal mi-
+crobiota in patients with ulcerative colitis. 
+J Chemother 2002;14:290-5.
+23.	 Lotronex (alosetron hydrochloride) tab-
+lets. San Diego, CA: Prometheus Labora-
+tories, 2008 (package insert).
+24.	 Zelnorm (tegaserod maleate) tablets. 
+East Hanover, NJ: Novartis Pharmaceuti-
+cals, 2007 (package insert).
+25.	 Amitiza (lubiprostone) capsules. Deer-
+field, IL: Takeda Pharmaceuticals America, 
+2008 (package insert).
+Copyright © 2011 Massachusetts Medical Society.
+The New England Journal of Medicine 
+Downloaded from nejm.org at University of Notre Dame Aus on May 29, 2013. For personal use only. No other uses without permission. 
+ Copyright © 2011 Massachusetts Medical Society. All rights reserved. 

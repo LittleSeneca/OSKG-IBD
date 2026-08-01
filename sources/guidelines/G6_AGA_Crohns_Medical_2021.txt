@@ -1,0 +1,1870 @@
+CLINICAL PRACTICE GUIDELINES
+AGA Clinical Practice Guidelines on the Medical Management
+of Moderate to Severe Luminal and Perianal Fistulizing
+Crohn’s Disease
+Joseph D. Feuerstein,1 Edith Y. Ho,2 Eugenia Shmidt,3 Harminder Singh,4 Yngve Falck-Ytter,5
+Shanaz Sultan,3 and Jonathan P. Terdiman,6 on behalf of the American Gastroenterological
+Association Institute Clinical Guidelines Committee
+1Division of Gastroenterology and Center for Inﬂammatory Bowel Diseases, Beth Israel Deaconess Medical Center, Boston,
+Massachusetts; 2Division of Gastroenterology and Hepatology, Department of Medicine, Stanford University, Stanford,
+California; 3Division of Gastroenterology, University of Minnesota, Minneapolis, Minnesota; 4Section of Gastroenterology,
+University of Manitoba, Winnipeg, Manitoba, Canada; 5Division of Gastroenterology, Case Western Reserve University, and
+Veterans Affairs Northeast Ohio Healthcare System, Cleveland, Ohio; and 6Division of Gastroenterology, University of
+California, San Francisco, San Francisco, California
+C
+rohn’s disease (CD) is a chronic inﬂammatory bowel
+disease
+with
+substantial
+morbidity
+when
+not
+adequately controlled.1 Historically, approximately 20% of
+patients with CD were hospitalized every year, and the risk
+of surgery within 1 year of diagnosis was 24%, 36% by 5
+years, and 47% by 10 years.2 In recent years, outcomes
+have
+improved,
+likely
+because
+of
+earlier
+diagnosis,
+increasing use of biologics, escalation or alteration of
+therapy based on disease severity, and endoscopic man-
+agement
+of
+colorectal
+cancer.
+CD
+includes
+multiple
+different phenotypes. The Montreal Classiﬁcation catego-
+rizes CD as stricturing, penetrating, inﬂammatory (non-
+stricturing and nonpenetrating), and perianal disease.3–5
+Each of these phenotypes can present with a range in
+severity from mild to severe disease.6
+This guideline addresses the medical management of
+moderate to severe luminal and ﬁstulizing CD. The Inter-
+national Organization for the Study of Inﬂammatory Bowel
+Diseases characterizes severe disease as having a high risk
+for adverse disease-related complications, including sur-
+gery, hospitalization, and disability, based on a combination
+of structural damage, inﬂammatory burden, and impact of
+quality of life. Contributors to severe disease include large
+or deep mucosal lesions on endoscopy or imaging, presence
+of ﬁstula and/or perianal abscess, presence of strictures,
+prior intestinal resections, particularly of segments >40 cm,
+presence of a stoma, extensive disease (ileal involvement
+>40 cm, or pancolitis), anemia, elevated C-reactive protein,
+and low albumin. With respect to symptoms, patients with
+severe disease may have at least 10 loose stools per day,
+daily abdominal pain, presence of anorectal symptoms (eg,
+anorectal pain, bowel urgency, incontinence, discharge, and
+tenesmus), systemic corticosteroid use within the prior
+year, lack of symptomatic improvement despite prior
+exposure to biologics and/or immunosuppressive agents, or
+signiﬁcant impact of the disease on activities of daily living.7
+Moderate to severe disease can also be deﬁned using the
+Crohn’s Disease Activity Index. This standardized disease
+assessment score categorizes severity of disease as: remis-
+sion <150, mild to moderate as 150–220, moderate to
+severe as 220–450 and severe >450.8 For this guideline,
+moderate to severe disease was considered a Crohn’s Dis-
+ease Activity Index score of 220 or higher.
+There are a number of different drug classes available
+for the management of moderate to severe CD, including
+tumor necrosis factor (TNF)–a antagonists (ie, inﬂiximab,
+adalimumab,
+certolizumab
+pegol),
+anti-integrin
+agents
+(natalizumab, vedolizumab), interleukin 12/23 antagonist
+(ustekinumab), immunomodulators (thiopurines, metho-
+trexate), and corticosteroids (prednisone, budesonide).1 In
+general, most drugs, with the exception of corticosteroids,
+that are initiated for induction of remission are continued as
+maintenance therapy. Unless otherwise speciﬁed, we do not
+present
+separate
+recommendations
+for
+induction
+and
+maintenance of remission. The drugs are listed, in general,
+in order of US Food and Drug Administration approval. This
+guideline does not address surgical management of mod-
+erate to severe CD. Therapeutic drug monitoring to guide
+the use of biologic therapy has been addressed in a separate
+American Gastroenterological Association (AGA) guideline
+and is not included in this guideline.9
+Methods
+This document presents the ofﬁcial recommendations of the
+AGA on the medical management of moderate to severe luminal
+and ﬁstulizing CD in adults. This guideline addresses the
+outpatient medical management of moderate to severe luminal
+and ﬁstulizing CD, although we anticipate that most of the
+recommendations
+would
+apply
+to
+inpatients
+as
+well.
+Abbreviations used in this paper: AGA, American Gastroenterological
+Association; CD, Crohn’s disease; CI, conﬁdence interval; GRADE,
+Grading of Recommendations Assessment; Development and Evaluation,
+MCID; minimal clinically important difference, OIS; optimal information
+size, OR; odds ratio, PICO; population, intervention; comparator, and
+outcome; PML, progressive multifocal leukoencephalopathy; RCT, ran-
+domized controlled trial; RR, relative risk; TNF, tumor necrosis factor).
+Most current article
+© 2021 by the AGA Institute
+0016-5085/$36.00
+https://doi.org/10.1053/j.gastro.2021.04.022
+Gastroenterology 2021;160:2496–2508
+CLINICAL PRACTICE GUIDELINES
+The guideline was developed by the AGA Institute’s Clinical
+Guidelines Committee and approved by the AGA Governing
+Board. It is accompanied by a technical review that provides a
+detailed synthesis of the evidence from which these recom-
+mendations were formulated.10 Development of this guideline
+and the accompanying technical review was fully funded by the
+AGA Institute without additional outside funding.
+Guideline Panel Composition, Funding, and
+Conﬂict of Interest
+Members of the Guideline Panel and Technical Review
+Panel were selected by the AGA Governing Board and Chair of
+the Clinical Guidelines Committee with careful consideration of
+conﬂict of interest. The Guideline Panel included the chair
+(J.P.T.) adult gastroenterologists with IBD expertise (E.H., E.S.,
+H.S.), Technical Review GRADE methodology chairs (J.F., S.S.)
+and GRADE experts (S.S., Y.F.Y.). This guideline and its accom-
+panying technical review10 were developed using a process
+outlined previously. The AGA process for developing clinical
+practice guidelines follows the Grading of Recommendations
+Assessment, Development and Evaluation (GRADE) approach
+and adheres to best practices in guideline development, as
+outlined by the National Academy of Medicine (formerly
+Institute of Medicine).11
+Formulation of Clinical Questions
+The Guideline Panel and Technical Review Panel identiﬁed
+and formulated clinical relevant questions on the medical man-
+agement of moderate to severe luminal and ﬁstulizing Crohn’s
+disease. Each question identiﬁed the population, intervention,
+comparison, and patient-important outcomes (PICO). The
+Technical Review Panel performed a systematic search of the
+literature and assessed relevant evidence to address the clinical
+questions to inform the recommendations.10 The evidence for
+each PICO question was assessed using GRADE and presented in
+an evidence proﬁle in the technical review.
+Development of Recommendations
+The Guideline Panel and the authors of the Technical Re-
+view met virtually via a video conference call on August 14,
+2020 and August 28, 2020 to discuss the ﬁndings from the
+technical review. During these meetings, the Guideline Panel
+independently
+formulated
+the
+guideline
+recommendations
+based on the GRADE evidence-to-decision framework. The
+Technical Review Panel was not involved in the formulating or
+ﬁnalizing of the recommendations. The certainty of available
+evidence and the strength of the recommendation are provided
+with each PICO statement (Table 1).
+Evidence Review
+In formulating this guideline, the predetermined critical
+outcomes were induction and maintenance of remission. The
+ability of the various drugs to achieve these outcomes are re-
+ported in the technical review with associated evidence pro-
+ﬁles. For the questions regarding ﬁstulizing disease, induction
+and maintenance of ﬁstula remission was generally deﬁned as
+complete cessation of ﬁstula drainage. Important outcomes of
+interest
+were
+induction
+and
+maintenance
+of
+endoscopic
+remission,
+maintenance
+of
+corticosteroid-free
+remission,
+serious adverse events (including serious infections and ma-
+lignancy), and treatment tolerability (drug discontinuation due
+to adverse events). These were considered in the evidence
+synthesis, especially if inadequate or conﬂicting data were
+observed for critical outcomes. Safety considerations with these
+medications have been synthesized in the accompanying tech-
+nical review. In the recommendations presented in this guide-
+line, estimates of the effect of different medications are
+presented as the risk for failure to induce or maintain remis-
+sion, that is, a relative risk (RR) or odds ratio (OR) <1 suggests
+that the drug under consideration is more effective than the
+comparison drug or placebo for induction or maintenance of
+remission.
+When considering the magnitude of beneﬁt, for trials
+comparing interventions vs placebo, a minimal clinically
+important difference (MCID) was set at 10%. Failure to meet
+the MCID was considered to have no clinically meaningful
+impact over placebo. For additional details regarding the
+methodology,
+please
+review
+the
+accompanying
+technical
+review.10
+Although the certainty of evidence (Table 1) was a key
+factor in determining the strength of the recommendations
+(Table 2), the Panel also considered the balance between
+beneﬁt and harm of interventions, patients’ values and pref-
+erences, overall resource use (eg, cost), health equity, accept-
+ability, and feasibility (based on the Evidence to Decision
+Framework). The recommendations, certainty of evidence, and
+strength of recommendations are summarized in Table 3.
+The target audience for this guideline includes health care
+professionals (primary care providers, gastroenterologists, and
+other specialists), policy makers, and patients.
+External Review
+The guideline and the accompanying technical review10
+underwent independent peer review and a 30-day open pub-
+lic comment period. All of the comments were collected by AGA
+Table 1.Grading of Recommendations Assessment,
+Development and Evaluation Deﬁnitions for Certainty
+of the Evidence
+Quality grade
+Deﬁnition
+High
+We are very conﬁdent that the true effect lies
+close to the estimate of the effect.
+Moderate
+We are moderately conﬁdent in the effect
+estimate. The true effect is likely to be close
+to the estimate of effect, but there is a
+possibility that it is substantially different.
+Low
+Our conﬁdence in the estimate is limited. The
+true effect may be substantially different
+from the estimate of effect.
+Very low
+We have very little conﬁdence in the effect
+estimate. The true effect is likely to be
+substantially different from the estimate of
+effect.
+Evidence gap
+Available evidence is insufﬁcient to determine
+true effect.
+June 2021
+Guideline on Management of Moderate to Severe CD 2497
+CLINICAL PRACTICE GUIDELINES
+staff. The comments were reviewed and addressed by the
+Guideline Panel and Technical Review Panel, respectively.
+Changes were incorporated in a revised document and if
+comments were not accepted, a response document was
+created for each comment.
+Guideline Review and Anticipated Update
+In accordance with the Clinical Guidelines Committee pol-
+icies, all clinical guidelines are reviewed annually at the AGA
+Clinical Guideline Committee meeting for new information. The
+next update for these guidelines is anticipated in 3 years from
+publication (2024).
+Recommendations
+A summary of all the recommendations in this guideline
+is provided in Table 3. Optimal understanding of the
+guideline will be enhanced by reading the applicable por-
+tions of the technical review and its updated systematic
+review of the evidence.
+Pharmacologic Management of Adult Patients
+With Moderate to Severe Luminal Crohn’s
+Disease
+Recommendation
+1A.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA recommends the
+use of anti-TNFa over no treatment for induction and
+maintenance of remission. (Strong recommendation,
+moderate certainty evidence)
+Comment: Although the evidence supporting inﬂiximab
+and adalimumab was moderate quality, the evidence for
+certolizumab pegol was low quality.
+Recommendation
+1B.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests the use of
+vedolizumab over no treatment for the induction and
+maintenance
+of
+remission.
+(Conditional
+recommendation, low quality evidence for induction,
+moderate certainty evidence for maintenance)
+Recommendation
+1C.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA recommends the
+use
+of
+ustekinumab
+over
+no
+treatment
+for
+the
+induction
+and
+maintenance
+of
+remission.
+(Strong
+recommendation, moderate certainty evidence)
+Recommendation
+1D.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests against
+the use of natalizumab over no treatment for the
+induction and maintenance of remission. (Conditional
+recommendation, moderate certainty evidence)
+Comment: Given evidence of harm in post-marketing data
+from progressive multifocal leukoencephalopathy (PML)
+and the availability of other drugs, the AGA suggests
+against the use of natalizumab. Patients who are John
+Cunningham virus antibody–negative who put a high
+value on the potential beneﬁts and lower value on PML
+risk and who will adhere to ongoing monitoring for John
+Cunningham
+virus
+positivity,
+may
+consider
+using
+natalizumab.
+The Panel recommends treating adult outpatients with
+moderate to severe luminal CD with inﬂiximab, adalimumab,
+certolizumab pegol, vedolizumab, or ustekinumab over no
+treatment for the induction and maintenance of remission.
+In contrast, the Panel recommended against the use of
+natalizumab for induction or maintenance of remission due
+to the potential harms associated with this medication.
+There
+were
+13
+randomized
+controlled
+trials
+(RCTs)
+comparing
+the
+TNFa
+antagonists
+vedolizumab
+and
+Table 2.Grading of Recommendations Assessment, Development and Evaluation Deﬁnitions on Strength of Recommendation
+and Guide to Interpretation
+Strength of
+recommendation
+Wording in the guideline
+For the patient
+For the clinician
+Strong
+“The AGA recommends.”
+Most individuals in this situation
+would want the recommended
+course and only a small
+proportion would not.
+Most individuals should receive the
+recommended course of action.
+Formal decision aids are not likely
+to be needed to help individuals
+make decisions consistent with
+their values and preferences.
+Conditional
+“The AGA suggests.”
+The majority of individuals in this
+situation would want the
+suggested course, but many
+would not.
+Different choices would be
+appropriate for different patients.
+Decision aids may be useful in
+helping individuals in making
+decisions consistent with their
+values and preferences. Clinicians
+should expect to spend more time
+with patients when working
+towards a decision.
+No recommendation
+“The AGA makes no
+recommendation.”
+The conﬁdence in the effect estimate
+is so low that any effect estimate
+is speculative at this time.
+2498 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES
+Table 3.Summary of Recommendations of the American Gastroenterological Clinical Guidelines Committee for Medical
+Management of Moderate to Severe Luminal and Fistulizing Crohn’s Disease
+Recommendation
+Strength of
+recommendation
+Certainty of
+evidence
+1A. In adult outpatients with moderate to severe CD, the AGA recommends the use of
+anti-TNFa over no treatment for induction and maintenance of remission.
+Comment: Although the evidence supporting inﬂiximab and adalimumab was
+moderate certainty, the evidence for certolizumab pegol was low certainty.
+Strong
+Moderate
+1B. In adult outpatients with moderate to severe CD, the AGA suggests the use of
+vedolizumab over no treatment for the induction and maintenance of remission.
+Conditional
+Low for induction,
+moderate for
+maintenance
+1C. In adult outpatients with moderate to severe CD, the AGA recommends the use
+of ustekinumab over no treatment for the induction and maintenance of
+remission.
+Strong
+Moderate
+1D. In adult outpatients with moderate to severe CD, the AGA suggests against the
+use of natalizumab over no treatment for the induction and maintenance of
+remission.
+Comment: Given evidence of harm in post marketing data from progressive multifocal
+leukoencephalopathy (PML) and the availability of other drugs, the AGA suggests
+against the use of natalizumab. Patients who are John Cunningham virus antibody–
+negative who put a high value on the potential beneﬁts and lower value on PML risk
+and who will adhere to ongoing monitoring for John Cunningham virus positivity, may
+consider using natalizumab.
+Conditional
+Moderate
+2A. In adult outpatients with moderate to severe CD who are naïve to biologic drugs,
+the AGA recommends the use of inﬂiximab, adalimumab, or ustekinumab over
+certolizumab pegol for the induction of remission and suggests the use of
+vedolizumab over certolizumab pegol for the induction of remission.
+Strong
+Conditional
+Moderate
+Low
+2B. In adult outpatients with moderate to severe CD who never responded to anti-
+TNFa (primary nonresponse), the AGA recommends the use of ustekinumab and
+suggests the use of vedolizumab over no treatment for the induction of
+remission.
+Strong
+Conditional
+Moderate
+Low
+2C. In adult outpatients with moderate to severe CD who previously responded to
+inﬂiximab (secondary nonresponse), the AGA recommends the use of adalimu-
+mab or ustekinumab and suggests the use of vedolizumab over no treatment for
+the induction of remission.
+Comment: If adalimumab was the ﬁrst-line drug used there is indirect evidence to
+suggest the option of using inﬂiximab as a second-line agent.
+Strong
+Conditional
+Moderate
+Low
+3A. In adult outpatients with moderate to severe CD, the AGA suggests against the
+use of thiopurines over no treatment for achieving remission.
+Conditional
+Very low
+3 B. In adult outpatients with quiescent moderate to severe CD (or patients in
+corticosteroid-induced remission), the AGA suggests the use of thiopurines over no
+treatment for the maintenance of remission.
+Conditional
+Low
+3C. In adult outpatients with moderate to severe CD, the AGA suggests the use of
+subcutaneous or intramuscular methotrexate monotherapy over no treatment for
+the induction and maintenance of remission.
+Conditional
+Moderate
+3D. In adult outpatients with moderate to severe CD, the AGA suggests against the
+use of oral methotrexate monotherapy over no treatment for the induction and
+maintenance of remission.
+Conditional
+Very low
+4. In adult outpatients with moderate to severe CD, the AGA recommends the use of
+biologic drug monotherapy over thiopurine monotherapy for the induction of
+remission.
+Strong
+Moderate
+June 2021
+Guideline on Management of Moderate to Severe CD 2499
+CLINICAL PRACTICE GUIDELINES
+ustekinumab with placebo for induction of remission and 9
+RCTs informing on maintenance of remission. Induction of
+remission was assessed at 4–12 weeks and maintenance of
+remission was evaluated at 22–54 weeks. All active in-
+terventions were superior to placebo for induction of
+remission (inﬂiximab: RR, 0.54; 95% conﬁdence interval
+[CI], 0.39–0.75; adalimumab: RR, 0.82; 95% CI, 0.75–0.89;
+certolizumab pegol: RR, 0.92 95% CI, 0.86–0.98; vedolizu-
+mab RR, 0.92; 95% CI, 0.87–0.97; ustekinumab RR, 0.90;
+95% CI, 0.85–0.94). Likewise, all active interventions were
+superior to placebo for maintenance of remission (inﬂix-
+imab: RR, 0.77; 95% CI, 0.65–0.92; adalimumab: RR, 0.70;
+95% CI, 0.62–0.79; certolizumab pegol RR, 0.88; 95% CI,
+0.83–0.93; vedolizumab RR, 0.78; 95% CI, 0.67–0.91;
+Table 3.Continued
+Recommendation
+Strength of
+recommendation
+Certainty of
+evidence
+5A. In adult outpatients with moderate to severe CD who are naïve to biologics and
+immunomodulators, the AGA suggests the use of inﬂiximab in combination with
+thiopurines for the induction and maintenance of remission over inﬂiximab
+monotherapy.
+Comment: Based on indirect evidence, combination inﬂiximab with methotrexate may
+be more effective over inﬂiximab monotherapy.
+Conditional
+Moderate
+5B. In adult outpatients with moderate to severe CD who are naïve to biologics and
+immunomodulators, the AGA suggests the use of adalimumab in combination
+with thiopurines for the induction and maintenance of remission over adalimumab
+monotherapy.
+Comment: Based on indirect evidence, combination adalimumab with methotrexate
+may be more effective over adalimumab monotherapy.
+Conditional
+Very low
+5C. In adult outpatients with moderate to severe CD, the AGA makes no recom-
+mendation regarding the use of, ustekinumab or vedolizumab in combination
+with thiopurines or methotrexate over biologic drug monotherapy for the induc-
+tion and maintenance of remission.
+No recommendation
+Knowledge gap
+6. In adult outpatients with quiescent CD on combination therapy, the AGA makes no
+recommendation for withdrawal of either the immunomodulator or the biologic
+over ongoing combination therapy of a biologic and an immunomodulator
+No recommendation
+Knowledge gap
+7. In adult outpatients with moderate to severe CD, the AGA suggests early intro-
+duction with a biologic with or without an immunomodulator rather than delaying
+their use until after failure of 5-aminosalicylates and/or corticosteroids.
+Conditional
+Low
+8A. In adult outpatients with moderate to severe CD, the AGA suggests the use of
+corticosteroids over no treatment for induction of remission.
+Conditional
+Moderate
+8B. In adult outpatients with moderate to severe CD, the AGA recommends against
+the use of corticosteroids over no treatment for maintenance of remission.
+Strong
+Moderate
+9. In adult outpatients with moderate to severe CD, the AGA recommends against the
+use of 5-aminosalicylates or sulfasalazine over no treatment for the induction or
+maintenance of remission.
+Strong
+Moderate
+10A. In adult outpatients with CD and active perianal ﬁstula, the AGA recommends
+the use of inﬂiximab over no treatment for the induction and maintenance of
+ﬁstula remission.
+Strong
+Moderate
+10B. In adult outpatients with CD and active perianal ﬁstula, the AGA suggests the
+use of adalimumab, ustekinumab, or vedolizumab over no treatment for the
+induction or maintenance of ﬁstula remission.
+Comment: Evidence suggests certolizumab pegol may not be effective for induction
+of ﬁstula remission.
+Conditional
+Low
+10C. In adult outpatients with CD and active perianal ﬁstula without perianal abscess,
+the AGA suggests against the use of antibiotics alone over no treatment for the
+induction of ﬁstula remission.
+Conditional
+Low
+11. In adult outpatients with CD and active perianal ﬁstula without perianal abscess,
+the AGA recommends the use of biologic agents in combination with an antibiotic
+over a biologic drug alone for the induction of ﬁstula remission.
+Strong
+Moderate
+2500 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES
+ustekinumab RR, 0.75; 95% CI, 0.64–0.89). Although nata-
+lizumab did show beneﬁt for induction (RR, 0.88; 95% CI,
+0.82–0.96) and maintenance of remission (RR, 0.58; 95% CI,
+0.48–0.70) compared with placebo, given the risk of PML
+and the availability of other drugs not associated with this
+devastating adverse effect, led the Guideline Panel to
+recommend against its routine use in treating patients with
+moderate to severe luminal CD.
+The overall certainty of evidence for this recommenda-
+tion was moderate for inﬂiximab, adalimumab, and usteki-
+numab, rating down for imprecision secondary to the low
+number of events (<200; low optimal information size
+[OIS]). For certolizumab pegol and vedolizumab, the cer-
+tainty of evidence was rated down to low because of very
+serious imprecision because the summary risk estimates did
+not meet the MCID threshold of 10% over placebo. For
+maintenance of remission, the certainty of evidence was
+moderate
+(rated
+down
+for
+imprecision
+secondary
+to
+low OIS).
+Recommendation
+2A.
+In
+adult
+outpatients
+with
+moderate to severe CD who are naïve to biologic
+drugs, the AGA recommends the use of inﬂiximab,
+adalimumab,
+or
+ustekinumab,
+over
+certolizumab
+pegol
+for
+the
+induction
+of
+remission
+(Strong
+recommendation,
+moderate
+certainty
+evidence)
+and
+suggests the use of vedolizumab over certolizumab
+pegol for the induction of remission. (Conditional
+recommendation, low certainty evidence)
+Recommendation
+2B.
+In
+adult
+outpatients
+with
+moderate to severe CD who never responded to
+anti-TNFa
+(primary
+nonresponse),
+the
+AGA
+recommends
+the
+use
+of
+ustekinumab
+(Strong
+recommendation,
+moderate
+certainty
+evidence)
+and
+suggests the use of vedolizumab over no treatment
+for
+the
+induction
+of
+remission.
+(Conditional
+recommendation, low certainty evidence)
+Recommendation
+2C.
+In
+adult
+outpatients
+with
+moderate to severe CD who previously responded to
+inﬂiximab
+(secondary
+nonresponse),
+the
+AGA
+recommends the use of adalimumab or ustekinumab
+(Strong recommendation, moderate certainty evidence)
+and
+suggests
+the
+use
+of
+vedolizumab
+over
+no
+treatment for the induction of remission. (Conditional
+recommendation, low certainty evidence)
+Comment: If adalimumab was the ﬁrst-line drug used,
+there is indirect evidence to suggest the option of using
+inﬂiximab as a second-line agent.
+There were no head-to-head trials comparing the efﬁ-
+cacy of different agents for induction and maintenance of
+remission. Therefore, indirect evidence was derived using
+network meta-analysis from drug trials with similar study
+designs and outcomes. Network meta-analysis can help
+assess comparative efﬁcacy of several interventions and
+synthesize evidence across a network of RCTs, especially if
+there is weak (or absent) direct evidence.12 The analysis
+included 8 RCTs with a total of 1458 biologic-naïve patients
+with moderate to severe luminal CD. On network meta-
+analysis, inﬂiximab was more effective than certolizumab
+pegol (OR, 4.33; 95% CI, 1.83–10.27) with moderate conﬁ-
+dence in estimates (rated down for imprecision) and low
+conﬁdence in estimates supporting its use over vedolizumab
+(OR, 2.20; 95% CI, 0.79–6.07) or ustekinumab (OR, 2.14;
+95% CI, 0.89–5.15) rated down for imprecision. There was
+moderate conﬁdence in estimates for the use of ustekinu-
+mab (OR, 2.02; 95% CI, 1.09–3.75) or adalimumab (OR,
+2.97; 95% CI, 1.16–6.70) over certolizumab pegol with low
+conﬁdence in estimates (rated down for very serious
+imprecision). There was low conﬁdence in the estimates for
+the use of vedolizumab over certolizumab pegol (OR 1.97;
+95% CI, 0.88–4.41). There was no signiﬁcant difference in
+the efﬁcacy of adalimumab, ustekinumab, or vedolizumab as
+a ﬁrst-line agent (very low certainty evidence).
+The second part of the network meta-analysis compared
+drug efﬁcacy after a prior failure of a TNFa antagonist. The
+failure of a TNFa antagonist can be categorized as primary
+or secondary nonresponse, as deﬁned in the prior AGA
+guideline
+and
+technical
+review
+on
+therapeutic
+drug
+monitoring.9
+In patients with prior TNFa antagonist exposure, 6 RCTs
+with 1606 patients were included in this part of the network
+meta-analysis. Three studies were performed exclusively in
+those with prior TNFa antagonist exposure (1 trial adali-
+mumab and 2 trials of ustekinumab), 2 subgroup analyses of
+phase 2 trials (1 for adalimumab and 1 for vedolizumab), 1
+trial of vedolizumab (GEMINI-II) in which 75% of patients
+had prior TNFa antagonist exposure, and 1 trial of adali-
+mumab (GAIN) that only included patients with prior
+response or intolerance to inﬂiximab. On network meta-
+analysis, ustekinumab was superior to placebo (OR, 2.58;
+95% CI, 1.50–4.44) with moderate certainty evidence rating
+down for imprecision. Using adalimumab in patients with
+prior intolerance or secondary nonresponse to inﬂiximab
+(OR, 3.57; 95% CI, 1.66–7.65) was moderate certainty evi-
+dence rating down for imprecision. Vedolizumab (OR, 1.53;
+95% CI, 0.77–3.06) was supported by low certainty evi-
+dence rating down for very serious imprecision related to
+the very wide CIs and crossing unity). Further indirect
+comparisons between the drugs were performed in the
+technical review but were not of high enough certainty to
+formulate a recommendation. Of note, the studies included
+in the network meta-analysis did not consistently report
+what proportion of patients had exposure to more than 1
+TNFa antagonist, exposure to multiple different classes of
+biologics, and reasons for failure of prior biologics (primary
+nonresponse vs secondary loss of response vs intolerance).
+In clinical practice, this information, along with information
+from the results of therapeutic drug monitoring (see prior
+AGA guideline on therapeutic drug monitoring),9 may affect
+one’s decision to select one biologic over another biologic.
+Recommendation
+3A.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests against
+the
+use
+of
+thiopurines
+monotherapy
+over
+no
+treatment
+for
+achieving
+remission.
+(Conditional
+recommendation, very low certainty evidence)
+Recommendation
+3B.
+In
+adult
+outpatients
+with
+quiescent moderate to severe CD (or patients in
+corticosteroid-induced remission), the AGA suggests
+the
+use
+of
+thiopurines
+monotherapy
+over
+no
+June 2021
+Guideline on Management of Moderate to Severe CD 2501
+CLINICAL PRACTICE GUIDELINES
+treatment
+for
+the
+maintenance
+of
+remission.
+(Conditional recommendation, low certainty evidence)
+Recommendation
+3C.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests the use of
+subcutaneous
+or
+intramuscular
+methotrexate
+monotherapy over no treatment for the induction and
+maintenance
+of
+remission.
+(Conditional
+recommendation, moderate certainty evidence)
+Recommendation
+3D.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests against
+the use of oral methotrexate monotherapy over no
+treatment
+for
+the
+induction
+and
+maintenance
+of
+remission.
+(Conditional
+recommendation,
+very
+low
+certainty evidence)
+In adult outpatients with moderate to severe luminal CD,
+the Guideline Panel suggests against using thiopurines over
+no treatment for achieving remission because 5 trials
+including 380 patients treated with thiopurines did not
+show increased efﬁcacy compared with placebo in achieving
+corticosteroid-free
+remission
+in
+patients
+who
+were
+corticosteroid-dependent. The certainty of the evidence was
+very low due to serious bias, indirectness, and serious
+imprecision. However, 5 RCTs did demonstrate that thio-
+purines were signiﬁcantly more effective than placebo or no
+treatment (RR, 0.62; 95% CI, 0.47–0.81) for maintaining
+corticosteroid-free clinical remission. The certainty of evi-
+dence was rated down for bias due to inadequate blinding
+and imprecision because of low OIS.
+In evaluating methotrexate, the Technical Review Panel
+and Guideline Panel opted to evaluate oral vs intramus-
+cular/subcutaneous methotrexate separately due to under-
+lying
+differences
+in
+efﬁcacy
+related
+to
+route
+of
+administration and total dose. Subcutaneous methotrexate
+dosed at 25 mg/wk was evaluated in 1 trial of 141 patients
+and was effective for induction of remission (RR, 0.75; 95%
+CI, 0.61–0.93). For maintenance of remission, subcutaneous
+methotrexate dosed at 15 mg/wk was evaluated in 1 trial of
+76 patients after they had achieved remission with 16–25
+weeks of 25 mg/wk subcutaneous methotrexate. Subcu-
+taneous methotrexate was more effective than placebo for
+maintaining corticosteroid-free remission (RR, 0.57; 95% CI,
+0.34–0.94). The certainty of evidence was moderate for in-
+duction and maintenance of remission, rating down for
+imprecision due to the small sample size.
+In contrast to subcutaneous methotrexate, oral metho-
+trexate was evaluated in a single RCT dosed at 12.5 mg/wk
+and was not effective for inducing remission (RR, 1.14; 95%
+CI, 0.72–1.82). In the maintenance arm of the study, 12.5
+mg/wk was not more effective than placebo for maintaining
+remission (RR, 0.30; 95% CI, 0.04–2.27). The certainty of
+evidence was very low due to indirectness from the lower
+dose of methotrexate and very serious imprecision due to
+the very wide 95% CI. The Guideline Panel noted that the
+single RCT evaluating oral methotrexate may have used a
+dose that is suboptimal.13 It is not clear if a higher dose of
+oral methotrexate would be more effective.
+Recommendation
+4.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA recommends the
+use of biologic drug monotherapy over thiopurine
+monotherapy for the induction of remission. (Strong
+recommendation moderate certainty of evidence)
+The Panel recommends the use of biologic drug mono-
+therapy over thiopurine monotherapy for induction of
+remission. A separate recommendation for maintenance of
+remission was not provided because corticosteroid-sparing
+drugs that are started for induction of remission are typi-
+cally continued for maintenance of remission. The SONIC
+(Study of Biologic and Immunomodulator Naïve Patients in
+Crohn’s Disease) study design was a 3-arm RCT including
+biologic and immunomodulator-naïve patients comparing
+inﬂiximab vs azathioprine vs inﬂiximab þ azathioprine.14
+Inﬂiximab was more effective than azathioprine for induc-
+tion of clinical remission (RR, 0.79; 95% CI, 0.67–0.94) and
+endoscopic remission (65 of 93 vs 91 of 109; P < .01). The
+certainty of evidence was moderate, rating down for
+imprecision due to low OIS. Data on other biologics
+compared with thiopurines for induction of remission were
+lacking. However, given the overall efﬁcacy of other bi-
+ologics compared with placebo, and thiopurines failing to
+show efﬁcacy compared with placebo for induction of
+remission, indirect evidence suggests that other biologics
+would also be more effective than thiopurines for induction
+of remission. Similarly, no RCTs compared biologic mono-
+therapy with methotrexate monotherapy and data are
+therefore lacking.
+Recommendation
+5A.
+In
+adult
+outpatients
+with
+moderate to severe CD who are naïve to biologics
+and immunomodulators, the AGA suggests the use
+of inﬂiximab in combination with thiopurines for the
+induction
+and
+maintenance
+of
+remission
+over
+inﬂiximab monotherapy. (Conditional recommendation,
+moderate certainty evidence)
+Comment: Based on indirect evidence, combination
+inﬂiximab with methotrexate may be more effective over
+inﬂiximab monotherapy.
+Recommendation
+5B.
+In
+adult
+outpatients
+with
+moderate to severe CD who are naïve to biologics
+and immunomodulators, the AGA suggests the use
+of adalimumab in combination with thiopurines for
+the induction and maintenance of remission over
+adalimumab
+monotherapy.
+(Conditional
+recommendation, very low certainty evidence)
+Comment: Based on indirect evidence, combination
+adalimumab with methotrexate may be more effective
+over adalimumab monotherapy.
+Recommendation
+5C.
+In
+adult
+outpatients
+with
+moderate
+to
+severe
+CD,
+the
+AGA
+makes
+no
+recommendation regarding the use of ustekinumab
+or vedolizumab in combination with thiopurines or
+methotrexate over biologic drug monotherapy for the
+induction
+and
+maintenance
+of
+remission.
+(No
+recommendation, knowledge gap)
+2502 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES
+Two trials compared inﬂiximab with a thiopurine to
+inﬂiximab monotherapy. Combination therapy was more
+effective for induction of remission (RR, 0.77; 95% CI, 0.64–
+0.92). Although there were no direct maintenance trials,
+both of these studies included follow-up of patients with
+active disease up to 50 of 52 weeks with combination
+therapy showing greater efﬁcacy than inﬂiximab mono-
+therapy for maintenance of remission (RR, 0.74; 95% CI,
+0.60–0.90). The certainty of evidence for induction of
+remission was moderate, rating down for imprecision, given
+the low OIS. Maintenance of remission certainty of evidence
+was low. This was rated down for indirectness (entering the
+maintenance with active disease and not speciﬁcally quies-
+cent disease) and imprecision due to the low OIS.
+Combination therapy using inﬂiximab and methotrexate
+vs inﬂiximab monotherapy was compared in 1 RCT with
+126
+patients.
+There
+was
+no
+difference
+in
+achieving
+corticosteroid-free remission at week 14 (RR, 1.07; 95% CI,
+0.57–2.03) and at week 50 there was no difference in failure
+to maintain corticosteroid-free clinical remission (RR, 1.18;
+95% CI, 0.68–2.03). The certainty of evidence for induction
+and maintenance of remission using inﬂiximab with meth-
+otrexate was rated low due to very serious imprecision.
+A single open-label RCT (DIAMOND study group)
+compared adalimumab and azathioprine to adalimumab
+monotherapy for 52 weeks. There was no difference be-
+tween the 2 groups for induction of remission (RR, 1.31;
+95% CI, 0.80–2.14) or maintenance of remission (RR, 1.13;
+95% CI, 0.72–1.78).15 However, combination therapy was
+associated with higher rates of endoscopic remission at
+week 26 compared with adalimumab monotherapy (48 of
+57 [84.2%] vs 37 of 58 [63.2%]; P ¼ .02). The certainty of
+evidence was very low, rating down for risk of bias (un-
+blinded study with high rates of drug discontinuations due
+to treatment intolerance), indirectness of outcomes, and
+imprecision from the low OIS.
+Importantly, use of combination therapy may be even
+more important in the subset of patients who have devel-
+oped secondary nonresponse to TNFa antagonists. Roblin
+et al16 noted that combination therapy resulted in improved
+outcomes without clinical failure or unfavorable pharma-
+cokinetics at 24 months, with improvements of 77%–78%
+for TNFa antagonists with a thiopurine compared with 22%
+with TNFa antagonists monotherapy (P < .001).
+There were no RCTs to provide data on combination
+therapy using vedolizumab or ustekinumab with a thio-
+purine or methotrexate.
+The mechanism by which combination therapy provides
+improved induction and maintenance of remission is un-
+clear. Adding the thiopurine or methotrexate to inﬂiximab
+may result in improved drug levels and lower risk of
+immunogenicity by preventing anti-drug antibody forma-
+tion. It is possible that the beneﬁts of combination therapy
+might be achieved by therapeutic drug monitoring, using the
+information obtained to adjust drug dose or dosing interval.
+This option may provide the same beneﬁts of combination
+therapy without the risk and inconvenience of adding the
+thiopurine or methotrexate. Importantly, if the focus is on
+reduction of immunogenicity, the potential beneﬁts of
+combination therapy with newer biologics like vedolizumab
+and ustekinumab may not be beneﬁcial because these drugs
+are less immunogenic compared with inﬂiximab.
+Harms that must be considered when selecting combi-
+nation therapy include the increased risk of infections and
+2- to 3-fold higher risk of lymphoma compared with TNFa
+antagonist monotherapy when adding a thiopurine.17
+Recommendation
+6.
+In
+adult
+outpatients
+with
+quiescent
+CD
+on
+combination
+therapy,
+the
+AGA
+makes no recommendation for withdrawal of either
+the immunomodulator or the biologic over ongoing
+combination
+therapy
+of
+a
+biologic
+and
+an
+immunomodulator.
+(No recommendation, knowledge gap)
+There were 3RCTs that included 161 patients who were in
+maintenance of remission on combination therapy with TNFa
+antagonists and immunomodulators for at least 6 months (2
+trials of inﬂiximab-based combination therapy, 1 trial of
+adalimumab-based combination therapy). Overall, there
+were no signiﬁcant differences in the risk of relapse over 12–
+24 months in patients who continued combination therapy vs
+withdrew immunomodulators (RR, 1.02; 95% CI, 0.71–1.46).
+The certainty of evidence was rated as very low due to risk of
+bias (unblinded trials) and very serious imprecision (wide
+95% CI and the inability to exclude signiﬁcant beneﬁt or harm
+with continuing or combination therapy). There were no
+RCTs comparing continued combination therapy to with-
+drawal of the biologic. There was a single prospective cohort
+study of 115 patients with CD who were on combination
+therapy and discontinued inﬂiximab.18 The risks of relapse
+though was 44% at 1 year and 52% at 2 years.
+Although combination therapy is associated with a higher
+risk of complications compared with use of a single agent, it is
+possible that cessation of the immunomodulator may result
+in some patients losing response to the biologic. This risk,
+however, may be mitigated with use of therapeutic drug
+monitoring.19 Based on limited observational data, treatment
+strategies in which the biologic drug is discontinued and the
+immune modulator is continued might lead to a high risk of
+relapse. Given the limited data to support a recommendation
+for or against this cessation of drug when used in combina-
+tion, the Panel opted to make no recommendation.
+Recommendation
+7.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests early
+introduction
+with
+a
+biologic
+with
+or
+without
+an
+immunomodulator rather than delaying their use until
+after
+failure
+of
+5-aminosalicylates
+and/or
+corticosteroids.
+(Conditional
+recommendation,
+low
+certainty evidence)
+The evidence informing this recommendation was based
+on several RCTs. D’haens et al20 randomized patients to
+early combination therapy with an immunosuppressant and
+inﬂiximab compared with conventional step therapy in
+which patients were ﬁrst given corticosteroids followed by
+azathioprine and inﬂiximab. At 52 weeks, 61.5% of patients
+June 2021
+Guideline on Management of Moderate to Severe CD 2503
+CLINICAL PRACTICE GUIDELINES
+in the early combined immunosuppression group were in
+corticosteroid- and surgery-free remission compared with
+42.2% in the step-up therapy arm (RR for failure to achieve
+remission, 0.67; 95% CI, 0.46–0.97). A long-term extension
+arm of this trial to 8 years suggested lower rates of clinical
+relapse, and corticosteroid use in the patients randomized
+to early combination therapy. The certainty of the evidence
+was low due to risk of bias (open label trial) and impreci-
+sion (low OIS).
+The REACT (Randomised Evaluation of an Algorithm for
+Crohn’s Treatment) study was an open-label cluster ran-
+domized trial that compared an algorithmic approach of
+early combination therapy with an immunomodulator and
+biologic drug or conventional management of CD in 1982
+patients.21 At 12 months, there was no signiﬁcant difference
+in rates of corticosteroid-free remission (66% early combi-
+nation therapy vs 62% in usual care). However, at 24
+months, patients in the early combination therapy arm had
+lower rates of major adverse disease-related complications
+compared with conventional management (hazard ratio,
+0.73; 95% CI, 0.62–0.86).
+Data for early use of thiopurines alone was evaluated by
+Cosnes et al22 in an RCT of 122 patients in which patients
+were randomized to early azathioprine (within 6 months of
+CD diagnosis) vs conventional management in which
+azathioprine was only used in cases of corticosteroid de-
+pendency, in those not responding to corticosteroids, or
+those with perianal disease.22 During a 3-year follow-up, no
+signiﬁcant
+differences
+were
+observed
+in
+the
+risk
+of
+corticosteroid-requiring ﬂare (58 of 65 [89%] vs 61 of 67
+[91%]; P ¼ .73), hospitalization (22 of 65 [34%] vs 26 of 67
+[39%]; P ¼ .74), or CD-related surgery (5 of 65 [8%] vs 4 of
+67 [6%]; P ¼ .68). Evidence was rated low due to risk of
+bias (open-label trial) and imprecision (very wide CI).
+Data for 5-aminosalicylates indicate that these drugs are
+not effective for the management of moderate to severe CD
+(see question 9 below).
+The Guideline Panel used these data to determine that
+delaying appropriate therapy by using a step-up policy may
+result in clinical harm from delaying appropriate disease
+treatment. The Panel acknowledged that the treatment
+paradigm of earlier therapy with a combination of a
+immunomodulator and a biologic drug or biologic mono-
+therapy may result in overtreating some patients and
+potentially exposing them to treatment-related risks and
+costs with limited beneﬁt. However, the step-up paradigm is
+associated with a potential risk of harm from disease pro-
+gression related to inadequate disease therapy.
+Recommendation
+8A.
+In
+adult
+outpatients
+with
+moderate to severe CD, the AGA suggests the use of
+corticosteroids over no treatment for induction of
+remission.
+(Conditional
+recommendation,
+moderate
+certainty of evidence)
+Recommendation
+8B.
+In
+adult
+outpatients
+with
+moderate
+to
+severe
+CD,
+the
+AGA
+recommends
+against the use of corticosteroids over no treatment
+for
+maintenance
+of
+remission.
+(Strong
+recommendation, moderate certainty of evidence)
+Systemic corticosteroids were evaluated in 2 RCTs with
+267 patients. Corticosteroids at a prednisone dose equiva-
+lent up to 60 mg/d was more effective than placebo for
+induction of remission (RR, 0.57; 95% CI, 0.45–0.73). The
+certainty of evidence was low, rating down for bias
+(sequence generation and allocation concealment not re-
+ported) and imprecision given the low OIS. Three RCTs with
+367 patients compared controlled-release budesonide vs
+placebo. Budesonide was more effective than placebo for
+induction of remission (RR, 0.74; 95% CI, 0.60–0.91) albeit
+2 of the studies were in patients with mild to moderate CD.
+The certainty of evidence was rated low due to indirectness
+(nonmoderate to severe CD) and imprecision (low OIS).
+Systemic corticosteroids as a maintenance drug were
+evaluated in 3 studies with 269 patients and were not more
+effective than placebo for maintenance of remission (RR, 1.02;
+95% CI, 0.81–1.29). The certainty of evidence was low due to
+risk of bias (unclear randomization) and imprecision (wide
+95% CI that could not exclude signiﬁcant beneﬁt or harm).
+The Technical Review Panel performed an additional
+comparison between budesonide and systematic corticoste-
+roids. Five RCTs compared controlled ileal release budesonide
+to corticosteroids, with budesonide being inferior to system-
+atic corticosteroids for inducing remission (RR for failure to
+induce 1.20; 95% CI, 1.01–1.44). Nevertheless, in patients
+with CD involving the distal ileum and/or ascending colon
+who are more concerned about systemic corticosteroids and
+less concerned about the lower efﬁcacy, they may reasonably
+choose budesonide over systematic corticosteroids.
+The Panel noted that although systemic corticosteroids
+play an integral role in the induction of remission in patients
+with moderate to severe luminal CD, the adverse effects in
+both the short and long-term with systematic corticoste-
+roids are substantial (see technical review). Budesonide,
+however, due to a ﬁrst-pass metabolism in the liver is better
+tolerated with fewer adverse effects and no signiﬁcant al-
+terations on serum cortisol levels.23 Nevertheless, neither
+systemic corticosteroids nor budesonide have a role in long-
+term maintenance of remission in patients with moderate to
+severe luminal CD.
+Recommendation
+9.
+In
+adult
+outpatients
+with
+moderate
+to
+severe
+CD,
+the
+AGA
+recommends
+against
+the
+use
+of
+5-aminosalicylates
+or
+sulfasalazine over no treatment for the induction or
+maintenance of remission. (Strong recommendation,
+moderate certainty evidence)
+Two RCTs compared 5-aminosalicylates with placebo for
+induction of remission but the underlying severity of CD
+was not clear. There was no speciﬁc subgroup with mod-
+erate to severe CD that could be extracted for our analysis.
+In these 2 studies, 5-aminosalicylates did not reach the
+MCID of 10% over placebo (RR, 0.90; 95% CI, 0.81–1.00).
+Sulfasalazine was evaluated in 3 RCTs, but the overall
+severity of CD was not clear. In these studies, sulfasalazine
+was more effective than placebo for induction of remission
+over 6–17 weeks (RR, 0.78; 95% CI, 0.65–0.93). However, it
+2504 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES
+was unclear whether these patients had moderate to severe
+luminal CD.
+For maintenance of remission, 4 studies (415 patients)
+treated with sulfasalazine and 11 RCTs with 2014 patients
+treated with 5-aminosalicylates did not ﬁnd either drug to
+be more effective than placebo for maintenance of remission
+(sulfasalazine: RR, 0.98; 95% CI, 0.82–1.17, 5-amino-
+salicylates: RR, 1.02; 95% CI, 0.92–1.16). The certainty of
+evidence was very low for sulfasalazine. This was rated
+down
+for
+bias
+(sequence
+generation
+and
+allocation
+concealment), indirectness (wide variability in characteris-
+tics and outcome measures, and imprecision (very wide
+95% CI). The certainty of evidence for 5-aminosalicylates
+was moderate, rating down for imprecision (modest beneﬁt
+and harm could not be excluded).
+The Panel noted the robust safety proﬁle of 5-amino-
+salicylates, but also noted that sulfasalazine is associated
+with many adverse events (see technical review10). The main
+concern regarding the use of 5-aminosalicylates was the lack
+of data on their use for induction of remission in moderate to
+severe luminal CD and the data showing their lack of efﬁcacy
+for maintenance of remission. In general, the Panel noted that
+most drugs started for induction of remission should be
+continued for maintenance of remission and that starting a
+drug that is ineffective can lead to delays in appropriate
+therapy and worsening disease. Given the lack of induction
+data in patients with moderate to severe CD, and given the
+clear failure of 5-aminosalicylates to maintain remission, the
+Panel recommended against the use of 5-aminosalicylates or
+sulfasalazine for induction or maintenance of remission for
+moderate to severe luminal CD.
+Pharmacologic Management of Adult Patients
+With Fistulizing Crohn’s Disease
+In CD, ﬁstula formation can occur from one loop of bowel to
+another or from bowel to other structures, such as the bladder
+or vagina or from bowel to the skin. By far the most common
+form of ﬁstula are perianal ﬁstula.24 Data on drug therapy for
+types of ﬁstula other than perianal ﬁstula are almost totally
+lacking, so the Technical Review Panel and Guideline Panel
+limited their focus to the medical management of perianal
+ﬁstula. Surgical management of ﬁstulizing CD was also outside
+the scope of the technical review and guideline.
+Recommendation 10A. In adult outpatients with CD
+and active perianal ﬁstula, the AGA recommends the
+use of inﬂiximab over no treatment for the induction
+and
+maintenance
+of
+ﬁstula
+remission.
+(Strong
+recommendation, moderate certainty evidence)
+Recommendation 10B. In adult outpatients with CD
+and active perianal ﬁstula, the AGA suggests the use
+of adalimumab, ustekinumab, or vedolizumab over
+no treatment for the induction or maintenance of
+ﬁstula remission. (Conditional recommendation, low
+certainty evidence)
+Comment: Evidence suggests certolizumab pegol may
+not be effective for induction of ﬁstula remission.
+Recommendation 10C. In adult outpatients with CD
+and active perianal ﬁstula without perianal abscess,
+the AGA suggests against the use of antibiotics
+alone over no treatment for the induction of ﬁstula
+remission. (Conditional recommendation, low certainty
+evidence)
+Inﬂiximab was the only medication that had a dedicated
+RCT to assess the efﬁcacy of the drug to induce ﬁstula
+remission. Ninety-four patients with symptomatic draining
+ﬁstula were randomized to inﬂiximab or placebo. Inﬂiximab
+achieved a greater rate of induction of remission of ﬁstula
+closure within 18 weeks (RR, 0.52; 95% CI, 0.34–0.78). The
+certainty of evidence was moderate, rating down only for
+imprecision due to the low OIS.
+Adalimumab was evaluated in a subgroup analysis of 2
+RCTs of 77 patients with symptomatic draining ﬁstula.
+Adalimumab was not effective in complete ﬁstula closure
+within 4 weeks compared with placebo (RR, 1.08; 95% CI,
+0.93–1.27). However, indirect data indicate that adalimu-
+mab may be effective for induction of luminal CD, and in the
+network meta-analysis adalimumab does appear effective
+for induction and maintenance of remission. Unfortunately,
+there are no dedicated RCTs using adalimumab for induc-
+tion of remission or maintenance of remission for the pri-
+mary outcome of ﬁstula remission. Similarly, certolizumab
+pegol was also evaluated in a subgroup analysis of 2 RCTs
+including 165 patients and did not show a beneﬁt compared
+with placebo for inducing ﬁstula remission (RR, 1.01; 95%
+CI, 0.80–1.27). The ineffectiveness of certolizumab pegol
+was further supported by the indirect evidence of the failure
+of certolizumab pegol to induce remission in moderate to
+severe luminal CD. The certainty of evidence was very low
+quality for both drugs, rating down for very serious
+imprecision (wide 95% CI, which could not rule out signif-
+icant risk of beneﬁt or harm) and risk of bias (randomiza-
+tion was not stratiﬁed based on presence/abscess of ﬁstula).
+Vedolizumab was evaluated in a subgroup analysis of a
+single RCT with 165 patients who had a clinical response to
+luminal disease, but had symptomatic draining ﬁstula at
+baseline. Vedolizumab may be more effective than placebo
+for achieving complete ﬁstula closure (RR, 0.81; 95% CI,
+0.63–1.04) within 14 weeks. The certainty of the evidence
+was very low, rating down for risk of bias (randomization
+not stratiﬁed by presence/absence of ﬁstula), indirectness
+(all patients received induction therapy with vedolizumab),
+and imprecision (95% CI crossing unity).
+Ustekinumab was evaluated in a pooled analysis of 4
+trials of induction therapy (238 patients) with active
+draining ﬁstula. Ustekinumab was more effective than pla-
+cebo in achieving ﬁstula remission (RR, 0.85; 95% CI, 0.73–
+1.99). The certainty of evidence was rated as low quality
+due to risk of bias (because randomization was not stratiﬁed
+by presence or absence of ﬁstula), and imprecision (OIS not
+met).
+Antibiotics were compared with placebo in a single 3-
+arm RCT of 25 patients with active draining perianal ﬁstula.
+The 3 arms were ciproﬂoxacin, metronidazole, and placebo.
+Antibiotics did not show more efﬁcacy compared with pla-
+cebo for induction of ﬁstula remission (RR, 0.94; 95% CI,
+0.67–1.33). The certainty of evidence was low due to very
+June 2021
+Guideline on Management of Moderate to Severe CD 2505
+CLINICAL PRACTICE GUIDELINES
+serious imprecision (very wide 95% CI, where signiﬁcant
+beneﬁt or harm with antibiotic monotherapy could not be
+excluded).
+Data on maintenance of remission for the biologics were
+present for some but overall quite limited. In general, a drug
+that is started for induction of remission is typically
+continued for maintenance of remission. Similarly, data on
+thiopurines were also quite limited and the Guideline Panel
+did
+not
+ﬁnd
+sufﬁcient
+evidence
+to
+formulate
+a
+recommendation.
+Recommendation 11. In adult outpatients with CD and
+active perianal ﬁstula without perianal abscess, the
+AGA recommends the use of biologic agents in
+combination with an antibiotic over a biologic drug
+alone for the induction of ﬁstula remission. (Strong
+recommendation, moderate certainty evidence)
+Two RCTs involving use of TNFa antagonists (inﬂiximab
+or adalimumab) in combination with ciproﬂoxacin for 12
+weeks was signiﬁcantly more effective than using the cor-
+responding TNFa antagonist alone in achieving ﬁstula
+closure over 12–18 (RR, 0.42; 95% CI, 0.26–0.68). The
+certainty of evidence was moderate, rating down for
+imprecision due to the low OIS.
+Equity
+A recent review on the effects of race and ethnicity on
+the management of IBD patients found conﬂicting data on
+the use of medical therapies, speciﬁcally biologic agents.25
+Although some studies demonstrated that African Amer-
+ican, Asian, and Hispanic patients with CD were less likely to
+receive biologics compared with White patients, other
+studies have shown no differences in the use of immuno-
+modulators of TNFa antagonists among patients of different
+races or ethnicities. This review did highlight that African
+American and Hispanic populations are less likely to have
+commercial insurance and are more likely to have Medicaid
+or be uninsured, which may lead to disparities in care.
+Implementation Considerations
+The decision of which drug to initiate for moderate to
+severe CD needs to be individualized to the patient with
+shared decision-making. Although the data suggest that bi-
+ologics as a whole are effective drugs, individual drugs may
+have better efﬁcacy but need to be balanced with patient
+preference for mode of delivery and ability to obtain in-
+surance approval. Although the initial phase 3 drug trials
+had very set inclusion and exclusion criteria, not every pa-
+tient in clinical practice ﬁts these strict criteria when
+deciding to use the drug. At the time of publication, there
+were no large randomized head-to-head studies analyzing
+which drug is most efﬁcacious for moderate to severe CD. As
+a result, data can be obtained via a network meta-analysis to
+provide some guidance in this area. The limitation of a
+network meta-analysis needs to be considered, as these data
+are derived from the initial drug trials and not all patients
+seen in clinical practice are included in these initial drug
+trials. In addition, when formulating the recommendations,
+net beneﬁts and harms were considered but, in general, the
+beneﬁts of disease remission outweighed most concerns
+surrounding risks of adverse events and harms. However,
+when considering the use of natalizumab, the Panel noted
+the signiﬁcant risk of harm from PML and therefore sug-
+gested against its use. However, even in this situation, the
+Panel still noted that some patients who put a high value on
+the beneﬁts of drug therapy and lower value on PML risk
+may still consider the drug, with ongoing John Cunningham
+virus monitoring.
+Discussion
+These practice recommendations for the medical man-
+agement of moderate to severe luminal and ﬁstulizing CD
+were developed using the GRADE framework and in
+adherence to the standards established by the National
+Academy of Medicine for the development of trustworthy
+guidelines.11,26 The guideline recommendations incorpo-
+rated data on the beneﬁts and risks of treatment and
+nontreatment, along with patient values and preferences.
+The goal of this guideline is to promote high-value, evi-
+dence-based care and to facilitate shared decision-making
+with patients in the management of moderate to severe
+luminal and ﬁstulizing CD.
+Current evidence supports use of multiple drug classes,
+including TNFa antagonists, anti-integrins, anti-interleukin
+12/23 inhibitors, methotrexate (subcutaneous/intramus-
+cular), and corticosteroid for induction of remission, and the
+use TNFa antagonist, anti-integrins, anti-interleukin 12/23
+inhibitors, thiopurines, and methotrexate (subcutaneous/
+intramuscular) for the maintenance of remission. Thio-
+purines and methotrexate were also suggested for use as
+combination therapies with TNFa antagonists for induction
+and maintenance of remission compared with TNFa antag-
+onist monotherapy. The Panel made no recommendation for
+combination therapy with other biologics, given a lack of
+data.
+Similarly,
+no
+recommendation
+could
+be
+made
+regarding withdrawal of either immunomodulators or a
+biologic agent over ongoing combination therapy in quies-
+cent CD. The Panel recommended against the use of nata-
+lizumab, given the adverse effect proﬁle and availability of
+other medications to manage moderate to severe CD. The
+Panel also recommended against the use of thiopurines for
+induction of remission, corticosteroids for maintenance of
+remission, and the use of 5-aminosalicylates for induction or
+maintenance of remission due to overall lack of efﬁcacy.
+Finally, the Panel suggests the early introduction of a bio-
+logic with or without an immunomodulator, rather than
+delaying their use until after failing 5-aminosalicylates and/
+or corticosteroids. In patients who were initially treated
+with an TNFa antagonist with a primary nonresponse, the
+AGA recommends the use of ustekinumab and suggests the
+use of vedolizumab. However, in cases of those who previ-
+ously responded to inﬂiximab (secondary nonresponse), the
+AGA recommends the use of adalimumab or ustekinumab
+and suggests the use of vedolizumab. Of note, if adalimumab
+was the ﬁrst drug failure with subsequent secondary
+2506 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES
+nonresponse, indirect evidence suggests the consideration
+of inﬂiximab as a second-line agent.
+In ﬁstulizing disease, inﬂiximab was noted to have the
+most robust evidence supporting its use, but other drugs did
+show efﬁcacy, including adalimumab, ustekinumab, and
+vedolizumab. In contrast, evidence suggests certolizumab
+pegol may not be effective for induction of ﬁstula remission.
+In cases of perianal disease with an active ﬁstula but no
+abscess, combining biologics with antibiotics was most
+effective in inducing ﬁstula remission.
+Future Research Needs and Evidence
+Gaps
+The Guideline Panel identiﬁed multiple knowledge gaps
+and areas for future research in patients with moderate to
+severe luminal and ﬁstulizing CD. The last 2 decades have
+witnessed many important advances in CD treatment with
+associated improved outcomes, but there continues to be a
+signiﬁcant fraction of patients who fail to respond sufﬁ-
+ciently to the available treatments. In addition to the
+ongoing development of new drugs and drug classes, there
+remain unanswered questions about the optimal application
+of the current therapies. Importantly, direct comparisons of
+the beneﬁts and harms, especially over the long-term, of the
+available drugs and treatment strategies are mostly lacking.
+There remains an urgent need for improved patient-speciﬁc
+predictors, clinical and biologic, of response and harm to a
+particular drug or drug class to improve the rational choice
+of initial and second-line therapeutic agents in a given pa-
+tient. The need is especially great in special populations,
+such as those with ﬁstulizing disease or aggressive and
+recurrent ﬁbrostenosing disease. Overall, the data on risk-
+stratifying individual patients into low and high risk of
+disease complications and disability remain poor. These
+data would allow clinicians to better understand the optimal
+timing of initial therapies and the optimal duration of
+therapies, facilitating better shared decision-making with
+patients based on their values and preferences. Almost all of
+our data on drug efﬁcacy and safety are based on White
+patients from a narrow age range. We urgently need data on
+treatment outcomes in diverse populations, including Afri-
+can American, Latinx, and elderly patients, to name just the
+most glaring deﬁciencies. We urgently need better data on
+beneﬁts and risks of combining drugs, not just biologic
+drugs with immunomodulators, but also the combination of
+biologic drugs with one another, a strategy that might
+leverage the different mechanisms of actions of different
+drug classes to good effect. Fundamental questions, such as
+ideal target of therapy in CD, also remain unanswered. Many
+of the studies referenced in this guideline regarding drug
+efﬁcacy focused on clinical response and remission, as
+deﬁned by the Crohn’s Disease Activity Index, and other
+mostly symptom-based indices, but newer studies now
+include rates of endoscopic remission and, in some cases,
+histologic remission. Long-term patient outcomes appear to
+be better when we achieve these more objective and robust
+targets of response and remission, but there remains un-
+certainty in clinical practice about when to declare a drug
+successful or when to change treatment strategies looking
+for a better outcome. For patients that do respond well, such
+as among those who achieve endoscopic or histologic
+remission, we need data to guide us in when or how to de-
+escalate or discontinue therapy. In summary, although our
+ability to treat patients with moderate to severe CD has
+improved markedly over the past 2 decades, there remains
+much left to do to ensure that every patient has the best
+possible outcome.
+Plans for Updating This Guideline
+Guidelines are living products. To remain useful, they
+need to be updated regularly as new information accumu-
+lates. The guidelines are reviewed annually at the AGA
+Clinical Practice Guideline Committee. In addition, this
+document will be updated when major new research is
+published. The need for an update will be determined no
+later than 2024.
+References
+1. Feuerstein JD, Cheifetz AS. Crohn disease: epidemi-
+ology, diagnosis, and management. Mayo Clin Proc
+2017;92:1088–1103.
+2. Frolkis AD, Dykeman J, Negrón ME, et al. Risk of surgery
+for inﬂammatory bowel diseases has decreased over
+time:
+a
+systematic
+review
+and
+meta-analysis
+of
+population-based
+studies.
+Gastroenterology
+2013;
+145:996–1006.
+3. Burr NE, Lord R, Hull MA, et al. Decreasing risk of ﬁrst
+and subsequent surgeries in patients with Crohn’s dis-
+ease in England from 1994 through 2013. Clin Gastro-
+enterol Hepatol 2019;17:2042–2049.e4.
+4. Jeuring SF, Van Den Heuvel TR, Liu LY, et al. Im-
+provements in the long-term outcome of Crohn’s dis-
+ease over the past two decades and the relation to
+changes in medical management: results from the
+population-based IBDSL cohort. Am J Gastroenterol
+2017;112:325–336.
+5. Burisch J, Kiudelis G, Kupcinskas L, et al. Natural
+disease course of Crohn’s disease during the ﬁrst 5
+years after diagnosis in a European population-based
+inception
+cohort:
+an
+Epi-IBD
+study.
+Gut
+2019;
+68:423–433.
+6. Torres J, Mehandru S, Colombel J-F, et al. Crohn’s
+disease. Lancet 2017;389:1741–1755.
+7. Siegel CA, Whitman CB, Spiegel BM, et al. Development
+of an index to deﬁne overall disease severity in IBD. Gut
+2018;67:244–254.
+8. Best WR, Becktel JM, Singleton JW, et al. Development
+of a Crohn’s Disease Activity Index: National Cooperative
+Crohn’s Disease Study. Gastroenterology 1976;70:439–
+444.
+9. Feuerstein JD, Nguyen GC, Kupfer SS, et al. American
+Gastroenterological Association Institute guideline on
+therapeutic drug monitoring in inﬂammatory bowel dis-
+ease. Gastroenterology 2017;153:827–834.
+10. Singh S. AGA technical review on the medical manage-
+ment of moderate to severe luminal and ﬁstulizing
+June 2021
+Guideline on Management of Moderate to Severe CD 2507
+CLINICAL PRACTICE GUIDELINES
+Crohn’s
+disease.
+Gastroenterology
+2021;160:2512–
+2556.
+11. Institute of Medicine. Clinical Practice Guidlines We Can
+Trust. National Academies Press, 2011.
+12. Cipriani A, Higgins JP, Geddes JR, et al. Conceptual and
+technical challenges in network meta-analysis. Ann
+Intern Med 2013;159:130–137.
+13. Oren R, Moshkowitz M, Odes S, et al. Methotrexate in
+chronic active Crohn’s disease: a double-blind, ran-
+domized, Israeli multicenter trial. Am J Gastroenterol
+1997;92:2203–2209.
+14. Colombel JF, Sandborn WJ, Reinisch W, et al. Inﬂiximab,
+azathioprine, or combination therapy for Crohn’s dis-
+ease. N Engl J Med 2010;362:1383–1395.
+15. Hisamatsu T, Kato S, Kunisaki R, et al. Withdrawal of
+thiopurines in Crohn’s disease treated with scheduled
+adalimumab maintenance: a prospective randomised
+clinical trial (DIAMOND2). J Gastroenterol 2019;54:860–
+870.
+16. Roblin X, Williet N, Boschetti G, et al. Addition of
+azathioprine to the switch of anti-TNF in patients with
+IBD in clinical relapse with undetectable anti-TNF trough
+levels and antidrug antibodies: a prospective rando-
+mised trial. Gut 2020;69:1206–1212.
+17. Khan N, Abbas AM, Lichtenstein GR, et al. Risk of lym-
+phoma in patients with ulcerative colitis treated with
+thiopurines: a nationwide retrospective cohort study.
+Gastroenterology 2013;145:1007–1015.e3.
+18. Louis E, Mary JY, Vernier–Massouille G, et al. Main-
+tenance of remission among patients with Crohn’s
+disease
+on
+antimetabolite
+therapy
+after
+inﬂiximab
+therapy
+is
+stopped.
+Gastroenterology
+2012;142:63–
+70.e5.
+19. Casteele NV, Herfarth H, Katz J, et al. American
+Gastroenterological Association Institute technical re-
+view on the role of therapeutic drug monitoring in the
+management of inﬂammatory bowel diseases. Gastro-
+enterology 2017;153:835–857.e6.
+20. D’Haens G, Baert F, Van Assche G, et al. Early combined
+immunosuppression or conventional management in
+patients with newly diagnosed Crohn’s disease: an open
+randomised trial. Lancet 2008;371:660–667.
+21. Khanna R, Bressler B, Levesque BG, et al. Early com-
+bined
+immunosuppression
+for
+the
+management
+of
+Crohn’s
+disease
+(REACT):
+a
+cluster
+randomised
+controlled trial. Lancet 2015;386:1825–1834.
+22. Cosnes J, Bourrier A, Laharie D, et al. Early administra-
+tion of azathioprine vs conventional management of
+Crohn’s disease: a randomized controlled trial. Gastro-
+enterology 2013;145:758–765.e2.
+23. Kwapisz L, Jairath V, Khanna R, et al. Pharmacokinetic
+drug evaluation of budesonide in the treatment of
+Crohn’s disease. Expert Opin Drug Metab Toxicol 2017;
+13:793–801.
+24. Panés J, Rimola J. Perianal ﬁstulizing Crohn’s disease:
+pathogenesis, diagnosis and therapy. Nat Rev Gastro-
+enterol Hepatol 2017;14:652.
+25. Barnes EL, Loftus EV Jr, Kappelman MD. Effects of race
+and ethnicity on diagnosis and management of inﬂam-
+matory
+bowel
+diseases.
+Gastroenterology
+2021;
+160:677–689.
+26. Sultan S, Falck-Ytter Y, Inadomi JM. The AGA institute
+process for developing clinical practice guidelines part
+one: grading the evidence. Clin Gastroenterol Hepatol
+2013;11:329–332.
+Correspondence
+Address correspondence to: Chair, Clinical Guidelines Committee, American
+Gastroenterological Association, National Ofﬁce, 4930 Del Ray Avenue,
+Bethesda, Maryland 20814. e-mail: clinicalpractice@gastro.org
+Acknowledgments
+The AGA Clinical Guidelines Committee included Shahnaz Sultan, MD, MHSc,
+AGAF, Chair; Benjamin L. Cohen, MD; MAS, AGAF; Karen Chachu, MD, PhD;
+Lukejohn Day, MD, AGAF; Perica Davitkov, MD; Benjamin Lebwohl, MD, AGAF,
+PhD, MRCP; Theodore R. Levin, MD; Amit Patel, MD; Anne F. Peery, MD; Raj
+Shah, MD; Harminder Singh, MD; Siddharth Singh, MD; Stuart J. Spechler, MD,
+AGAF; Kyle Staller, MD, MPH; Aaron P. Thrift, BSc, PhD; Jennifer M. Weiss,
+MD, MS, AGAF.
+Conﬂicts of interest
+These authors disclose the following: Eugenia Shmidt received research
+support from Celgene and Takeda. Harminder Singh served on the advisory
+board
+of
+Takeda
+Canada,
+Pendopharm,
+Ferring
+Merck
+Canada,
+and
+Guardant Health Inc., and also received educational funding from Ferring and
+research funding from Merck Canada. Harminder Singh also served an
+advisory role to Guardant Health. Jonathan P. Terdiman received research
+support from Abbvie. The remaining authors disclose no conﬂicts. All
+members
+were
+required to
+complete
+the
+disclosure
+statement.
+These
+statements are maintained at the American Gastroenterological Association
+headquarters in Bethesda, Maryland, and pertinent disclosures are published
+with this report.
+Funding
+This document presents the ofﬁcial recommendations of the American
+Gastroenterological
+Association
+(AGA)
+on
+the
+medical
+management
+of
+moderate to severe luminal and ﬁstulizing Crohn’s disease. The guideline
+was developed by the AGA’s Clinical Practice Guideline Committee and
+approved by the AGA Governing Board. Development of this guideline and
+its accompanying technical review was fully funded by the AGA Institute with
+no additional outside funding.
+2508 Feuerstein et al
+Gastroenterology Vol. 160, No. 7
+CLINICAL PRACTICE GUIDELINES

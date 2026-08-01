@@ -1,0 +1,1229 @@
+Journal Pre-proof
+AGA Clinical Practice Guidelines on the Management of Moderate to Severe
+Ulcerative Colitis
+Joseph D. Feuerstein, MD, Kim L. Isaacs, MD, Yecheskel Schneider, MD, Shazia
+Mehmood Siddique, MD, MS, Yngve Falck-Ytter, MD, Siddharth Singh, MD, MS, on
+behalf of the American Gastroenterological Association Institute Clinical Guidelines
+Committee
+PII:
+S0016-5085(20)30018-4
+DOI:
+https://doi.org/10.1053/j.gastro.2020.01.006
+Reference:
+YGAST 63119
+To appear in:
+Gastroenterology
+Please cite this article as: Feuerstein JD, Isaacs KL, Schneider Y, Siddique SM, Falck-Ytter Y, Singh
+S, on behalf of the American Gastroenterological Association Institute Clinical Guidelines Committee,
+AGA Clinical Practice Guidelines on the Management of Moderate to Severe Ulcerative Colitis,
+Gastroenterology (2020), doi: https://doi.org/10.1053/j.gastro.2020.01.006.
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2020 by the AGA Institute
+1 
+ 
+AGA Clinical Practice Guidelines on the Management of Moderate to Severe 
+Ulcerative Colitis 
+ 
+Joseph D. Feuerstein MD1, Kim L. Isaacs MD2, Yecheskel Schneider MD3, Shazia Mehmood 
+Siddique MD, MS3, Yngve Falck-Ytter MD4, and Siddharth Singh MD, MS5 on behalf of the 
+American Gastroenterological Association Institute Clinical Guidelines Committee 
+1 Division of Gastroenterology and Center for Inflammatory Bowel Diseases, Beth Israel 
+Deaconess Medical Center, Boston, MA  
+3Division of Gastroenterology, University of Pennsylvania Perelman School of Medicine, 
+Philadelphia, PA 
+4 Division of Gastroenterology, Case Western Reserve University, and VA Northeast Ohio 
+Healthcare System, Cleveland, Ohio 
+5 Division of Gastroenterology, University of California, San Diego, La Jolla, California 
+Acknowledgements: The AGA Clinical Guidelines Committee included Karen Chachu MD, PhD, 
+Lukejohn Day MD, AGAF, Benjamin Lebwohl MD, AGAF, Thiruvengadam Muniraj MD, PhD, 
+MRCP, Amit Patel MD, Anne F. Peery, Raj Shah, Shahnaz Sultan, Harminder Singh, Siddharth 
+Singh, Stuart Spechler, Grace Su, Aaron P. Thrift, Jennifer M. Weiss, and Adam V. Weizman 
+Address for Correspondence: 
+Chair, Clinical Guidelines Committee,  
+American Gastroenterological Association 
+National Office, 4930 Del Ray Avenue,  
+Bethesda, Maryland 20814  
+E-mail: clinicalpractice@gastro.org 
+Telephone: (301) 941-2618 
+ 
+2 
+ 
+This document presents the official recommendations of the American Gastroenterological 
+Association (AGA) on the management of moderate to severe ulcerative colitis. The guideline 
+was developed by the AGA’s Clinical Practice Guideline Committee and approved by the AGA 
+Governing Board. Development of this guideline and its accompanying technical review was 
+fully funded by the AGA Institute with no additional outside funding.  
+Conflict of interest disclosure: All members were required to complete the disclosure 
+statement. These statements are maintained at the American Gastroenterological Association 
+(AGA) headquarters in Bethesda, Maryland, and pertinent disclosures are published with this 
+report. 
+Conflicts of interest: 
+Joseph D. Feuerstein has no relevant conflict to report. 
+Kim L. Isaacs received research support for multi-center clinical trials and safety registries from 
+Abbvie, Takeda, UCB, Janssen, and Hoffman-Laroche.  
+Yecheskel Schneider has no relevant conflict to report. 
+Shazia Mehmood Siddique has no relevant conflict to report. 
+Yngve Falck-Ytter MD has no relevant conflict to report. 
+Siddharth Singh MD has no relevant conflict to report. 
+Anticipated update: 3 years from publication (2023) 
+Guideline Panel: Joseph Feuerstein (Chair), Siddharth Singh (Co-chair, GRADE 
+Methodologist), Kim Isaacs (Member), Yecheskel Schneider (Member), Yngve Falck-Ytter 
+(Member, Chair, Clinical Guidelines Committee), Shazia Mehmood Siddique (Trainee GRADE 
+Methodologist) 
+3 
+ 
+Technical Review Panel: Jessica Allegretti (Content expert), Jonathan Terdiman (Content 
+expert), Siddharth Singh (GRADE Methodologist), Shazia Mehmood Siddique (Trainee GRADE 
+Methodologist) 
+ 
+INTRODUCTION 
+This document presents the official recommendations of the American Gastroenterological 
+Association (AGA) on the management of moderate to severe ulcerative colitis (UC). The 
+guideline was developed by the AGA Institute’s Clinical Guidelines Committee and approved by 
+the AGA Governing Board. It is accompanied by a technical review that provides a detailed 
+synthesis of the evidence from which these recommendations were formulated.1 Development 
+of this guideline and the accompanying technical review was fully funded by the AGA Institute 
+without additional outside funding. Members of the guideline panel and technical review panel 
+were selected by the AGA Governing Board in consultation with the Clinical Guidelines 
+Committee with careful consideration of all Institute of Medicine recommendations for clinical 
+guideline development. Joseph Feuerstein was the guideline panel chair and Siddharth Singh 
+was the methodologist and co-chair of the guideline panel. A patient representative was also 
+included in the development and review process and had no recommended changes. The 
+guideline and accompanying technical review underwent independent peer review, and a 30-
+day open public comment period; all comments were collated by the AGA staff, and were 
+reviewed and carefully considered by the guideline panel and technical review teams, 
+respectively. Changes were incorporated in revised documents, and where changes were not 
+accepted, a thoughtful response document was created.  Following the public comment period, 
+two pivotal clinical trials (VARSITY, UNIFI) were published and a critical safety update on 
+tofacitinib was issued by the Food and Drug Administration (FDA). At the recommendation of 
+the Clinical Guidelines Committee, the technical review and clinical guidelines were updated to 
+4 
+ 
+incorporate this new evidence as presented here. In accordance with the Clinical Guidelines 
+Committee policies, all clinical guidelines are reviewed annually at the AGA Clinical Guideline 
+Committee meeting for new information. The next update for these guidelines is anticipated in 
+three years from publication. 
+ 
+UC is a chronic inflammatory bowel disease with peak onset in early adulthood.2 
+Untreated, the natural history of the disease is one of relapsing and remitting mucosal 
+inflammation. Based on population-based cohort studies, the majority of patients with UC have 
+a mild to moderate course, generally most active at diagnosis and then in varying periods of 
+remission or mild activity. Approximately 15% patients may experience an aggressive course, 
+and 20% of these patients may require hospitalization for severe disease activity.3, 4 The 5- and 
+10-year cumulative risk of colectomy is 10-15%, primarily limited to patients with moderate to 
+severe disease activity; a subset of hospitalized patients with acute severe ulcerative colitis 
+(ASUC) have short-term colectomy rates of 25-30%.4 Predictors of an aggressive disease 
+course and colectomy are: young age at diagnosis (age < 40 years old), extensive disease, 
+severe endoscopic activity (presence of large and/or deep ulcers), presence of extra-intestinal 
+manifestations, early need for corticosteroids and elevated inflammatory markers.5 For this 
+guideline and the accompanying technical review, moderate to severe UC is defined based on 
+the Truelove and Witts criteria and Mayo Clinic score (Table 1).5-7 After excluding concomitant 
+infections (such as Clostridium difficile), patients with moderate to severe disease are those who 
+are dependent on or refractory to corticosteroids, have severe endoscopic disease activity 
+(presence of ulcers), or are at high risk of colectomy. When reported, Mayo Clinic scores of 6-12 
+with an endoscopic subscore of 2 or 3 were considered moderate to severe disease. ASUC in 
+this guideline is defined as hospitalized patients with the following Truelove and Witts criteria: ≥6 
+bloody bowel movements/day with at least one marker of systemic toxicity including heart rate 
+>90 beats/minute, temperature >37.80 C, hemoglobin <10.5 g/dl and/or erythrocyte 
+sedimentation rate >30 mm/h.7  
+5 
+ 
+There are a number of different drug classes for long-term management of moderate to 
+severe UC, including tumor necrosis factor (TNF)-α antagonists, anti-integrin agent 
+(vedolizumab), janus kinase inhibitor (tofacitinib) and immunomodulators (thiopurines, 
+methotrexate).8 In general, most drugs that are initiated for induction of remission are continued 
+as maintenance therapy, if they are effective. This clinical practice is considered standard of 
+care in this guideline and it is assumed that if a drug (excluding corticosteroids and 
+cyclosporine) is started for and is effective for induction of remission or response, it will be 
+continued for maintenance of remission.  
+ 
+This guideline addresses the medical management of adult outpatients with moderate to 
+severe UC as well as the medical management of adult hospitalized patients with ASUC. The 
+guideline focuses on immunomodulators, biologics, and small molecules for induction and 
+maintenance of remission (for moderate to severe UC) and decreasing the risk of colectomy (for 
+ASUC). As noted above, unless otherwise specified, we do not present separate 
+recommendations for induction and maintenance of remission. The drugs are listed in order of 
+FDA approval unless specifically mentioned. The first seven questions are focused on the 
+medical management of adult outpatients with moderate to severe UC; the subsequent four 
+questions are focused on adult patients hospitalized with ASUC, focusing on initial 
+management, and rescue therapy in cases of corticosteroid-refractory disease. We 
+acknowledge challenges in defining moderate disease activity and severity, with variable 
+definition in clinical practice, and an understanding of this entity may be enhanced reading the 
+AGA guideline on the management of mild to moderate UC.9 This guideline does not address 
+surgical management of moderate to severe UC or ASUC. Therapeutic drug monitoring to guide 
+the use of biologic therapy has been addressed in separate AGA guidelines.10 The guideline is 
+intended for the use of gastroenterology providers, primary care providers, surgeons, patients 
+and policymakers. 
+6 
+ 
+ 
+For this guideline, critical outcomes for decision-making for adults with moderate to 
+severe UC were induction and maintenance of remission, and for hospitalized adults with ASUC 
+was short-term colectomy risk (within 3 months of hospitalization), and are reported in the 
+evidence profiles. Important outcomes of interest were induction and maintenance of 
+endoscopic remission, maintenance of corticosteroid-free remission, serious adverse events 
+(including serious infections and malignancy), and treatment tolerability (drug discontinuation 
+due to adverse events). These were considered in evidence synthesis especially if inadequate 
+or conflicting data was observed for critical outcomes. Safety considerations with these 
+medications have been synthesized in the accompanying technical review. In the 
+recommendations presented in this guideline, estimates of effects of different medications are 
+presented as the risk for failure to induce or maintain remission, i.e., a relative risk (RR) or odds 
+ratio (OR) <1 suggests that the drug under consideration is more effective than the comparison 
+drug or placebo for induction or maintenance of remission.  
+ 
+This guideline was developed using a process described elsewhere.11 Briefly, the AGA 
+process for developing clinical practice guidelines incorporate GRADE methodology 12 and best 
+practices as outlined by the Institute of Medicine.13 GRADE methodology was used to prepare 
+the background information for the guideline and the accompanying technical review. Optimal 
+understanding of the guideline will be enhanced by reading the applicable portions of the 
+technical review.  The guideline panel and the authors of the technical review met face to face 
+on December 14, 2018 to discuss the findings from the technical review. The guideline authors 
+subsequently formulated the guideline recommendations using the GRADE evidence-to-
+decision framework guidance. New evidence was presented to the guideline panel by the 
+technical review team on October 16, 2019, and was reviewed and approved in a virtual face-to-
+face meeting on November 1, 2019. Although the quality of evidence (Table 2) was a key factor 
+in determining the strength of the recommendations (Table 3), the panel also considered the 
+balance between benefit and harm of interventions, patients’ values and preferences, and 
+7 
+ 
+overall resource utilization. The recommendations, quality of evidence, and strength of 
+recommendations are summarized in Table 4.  
+ 
+ 
+8 
+ 
+RECOMMENDATIONS 
+1. In adult outpatients with moderate-severe ulcerative colitis, the AGA recommends 
+using infliximab, adalimumab, golimumab, vedolizumab, tofacitinib or ustekinumab over 
+no treatment. (Strong recommendation, moderate quality evidence) 
+The panel recommends treating adult outpatients with moderate-severe UC with infliximab, 
+adalimumab, golimumab, vedolizumab, tofacitinib or ustekinumab over no treatment for the 
+induction and maintenance of remission. There were 16 randomized controlled trials (RCTs) 
+comparing the TNFα antagonists, vedolizumab, tofacitinib and ustekinumab to placebo (see 
+technical review). Induction of remission was assessed at 6-8 weeks and maintenance of 
+remission was evaluated at 30-54 weeks. All active interventions were superior to placebo for 
+induction of remission, regardless of prior biologic exposure (infliximab: RR, 2.85; 95% CI, 2.11-
+3.86; adalimumab: RR, 1.62; 95% CI, 1.15-2.29; golimumab RR, 2.49; 95% CI, 1.58-3.93; 
+vedolizumab RR, 2.22; 95% CI, 1.36-3.64; tofactinib RR, 3.22; 95% CI, 2.03-5.08; ustekinumab 
+RR, 2.91; 95% CI, 1.72-4.94). Likewise, all active interventions were superior to placebo for 
+maintenance of remission (infliximab: RR, 2.25; 95% CI, 1.67-3.05; adalimumab: RR, 2.28; 95% 
+CI, 1.52-3.42; golimumab RR, 1.88; 95% CI, 1.32-2.68; vedolizumab RR, 2.31; 95% CI, 1.63-
+3.28; tofactinib 5mg twice daily RR, 3.09; 95% CI, 1.99-4.79; ustekinumab RR, 1.83; 95% CI, 
+1.33-2.49). All medications were well-tolerated with low rates of serious adverse events in both 
+trials of induction and maintenance therapy, not significantly different from placebo. Importantly, 
+the recommended induction dose of tofacitinib is 10mg twice daily for 8 weeks; in select cases 
+with modest response to initial 8 week therapy, high dose tofacitinib may considered for total 16 
+weeks. For long-term maintenance, tofacitinib 5mg twice daily is recommended for most 
+patients; a higher dose may be considered in patients who lose response at 5mg twice daily 
+dose after careful of risks and benefits of the medication. At higher doses, an unexpected 
+increase in risk of pulmonary embolism and all-cause mortality has been observed. 
+9 
+ 
+ 
+The overall quality of evidence for this recommendation was moderate for both induction 
+and maintenance of remission. While majority of the studies were registration trials sponsored 
+by industry, there was no important bias, inconsistency or indirectness. The evidence was rated 
+down for imprecision due to the lower number of events (< 200) for all comparisons, failing to 
+achieve the optimal information size. 
+ 
+2a. In adult outpatients with moderate-severe ulcerative colitis who are naïve to biologic 
+agents, the AGA suggests using infliximab or vedolizumab rather than adalimumab, for 
+induction of remission. (Conditional recommendation, moderate quality evidence) 
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+convenience of self-administered subcutaneous injection, and a lower value on the relative 
+efficacy of medications, may reasonably chose adalimumab as an alternative. 
+2b. In adult outpatients with moderate-severe ulcerative colitis who are naïve to biologic 
+agents, the AGA recommends that tofacitinib only be used in the setting of a clinical or 
+registry study. (No recommendation, knowledge gap) Comment: Updated FDA 
+recommendations (07/26/2019) on indications for use of tofacitinib in ulcerative colitis 
+recommends its use only after failure of, or intolerance to TNFα antagonists. 
+In adult outpatients with moderate-severe UC naïve to biologic agents, the guideline panel 
+suggests using infliximab or vedolizumab, rather than adalimumab for induction of remission. 
+Based on updated FDA document on approved indication for tofacitinib use only in patients after 
+failure of, or intolerance to TNFα antagonists, the guideline panel recommends that any use of 
+tofacitinib in biologic-naïve patients with UC be closely monitored in the setting of a clinical or 
+registry study. Currently, both infliximab and vedolizumab are intravenous medications that 
+require infusions, which may be inconvenient to some patients. For these patients, particularly 
+10 
+ 
+those with less severe disease, who value the convenience of self-administered injection 
+therapy, adalimumab may be a reasonable alternative option as first-line biologic therapy.  
+In the head-to-head trials comparing vedolizumab vs. adalimumab in patients with 
+moderate-severe UC (VARSITY), rate of clinical remission was significantly higher in 
+vedolizumab-treated patients vs. adalimumab-treated patients (34.2% vs. 24.3%; RR, 1.41; 95% 
+CI, 1.10-1.81) amongst biologic-naïve patients. For all other comparisons, evidence on 
+comparative efficacy was derived from a network meta-analysis. Network meta-analysis can 
+help assess comparative efficacy of several interventions and synthesize evidence across a 
+network of RCTs, especially if there is weak (or absent) direct evidence.14 Such indirect 
+comparisons of competing interventions, adjusted by a common control, such as placebo, can 
+partially take account of prognostic characteristics of patients in different trials. The analysis 
+included 15 RCTs with a total of 3747 biologic-naïve patients with moderate-severe UC, treated 
+with infliximab (4 trials, 667 patients), adalimumab (4 trials, 1046 patients), golimumab (2 trials, 
+586 patients), vedolizumab (3 trials, 630 patients), tofacitinib (2 trials, 520 patients) and 
+ustekinumab (1 trial, 298 patients) were included (see technical review). For this body of 
+evidence for induction therapy, trial design, participant characteristics, interventions, 
+comparators and outcomes for trials of infliximab, adalimumab, golimumab, vedolizumab and 
+ustekinumab were deemed reasonably similar to facilitate indirect comparison. In contrast, trials 
+of tofacitinib were deemed dissimilar since they used a strict rectal bleeding score of zero for 
+outcome assessment (in contrast to other trials which allowed rectal bleeding score of 0 or 1 in 
+outcome assessment). See the technical review and technical review tables 3-5 for full details 
+regarding this analysis. On network meta-analysis, there was moderate confidence in estimates 
+demonstrating the superiority of infliximab over adalimumab (OR, 2.10; 95% CI, 1.16-3.79) 
+(evidence rated down for serious imprecision). It is important to note that in these clinical trials, 
+treatment was not optimized to suggested drug concentrations; it is possible that the efficacy of 
+11 
+ 
+infliximab, adalimumab and golimumab may be comparable in patients who achieve adequate 
+drug concentrations given their similar mechanism of action.  
+2c. In adult outpatients with moderate-severe ulcerative colitis who have previously been 
+exposed to infliximab, particularly those with primary non-response, the AGA suggests 
+using ustekinumab or tofacitinib, rather than vedolizumab or adalimumab for induction 
+of remission. (Conditional recommendation, low quality evidence) 
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+potential safety of medications, and a lower value on the relative efficacy of medications, may 
+reasonably chose vedolizumab as an alternative. 
+In adult outpatients with moderate-severe UC who have previously been exposed to infliximab, 
+especially those with primary non-response, the guideline panel suggests using ustekinumab or 
+tofacitinib rather than vedolizumab or adalimumab for induction of remission.  
+In the VARSITY trial, ~21% patients had received prior treatment with a TNFα antagonist 
+other than adalimumab. In these patients, there was no significant differences in rates of 
+achieving clinical remission at week 52 (20.3% vs. 16.0%), and the overall body of evidence 
+was deemed to be low quality (rated down for very serious imprecision). A separate network 
+meta-analysis was also performed comparing trials of different agents in patients with moderate-
+severe UC, who had previously been exposed to TNFα antagonists. The network meta-analysis 
+included 7 RCTs with 1580 patients with prior exposure to TNFα antagonists. Infliximab and 
+golimumab were excluded, since the published studies only included biologic-naïve patients 
+(see technical review Table 5). Of note, all these comparisons were rated down for intransitivity. 
+Prior treatment exposure and response is an important effect modifier. Study level estimates did 
+not report what proportion of patients had exposure to more than one TNFα antagonist and 
+whether patients had exposure to multiple different classes of biologics. There was low 
+confidence in estimates supporting higher efficacy of tofacitinib and ustekinumab over 
+12 
+ 
+adalimumab (tofacitinib vs. adalimumab: OR, 11.05; 95% CI, 1.79-68.41; ustekinumab vs. 
+adalimumab: OR, 10.71; 95% CI, 2.01-57.20), and over vedolizumab (tofacitinib vs. 
+vedolizumab: OR, 6.18; 95% CI, 1.00-38.00); ustekinumab vs. vedolizumab: OR, 5.99; 95% CI, 
+1.13-31.76) for induction of clinical remission in patients with prior exposure to TNFα 
+antagonists. 
+The guideline panel was explicit in stating these conditional recommendations apply only 
+for patients with prior exposure to infliximab. Given prior evidence supporting superiority of 
+infliximab over adalimumab or golimumab in biologic-naive patients with moderate-severe UC 
+and lack of direct evidence in adalimumab- or golimumab-exposed patients, benefit of switching 
+to vedolizumab, ustekinumab or tofacitinib over infliximab, in patients with prior exposure to 
+adalimumab or golimumab, is uncertain. As noted in AGA’s therapeutic drug monitoring 
+guidelines, switching out of class may be reasonable in case of lack of response despite 
+achieving adequate drug concentration.10 
+Data for maintenance of remission could not be reliably synthesized using network meta-
+analysis due to significant differences in clinical trial designs – trials of infliximab and 
+adalimumab were treat-straight through trials, whereas maintenance trials of golimumab, 
+vedolizumab, tofacitinib and ustekinumab re-randomized responders to induction therapy – and 
+lack of stratification of data by prior biologic exposure. However, as with standard clinical 
+practice, once a drug is initiated for induction of remission, if effective, it is typically continued for 
+maintenance of remission as well.    
+ 
+3a. In adult outpatients with active moderate-severe ulcerative colitis, the AGA suggests 
+against using thiopurine monotherapy for INDUCTION of remission.  (Conditional 
+recommendation, very low quality of evidence) 
+13 
+ 
+3b. In adult outpatients with moderate-severe ulcerative colitis in remission, the AGA 
+suggests using thiopurine monotherapy, rather than no treatment, for MAINTENANCE of 
+remission. (Conditional recommendation low quality of evidence) 
+The panel suggests against using thiopurine monotherapy for induction of remission in adult 
+outpatients with active moderate-severe UC. However, in patients who have achieved remission 
+(typically induced with corticosteroids), the panel suggests using thiopurine monotherapy rather 
+than no treatment for maintenance of remission.  
+There were three trials comparing thiopurines vs. placebo and two trials comparing 
+thiopurines vs. 5-aminosalycilates (5-ASA) for inducing corticosteroid free remission.16-20 In four 
+out of five trials, patients were considered corticosteroid-dependent, unable to taper 
+corticosteroids below 10-20mg/day without relapsing. In contrast to modern clinical trials, 
+different disease activity indices were used in these studies, outcome of corticosteroid-free 
+remission was assessed at variable intervals from 4 weeks to 52 weeks, and in patients with 
+active disease started simultaneously on thiopurines and corticosteroids, it was unclear whether 
+remission was induced by corticosteroids or thiopurines. Although thiopurines were associated 
+with a higher rate of corticosteroid-free clinical remission compared to placebo or 5-ASA (RR, 
+1.25; 95% CI, 1.01-1.56), the overall quality of evidence was deemed very low due to serious 
+risk of bias, imprecision, and indirectness (outcome definition and assessment). Based on the 
+slow onset of action of thiopurines, they are unlikely to be effective as monotherapy for induction 
+of remission in patients with active disease, in the absence of corticosteroids. Hence, based on 
+uncertainty of evidence, the guideline panel opted to suggest against the use of thiopurines for 
+induction of clinical remission in patients with active moderate-severe UC.  
+For maintenance of remission, four trials comparing thiopurines vs. placebo and three 
+trials comparing thiopurines vs. 5-ASA were included.17, 18, 20-24 Maintenance of remission was 
+defined as prevention of relapse following corticosteroid-induced remission (5 trials) or as the 
+14 
+ 
+ability to maintain a corticosteroid-free remission in patients on long-standing thiopurine therapy 
+(2 trials), evaluated between 6-18 months. On meta-analysis, thiopurines were more effective 
+than placebo or 5-ASA for prevention of disease relapse (RR, 0.61; 95% CI, 0.49-0.77) among 
+patients with inactive UC (in remission). Quality of evidence was rated as low due to risk of bias 
+and imprecision.  
+ 
+3c. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests 
+against using methotrexate monotherapy, for induction or maintenance of remission. 
+(Conditional recommendation, low quality evidence) 
+The guideline panel suggests against the use of methotrexate monotherapy for induction or 
+maintenance of remission for adult outpatients with moderate-severe UC.  
+Two trials compared methotrexate vs. placebo and one trial compared methotrexate vs. 
+5-ASA for induction of remission.25, 26 In the pivotal METEOR trial, all patients were on 10-
+40mg/day of corticosteroids with or without active disease.25 The primary outcome was 
+corticosteroid-free remission between weeks 12-30. On meta-analysis, there was no significant 
+difference in rates of inducing remission with methotrexate compared to placebo (RR, 1.31; 95% 
+CI, 0.89-1.94). The quality of evidence was rated as very low due to very serious indirectness 
+(different dosing regimens and modes of administration, variable definition of clinical remission, 
+and inability to truly assess whether remission was induced by corticosteroids or methotrexate), 
+and serious imprecision. For maintenance of remission, two trials compared methotrexate vs. 
+placebo and one compared methotrexate vs. 5-ASA.18, 25, 26 Similar to induction, there was no 
+difference between methotrexate and placebo/5-ASA for maintenance of remission (RR, 1.01; 
+95% CI, 0.79-1.29). The quality of evidence was rated as very low due to serious indirectness, 
+and very serious imprecision. 
+15 
+ 
+ 
+ 
+ 
+4a. In adult outpatients with active moderate-severe ulcerative colitis, the AGA suggests 
+using biologic monotherapy (TNFα antagonists, vedolizumab, ustekinumab) rather than 
+thiopurine monotherapy for INDUCTION of remission. (Conditional recommendation, low 
+quality evidence) 
+4b. In adult outpatients with moderate-severe ulcerative colitis in remission, the AGA 
+makes no recommendation in favor of, or against, using biologic monotherapy (TNFα 
+antagonists, vedolizumab or ustekinumab), rather than thiopurine monotherapy for 
+MAINTENANCE of remission. (No recommendation, knowledge gap) 
+The panel conditionally suggests use of biologic monotherapy rather than thiopurine for 
+induction of remission. The panel makes no recommendation in favor of or against using 
+biologic monotherapy over thiopurine monotherapy for maintenance of remission. 
+Evidence was informed by a three-arm clinical trial, UC-SUCCESS comparing infliximab 
+vs. azathioprine vs. combination therapy of infliximab with azathioprine,27 as well as indirect 
+evidence based on trials comparing individual medications with placebo. While UC-SUCCESS 
+was designed as an induction and maintenance trial to evaluate the comparative efficacy of 
+monotherapy vs. combination therapy in biologic-naïve adult outpatients with moderate-severe 
+UC (similar to SONIC for Crohn’s disease), the trial was discontinued prematurely by the 
+sponsor before intended enrollment and without completion of the maintenance phase.27 In this 
+trial, there was no difference between infliximab monotherapy and azathioprine monotherapy for 
+achieving corticosteroid-free remission at week 16 (RR, 0.96; 95% CI, 0.53-1.72), albeit based 
+on very low quality evidence. Infliximab monotherapy was superior to thiopurine monotherapy 
+16 
+ 
+for achieving endoscopic remission, an important outcome. In addition, based on prior evidence 
+synthesis from PICOs 1 and 3 and corresponding recommendations, AGA recommends using 
+biologic agents (TNFα antagonists, vedolizumab or ustekinumab) over placebo (moderate 
+quality evidence), whereas it suggests against using thiopurine monotherapy, for induction of 
+remission (very low quality evidence) in adult outpatients with moderate-severe UC.  
+Since UC-SUCCESS was terminated prematurely,27 no head-to-head trials informed 
+comparative efficacy of biologic monotherapy vs. thiopurines for maintenance of remission. As 
+in PICOs 1 and 3, both strategies have been recommended for maintenance of remission, over 
+no treatment. Recognizing lack of evidence, the panel makes no recommendation in favor of or 
+against biologic monotherapy rather than thiopurine monotherapy, for maintenance of 
+remission. Physician judgment factoring in patients’ clinical status, safety profile of different 
+agents and costs and convenience of therapy may be used to inform choice of agents. 
+ 
+5a. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests 
+combining TNFα antagonists, vedolizumab or ustekinumab with thiopurines or 
+methotrexate, rather than biologic monotherapy.  (Conditional recommendation, low quality 
+evidence) 
+Comment: Patients, particularly those with less severe disease, who place higher value on 
+lower risk of adverse events with biologic monotherapy, and lower value on the relative efficacy 
+of combination therapy, may reasonably chose biologic monotherapy.  
+5b. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests 
+combining TNFα antagonists, vedolizumab or ustekinumab with thiopurines or 
+methotrexate, rather than thiopurine monotherapy. (Conditional recommendation, low 
+quality evidence) 
+17 
+ 
+The guideline panel suggests combining TNFα antagonists, vedolizumab or ustekinumab with 
+thiopurines or methotrexate over biologic monotherapy, or thiopurine monotherapy, in adult 
+outpatients with moderate-severe UC. However, in patients particularly those with less severe 
+disease who place higher value on safety and tolerability of pharmacotherapy may reasonably 
+chose biologic monotherapy.  
+Combination therapy of infliximab with thiopurine compared to infliximab monotherapy 
+was evaluated in UC-SUCCESS, a single three-arm double blind double dummy RCT in 
+biologic-naïve patients with.27 As noted above, this trial was terminated prematurely before 
+planned enrollment and prior to completion of maintenance trial. Patients were randomized to 
+infliximab monotherapy, azathioprine monotherapy, or combined infliximab and azathioprine 
+therapy.27 Combination therapy was more effective for inducing a corticosteroid-free remission 
+at week 16 compared to infliximab monotherapy (RR, 1.78; 95% CI, 1.08-1.94). No trials 
+compared combination therapy of other TNFα antagonists, vedolizumab or ustekinumab with 
+immunomodulators vs. biologic monotherapy. Since adding immunomodulators to biologic 
+agents improves pharmacokinetics of the biologic agent (increasing trough concentration and 
+decreasing immunogenicity), the guideline panel extrapolated this indirect evidence favoring 
+combination therapy of thiopurines and infliximab to other TNFα antagonists, vedolizumab or 
+ustekinumab, particularly in patients with unfavorable pharmacokinetics (more severe disease, 
+higher inflammatory burden, low albumin, higher body mass index), even though the 
+immunogenicity of newer biologic agents may be lower than infliximab.28 Evidence supporting 
+the use of combination therapy vs. immunomodulator monotherapy is also based on UC-
+SUCCESS.27 In this trial, combination of infliximab and thiopurines was superior to thiopurine 
+monotherapy for achieving corticosteroid-free remission at week 16 (RR, 1.70; 95% CI, 1.04-
+2.78).  
+18 
+ 
+ 
+No clinical trial comparing combination therapy with monotherapy for maintenance of 
+remission was identified. Very low quality evidence from a retrospective French study of 82 
+patients in remission on combination therapy, suggested that continuing combination infliximab 
+and azathioprine was superior to de-escalating to infliximab monotherapy.  
+ 
+Overall, quality of evidence for infliximab-based combination therapy vs. infliximab 
+monotherapy and vs. thiopurine monotherapy for induction of remission was rated as moderate 
+quality (rated down for imprecision). No trials comparing combination therapy of non-infliximab 
+TNFα antagonists (adalimumab, golimumab), vedolizumab or ustekinumab with thiopurines (or 
+methotrexate) vs. biologic monotherapy were identified. Extrapolating from evidence supporting 
+the use of combination of therapy with infliximab, acknowledging lower risk of immunogenicity 
+with newer biologic agents, evidence of other agents was rated as low quality, due to 
+indirectness. Quality of evidence for maintenance of remission was rated as very low due to the 
+observational evidence and serious imprecision.  
+ 
+6. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests early 
+use of biologic agents with or without immunomodulator therapy, rather than gradual 
+step up after failure of 5-aminosalicylates. (Conditional recommendation, very low quality 
+evidence) 
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+safety of 5-ASA therapy, and lower value on the efficacy of biologic agents, may reasonably 
+choose gradual step therapy with 5-ASA therapy.  
+The guideline panel suggests early use of biologics with or without immunomodulator therapy, 
+or tofacitinib rather than gradual step up therapy after failure of 5-aminosalysilates (5-ASA), in 
+patients with moderate-severe disease activity at high risk of colectomy. However, in patients 
+19 
+ 
+with less severe disease who place higher value on the safety profile of 5-ASA therapy and 
+lower value on the overall efficacy of biologics may choose to start with 5-ASA therapy.  
+There were no studies identified that compared a strategy of upfront biologic-based 
+therapy or tofacitinib vs. gradual step-up therapy (introducing biologic-based therapy or 
+tofacitinib only after failure of 5-ASA), or that compared biologic-based therapy vs. 5-ASA-based 
+therapy, in patients with moderate-severe UC at high risk of colectomy. Three studies compared 
+thiopurines vs. 5-ASA, in corticosteroid-exposed patients with UC.18, 21, 24 On meta-analysis, 
+thiopurines achieved higher rates of corticosteroid-free remission than 5-ASA. Indirectly 
+extrapolating the data from PICO questions 3 and 4, suggests that biologic-based therapy will 
+likely be more effective than 5-ASA-based therapy. Importantly, 5-ASAs have not been 
+specifically studied in patients with moderate-severe disease activity, and their use is limited to 
+patients with mild-moderate disease activity. Delaying effective treatment to induce remission in 
+patients with moderate-severe UC at high risk of colectomy may be harmful due to ongoing 
+untreated active disease, increasing risk of UC-related complications, hospitalization, colectomy 
+and overall inferior quality of life.  
+The overall quality of evidence supporting this recommendation was rated as very low 
+due to serious indirectness and imprecision.  
+ 
+7. In adult outpatients with moderate-severe ulcerative colitis who have achieved 
+remission with biologic agents and/or immunomodulators, or tofacitinib, the AGA 
+suggests against continuing 5-aminosalicylates for induction and maintenance of 
+remission. (Conditional recommendation, very low quality evidence) 
+20 
+ 
+The guideline panel suggests against continuation of 5-ASA in adult outpatients with moderate-
+severe UC for induction and maintenance of remission, who have previously failed 5-ASA and 
+have been escalated to a biologic agent and/or immunomodulators or tofacitinib.  
+In a randomized clinical trial, patients with moderate-severe UC in corticosteroid-free 
+clinical, endoscopic and histologic remission on azathioprine and olsalazine, were randomized 
+to either continuation of azathioprine with olsalazine or de-escalation to azathioprine alone. In 
+two years of follow up, there were no differences in risk of relapse between the two groups (RR, 
+1.02; 95% CI, 0.77-1.34). There were no studies of systematic withdrawal of 5-ASA in biologic- 
+or tofacitinib-treated patients with moderate-severe UC. Indirect evidence from sub-group 
+analysis of RCTs comparing rates of induction and maintenance of remission in patients who 
+were vs. were not concomitantly on 5-ASA at trial entry was used. On meta-analysis, there was 
+no differences in rates of inducing or maintaining clinical remission in TNFα antagonist- or 
+tofacitinib-treated patients who were vs. were not on concomitant 5-ASA at trial entry (Induction: 
+RR, 0.94; 95% CI, 0.74-1.18l maintenance: RR, 0.92; 95% CI, 0.78-1.09). Of note, these trials 
+did not assess effect of systematic withdrawal of 5-ASAs in biologic- or tofacitinib-treated 
+patients. Overall quality of evidence was rated as low due to imprecision and indirectness of 
+evidence.  
+This recommendation did not factor in whether continuing 5-ASAs may or may not have 
+a chemoprotective benefit against colorectal cancer in patients with UC. While studies have 
+variably shown an association between 5-ASA use and lower risk of colorectal cancer in 
+patients with UC,29, 30 recent data suggests that chronically active disease is a risk factor for 
+colon cancer and that sustained remission is protective regardless of the type of therapy used.31  
+21 
+ 
+MANAGEMENT OF HOSPITALIZED PATIENTS WITH ACUTE SEVERE ULCERATIVE 
+COLITIS 
+ 
+8. In hospitalized adult patients with acute severe ulcerative colitis, the AGA suggests 
+using intravenous methylprednisolone dose equivalent of 40 to 60mg/d rather than 
+higher dose intravenous corticosteroids. (Conditional recommendation, very low quality 
+evidence) 
+The guideline panel suggests using intravenous corticosteroids at doses equivalent to 40-
+60mg/day of methylprednisolone rather than higher doses of intravenous corticosteroids to 
+decrease risk of colectomy in hospitalized adults with ASUC.  
+Intravenous corticosteroids are the mainstay of management of hospitalized adults with 
+ASUC. There were no head-to-head trials comparing different doses of corticosteroids in 
+hospitalized patients with ASUC. In a systematic review evaluating the risk factors for colectomy 
+in patients with ASUC, Turner and colleagues observed that mean methylprednisolone dose 
+was 68mg/day (range 40-100mg) in hospitalized patients with ASUC; on meta-regression after 
+controlling for baseline disease severity, there was no correlation between corticosteroid dose 
+and risk of colectomy (R2<0.01).32 In included trials, different intravenous corticosteroid 
+regimens (different formulations, given once daily vs. multiple times daily vs. as continuous 
+infusion) were used, and none was superior to others. Based on models estimating risk and risk 
+factors for colectomy in patients with ASUC, corticosteroid trials of 3-5 days are suggested; 
+continued use of corticosteroids beyond 7 days has not been shown to be effective in non-
+responding patients.32, 33  
+Overall quality of evidence was rated as very low due to observational nature of 
+evidence and indirectness in approach to comparing efficacy.  
+ 
+22 
+ 
+9. In hospitalized adult patients with acute severe ulcerative colitis without infections, the 
+AGA suggests against adjunctive antibiotics. (conditional recommendation, very low quality 
+of evidence) 
+The guideline panel suggests against the routine use of adjunctive antibiotics for the treatment 
+of ASUC in patients without gastrointestinal or extra-intestinal infections.  
+Four RCTs comparing antibiotics vs. no antibiotics/placebo for the treatment of ASUC 
+were identified.34-37 Different antibiotics were used, with durations ranging from 5-10 days. On 
+meta-analysis, the addition of antibiotics was not superior to no antibiotics for decreasing short-
+term risk of colectomy in patients with ASUC (RR, 0.79; 95% CI, 0.46-1.35). After exclusion of 
+one trial of oral vancomycin which was positive but used an insensitive test to exclude 
+concomitant Clostridium difficile infection, overall summary estimate for adjunctive antibiotics 
+was close to unity (RR, 0.95; 95% CI, 0.55-1.64). 
+The quality of evidence was rated very low due to serious risk of bias, serious 
+imprecision and inconsistency given the diverse group of antibiotics used in the studies.  
+   
+10. In hospitalized adult patients with acute severe ulcerative colitis refractory to 
+intravenous corticosteroids, the AGA suggests using infliximab or cyclosporine. 
+(Conditional recommendation, low quality evidence) 
+The guideline panel suggests using either infliximab or cyclosporine in hospitalized adult 
+patients with ASUC refractory to a 3-5 day trial of intravenous corticosteroids.  
+One RCT compared infliximab to placebo in 45 patients with ASUC refractory to 
+intravenous corticosteroids.38 In this trial, infliximab was superior to placebo in decreasing the 
+risk of colectomy within 90 days of hospitalization (RR, 0.44; 95% CI, 0.22-0.87). Patients were 
+given a single dose of 5mg/kg infliximab without further induction or maintenance doses. 
+23 
+ 
+Likewise, intravenous cyclosporine (4mg/kg) was compared to placebo in a single small RCT in 
+corticosteroid-refractory patients with ASUC.39 In this trial, there was a trend favoring 
+cyclosporine over placebo (RR, 0.61; 95% CI, 0.18-2.01). In a subsequent RCT, cyclosporine 
+dose 2mg/kg/day was comparable to 4mg/kg/day, with conceivably a superior safety profile with 
+lower dose.40 In two head-to-head trials comparing infliximab vs. cyclosporine, there was no 
+significant difference in short-term risk of colectomy between standard dose induction therapy 
+with infliximab vs. cyclosporine in hospitalized patients with corticosteroid-refractory ASUC (RR, 
+1.00; 95% CI, 0.72-1.40). 41, 42 Long-term follow-up of these trials also suggest similar findings. 
+Over a median follow-up of 4.5 years of participants in the CYSIF trial, 1- and 5- year colectomy 
+free survival was 70.9% and 61.5% in patients treated with cyclosporine initially and 69.1% and 
+65.1%, respectively, in patients randomized to infliximab (p=0.97). Importantly, in these trials, 
+randomized treatment was offered for 12-14 weeks, after which treatment decisions were 
+deferred to treating physicians. After the initial randomization period, 1- and 5-year cumulative 
+use of infliximab in cyclosporine-treated patients was 45.7% and 57.1%, respectively; in 
+contrast, only 4 infliximab-treated patients switched to cyclosporine.41, 42 
+Overall quality of evidence supporting the use of infliximab or cyclosporine over placebo 
+for ASUC refractory to intravenous corticosteroids was rated as moderate quality (imprecision) 
+or low quality (very serious imprecision), respectively. Evidence supporting the comparability of 
+infliximab and cyclosporine decreasing risk of short-term colectomy in hospitalized patients with 
+corticosteroid-refractory ASUC was rated as low quality (open-label trials with high risk of bias, 
+and imprecision). 
+ 
+ 
+ 
+24 
+ 
+11. In hospitalized adult patients with acute severe ulcerative colitis, refractory to 
+intravenous corticosteroids, being treated with infliximab, the AGA makes no 
+recommendation on routine use of intensive vs. standard infliximab dosing. (No 
+recommendation, knowledge gap) 
+The guideline panel makes no recommendation regarding routine use of intensive vs. standard 
+infliximab dosing in adult patients hospitalized with ASUC refractory to intravenous 
+corticosteroids.  
+There were no RCTs comparing different dosing regimens in patients hospitalized with 
+ASUC. Five observational studies compared outcomes in patients hospitalized with ASUC 
+refractory to intravenous corticosteroids, being treated with different infliximab regimens.43-46 
+Intensive dosing regimens included either shortened interval between the infliximab dosing (<2 
+weeks, dose stacking) and/or induction with higher dose infliximab (10mg/kg) either upfront or at 
+time of dose stacking, without a standard protocol. On meta-analysis of these observational 
+studies, there was no significant difference in the short-term risk of colectomy intensive vs. 
+standard infliximab dosing regimens (RR 1.61; 95% CI, 0.74-3.52). In two studies, upfront 
+induction with higher dose infliximab (10mg/kg) was superior to dose stacking with standard 
+doses (5mg/kg), with lower risk of colectomy (RR, 0.24; 95% CI, 0.08-0.68). Overall, quality of 
+evidence was rated as very low quality due to serious risk of bias, inconsistency and 
+imprecision.  
+Biologically, patients with corticosteroid-refractory ASUC have a high inflammatory 
+burden that may result in accelerated consumption and fecal wasting of infliximab resulting in 
+low serum concentrations and immunogenicity.47 Additionally, given that the drug is albumin 
+bound and many of these patients are malnourished in the setting of ASUC, the systemic drug 
+concentration of biologics may be lower. Hence, it is plausible that intensive regimens may be 
+more effective than standard induction with infliximab. However, this entire body of 
+25 
+ 
+observational evidence is confounded by disease severity, wherein patients at intrinsically 
+higher risk of colectomy, or those who have inadequate response to standard induction dose, 
+are treated with more intensive regimens. As a result, given the lack of robust evidence in this 
+setting to guide therapy, this remains a knowledge gap in need of further research to better 
+guide therapy for the ideal induction regimens for infliximab in hospitalized patients with ASUC 
+refractory to intravenous corticosteroids. 
+ 
+SUMMARY 
+These practice recommendations for the management of moderate-to-severe UC were 
+developed using the GRADE framework and in adherence to the standards established by the 
+Institute of Medicine for the development of trustworthy guidelines12, 13. The goal of this guideline 
+is to promote high quality, high value evidence-based care for patients with moderate-to-severe 
+UC.  
+ 
+Current evidence supports use of infliximab, adalimumab, golimumab, vedolizumab, and 
+tofacitinib for the induction and maintenance of remission in moderate-severe UC. Thiopurine 
+monotherapy should not be used for induction of remission but may be considered for 
+maintenance of remission; in contrast, methotrexate monotherapy, orally or subcutaneously, 
+should not be used for induction or maintenance of remission. Network meta-analysis suggests 
+that infliximab and vedolizumab may be preferred first-line therapy in biologic-naïve patients, 
+rather than standard-dose adalimumab or golimumab, with limited evidence to inform 
+appropriate positioning of tofacitinib. In patients with prior exposure to infliximab, particularly 
+those with primary non-response to induction therapy, vedolizumab or tofacitinib may be 
+preferred over adalimumab or golimumab. Combination therapy of a biologic agent with an 
+immunomodulator is more effective than monotherapy with either agent, though patients, 
+particularly those with less severe disease and those averse to side effects from medications, 
+26 
+ 
+may opt for monotherapy. In patients with moderate-severe disease activity, at high risk of 
+colectomy, biologic agents with or without an immunomodulator, or tofacitinib, should be used 
+early rather than gradual step up therapy after failure of 5-aminosalicylates. Patients in 
+remission with biologic agents and/or immunomodulators or tofacitinib after prior failure of 5-
+ASA, may discontinue 5-aminosalicylates.  
+Among hospitalized patients with ASUC, after excluding alternative etiologies, 
+intravenous methylprednisolone doses of 40-60mg/day or equivalent are mainstay of therapy. 
+Routine use of adjunctive antibiotics in patients without infections is not recommended. Patients 
+who are refractory to 3-5 days trial of intravenous corticosteroids, who prefer ongoing medical 
+management, may be treated with either infliximab or cyclosporine. In patients being treated 
+with infliximab, no recommendation can be made regarding routine use of intensive vs. standard 
+infliximab dosing.  
+ 
+AREAS FOR FUTURE RESEARCH 
+The guideline panel identified multiple knowledge gaps and areas for future research in 
+patients with moderate-severe UC. With the increasing number of different drug classes 
+available to treat UC, there is a clear need for identifying biomarkers predictive of response to 
+individual therapies, to facilitate optimal positioning of therapies; in addition, head-to-head trials 
+will directly inform comparative efficacy, and strengthen quality of evidence derived from 
+network meta-analyses. Besides efficacy, safety is an important consideration with different 
+therapies, and different treatment strategies offer distinct risk-benefit profiles. A comprehensive 
+personalization of therapy based on key treatment attributes (efficacy, safety, speed of onset of 
+action, co-interventions, convenience) is warranted to optimally inform shared-decision making. 
+There is limited evidence regarding the utility and duration of combination therapy of biologics 
+and immunomodulators in patients with UC, particularly with newer agents with lower 
+27 
+ 
+immunogenicity and with better optimization of biologic agents through therapeutic drug 
+monitoring. Treatment targets with UC are in evolution. It is unclear how well targeting an 
+integrated clinical and biomarker remission compares to endoscopic remission, and whether 
+there may be incremental benefit to treating to a target of histologic remission. Finally, there is 
+considerable paucity of evidence on optimally using existing therapies and novel treatment 
+options for hospitalized patients with ASUC who are refractory to intravenous corticosteroids. 
+The management of these patients, at very high-risk of colectomy in the short-term, also need to 
+be prioritized.  
+ 
+ 
+ 
+28 
+ 
+Table 1. Disease severity scoring systems 
+Truelove and Witts Criteria
+ 
+Mild
+Severe
+Fulminant
+Stool 
+number/day 
+<4 
+>6 
+>10 
+Blood in stool 
+Intermittent 
+Frequent 
+Continuous 
+Temperature 
+0C 
+Normal 
+>37.5 
+>37.5 
+Pulse 
+beats/minute 
+Normal 
+>90 
+>90 
+Hemoglobin 
+Normal 
+<75% normal
+Transfusion required 
+Erythrocyte 
+sedimentation 
+rate mm/hour 
+≤30 
+>30 
+>30 
+Colonic 
+features on 
+radiograph 
+None 
+Air, 
+edematous 
+wall, 
+thumbprinting
+Colonic dilation 
+Clinical signs 
+None 
+Abdominal 
+tenderness 
+Abdominal distention and tenderness 
+Mayo Score for Ulcerative Colitis 
+Variable
+Definition
+Score
+Variable
+Definition
+Score
+Stool pattern 
+Normal number 
+of daily bowel 
+movements 
+0 points 
+Endoscopic 
+findings 
+Normal/inactive 
+colitis 
+0 points 
+1 to 2 more 
+bowel 
+movements than 
+normal 
+1 point 
+Erythema, 
+decreased 
+vascularity  
+1 point 
+3 to 4 more 
+bowel 
+movements than 
+normal 
+2 points 
+Friability, marked 
+erythema, 
+erosions 
+2 points 
+5 or more bowel 
+movements than 
+normal 
+3 points 
+Ulcerations, 
+severe friability, 
+spontaneous 
+bleeding 
+3 points 
+Most severe 
+rectal bleeding 
+of the day 
+None 
+0 points 
+Physician 
+global 
+assessment 
+Normal 
+0 points 
+Blood streaks 
+seen in the stool 
+< ½ the time 
+1 point 
+Mild colitis 
+1 point 
+Blood in most 
+stool 
+2 points 
+Moderate colitis 
+2 points 
+Pure blood 
+passed 
+3 points 
+Severe colitis 
+3 points 
+ 
+ 
+29 
+ 
+Table 2. GRADE definitions of quality and certainty of the evidence 
+ 
+Quality Grade
+Definition
+High
+We are very confident that the true effect lies close to the 
+estimate of the effect 
+Moderate
+We are moderately confident in the effect estimate. The true 
+effect is likely to be close to the estimate of effect, but there is a 
+possibility that it is substantially different. 
+Low
+Our confidence in the estimate is limited. The true effect may be 
+substantially different from the estimate of effect. 
+Very low
+We have very little confidence in the effect estimate. The true 
+effect is likely to be substantially different from the estimate of 
+effect 
+Evidence gap
+Available evidence is insufficient to determine true effect 
+ 
+ 
+30 
+ 
+Table 3. GRADE definitions on strength of recommendation and guide to interpretation 
+ 
+Strength of 
+recommendation 
+Wording in the 
+guideline 
+For the patient
+For the clinician
+Strong 
+“The AGA 
+recommends…” 
+Most individuals in 
+this situation would 
+want the 
+recommended 
+course and only a 
+small proportion 
+would not. 
+Most individuals 
+should receive the 
+recommended 
+course of action. 
+Formal decision aids 
+are not likely to be 
+needed to help 
+individuals make 
+decisions consistent 
+with their values and 
+preferences. 
+Conditional 
+“The AGA 
+suggests…” 
+The majority of 
+individuals in this 
+situation would want 
+the suggested 
+course, but many 
+would not. 
+Different choices 
+would be appropriate 
+for different patients. 
+Decision aids may be 
+useful in helping 
+individuals in making 
+decisions consistent 
+with their values and 
+preferences. 
+Clinicians should 
+expect to spend more 
+time with patients 
+when working 
+towards a decision. 
+No recommendation 
+“The AGA makes no 
+recommendation…” 
+ 
+The confidence in the 
+effect estimate is so 
+low that any effect 
+estimate is 
+speculative at this 
+time. 
+ 
+ 
+ 
+31 
+ 
+Table 4. Summary of recommendations of the AGA Clinical Guidelines Committee for the Management of Moderate-to-Severe Ulcerative 
+Colitis 
+Recommendations 
+Strength of 
+recommendation 
+Quality of 
+evidence 
+1. In adult outpatients with moderate-severe ulcerative colitis, the AGA recommends using 
+infliximab, adalimumab, golimumab, vedolizumab, tofacitinib or ustekinumab over no 
+treatment. 
+(Medications are ordered based on year of approval by the US FDA) 
+Strong 
+Moderate 
+2a. In adult outpatients with moderate-severe ulcerative colitis who are naïve to biologic 
+agents, the AGA suggests using infliximab or vedolizumab rather than adalimumab, for 
+induction of remission. 
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+convenience of self-administered subcutaneous injection, and a lower value on the relative 
+efficacy of medications, may reasonably chose adalimumab as an alternative. 
+Conditional 
+Moderate 
+2b. In adult outpatients with moderate-severe ulcerative colitis who are naïve to biologic 
+agents, the AGA recommends that tofacitinib be only be used in biologic-naive patients in 
+the setting of a clinical or registry study. (No recommendation, knowledge gap) Comment: 
+Updated FDA recommendations (07/26/2019) on indications for use of tofacitinib in ulcerative 
+No 
+recommendation 
+Knowledge Gap 
+32 
+ 
+colitis recommends its use only after failure of, or intolerance to TNFα antagonists. 
+2c. In adult outpatients with moderate-severe ulcerative colitis who have previously been 
+exposed to infliximab, particularly those with primary non-response, the AGA suggests 
+using ustekinumab or tofacitinib, rather than vedolizumab or adalimumab for induction of 
+remission.  
+Conditional 
+Low 
+3a. In adult outpatients with active moderate-severe ulcerative colitis, the AGA suggests 
+against using thiopurine monotherapy for induction of remission.   
+Conditional 
+Very low 
+3b. In adult outpatients with moderate-severe ulcerative colitis in remission, the AGA 
+suggests using thiopurine monotherapy, rather than no treatment, for maintenance of 
+remission.  
+Conditional 
+Low 
+3c. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests against 
+using methotrexate monotherapy, for induction or maintenance of remission.  
+Conditional 
+Low 
+4a. In adult outpatients with active moderate-severe ulcerative colitis, the AGA suggests 
+using biologic monotherapy (TNF-α antagonists, vedolizumab or ustekinumab) or 
+tofacitinib rather than thiopurine monotherapy for induction of remission. 
+Conditional 
+Low 
+4b. In adult outpatients with moderate-severe ulcerative colitis in remission, the AGA 
+makes no recommendation in favor of, or against, using biologic monotherapy or 
+tofacitinib, rather than thiopurine monotherapy for maintenance of remission. 
+No 
+recommendation 
+Knowledge gap 
+33 
+ 
+5a. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests 
+combining TNFα antagonists, vedolizumab or ustekinumab with thiopurines or 
+methotrexate, rather than biologic monotherapy.  
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+safety of biologic monotherapy, and lower value on the efficacy of combination therapy, may 
+reasonably chose biologic monotherapy. 
+Conditional 
+Low 
+5b. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests 
+combining TNF-α antagonists,  vedolizumab or ustekinumab with thiopurines or 
+methotrexate rather than thiopurine monotherapy.  
+Conditional 
+Low 
+6. In adult outpatients with moderate-severe ulcerative colitis, the AGA suggests early use 
+of biologic agents with or without immunomodulator therapy, rather than gradual step up 
+after failure of 5-aminosalicylates. 
+Comment: Patients, particularly those with less severe disease, who place higher value on the 
+safety of 5-ASA therapy, and lower value on the efficacy of biologic agents or tofacitinib, may 
+reasonably chose gradual step therapy with 5-ASA therapy. 
+Conditional 
+Very low 
+7. In adult outpatients with moderate-severe ulcerative colitis who have achieved 
+remission with biologic agents and/or immunomodulators or tofacitinib, the AGA 
+suggests against continuing 5-aminosalicylates for induction and maintenance of 
+Conditional 
+Very low 
+34 
+ 
+remission. 
+ 
+ 
+ 
+8. In hospitalized adult patients with acute severe ulcerative colitis, the AGA suggests 
+using intravenous methylprednisolone dose equivalent of 40 to 60mg/d rather than higher 
+dose intravenous corticosteroids. 
+Conditional 
+Very low 
+9. In hospitalized adult patients with acute severe ulcerative colitis without infections, the 
+AGA suggests against adjunctive antibiotics. 
+Conditional 
+Very low 
+10. In hospitalized adult patients with acute severe ulcerative colitis refractory to 
+intravenous corticosteroids, the AGA suggests using infliximab or cyclosporine. 
+Conditional 
+Low 
+11. In hospitalized adult patients with acute severe ulcerative colitis being treated with 
+infliximab, the AGA makes no recommendation on routine use of intensive vs. standard 
+infliximab dosing. 
+No 
+recommendation 
+Knowledge gap 
+Abbreviations 5-ASA 5-aminosalicylates, AGA American Gastroenterological Association, FDA Food and Drug Administration, TNF tumor 
+necrosis factor, UC ulcerative colitis, US United States 
+35 
+ 
+REFERENCES 
+1. 
+Singh S, Feuerstein JD, Binion DG, et al. American Gastroenterological Association 
+technical review on the management of mild-moderate ulcerative colits. 
+Gastroenterology 2018. 
+2. 
+Fumery M, Singh S, Dulai PS, et al. Natural History of Adult Ulcerative Colitis in 
+Population-based Cohorts: A Systematic Review. Clin Gastroenterol Hepatol 
+2017;16:343-356 e3. 
+3. 
+Fumery M, Singh S, Dulai PS, et al. Natural History of Adult Ulcerative Colitis in 
+Population-based Cohorts: A Systematic Review. Clin Gastroenterol Hepatol 
+2018;16:343-356 e3. 
+4. 
+Narula N, Marshall JK, Colombel JF, et al. Systematic Review and Meta-Analysis: 
+Infliximab or Cyclosporine as Rescue Therapy in Patients With Severe Ulcerative Colitis 
+Refractory to Steroids. American Journal of Gastroenterology 2016;111:477-91. 
+5. 
+Dassopoulos T, Cohen RD, Scherl EJ, et al. Ulcerative Colitis Care Pathway. 
+Gastroenterology 2015;149:238-45. 
+6. 
+Schroeder KW, Tremaine WJ, Ilstrup DM. Coated oral 5-aminosalicylic acid therapy for 
+mildly to moderately active ulcerative colitis. A randomized study. N Engl J Med 
+1987;317:1625-9. 
+7. 
+Truelove SC, Witts LJ. Cortisone in ulcerative colitis; final report on a therapeutic trial. Br 
+Med J 1955;2:1041-8. 
+8. 
+Ungaro R, Mehandru S, Allen PB, et al. Ulcerative colitis. Lancet 2017;389:1756-1770. 
+9. 
+Ko CW, Singh S, Feuerstein JD, et al. American Gastroenterological Association 
+Institute Guideline on the Management of Mild-to-Moderate Ulcerative Colitis. 
+Gastroenterology 2018. 
+10. 
+Feuerstein JD, Nguyen GC, Kupfer SS, et al. American Gastroenterological Association 
+Institute Guideline on Therapeutic Drug Monitoring in Inflammatory Bowel Disease. 
+Gastroenterology 2017;153:827-834. 
+11. 
+American Gastroenterological Association. AGA Institute clinical practice guidline 
+development process. Volume 2018. 
+12. 
+Sultan S, Falck-Ytter Y, Inadomi JM. The AGA institute process for developing clinical 
+practice guidelines part one: grading the evidence. Clin Gastroenterol Hepatol 
+2013;11:329-32. 
+13. 
+Institute of Medicine. Clinical Practice Guidlines We Can Trust. Washington, DC.: 
+National Academies Press, 2011. 
+14. 
+Cipriani A, Higgins JP, Geddes JR, et al. Conceptual and technical challenges in 
+network meta-analysis. Annals of internal medicine 2013;159:130-137. 
+15. 
+Singh S, George J, Boland BS, et al. Primary non-response to tumor necrosis factor 
+antagonists is associated with inferior response to second-line biologics in patients with 
+inflammatory bowel diseases: a systematic review and meta-analysis. Journal of Crohn's 
+and Colitis 2018;12:635-643. 
+16. 
+Caprilli R, Carratu R, Babbini M. Double-blind comparison of the effectiveness of 
+azathioprine and sulfasalazine in idiopathic proctocolitis. Preliminary report. Am J Dig 
+Dis 1975;20:115-20. 
+17. 
+Jewell DP, Truelove SC. Azathioprine in ulcerative colitis: final report on controlled 
+therapeutic trial. British Medical Journal 1974;4:627-30. 
+18. 
+Mate-Jimenez J, Hermida C, Cantero-Perona J, et al. 6-Mercaptopurine or methotrexate 
+added to prednisone induces and maintains remission in steroid-dependent 
+inflammatory bowel disease. European Journal of Gastroenterology and Hepatology 
+2000;12:1227-1233. 
+36 
+ 
+19. 
+Rosenberg JL, Wall AJ, Levin B, et al. A controlled trial of azathioprine in the 
+management of chronic ulcerative colitis. Gastroenterology 1975;69:96-9. 
+20. 
+Sood A, Midha V, Sood N, et al. Role of azathioprine in severe ulcerative colitis: one-
+year, placebo-controlled, randomized trial. Indian Journal of Gastroenterology 
+2000;19:14-6. 
+21. 
+Ardizzone S, Maconi G, Russo A, et al. Randomised controlled trial of azathioprine and 
+5-aminosalicylic acid for treatment of steroid dependent ulcerative colitis. Gut 
+2006;55:47-53. 
+22. 
+Hawthorne AB, Logan RF, Hawkey CJ, et al. Randomised controlled trial of azathioprine 
+withdrawal in ulcerative colitis. BMJ 1992;305:20-2. 
+23. 
+Sood A, Kaushal V, Midha V, et al. The beneficial effect of azathioprine on maintenance 
+of remission in severe ulcerative colitis. Journal of gastroenterology. Volume 37, 
+2002:270-274. 
+24. 
+Sood A, Midha V, Sood N, et al. Azathioprine versus sulfasalazine in maintenance of 
+remission in severe ulcerative colitis. Indian journal of gastroenterology. Volume 22, 
+2003:79-81. 
+25. 
+Herfarth H, Barnes EL, Valentine JF, et al. Methotrexate is not superior to placebo in 
+maintaining steroid-free response or remission in ulcerative colitis. Gastroenterology 
+2018. 
+26. 
+Oren R, Arber N, Odes S, et al. Methotrexate in chronic active ulcerative colitis: a 
+double-blind, randomized, Israeli multicenter trial. Gastroenterology 1996;110:1416-21. 
+27. 
+Panaccione R, Ghosh S, Middleton S, et al. Combination therapy with infliximab and 
+azathioprine is superior to monotherapy with either agent in ulcerative colitis. 
+Gastroenterology. Volume 146, 2014:392-400.e3. 
+28. 
+Vermeire S, Gils A, Accossato P, et al. Immunogenicity of biologics in inflammatory 
+bowel disease. Therapeutic advances in gastroenterology 2018;11:1756283X17750355. 
+29. 
+Nguyen GC, Gulamhusein A, Bernstein CN. 5-aminosalicylic acid is not protective 
+against colorectal cancer in inflammatory bowel disease: a meta-analysis of non-referral 
+populations. The American journal of gastroenterology 2012;107:1298. 
+30. 
+O'connor A, Packey CD, Akbari M, et al. Mesalamine, but not sulfasalazine, reduces the 
+risk of colorectal neoplasia in patients with inflammatory bowel disease: an agent-
+specific systematic review and meta-analysis. Inflammatory bowel diseases 
+2015;21:2562-2569. 
+31. 
+Rubin DT, Huo D, Kinnucan JA, et al. Inflammation is an independent risk factor for 
+colonic neoplasia in patients with ulcerative colitis: a case–control study. Clinical 
+gastroenterology and hepatology 2013;11:1601-1608. e4. 
+32. 
+Turner D, Walsh CM, Steinhart AH, et al. Response to Corticosteroids in Severe 
+Ulcerative Colitis: A Systematic Review of the Literature and a Meta-Regression. Clinical 
+Gastroenterology and Hepatology 2007;5:103-110. 
+33. 
+Seo M, Okada M, Yao T, et al. Evaluation of the clinical course of acute attacks in 
+patients with ulcerative colitis through the use of an activity index. J Gastroenterol 
+2002;37:29-34. 
+34. 
+Chapman RW, Selby WS, Jewell DP. Controlled trial of intravenous metronidazole as an 
+adjunct to corticosteroids in severe ulcerative colitis. Gut 1986;27:1210-2. 
+35. 
+Dickinson RJ, O'Connor HJ, Pinder I. Double blind controlled trial of oral vancomycin as 
+adjunctive treatment in acute exacerbations of idiopathic colitis. Gut 1985;26:1380-1384. 
+36. 
+Mantzaris GJ, Hatzis A, Kontogiannis P, et al. Intravenous tobramycin and 
+metronidazole as an adjunct to corticosteroids in acute, severe ulcerative colitis. 
+American Journal of Gastroenterology 1994;89:43-6. 
+37 
+ 
+37. 
+Mantzaris GJ, Petraki K, Archavlis E, et al. A prospective randomized controlled trial of 
+intravenous ciprofloxacin as an adjunct to corticosteroids in acute, severe ulcerative 
+colitis. Scandinavian Journal of Gastroenterology 2001;36:971-974. 
+38. 
+Jarnerot G, Hertervig E, Friis-Liby I, et al. Infliximab as rescue therapy in severe to 
+moderately severe ulcerative colitis: a randomized, placebo-controlled study. 
+Gastroenterology 2005;128:1805-11. 
+39. 
+Lichtiger S, Present DH, Kornbluth A, et al. Cyclosporine in severe ulcerative colitis 
+refractory to steroid therapy. New England Journal of Medicine 1994;330:1841-5. 
+40. 
+Van Assche G, D'Haens G, Noman M, et al. Randomized, double-blind comparison of 4 
+mg/kg versus 2 mg/kg intravenous cyclosporine in severe ulcerative colitis. 
+Gastroenterology 2003;125:1025-1031. 
+41. 
+Laharie D, Bourreille A, Branche J, et al. Ciclosporin versus infliximab in patients with 
+severe ulcerative colitis refractory to intravenous steroids: a parallel, open-label 
+randomised controlled trial. Lancet 2012;380:1909-15. 
+42. 
+Williams JG, Alam MF, Alrubaiy L, et al. Infliximab versus ciclosporin for steroid-resistant 
+acute severe ulcerative colitis (CONSTRUCT): a mixed methods, open-label, pragmatic 
+randomised trial. The Lancet. Gastroenterology & Hepatology 2016;1:15-24. 
+43. 
+Choy MC, Seah D, Gorelik A, et al. Predicting response after infliximab salvage in acute 
+severe ulcerative colitis. J Gastroenterol Hepatol 2018;33:1347-1352. 
+44. 
+Gibson DJ, Heetun ZS, Redmond CE, et al. An accelerated infliximab induction regimen 
+reduces the need for early colectomy in patients with acute severe ulcerative colitis. Clin 
+Gastroenterol Hepatol 2015;13:330-335 e1. 
+45. 
+Govani SM WA, Stidham RW, Higgins PDR, Hardiman K. Accelerated Dosing of 
+Infliximab Prevents Colectomy Within 90 Days in Only Half of Patients With Severe 
+Ulcerative Colitis. Gastroenterology 2016;150:S106. 
+46. 
+Shah SC, Naymagon S, Cohen BL, et al. There is Significant Practice Pattern Variability 
+in the Management of the Hospitalized Ulcerative Colitis Patient at a Tertiary Care and 
+IBD Referral Center. J Clin Gastroenterol 2018;52:333-338. 
+47. 
+Brandse JF, van den Brink GR, Wildenberg ME, et al. Loss of Infliximab Into Feces Is 
+Associated With Lack of Response to Therapy in Patients With Severe Ulcerative Colitis. 
+Gastroenterology 2015;149:350-5 e2. 
+ 
+ 
+ 

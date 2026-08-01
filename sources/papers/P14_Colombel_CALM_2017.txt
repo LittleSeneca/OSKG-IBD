@@ -1,0 +1,25 @@
+2017. CALM 
+Effect of tight control management on Crohn’s disease(CALM):  
+a multicentre, randomised, controlled phase 3 trial 
+JF Colombel et al. Lancet 2017; 390, 2779-2789  
+Open-label, randomised controlled, phase 3 trial. 
+Patients with CD were randomized to tight control vs Clincal management 
+(based on symptoms). 
+1st 8w prednisone induction+ escalated in stepwise: ADA +/-AZA.  
+ 
+Primary endpoint: mucosal healing (CDEIS<4) w48 
+Secondary endpoints: deep remission; biological remission; CDEIS<4; 
+complete endoscopic remission; endoscopic response; steroid free 
+remission, clinical remission. 
+Results: 
+- 
+Mucosal healing w48:  46% Tight control vs 30% clinical; p=0.01 
+- 
+ 2% tight control vs 20% clinical, needed rescue therapy. 
+- 
+76% tight control vs 74% clinical completed the study. 
+Phase 3/management/ CD/Maintain 
+Conclusions: 
+Timely escalation with an antiTNF on the basis of clinical symptoms and 
+biomarkers in patients with early CD results in better clinical an endoscopic 
+outcomes than symptom-driven decisions alone. 

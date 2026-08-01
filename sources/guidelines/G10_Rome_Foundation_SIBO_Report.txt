@@ -1,0 +1,3218 @@
+Intestinal microbiota in functional
+bowel disorders: a Rome foundation
+report
+Magnus Simre´n,1 Giovanni Barbara,2 Harry J Flint,3 Brennan M R Spiegel,4
+Robin C Spiller,5 Stephen Vanner,6 Elena F Verdu,7 Peter J Whorwell,8
+Erwin G Zoetendal9
+ABSTRACT
+It is increasingly perceived that gut hostemicrobial
+interactions are important elements in the pathogenesis
+of functional gastrointestinal disorders (FGID). The most
+convincing evidence to date is the ﬁnding that functional
+dyspepsia and irritable bowel syndrome (IBS) may
+develop in predisposed individuals following a bout of
+infectious gastroenteritis. There has been a great deal of
+interest in the potential clinical and therapeutic
+implications of small intestinal bacterial overgrowth in
+IBS. However, this theory has generated much debate
+because the evidence is largely based on breath tests
+which have not been validated. The introduction of
+culture-independent molecular techniques provides
+a major advancement in our understanding of the
+microbial community in FGID. Results from 16S rRNA-
+based microbiota proﬁling approaches demonstrate both
+quantitative and qualitative changes of mucosal and
+faecal gut microbiota, particularly in IBS. Investigators
+are also starting to measure hostemicrobial interactions
+in IBS. The current working hypothesis is that abnormal
+microbiota activate mucosal innate immune responses
+which increase epithelial permeability, activate
+nociceptive sensory pathways and dysregulate the
+enteric nervous system. While we await important
+insights in this ﬁeld, the microbiota is already
+a therapeutic target. Existing controlled trials of dietary
+manipulation, prebiotics, probiotics, synbiotics and
+non-absorbable antibiotics are promising, although most
+are limited by suboptimal design and small sample size.
+In this article, the authors provide a critical review of
+current hypotheses regarding the pathogenetic
+involvement of microbiota in FGID and evaluate the
+results of microbiota-directed interventions. The authors
+also provide clinical guidance on modulation of gut
+microbiota in IBS.
+INTRODUCTION
+Functional gastrointestinal disorders (FGIDs) are
+deﬁned by symptom-based diagnostic criteria that
+combine chronic or recurrent symptoms attribut-
+able to the GI tract in the absence of other patho-
+logically-based disorders.1 The FGIDs are classiﬁed
+into six major categories for adults: oesophageal,
+gastroduodenal, bowel, functional abdominal pain
+syndrome, biliary and anorectal. Of these, the
+functional bowel disorders (FBD) constitute one of
+the most common reasons for seeking healthcare,2
+and they are associated with poor health-related
+quality of life3e5 and substantial costs to society.6e9
+The pathophysiological mechanisms underlying
+these
+disorders
+are
+incompletely
+known,
+but
+abnormal gastrointestinal (GI) motility, visceral
+hypersensitivity, altered brainegut function, low-
+grade inﬂammation, psychosocial disturbance and
+intestinal microbes may contribute.10e12
+The human body is inhabited by a complex
+community of microbes, collectively referred to as
+microbiota.13 It is estimated that the human
+microbiota contains 1014 cells, which outnumber
+the human cells in our bodies by a factor of ten.14 A
+vast majority of these are found in the GI tract,
+with a continuum from 101e103 bacteria per gram
+of content in the stomach and duodenum to
+1011e1012 cells per gram in the colon.15 Moreover,
+the microbial composition differs between these
+sites,16 and there are also signiﬁcant differences
+between the microbiota present in the gut lumen
+and the microbiota attached to and embedded in
+the mucus layer of the GI tract.17 The microbiota is
+taxonomically classiﬁed via the traditional biolog-
+ical
+nomenclature
+(phylumdclassdorderd
+familydgenusdspecies) and currently more than
+50 bacterial phyla have been described, of which 10
+inhabit the colon and three predominate: the
+Firmicutes, Bacteroidetes and the Actinobacteria;
+other sites display a different microbial composi-
+tion.18 19 A challenge for researchers and clinicians
+is that most of the microbial diversity in the
+human GI tract is not currently represented by
+available cultured species,20 but during recent years,
+the use of culture-independent techniques to study
+the gut microbiota has increased the understanding
+of the role of gut microbiota in health and disease.14
+Several lines of evidence indicate that bacteria
+may be involved in the pathogenesis and patho-
+physiology of FBD, through the metabolic capacity
+of the luminal microbiota, and the potential of the
+mucosa-associated microbiota to inﬂuence the host
+via immuneemicrobial interactions.21 For instance,
+many subjects with irritable bowel syndrome (IBS)
+report symptom onset following an enteric infec-
+tion.22 There are also studies reporting positive
+effects of treatments directed at gut microbiota in
+patients with FBD.23 24 Moreover, small intestinal
+< An additional material is
+published online only. To view
+this ﬁle please visit the journal
+online (http://dx.doi.org/
+10.1136/gutjnl-2012-302167).
+For numbered afﬁliations see
+end of article.
+Correspondence to
+Professor Magnus Simren,
+Department of Internal Medicine,
+Institute of Medicine,
+Sahlgrenska Academy, University
+of Gothenburg, Gothenburg
+S-41345, Sweden; magnus.
+simren@medicine.gu.se
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+159
+Published Online First
+10 July 2012
+bacterial overgrowth (SIBO)25 and altered intestinal
+microbiota26 are implicated in subgroups of FBD
+patients. However, the clinical relevance of these
+ﬁndings remains unclear and, therefore, we sought
+to critically review the existing literature on the
+role of intestinal microbiota in FBD, focusing
+predominantly on IBS, and to provide recommen-
+dations for how to implement the current knowl-
+edge into clinical practice and to guide future
+research.
+This manuscript is a synthesis of the endeavour
+of the Rome Foundation Committee Report. More
+indepth description of the work produced by this
+team is provided as online supplementary material.
+CURRENT KNOWLEDGE OF THE MICROBIOTA
+A relationship, often termed symbiosis, has devel-
+oped between the host and the intestinal micro-
+biota over millions of years. Host genetic and
+immune as well as environmental factors inﬂuence
+intestinal microbiota composition which in turn
+shape host immunity and physiology within and
+beyond the gut (ﬁgure 1). Recent human studies
+demonstrate a hitherto unimagined complexity of
+the human gut microbiota with hundreds of
+phylotypes, of which 80% remain uncultured.19 Of
+the 10 bacterial phyla detected in the gut the
+Firmicutes,
+Bacteroidetes
+and
+Actinobacteria
+predominate, of which the Firmicutes is the most
+dominant and diverse phylum in the GI tract.
+Facultative anaerobes account for <0.1% of the
+total bacteria detected in faecal samples. A recent
+paper suggested that the human GI tract micro-
+biota can be divided into three robust clusters called
+enterotypes formed by groups of species that
+jointly contribute to their respective preferred
+community
+composition.27
+Remarkably,
+these
+enterotypes do not vary by patient characteristics,
+such as nation, gender, age or body mass index,
+although these ﬁndings are based on relatively
+small numbers of subjects. While most studies used
+faecal material, this does differ somewhat from the
+bacteria adherent to the mucosa, which are likely to
+interact most strongly with the host.28
+Babies are born with sterile intestines but are
+rapidly colonised by bacteria from their immediate
+environment, most importantly their mother’s
+vagina and gut.29 Early colonisers of the neonatal
+gut are mainly aerobes (such as staphylococci,
+streptococci and enterobacteria), while late colo-
+nisers are strict anaerobes (such as eubacteria and
+clostridia) as the total microbiota become more
+complex, more stable and converge to a common
+pattern.30 31 The microbiota continue to evolve until
+adulthood with a gradual increase in Bacteroides spp.,
+a decline in Lactobacillus spp. after the age of ﬁve and
+a decline in Biﬁdobacterium spp. in late teenage.32
+Changes also occur in extreme old age when
+Bacteroides spp. decrease while Enterococcus spp. and
+Escherichia coli increase.33 34 Industrialisation has
+Figure 1
+Gut microbiota and the intrinsic and extrinsic factors that can affect its distribution and composition. A
+number of host mechanisms participate in gut microbiota modulation, including gastric acid secretion, ﬂuid,
+anticommensal sIgA and antimicrobial peptide production, and gastrointestinal (GI) motility. Drugs that block acid
+secretion and affect GI motility can indirectly alter the microbiota. Antibiotics, depending on spectrum and dosage, will
+directly affect microbiota composition. Dietary modiﬁcations, including probiotic and ﬁbre supplements, will also affect
+microbiota composition. MMC, migrating motor complexes; H+ hydrogen ions; O2, partial oxygen tension; sIgA,
+secretory immunoglobulin A; PPI, proton pump inhibitor; NSAID, non-steroidal anti-inﬂammatory drug.
+Recent advances in clinical practice
+160
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+changed both our diet and microbiota as evidenced
+by comparing the faecal microbiota of African rural
+children with a polysaccharide-rich diet with Italian
+city children on a high fat, high protein diet. African
+children have a signiﬁcant enrichment in Bacter-
+oidetes, especially Prevotella and Xylanibacter genera
+known to contain genes for xylan hydrolysis35
+(ﬁgure 2). Whole grain cereals,36 resistant starch37 38
+and low residue diets profoundly alter the micro-
+biota.39 Although there is evidence indicating that
+obese individuals have an increase in Firmicutes and
+a decrease in Bacteroidetes (a difference likely related
+in part to different diets40), other studies failed to
+support these observations.41
+42 Many dietary
+prebiotics including oligofructose,43 lactulose,44 45
+lupin kernel,46 inulin-containing juices47 and arabi-
+noxylan-oligosaccharides48
+signiﬁcantly
+alter
+human faecal microbiota. The concept of poorly
+absorbed but fermentable oligo-, di- and mono-
+saccharides and polyols (FODMAPs) includes many
+substances
+which
+are
+substrates
+for
+bacterial
+metabolism and may therefore alter the microbiota
+but this has as yet not been studied.
+Most high ﬁbre diets alter the microbiota and
+accelerate transit. Accelerating transit using senna
+increased the production of short chain fatty acids
+(SCFAs) but reduced faecal methanogens, the
+opposite to the effect of loperamide.49 Accelerating
+transit with cisapride also increases production of
+SCFAs, particularly propionic and butyric acids.50
+Acetate,
+which
+predominates
+in
+the
+colonic
+contents, is largely inhibitory. In contrast, propio-
+nate and butyrate stimulate motility, activate
+propulsive ileal motor patterns in humans51 and
+ensure that bacteria are propelled from the ileum to
+the colon. The normal microbiota also strongly
+inﬂuence the mucosal immune system52 53 which is
+underdeveloped in germ-free animals, who have
+reduced T cells, immunoglobulin A producing B
+cells and intraepithelial Tcells.52 54e56 Twin studies
+suggest that the host genotype inﬂuences the gut
+microbiota, although results remain conﬂicting
+because of the inability to control for shared envi-
+ronmental factors.40 57 One of the most important
+genetic effects is mediated via the innate immune
+response. Thus, mice lacking the bacterial sensing
+receptor
+nucleotide-binding
+oligomerisation
+domain-containing protein-2 showed signiﬁcantly
+more Bacteroidetes as well as Firmicutes compared
+with wild-type mice.58
+Modulation of the microbiota induces visceral
+hypersensitivity in mice, which is reduced by
+Lactobacillus
+paracasei NCC2461 secreted prod-
+ucts.59 Lactobacillus acidophilus NCFM and Lactoba-
+cillus paracasei NCC2461 also modulate visceral
+pain perception in rodents.60 61 Transient pertur-
+bation of the microbiota with antimicrobials alters
+brain-derived
+neurotrophic
+factor
+expression,
+exploratory behaviour and colonisation of germ-
+free mice suggesting that intestinal microbiota
+impact is not limited to the gut and the immune
+system, but may involve the central nervous
+system.62 (Note: this last sentence appears run-on
+but I can’t quite decipher how to ﬁx it.)
+APPROACHES TO THE STUDY OF MICROBIOTA
+Approaches to the study of microbiota and relative
+advantages/pitfalls are reported in box 1. Culture-
+based studies reveal that the gut microbiota is
+a highly complex community (box 1).63 Although
+culturing remains valuable for identifying func-
+tional groups and for selective enumeration (eg, of
+pathogens), new culture-independent approaches
+provide more powerful and convenient methodolo-
+gies
+for
+monitoring
+changes
+in
+the
+GI
+tract
+community (table 1). Information on the diversity
+of microbes that colonise the gut has expanded
+rapidly over the past 15 years, based largely on the
+analysis of the small subunit ribosomal RNA (16S
+rRNA for Bacteria and Archaea, 18S rRNA for
+Eukaryotes) gene sequences that can be obtained by
+direct ampliﬁcation from nucleic acids extracted
+from gut or stool samples.64 This information
+provides the basis for a range of complimentary
+techniques for enumerating gut bacteria, including
+ﬁngerprinting methods such as denaturing gradient
+gel electrophoresis65 and targeted methods such as
+ﬂuorescent in situ hybridisation and quantitative
+PCR.
+The
+arrival
+of
+new
+high-throughput
+sequencing
+approaches
+and
+16S
+rRNA-based
+microarraying has further accelerated the supply of
+data by allowing ampliﬁed 16S rRNA sequences to
+be analysed indepth without the need for ‘classical’
+cloning and sequencing methods.66
+67 Although
+culturing may bias against bacteria that are hard to
+grow in the laboratory, PCR ampliﬁcation biases
+against certain groups of gut bacteria. For example,
+biﬁdobacterial
+16S
+rRNA
+sequences
+are
+often
+under-represented
+among
+ampliﬁed
+products,
+although more reliably enumerated by 16S rRNA-
+targeted ﬂuorescent in situ hybridisation detection
+or
+quantitative
+PCR.37
+While
+most
+molecular
+enumeration methods target 16S rRNA, some are
+based on more functionally relevant genes, for
+Figure 2
+Gut microbiota composition in African children living in rural areas with
+a polysaccharide-rich diet when compared with Italian city children.35 (Reprinted with
+permission from Proc Natl Acad Sci USA).
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+161
+example, involved in methanogenesis or butyrate
+synthesis.
+High-throughput
+DNA
+sequencing
+provides
+completely new possibilities for
+‘-omics’-based
+analyses of the gut microbiota.19 Draft genomes of
+cultured gut bacteria can now be produced rapidly
+and at little cost.68 In addition, these methods can
+be applied to DNA recovered from gut or stool
+samples, and the analysis of the resulting complex
+mixture of sequences is referred to as meta-
+genomics.69 70 The ability to analyse multiple gene
+sequences from large numbers of samples, comple-
+mented with functional screening and character-
+isation of randomly cloned DNA fragments from
+the GI tract, is currently being exploited to uncover
+changes in disease states including in inﬂammatory
+bowel disease (IBD). A related technology, meta-
+transcriptomics, uses high-throughput sequencing
+or microarray analysis to examine RNA expressed
+in GI tract samples, thus focusing on bacteria that
+are transcriptionally active. Another potentially
+powerful tool, metaproteomics, employs protein
+separation and sequencing techniques to describe
+the
+major
+proteins
+present
+in
+gut
+or
+stool
+samples.71 72 These ‘meta-omics’ approaches rely in
+primary sequencing and annotation data.73 74 Thus,
+they rely heavily on the availability of genome
+sequences
+and
+functional
+information
+from
+cultured reference bacteria, which means there are
+considerable beneﬁts from combining different
+approaches to gut microbiota analysis. A ﬁnal
+‘omics’ approach, metabonomics, is not linked
+directly to genetic information of the microbes, but
+examines the metabolite proﬁles resulting from
+total microbial activity in the gut. Since many of
+these metabolites exert biological effects (some
+positive, some negative) on the host, such analysis
+can provide a direct measure of the consequences of
+microbial activity in the gut, although excluding
+cell-mediated effects and direct identiﬁcation to
+a target microbial species.
+Breath testing has been used to detect SIBO in
+IBS patients by non-invasively detecting hydrogen
+producing bacteria or methane producing archaea
+within the gut lumen. The breath test is based on
+the concept that hydrogen gases are produced by
+colonic
+bacterial
+fermentation
+in
+response
+to
+ingestion of a test sugar. They rapidly diffuse into
+the blood, are excreted by breath, and can be
+collected and quantiﬁed.75 If SIBO exists, the
+timing of this fermentation would be altered
+but the criteria for abnormal tests lack validity
+(ﬁgure 3).
+DIFFERENCES IN THE MICROBIOTA IN FBD AND
+THE LINK TO PATHOPHYSIOLOGY
+There is little known about the small intestinal
+microbiota as the small intestine is relatively inac-
+cessible
+(summarised
+in
+table
+2;
+box 2).75e85
+Culture studies show considerably fewer bacteria
+compared with the colon with a marked gradient
+from duodenum to distal ileum. The bacteria are
+typically Gram-positive aerobes proximally and
+Gram-negative and Gram-positive anaerobes and
+facultative
+anaerobes
+in
+the
+terminal
+ileum.
+Culture-independent studies of the small intestinal
+microbiota
+are
+in
+their
+infancy
+but
+suggest
+complexity not appreciated by standard culture
+techniques, including
+marked individual differ-
+ences, ﬂuctuations over time (even within the same
+day), age-related differences and several phylotypes
+not previously identiﬁed.86e88 Moreover, a recent
+paper indicated that the small intestinal microbiota
+are driven by a rapid uptake and conversion of
+available
+simple
+carbohydrates
+in
+which
+Streptococcus spp. play an important role.89
+The role of SIBO in the pathogenesis of IBS is
+very
+controversial
+because
+the
+breath
+tests
+employed to establish this role have not been vali-
+dated.90 91 Even the validity of the ‘gold standard’,
+jejunal cultures >105 cfu/ml with colonic-type
+bacteria, has been challenged, largely because this
+cut-off was established from samples following
+surgical diversion.91 Studies in IBS patients showed
+relatively few bacteria in the duodenum and prox-
+imal jejunum and no obvious differences from
+controls (table 2). Preliminary studies suggest that
+more IBS patients have SIBO when a lower cut-off
+of >103 cfu/ml is used but well-designed studies are
+needed.82
+85 Available molecular studies are not
+adequately designed to establish whether SIBO is
+involved in IBS but have signiﬁcant potential.
+Several
+confounding
+factors,
+including
+acid
+suppression by proton pump inhibitors (PPIs) and
+altered motility, have been implicated in the studies
+of SIBO and IBS.92e94 Some studies suggest that
+PPI use might lead to symptomatic SIBO or at least
+increased numbers of bacteria and that following
+antibiotics they accelerate recurrence, but this
+depends
+on
+the
+tests
+employed
+and
+criteria
+applied.95 Although the link between SIBO and IBS
+is largely based on breath testing, most positive
+lactulose breath tests reﬂect rapid transit to the
+caecum rather than true SIBO94 (ﬁgure 4). Other
+factors
+such
+as
+antibiotics,
+probiotics
+and
+Box 1 Approaches to the study of intestinal microbiota
+< Breath tests are not validated to accurately detect small intestinal bacterial
+overgrowth.
+< Rapid molecular approaches have largely replaced cultural approaches for
+enumeration of the dominant gastrointestinal (GI) tract microbiota.
+< Cultural microbiology remains crucial for investigating microbial diversity and
+for the selective isolation of representatives of key functional groups,
+including pathogens.
+< Culture-independent approaches to study the GI tract microbiota can answer
+the questions:
+– Which microbes are present in the GI tract? (16S rRNA gene-based
+approaches)
+– What microbial genes are present in the GI tract? (metagenomics)
+– What are GI tract microbes doing? (metatranscriptomics, metaproteo-
+mics, metabonomics/metabolomics).
+< The possibilities of using high-throughput approaches and their depth of
+analysis are increasing rapidly, but it is important they are applied with
+careful reference to well-deﬁned scientiﬁc questions.
+Recent advances in clinical practice
+162
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+prebiotics,
+and
+other
+dietary
+items
+such
+as
+FODMAPs could also inﬂuence microbiota in IBS
+patients
+and
+result
+in
+a
+potentially
+spurious
+association.
+Earlier culture-based assessment of faecal micro-
+biota obtained from patients with IBS demon-
+strated
+decreased
+faecal
+lactobacilli
+and
+biﬁdobacteria, and increased facultative bacteria
+dominated by streptococci and Escherichia coli as
+well as higher counts of anaerobic organisms such
+as Clostridium.96 97 Studies using molecular-based
+techniques reveal changes in faecal microbiota
+composition in IBS versus controls (table 3). Inter-
+estingly, a recent study demonstrated that faecal
+microbiota of IBS patients could be grouped in
+a cluster which was completely different from that
+of healthy controls.114 Nonetheless, results to date
+are
+inconsistent
+and
+sometimes
+contradictory
+(table 3). This may reﬂect differences in molecular
+techniques employed, the use of single samples that
+are not linked to ﬂuctuating symptoms (especially
+as studies suggest IBS faecal microbiomes are less
+stable), and probably other factors such as diet and
+phenotypic characterisation of patients. In addi-
+tion, it should be realised that faecal samples do not
+necessarily reﬂect other parts of the GI tract.
+The ﬁnding that IBS can develop following
+infective gastroenteritis prompted studies evaluating
+the role of inﬂammation in IBS, but there are fewer
+studies that focus on the associated changes in gut
+microbiota, which might be just as signiﬁcant.
+Infective gastroenteritis produces a profound deple-
+tion
+of
+the
+commensal
+microbiota,118
+whose
+production of metabolites such as SCFAs and anti-
+biotics normally inhibits pathogen colonisation, as
+can be seen from the loss of colonisation resistance
+after antibiotics.119 It is unclear just how completely
+and over what time span recovery occurs.
+Infective gastroenteritis is common, with an
+incidence of 19/100 person years in the UK.120 A
+third of episodes are viral (Norovirus/Rotavirus
+being the commonest). The commonest bacterial
+infections, Campylobacter and Salmonella, account
+for 10% and 3%, respectively. Onset of new IBS
+symptoms after a bout of infective gastroenteritis is
+relatively common, reported by 6%e17% of IBS
+patients,121 while a recent internet survey reported
+18%,122 with around 40% beginning while travel-
+ling. The clinical features of post-infectious-IBS
+are
+predominantly
+those
+of
+IBS-diarrhoea
+(IBS-D).123 124 A recent meta-analysis pooling 18
+studies indicated a relative increased risk of devel-
+oping IBS
+1 year
+after
+bacterial gastroenteritis
+(mostly Shigella, Campylobacter and Salmonella),
+RR¼6.5 CI (2.6e15.4), an effect still apparent at
+36 months, RR¼3.9 (3.0e5.0).125 Viral gastroenter-
+itis, in keeping with the lesser tissue injury, shows
+a
+reduced
+incidence
+of
+post-infectious-IBS
+compared with bacterial infections126 127 in which
+the strongest risk factors are bacterial toxicity,128
+prolonged
+duration
+of
+diarrhoea,124
+rectal
+bleeding129 and fever.125 Acute enteritis is associated
+with a prolonged increase in mucosal cytotoxic T
+lymphocytes
+and
+increase
+in
+enteroendocrine
+Table 1
+Main features of culture-independent detection methods of gut microbiota
+Question
+Target
+Approach
+Data generated
+Can microbes be
+identiﬁed directly?
+Main beneﬁt
+Main limitation
+Which microbes are
+present in the GI tract?
+Isolates
+Cultivation
+Phenotypic characterisation
+Yes
+Accurate species identiﬁcation
+Not representative
+16S rRNA gene
+Cloning and sanger sequencing
+Phylogenetic identiﬁcation
+Yes
+Complete 16S rRNA gene sequence data
+Cloning bias
+16S rRNA gene
+High-throughput sequencing
+Phylogenetic identiﬁcation
+Yes
+High-throughput data generation
+Short reads
+16S rRNA gene
+Fingerpinting
+Community proﬁle
+No
+Fast comparison between communities
+No direct link with phylogeny
+16S rRNA
+FISH
+Cell numbers
+Yes
+Accurate enumeration
+Dependent on 16S rRNA databases
+16S rRNA gene
+qPCR
+16S rRNA gene abundances
+Yes
+Wide dynamic range
+Dependent on 16S rRNA databases
+16S rRNA gene
+Phylogenetic microarray
+Phylogenetic identiﬁcation
+Yes
+High-throughput phylogenetic proﬁling
+Dependent on 16S rRNA databases
+What microbial genes
+are present in the GI tract?
+Community DNA
+Sequence-based metagenomics
+Gene sequences
+Not always
+High-throughput data generation
+Function mainly based on predictions
+Community DNA
+Function-based metagenomics
+Functional properties
+encoded on DNA fragment
+Not always
+Functional properties linked to DNA
+sequences
+Suitable cloning host/system and
+screening assays needed
+What are GI tract
+microbes doing?
+mRNA
+Metatranscriptomics
+Community gene expression
+Not always
+Direct information about microbial activity
+Community RNA extraction challenging
+Proteins
+Metaproteomics
+Community protein production
+Not always
+Direct information about microbial activity
+No uniform protocol for all cell fractions
+Metabonomics
+Metabonomics/metabolomics
+Community metabolity proﬁles
+No
+Microbiota activity representation
+No link with microbes or its function
+Lactulose hydrogen
+breath test
+Measuring GI tract gas production
+Hydrogen and methane breath
+content
+No
+Unclear, simple test but not validated for
+diagnosing SIBO
+May simply measure small intestinal
+transit time to caecum
+Glucose hydrogen
+breath test
+Measuring GI tract gas production
+Hydrogen breath content
+No
+Same as above
+Poor sensitivity; misses distal SIBO
+FISH, ﬂuorescent in situ hybridisation; GI, gastrointestinal; qPCR, quantitative PCR; SIBO, small intestinal bacterial overgrowth.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+163
+cells.123 Other studies have shown the importance
+of increased 5HT containing cells in IBS-D130 and
+increased sensitivity in IBS-D with increased EC cell
+counts,131
+accelerated
+gut
+transit
+and
+visceral
+hypersensitivity.132 These effects on gut physiology
+will impact on the gut microbiota environment. An
+early study of children with acute gastroenteritis
+demonstrated alkalinisation of stool pH, likely due
+to the decrease in bacterial metabolites (SCFAs) and
+a fall in numbers of Bacteroides, Biﬁdobacterium,
+Lactobacillus
+and
+Eubacterium.133
+Conventional
+enumeration of faecal bacteria showed a 10-fold fall
+in anaerobes (Bacteroidaceae and Eubacterium), little
+change in aerobes, but 109 cfu/g of pathogens.
+Another study using conventional culture methods
+showed a reversal of the normal anaerobe/aerobe
+dominance during acute infection.134 More recent
+human studies using modern culture-independent
+methods tended to conﬁrm these ﬁndings.135 136
+PCR-denaturing
+gradient
+gel
+electrophoresis
+proﬁling of 16S rRNA genes showed a reduced
+diversity, often associated with a dominant band
+suggesting overgrowth of one subtype, which may
+not always be the original pathogen. A recent clin-
+ical trial of an oral rehydration solution containing
+a prebiotic, amylase resistant starch in acute diar-
+rhoea in India, including children aged 3 months to
+5 years, used PCR primers directed at selected
+bacteria, for example, Eubacterium spp. and Faecali-
+bacterium prausnitzii, key bacteria involved in starch
+fermentation. These studies showed a decline in
+some anaerobes (Bacteroides spp., Eubacterium spp.
+and Faecalibacterium prausnitzii) while other genera
+including Biﬁdobacterium spp. were unchanged.135
+This depletion of anaerobes could be due to accel-
+eration of transit, which could lead to a loss of the
+anaerobic niche. Since these are the key bacteria
+involved in colonic salvage of unabsorbed carbohy-
+drate,137 this may also contribute to the diarrhoea
+phenotype by preventing fermentation to SCFAs,
+which are known to stimulate colonic salt and
+water absorption, both directly and by inducing
+Figure 3
+The lactulose hydrogen breath test (LHBT) predominantly measures small
+intestinal transit rather than small intestinal bacterial overgrowth (SIBO) in irritable bowel
+syndrome (IBS) patients. Upper schematic shows ingestion of test meal with subsequent
+serial measurement of both H2 gas, resulting from fermentation of the lactulose by intestinal
+bacteria, and Tc99 scanning in the caecum. This latter measurement detects when the test
+meal has reached the caecum. The stylised drawing below shows a representative result
+from an IBS patient with serial measurements over time. The Tc99 had already reached the
+caecum in large quantities before the H2 PPM level has reached the threshold for an
+abnormal test. This demonstrates that the increased H2 production results from fermentation
+by colonic bacteria, not by abnormal bacteria small intestine (ie, SIBO).94
+Table 2
+Summary of studies culturing small bowel microbiome
+Study
+Number of patients
+Sample type
+Microbiology results
+Comments
+Drasar and Shiner76
+13 Diarrhoea, all investigations
+negative
+Jejunal capsule
+No difference from controls;
+no increased numbers of pathogens
+or non-pathogens
+Possible IBS but not deﬁned as IBS
+Rumessen et al77
+60 Patients suspected of SIBO
+Proximal jejunal aspirate
+15 With no predisposing cause
+had no evidence of SIBO; of 23
+with SIBO, 4 had no predisposing
+cause
+Groups poorly deﬁned, 8 IBS identiﬁed
+and all negative for SIBO; 22 cases
+considered inconclusive
+Corazza et al78
+31 Chronic diarrhoea, no
+predisposing cause
+Proximal jejunal aspirate
+10 Had SIBO ($106 cfu/ml or
+colonic bacteria), 2 IBS, 8 other
+multiple other diagnoses
+IBS not deﬁned, and total IBS not clear
+Bardhan et al79
+10 Controls; 4 irritable colon;
+22 other
+Endoscopic aspirates from
+proximal jejunum
+No positive cultures in irritable
+colon
+Positive cultures in 11 cases, many
+postsurgical
+Lewis et al80
+23 With functional bowel
+disorders
+Duodenal endoscopic aspirate
+Mean control count 3.23102
+cfu/ml, no anaerobes, no sterile
+samples
+No speciﬁc IBS, deﬁned as functional
+bowel disorders
+Sullivan et al81
+7 IBS; 20 controls
+Proximal jejunal biopsy using
+Watson capsule
+No differences, ﬂora similar to
+normal oropharyngeal ﬂora
+Colonic pathogen in 2 healthy subjects
+Posserud et al82
+162 IBS; 42 controls
+Proximal jejunal aspirate
+4%$105 cfu, same as controls.
+Subanalysis using $53103,
+43% IBS vs 12% controls
+No correlation with motor pattern in
+IBS group
+Kerckhoffs et al83
+8 IBS; 9 controls
+Proximal jejunal aspirate
+No different number diagnosed
+with SIBO using multiple deﬁnitions
+No differences also using molecular-based
+counts
+Choung et al84
+148 IBS; 542 ‘other
+indications to test for SIBO’
+Duodenal endoscopic aspirate
+2% IBS >105 cfu/ml 10% in ‘other’
+indications
+Retrospective study 18% IBS
+>0<105 cfu/ml
+Pyleris et al85
+85 IBS 150 non-IBS
+Duodenal endoscopic aspirate
+37% IBS >103 cfu/ml 15.11% non-IBS
+All investigated because of UGI bleed
+IBS, irritable bowel syndrome; SIBO, small intestinal bacterial overgrowth; UGI, upper gastrointestinal.
+Recent advances in clinical practice
+164
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+increased expression of transporters.138e140 Previous
+earlier studies in IBS-D suggest impaired SCFA
+concentrations and production rates in ex vivo
+incubation, which may also reﬂect reduced anaer-
+obes.141
+Another cause of depletion of anaerobes is broad-
+spectrum antibiotics. There are no RCTs, but
+epidemiological
+studies
+show
+an
+association
+between antibiotic use and an increased risk of PI-
+IBS.142 A study of children showed that 3 months
+after Salmonella infection, vomiting, abdominal
+pain and diarrhoea were reported by 9.5% of those
+treated with antibiotics but only 2.9% of those
+who received no antibiotics.142
+Changes in the interaction between intestinal
+microbiota and host factors (eg, age, diet, transit,
+host genetic factors, antibiotics) could be important
+for IBS pathophysiology. These factors, in turn, could
+be related to changes in homeostatic pathways
+including
+barrier
+function,
+neuromotor
+sensory
+function and the brainegut axis.143 144 For example,
+bidirectional signalling between the microbiota and
+the epithelium regulates epithelial secretion of mucus
+as well as other defence factors involved in regulating
+the microbiota. Changes in these factors (eg, changes
+in mucus layer and increased b-defensin-2 peptide)
+have been detected in patients with IBS and func-
+tional diarrhoea and suggest a microbiotaehost
+immune system engagement.145 146 In line with this
+concept, there is also recent demonstration that IBS
+patients have increased colonic mucosal expression of
+receptors
+recognising
+speciﬁc
+microbiota-related
+substances (such as Toll-like receptor-4 which recog-
+nises bacterial lipopolysaccharides)147 or increased
+titres of circulating antibodies against components of
+the indigenous microbiota (ie, antiﬂagellin anti-
+bodies).148 Several studies demonstrated low-grade
+activation of innate and adaptive mucosal immune
+response
+in
+large
+subgroups
+of
+patients
+with
+IBS.12 149 Increased activated mast cells, CD3+ve,
+CD4+ve and CD8+ve T cells have been detected in
+both postinfectious IBS and non-speciﬁc IBS.12 149
+The relative importance of mast cells in this setting is
+demonstrated by the abundance of this immune cell
+type over other immunocytes and by increased
+release from mucosal biopsies of histamine, tryptase
+and prostaglandins.150 151 Mast cells were located in
+closer vicinity to mucosal innervation and correlated
+with the severity and frequency of abdominal pain in
+patients with IBS.152 There are potential implications
+of mucosal immune activation for sensorimotor
+dysfunction of patients with IBS. Histamine and
+tryptase released from mucosal biopsies of patients
+with
+IBS
+evoked
+increased
+mesenteric
+sensory
+afferent activation and induced visceral hyspersensi-
+tivity
+via
+histamine-1
+receptors
+and
+proteinase
+activated-2 receptors when applied to recipient
+rats.150
+151 Intestinal microbiota may well be an
+active participant in this scenario through stimula-
+tion of the immune system,153 likely in the subgroup
+of subjects showing increased epithelial permeability
+which could154 expose the immune system to an
+abnormal microbial antigenic load. Overall, the
+results suggest that bacterialehost interactions may
+be initiated by components of the microbiota that
+can cross the mucus and adhere to epithelial cells,
+inducing activation of the mucosal innate defence
+system even in the absence of mucosal destruction.
+The use of probiotics, particularly in animal
+models,
+also
+demonstrates
+that
+their
+secreted
+products or metabolites can modulate contractility
+of
+intestinal
+smooth
+muscle
+and
+visceral
+sensitivity.59e61 Moreover, application of probiotics
+can recover neuromotor-sensory dysfunction in
+IBS-like models.
+Modulation of the brainegut axis is particularly
+relevant in IBS because psychological comorbidity
+is common. Some forms of psychological stress in
+animal studies can induce shifts in the bacterial
+composition of the gut that is accompanied by
+systemic cytokine response and increased intestinal
+permeability.155 The interplay may be bidirectional
+as suggested by animal studies showing that the
+microbiota can affect brain chemistry and behav-
+iour.156 Nonetheless, for the time, the potential
+relevance of brainemicrobiota interactions have yet
+to be shown in humans in general and in FBD in
+particular.
+GI DISORDERS MIMICKING AND OVERLAPPING
+WITH FBDS
+Although celiac disease, IBD or diverticulitis can
+coexist with IBS, an ‘IBS’ diagnosis in the presence
+of an organic disease may be challenging.
+Box 2 Relevance of studies showing changes in microbiota in irritable
+bowel syndrome
+< The relevance of small intestinal bacterial overgrowth in irritable bowel
+syndrome (IBS) remains unclear due to methodological problems, inﬂuence of
+confounding factors and large differences between studies.
+< Heterogeneity of IBS and variation in methods used to study the faecal
+microbiota have resulted in conﬂicting reports of differences from healthy
+controls.
+< The microbiome may contribute to IBS symptoms by altering gut neuromotor-
+sensory function, barrier function and/or the brainegut axis.
+Figure 4
+Plot chart of currently available strategies for
+modifying gut microbiota aiming to demonstrate the
+relationship between the effectiveness and invasiveness/
+safety of the proposed approach. FODMAP, fermentable
+oligo-, di- and mono-saccharides and polyols; PPI, proton
+pump inhibitor.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+165
+Table 3
+Summary of culture and molecular studies of colonic microbiome
+Study
+Subject
+Sample
+Method
+Patient group
+Main ﬁnding
+Country of study
+Balsari et al96
+IBS (n¼20) Ctrls (n¼20)
+Faeces
+Culture
+IBS
+Y Coliform bacteria
+Y Lactobacillus spp.
+Y Biﬁdobacterium spp.
+Italy
+Si et al98
+IBS (n¼25) Ctrls (n¼25)
+Faeces
+Culture
+IBS
+Y Biﬁdobacterium
+[ Enterobacteriaceae
+Y C perfringens
+China
+Malinen et al99
+IBS (n¼27) Ctrls (n¼22)
+Faeces
+qPCR
+IBS
+Y B catenulatum
+Y Cl coccoides group
+Finland
+IBS-D
+Y Lactobacillus spp.
+IBS-C
+[ Veillonella spp.
+[ Lactobacillus spp.
+Ma¨tto¨ et al100
+IBS (n¼26) Ctrls (n¼25)
+Faeces
+Culture
+PCR-DGGE
+IBS
+[ Coliform bacteria
+[ Aerob to anaerob ratio
+Y Temporal stability
+Finland
+Maukonen et al101
+IBS (n¼24) Ctrls (n¼16)
+Faeces
+PCR-DGGE
+Afﬁnity capture
+IBS
+Y Temporal stability
+Finland
+IBS-C
+Y Cl coccoides group
+Kassinen et al102
+IBS (n¼24) Ctrls (n¼23)
+Faeces
+GC-proﬁling + sequencing
+of 16S rRNA genes
+qPCR
+IBS
+Y Collinsella aerofaciens
+Y Cl cocleatum
+Y Coprococcus eutactus
+Subgroup-diff (D, C, M)
+Finland
+Rajilic-Stojanovic103
+IBS (n¼20) Ctrls (n¼20)
+Faeces
+Microarray
+IBS
+Proteobacteria and speciﬁc Firmicutes[
+Other Firmicutes, Bacteroidetes and biﬁdobacteria Y
+Finland
+Kerckhoffs et al104
+IBS (n¼41) Ctrls (n¼26)
+Faeces
+Duodenal mucosa
+FISH
+qPCR
+IBS
+Y Biﬁdobacterium spp.
+Y B catenulatum
+The Netherlands
+Krogius-Kurikka et al105
+IBS-D (n¼10) Ctrls (n¼23)
+Faeces
+GC-proﬁling + sequencing
+of 16S rRNA genes
+IBS-D
+[ Proteobacteria
+[ Firmicutes
+Y Actinobacteria
+Y Bacteroidetes
+Finland
+Lyra et al106
+IBS (n¼20) Ctrls (n¼15)
+Faeces
+qPCR
+IBS-D
+[ R torques 94%
+Y Cl thermosuccinogenes 85%
+Finland
+IBS-C
+[ R bromii-like
+IBS-A
+Y R torques 93%
+[ Cl thermosuccinogenes 85%
+Tana et al107
+IBS (n¼26) Ctrls (n¼26)
+Faeces
+Culture
+qPCR
+IBS
+[ Veillonella spp.
+[ Lactobacillus spp.
+Japan
+Codling et al108
+IBS (n¼41) Ctrls (n¼33)
+Faeces
+Colonic mucosa
+PCR-DGGE
+IBS
+[ Temporal stability
+No signiﬁcant difference
+Faecal/mucosal
+Ireland
+Carroll et al28
+IBS-D (n¼10) Ctrls (n¼10)
+Faeces
+Colonic biopsies
+Culture
+qPCR
+IBS-D
+Y Aerobic bacteria Lactobacillus spp.
+USA
+Noor et al109
+IBS (n¼11) Ctrls (n¼22) UC (n¼13)
+Faeces
+PCR-DGGE + sequencing
+of 16S rRNA genes
+IBS
+Y Bacterial species
+Y Biodiversity
+[ Biological variability of predominant bacteria
+UK
+Malinen et al110
+IBS (n¼44)
+Faeces
+qPCR
+R torques 94% symptom severity
+Other phylotypes neg assoc.
+Finland
+Ponnusamy et al111
+IBS (n¼11) Ctrls (n¼8)
+Faeces
+DGGE + qPCR of
+16sRNA genes
+[ Diversity in Bacteroidetes & Lactobacilli
+[ Alanine & pyroglutamic acid & phenolic compounds
+Korea
+Rinttila et al112
+IBS (n¼96) Ctrls (n¼23)
+Faeces
+qPCR
+IBS
+S aureus (17%)
+Finland
+Saulnier et al113
+IBS (n¼22) Ctrls (n¼22) (Children)
+Faeces
+16s Metagenomic
+sequencing and DNA microarray
+IBS
+[ g Proteobacteria
+Classiﬁed IBS subtypes using sets of discriminant
+bacterial species
+USA
+Rajilic-Stojanovic et al114
+IBS (n¼62) Ctrls (n¼42)
+Faeces
+Phylogenetic 16S rRNA microarray and qPCR
+IBS
+[ Proteobacteria and speciﬁc Firmicutes
+Y Other Firmicutes, Bacteroidetes and biﬁdobacteria
+Finland
+Recent advances in clinical practice
+166
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+Gluten
+causes
+coeliac
+disease
+in
+genetically
+susceptible people and causes gut dysfunction in
+mice and can generate IBS symptoms in the
+absence of coeliac disease.157 Some patients with
+IBS lack tissue transglutaminase antibodies or
+histological markers of coeliac disease yet still
+respond symptomatically to a gluten-free diet. This
+entity is termed ‘non-coeliac gluten sensitivity’ or
+‘gluten
+sensitive
+IBS’.157e159
+The
+underlying
+mechanisms in humans remain unclear. Mouse
+models indicate that gluten can induce activation
+of innate immunity, increased small intestinal
+permeability,160 neuro-muscular dysfunction159 and
+dysbiosis161 in the absence of autoimmunity.
+IBS-like symptoms are common in IBD patients
+in
+long-standing
+remission,
+or
+are
+frequently
+reported
+in
+patients
+before
+the
+diagnosis
+of
+IBD.162 163 It is possible that IBS and IBD coexist
+with a higher than expected frequency, or may exist
+on a continuum, with IBS and IBD at different ends
+of the inﬂammatory spectrum. A study investi-
+gating IBS symptoms in IBD patients who were
+thought to be in clinical remission demonstrated
+high levels of calprotectin levels; this suggests that
+in most cases IBS symptoms are the result of
+undetected ongoing inﬂammation.164 Underlying
+mechanistic links are lacking but it is tempting to
+raise the hypothesis that the intestinal microbiota
+may be a common factor in both diseases.165 In
+fact, as with IBS (tables 2 and 3), faecal166e171 and
+mucosal-associated dysbiosis167
+172e178 has been
+described IBD.
+A high proportion of patients hospitalised with
+acute diverticulitis continue to have persistent
+symptoms that mimic IBS179 despite the absence of
+complications.180 Some uncontrolled studies claim
+beneﬁt
+from
+antibiotics
+and/or
+mesalazine
+suggesting
+a
+role
+for
+the
+microbiota
+in
+this
+syndrome.181
+TREATMENT IMPLICATIONS: ANTIBIOTICS,
+PROBIOTICS, PREBIOTICS AND SYNBIOTICS
+As the microbiota may be disturbed in functional
+GI disorders, a potential treatment approach is to
+try to correct dysbiosis either by the administration
+of an antibiotic or a preparation of ‘beneﬁcial’
+bacteria (box 3).
+Antibiotics
+Despite evidence that previous antibiotic use may
+be related to the development of IBS,182 183 and the
+fact that antibiotic treatment may increase the
+development of long-term digestive symptoms
+after bacterial gastroenteritis,142 poorly absorbable
+antibiotics might still have therapeutic potential in
+this
+condition.184
+Neomycin
+was
+the
+original
+choice184 185 although interest is now focused on
+a non-absorbed derivative of rifampicin called
+rifaximin.186
+There are three fully-published, double blind,
+placebo controlled trials of rifaximin in FBD187e189
+and the data suggest an improvement in symp-
+toms,
+especially
+bloating
+and
+ﬂatulence
+for
+approximately 10 weeks following treatment187 189
+Table 3
+continued
+Study
+Subject
+Sample
+Method
+Patient group
+Main ﬁnding
+Country of study
+Carroll et al115
+IBS-D (n¼16) Ctrls (n¼21)
+FaecesColonic mucosa
+T-RFLP ﬁngerprinting of 16S rRNA - PCR
+IBS-D
+Diminished microbial biodiversity in faecal samples
+USA
+Parkes et al116
+IBS-D (n¼27) IBS-C (n¼26) Ctrls (n¼26)
+Colonic mucosa
+FISH
+Confocal microscopy
+IBS
+Expansion of mucosa-associated microbiota; mainly
+bacteroides and clostridia; association with IBS subgroups
+and symptoms
+UK
+Jeffery et al117
+IBS (n¼37) Ctrls (n¼20)
+Faeces
+Pyrosequencing 16SrRNA
+Clustering of IBS patientsdnormal-like versus abnormal
+microbiota composition (increased ratio of Firmicutes to
+Bacteroidetes); association with symptom proﬁle
+Sweden
+n, number of randomised subjects.
+B, Biﬁdobacterium; C, constipation; C, Clostridium; Cl, Clostridium; ctrls, controls; D, diarrhoea; DGGE, denaturing gradient gel electrophoresis; FISH, ﬂuorescent in situ hybridisation; IBS, irritable bowel syndrome; L, Lactobacillus; qPCR, quantitative PCR;
+R, Ruminococcus; S, Staphylococcus; T-RFLP, terminal restriction fragment length polymorphism.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+167
+with a therapeutic advantage over placebo around
+10%. The doses used in these and other studies vary
+between
+600
+and
+2400 mg
+daily
+for
+7e14
+days190e195 but there remain concerns about anti-
+biotic resistance and possible Clostridium difﬁcile
+infection although so far these issues have not
+appeared to be a problem.196e200
+Thus, a short course of gut-speciﬁc antibiotics
+may have utility in some patients with IBS but we
+need to know more about predictors of treatment
+responsiveness, antibiotic resistance, the efﬁcacy
+and safety of re-treatment schedules as well as the
+optimal dosing regimen.201 202
+Probiotics
+Probiotics are live microorganisms which when
+administered in adequate amounts confer a health
+beneﬁt on the host203 with the most commonly
+used
+being
+the
+lactobacilli
+and
+biﬁdobacteria.
+Probiotics can be packaged in many formulations
+containing just one organism or a mixture and have
+a wide range of activities with evidence supporting
+an effect on at least some of the putative patho-
+physiological mechanisms implicated in IBS, such
+as
+visceral
+hypersensitivity,59
+60
+204
+205
+GI
+dysmotility,206e210 intestinal permeability,204 211 212
+the intestinal microbiota213 214 and immune func-
+tion215 although these effects can differ consider-
+ably between one organism and another. Thus, just
+because one organism is beneﬁcial, this does not
+mean that related organisms will behave similarly.
+For use in gastroenterology, it is important that
+a preparation contains sufﬁcient quantities of
+Box 3 Modulation of intestinal microbiota in functional bowel disorders
+< A short course of a non-absorbable antibiotic such as rifaximin has been
+shown to moderately improve the symptoms of irritable bowel syndrome
+(IBS), particularly bloating and ﬂatulence. Improvement persists after the
+cessation of treatment but the exact duration of this effect remains uncertain.
+< The majority of trials of probiotics in IBS show some degree of efﬁcacy
+although some of the early studies were of very poor quality.
+< Prebiotics and synbiotics should theoretically have the potential in treating
+functional gastrointestinal disorders but there are as yet no reliable data to
+support this view.
+Table 4
+Placebo controlled clinical trials of single or mixed probiotic preparations in IBS
+Organism
+n
+Outcome
+Reference
+Studies in adult patients
+S faecium
+54
+Y Global score
+Gade et al216
+Lactobacillus acidophilus
+18
+Y Global score
+Halpern et al217
+Lactobacillus plantarum 299V
+60
+Y Flatulence
+Nobaek et al218
+L plantarum 299V
+20
+Y Pain, ‘all IBS symptoms’
+Niedzielin et al219
+L plantarum 299V
+12
+Negative
+Sen et al220
+L plantarum MF1298
+16
+Deterioration of symptoms
+Ligaarden et al221
+L ramnosus GG
+25
+Negative
+O’Sullivan et al240
+L reuterii ATCC 55730
+54
+Negative
+Niv et al223
+L salivarius UCC4331
+75
+Negative
+O’Mahony et al215
+Biﬁdobacterium infantis 35624
+75
+Y Pain and composite score
+O’Mahony et al215
+B infantis 35624
+362
+Y Pain and composite score
+Whorwell et al224
+Biﬁdobacterium lactis DN-173-010
+274
+Y Digestive discomfort
+Guyonnet et al225
+B lactis DN-173-010
+34
+Y Maximum distension & pain
+Agrawal et al208
+Biﬁdobacterium biﬁdum MIMBb75
+122
+Y Global score
+Guglielmetti et al226
+Bacillus coagulans GBI-30, 6086
+52
+Y Bowel movements
+Dolin222
+Escherichia coli Nissle 1917
+120
+[ Treatment satisfaction
+Kruis et al227
+VSL#3 (x8)*
+25
+Y Bloating
+Kim et al209
+VSL#3 (x8)*
+48
+Y Flatulence
+Kim et al210
+Medilac DS (x2)*
+40
+Y Pain
+Kim et al228
+Mixture (x4)*
+103
+Y Global score
+Kajander et al229
+Mixture (x4)*
+86
+Y Global score
+Kajander et al214
+LAB4 (x4)*
+52
+Y Global score
+Williams et al230
+Mixture (x4)*
+106
+Negative
+Drouault-Holowacz et al231
+Mixture (x2)*
+40
+Y Pain
+Sinn et al232
+ProSymbioFlor (x2)*
+297
+Y Global score
+Enck et al233
+Cultura (x3)*
+74
+Negative
+Simre´n et al234
+Cultura (x3)*
+52
+Negative
+Sondergaard et al235
+Mixture (x4)*
+70
+Y Pain
+Hong et al236
+Studies in paediatric patients
+L ramnosus GG
+50
+Y Abdominal distension
+Bausserman and Michail237
+L ramnosus GG
+104
+Y Pain
+Gawronska et al238
+L ramnosus GG
+141
+Y Pain
+Francavilla et al212
+VSL#3 (x8)*
+59
+Y Global score
+Guandalini et al239
+*Number of organisms in a mixture.
+n, number of randomised subjects.
+IBS, irritable bowel syndrome; L ramnosus, Lactobacillus ramnosus; L reuterii, Lactobacillus reuterii; L salivarius, Lactobacillus salivarius; S faecium,
+Streptococcus faecium.
+Recent advances in clinical practice
+168
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+microbes which need to be acid and enzyme resis-
+tant with good mucosal adherence also being an
+advantage.
+Table
+4
+lists
+the
+results
+of
+the
+fully
+published placebo controlled probiotic trials to
+date.208e210 212 214e240 Unfortunately, their designs
+vary considerably;241e244 some of the older studies
+are of poor quality, and few attempt to deﬁne the
+mechanism of action or assess whether symptom-
+atic improvement is accompanied by a change in
+the microbiota. A recent systematic review reported
+that studies of poorer quality tended to show larger
+effects and published data indicate a publication
+bias, with non-reporting of negative effects in small
+trials.244 Around three-quarters of these studies
+were positive, of which four were in children,
+although different symptoms improved and the
+therapeutic
+gain
+over
+placebo
+was
+generally
+modest. Furthermore, it remains unclear which
+organisms are most effective as, for instance, some
+mainly reduce bloating and ﬂatulence,209 210 218
+whereas others improve bowel frequency,222 and
+some have a positive effect on global symptom
+scores.214 215 224 226 229 230 233 In some of the better
+quality trials biﬁdobacteria, such as Biﬁdobacterium
+infantis 35624,215 224 241 Biﬁdobacterium lactis DN
+173010208
+225 and Biﬁdobacterium biﬁdum MIM-
+Bb75,226 seem to be advantageous and in others
+probiotic mixtures appear to be useful.214 229 233
+In only one study was there symptom deteriora-
+tion221 although some large, high quality trials
+have been negative.221 231 234 235
+Diet, ﬁbre, prebiotics and synbiotics
+There are few proper randomised, placebo controlled
+trials of diet modiﬁcation because of the difﬁculty in
+controlling for the placebo effect. One randomised
+controlled
+trial
+showed
+bran
+aggravated
+symp-
+toms;245 excluding bran should help, and many
+patients believe this is true.246 A prebiotic is a product
+that, on ingestion, stimulates the growth of beneﬁcial
+bacteria already present in the host, which promotes
+the health of the individual.247
+248 A variety of
+oligosaccharides serve this function and a synbiotic
+is a combined prebiotic and probiotic. One of the
+earliest prebiotics was lactulose, an unabsorbable
+disaccharide
+laxative
+that
+increases
+the
+faecal
+concentrations of Biﬁdobacterium spp.45 249 as does
+inulin which, like lactulose, increases ﬂatulence47
+and thus makes it unlikely it will help IBS patients.
+To date, there has only been one double blind,
+placebo controlled trial of a prebiotic in IBS which
+used
+a
+trans-galactooligosaccharide
+mixture.250
+Compared with placebo this prebiotic reduced
+symptoms and stimulated the growth of biﬁdo-
+bacteria but clearly more research is required on
+dosing and the relative merits of other compounds.
+With regard to synbiotics, there are some studies
+but their design is not sufﬁciently robust to draw
+any ﬁrm conclusions251e255 although the concept
+of combining a prebiotic and probiotic is theoreti-
+cally attractive. Thus, attempting to modify the
+microbiota in patients with functional GI disorders
+shows some promise. However, we need to know
+how symptomatic improvement is achieved: is it
+mirrored by a change in gut microbiota or is some
+other mechanism involved?
+CLINICAL GUIDANCE REGARDING MODULATION
+OF INTESTINAL MICROBIOTA IN IBS
+While the science regarding the role of microbiota
+in FGIDs remains in its infancy, patients are
+exposed
+to
+conﬂicting
+claims
+concerning
+the
+symptomatic beneﬁt from modulating gut micro-
+biota. This section aims to help clinicians give the
+best advice, despite limited evidence (box 4).
+Diet profoundly alters the microbiota. Reducing
+intake of ﬁbre256 or FODMAPs257 is one of the
+simplest and safest ways of altering gut microbiota,
+which can lead to improvement in bloating and
+diarrhoea, an effect which may last for years.258
+However, so far the evidence to support widespread
+use of FODMAP reduction in patients with IBS is
+limited and comes mainly from one research group.
+Systematic exclusion diets may also help258 but are
+laborious; targeted exclusion of regularly consumed
+suspects, such as dairy, wheat, fruit and vegetables,
+may be more practical.
+The safety of probiotics in IBS is acceptable but
+some
+aggravate
+symptoms221
+and
+so
+patients
+should be warned of this possibility. At present, the
+strongest evidence is for Biﬁdobacterium infantis
+35624 at a dose of 13108 cfu/day taken for at least
+4 weeks.224 It remains unclear who beneﬁts from
+which variety of probiotic since there are many
+incompletely answered questions surrounding this
+therapeutic approach, including:
+< Are single organisms better than mixtures or
+vice versa?
+< Do some mixtures of organisms contain strains
+that are competitive or antagonistic without
+additive effects?
+< Can probiotic foods and drinks be administered
+simultaneously?
+Box 4 Diagnostic and therapeutic general recommendations
+< There is currently no clinically useful way of identifying whether the
+microbiota are disturbed in particular patients with irritable bowel syndrome
+(IBS).
+< Dietary evaluation and exclusion of possible sources of unabsorbable
+carbohydrates including fermentable oligo-, di- and mono-saccharides and
+polyols and excessive ﬁbre could be beneﬁcial in select patients.
+< Probiotics have a reasonable evidence base and should be tried, for a period
+of at least 1 month, at adequate doses before a judgement is made about the
+response to treatment.
+< The utility of testing for small intestinal bacterial overgrowth (SIBO) in the
+setting of IBS remains an area of uncertainty.
+< If SIBO is strongly suspected based on clinical presentation and testing is
+being considered, using stringent criteria for the glucose breath test or jejunal
+aspirate appear to be the best tests.
+< Consideration should be given to discontinuing proton pump inhibitors in
+those with SIBO.
+< There is emerging evidence that non-absorbable antibiotics may have the
+potential to reduce symptoms in some patients with IBS.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+169
+< What
+are
+the
+best
+delivery
+systemsd
+liquids or capsules?
+< How
+can
+viability
+and
+bioavailability
+be
+ensured?
+< What are the optimal dosing regimens and their
+duration?
+< What is the frequency of host colonisation?
+< Probiotics
+are
+not
+potent
+pharmacological
+agents: what patient group should be targeted?
+< Are there any groups of patients where probi-
+otics
+might
+be
+contraindicated
+such
+as
+newborns, immunocompromised or seriously ill
+individuals?
+< Are there any safety issues about some strains of
+probiotics, for example, those of Escherichia coli?
+< Should different probiotics be given to speciﬁc
+subgroups of IBS patients?
+< Which symptoms of IBS should be the main
+target for therapy?
+< What
+are
+the
+possible
+mechanisms
+behind
+symptom improvement?
+< How should doctors and patients be advised
+about their administration?
+The considerable acid suppression induced by
+PPIs may alter upper gut microbiota and can
+potentially induce IBS symptoms.92 Thus, it is
+worth considering PPI discontinuation in selected
+IBS patients on PPIs for unclear reasons, especially
+if their symptoms started with PPI therapy.
+The most direct way of altering gut microbiota is
+to use broad-spectrum antibiotics. However, rapid
+development
+of
+antibiotic
+resistance
+leads
+to
+concerns about using antibiotics in such a ubiqui-
+tous and chronic condition. Moreover, it is likely
+that patients may require repeated courses of
+therapy, as trial evidence suggests the beneﬁt
+diminishes by 12 weeks.189 The best evidence is for
+rifaximin 550 mg, thrice daily for 2 weeks.189 The
+number-needed-to-treat was 11 which should be
+compared with 4 for ‘placebo without deception,259
+7 for alosetron,260 8 for linaclotide261 and 14 for
+tegaserod.262
+Although rifaximin appears to be well tolerated
+and safe, given its relatively low potency its use
+should be restricted to difﬁcult cases since its
+widespread use could promote resistance, such as
+rifampin-resistant
+strains
+of
+stapyholococci.196
+Figure 4 provides a plot chart of currently available
+strategies for modifying gut microbiota according
+to
+the
+effectiveness
+and
+invasiveness
+of
+the
+proposed approach, and general recommendations
+appear in box 4.
+CONCLUSIONS AND RECOMMENDATIONS FOR
+FUTURE RESEARCH AND DEVELOPMENT
+Although there is good evidence supporting the
+concept that the intestinal microbiota is perturbed
+in patients with FBD, we still lack data on the
+mechanisms
+through
+which
+hostemicrobiota
+interactions underlie pathophysiology and generate
+symptoms; we need to overcome several boundaries
+that hold back our knowledge in this ﬁeld.
+The SIBO hypothesis in IBS remains a matter of
+debate because the breath tests and the small bowel
+culture techniques have not been validated. In addi-
+tion, confounding factors, including the use of antibi-
+otics or PPIs, have not been taken into account in
+many studies. The wide heterogeneity of FBD and the
+inter-individual
+variability
+of
+microbiota
+proﬁles
+suggest that larger sample size studies (both in the
+pathophysiology and therapeutic settings) are of key
+importance in the future. Attention should be directed
+to the assessment of correlations between microbiota
+changes with patient’s symptoms. Whenever possible,
+studies should be stratiﬁed by factors known or
+assumed to affect intestinal microbiota (eg, age, diet,
+enterotype)
+and
+designed
+to
+reduce
+potential
+confounding factors (eg, antibiotics, probiotics, laxa-
+tives, prokinetcs, PPI and mesalazine). Although faecal
+samples are relatively easy to obtain, future work
+should better characterise microbial populations at the
+luminal and mucosal level which may differ substan-
+tially from faecal microbiota. Hostemicrobiota inter-
+actions are dynamic events and likely inﬂuenced by
+several factors. This suggests that there is a need for
+longitudinal studies assessing gut microbiota during
+remission, and symptom ﬂare-ups, stress, infection or
+following dietary manipulation and the use of probi-
+otics, prebiotics and antibiotics. The effect of bowel
+transit on microbiota proﬁles and correlation with
+symptoms should also be assessed.
+One important limitation of available studies is
+their descriptive rather than mechanistic nature.
+Accordingly, studies should be directed at clarifying
+causeeeffect
+relationships
+between
+microbiota
+changes and bowel dysfunction. In this way,
+microbiota signatures can be developed to help
+identify IBS biomarkers which might, in turn, offer
+therapeutic targets. For example, the theory that
+luminal bacteria may drive low-grade intestinal
+immune activation should now be substantiated by
+mechanistic and interventional studies. Data in
+rodents suggest the existence of a bidirectional
+interplay between the brain and gut microbiota.144
+In addition, the existence of systemic immune
+responses to microbial luminal antigens (anti-
+ﬂagellin antibodies)148 provides initial evidence that
+microbial homeostasis may be perturbed beyond
+the GI tract. These aspects need to be further
+explored to open new avenues of research in FBD.
+Currently, there are promising results suggesting
+that a subgroup of patients with FBD may respond
+favourably to a short course of gut-speciﬁc antibi-
+otics. However, most probiotic and antibiotic trials
+are underpowered and suffer suboptimal design.
+Bloating and ﬂatulence appear to be especially
+responsive to non-absorbable antibiotics. In order
+to safely direct these treatment options to the
+appropriate patients, we need to know more about
+predictors of treatment responsiveness, the risk of
+development of antibiotic resistance, the efﬁcacy
+and safety of re-treatment schedules, and the
+optimal dosing regimen.201
+202 Further studies
+should also investigate the mechanism and site of
+action of non-absorbable antibiotics since amelio-
+ration of gas-related symptoms in patients occurred
+also in patients with no evidence of SIBO.188
+Probiotics seem to have a positive, albeit modest,
+Recent advances in clinical practice
+170
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+effect in both children and adults with FBD, espe-
+cially IBS. However, head-to-head comparisons
+between different probiotic products would be
+useful and future trials need to be large scale, high-
+quality and use valid end points. Trials should also
+explore
+the
+mechanisms
+behind
+symptom
+improvement.
+Faecal transplantation is efﬁcacious in 145⁄166
+(87%) patients with fulminant and refractory C
+difﬁcile infection. This procedure has also been
+proposed for the treatment of IBS but further
+research is needed.263
+In conclusion, a better deﬁnition of the role of
+intestinal
+microbiota
+in
+the
+pathogenesis
+and
+pathophysiology of FBD represents a challenge for
+the future. Although promising, therapeutic impli-
+cations will need to be better deﬁned in well-
+conducted, large clinical trials. A strict cooperation
+of experienced clinical researchers with microbial
+ecologists should be considered an important factor
+for the success of these future studies.
+Author afﬁliations:
+1Department of Internal Medicine, Institute of Medicine, Sahlgrenska
+Academy, University of Gothenburg, Gothenburg, Sweden
+2Department of Medical and Surgical Sciences and Center for
+Applied Biomedical Research, University of Bologna, Bologna, Italy
+3Microbial Ecology Group, Rowett Institute of Nutrition and Health,
+University of Aberdeen, Bucksburn, Aberdeen, UK
+4VA Greater Los Angeles Healthcare System David Geffen School of
+Medicine at UCLA, Los Angeles, USA
+5NIHR Biomedical Research Unit, Nottingham Digestive Diseases
+Centre, E Floor West Block, University Hospital, Nottingham, UK
+6Gastrointestinal Diseases Research Unit, Queen’s University,
+Kingston, Ontario, Canada
+7Farncombe Family Digestive Health Research Institute, McMaster
+University, Hamilton, Canada
+8Department of Medicine, University of Manchester, Wythenshawe
+Hospital, Manchester, UK
+9Laboratory of Microbiology, Department of Agrotechnology and
+Food Sciences, Wageningen University, the Netherlands
+Acknowledgements The authors would like to thank Professor
+Willem de Vos, Professor Eamonn Quigley, Professor Patrizia Brigidi
+and the Rome Foundation board members for critical revision of
+the manuscript. We also acknowledge the valuable help of Cesare
+Cremon in manuscript editing and the expert secretarial support
+from Emma Bradley.
+Contributors The Working Team was led by MS and GB. All working
+team members contributed equally to the manuscript.
+Funding This work is supported by Rome Foundation, USA. In
+addition, the authors would like to acknowledge the following
+funding sources: Italian Ministry of Education, University and
+Research (PRIN 2009); Fondazione Cassa di Risparmio and IMA,
+Bologna, Italy (GB); Scottish government RESAS support (HJF); The
+Swedish Medical Research Council (grants 13409, 21691 and
+21692), the Marianne and Marcus Wallenberg Foundation, and the
+University of Gothenburg, Centre for Person-Centred Care (GPCC),
+Sahlgrenska Academy, University of Gothenburg and by the Faculty
+of Medicine, University of Gothenburg (MS); Shire/Movetis, Amgen,
+Ironwood (BS); Canadian Institute of Health Research (CIHR) and
+Crohn’s and Colitis Foundation of Canada (CCFC) (SV); Lesaffre
+International, Norgine, National Institute for Health Research
+Biomedical Research Unit Grant (RS); CAG/CIHR, CCA (Canadian
+Celiac Association), CCFC and Nestec (EFV); EFV holds a Career
+Award from the Department of Medicine, McMaster University.
+Competing interests This is a Rome Working Team Report. All
+authors are responsible for writing the study interpretation of data,
+and critical revision of the manuscript. The authors would like to
+disclose the following potential competing interests:
+Alfa-Wasserman, Prometheus, Shire/Movetis, Sofar (GB); Danone
+Research, Arla Foods, Novartis, Shire/Movetis, AstraZeneca (MS);
+Ironwood, Shire/Movetis, Prometheus (BS); Boeringer Ingelheim &
+Ironwood (RS); Ferring Canada and US (SV); Nestec grant support
+(EFV); Novartis Pharmaceuticals, GlaxoSmithKline, Solvay
+Pharmaceuticals, Pﬁzer Global Research and Development, Rotta
+Research, Proctor and Gamble, Danone Research, Astellas Pharma,
+Ironwood Pharmaceuticals, Sucampo Pharmaceuticals, Almirall
+Pharma, Movetis UK, Norgine, Chr Hansen, Boehringer-Ingelheim,
+and Heel GMBH (PW).
+Provenance and peer review Not commissioned; externally peer
+reviewed.
+REFERENCES
+1.
+Drossman DA. The functional gastrointestinal disorders and the
+Rome III process. Gastroenterology 2006;130:1377e90.
+2.
+Koloski NA, Talley NJ, Boyce PM. Epidemiology and health care
+seeking in the functional GI disorders: a population-based study.
+Am J Gastroenterol 2002;97:2290e9.
+3.
+Belsey J, Greenﬁeld S, Candy D, et al. Systematic review:
+impact of constipation on quality of life in adults and children.
+Aliment Pharmacol Ther 2010;31:938e49.
+4.
+Gralnek IM, Hays RD, Kilbourne A, et al. The impact of irritable
+bowel syndrome on health-related quality of life. Gastroenterology
+2000;119:654e60.
+5.
+Simren M, Svedlund J, Posserud I, et al. Health-related quality of
+life in patients attending a gastroenterology outpatient clinic:
+functional disorders versus organic diseases. Clin Gastroenterol
+Hepatol 2006;4:187e95.
+6.
+Spiegel BM. The burden of IBS: looking at metrics. Curr
+Gastroenterol Rep 2009;11:265e9.
+7.
+Hillila MT, Farkkila NJ, Farkkila MA. Societal costs for irritable
+bowel syndromeea population based study. Scand J
+Gastroenterol 2010;45:582e91.
+8.
+Jiang X, Locke GR, Zinsmeister AR, et al. Health care seeking for
+abdominal bloating and visible distention. Aliment Pharmacol Ther
+2009;30:775e83.
+9.
+Singh G, Lingala V, Wang H, et al. Use of health care resources
+and cost of care for adults with constipation. Clin Gastroenterol
+Hepatol 2007;5:1053e8.
+10.
+Gunnarsson J, Simren M. Peripheral factors in the
+pathophysiology of irritable bowel syndrome. Dig Liver Dis
+2009;41:788e93.
+11.
+Ohman L, Simren M. New insights into the pathogenesis and
+pathophysiology of irritable bowel syndrome. Dig Liver Dis
+2007;39:201e15.
+12.
+Ohman L, Simren M. Pathogenesis of IBS: role of inﬂammation,
+immunity and neuroimmune interactions. Nat Rev Gastroenterol
+Hepatol 2010;7:163e73.
+13.
+Young VB, Schmidt TM. Overview of the gastrointestinal
+microbiota. Adv Exp Med Biol 2008;635:29e40.
+14.
+Sekirov I, Russell SL, Antunes LC, et al. Gut microbiota in health
+and disease. Physiol Rev 2010;90:859e904.
+15.
+O’Hara AM, Shanahan F. The gut ﬂora as a forgotten organ.
+EMBO Rep 2006;7:688e93.
+16.
+Frank DN, St Amand AL, Feldman RA, et al. Molecular-
+phylogenetic characterisation of microbial community imbalances
+in human inﬂammatory bowel diseases. Proc Natl Acad Sci U S A
+2007;104:13780e5.
+17.
+Swidsinski A, Loening-Baucke V, Lochs H, et al. Spatial
+organization of bacterial ﬂora in normal and inﬂamed intestine:
+a ﬂuorescence in situ hybridization study in mice. World J
+Gastroenterol 2005;11:1131e40.
+18.
+Dethlefsen L, McFall-Ngai M, Relman DA. An ecological and
+evolutionary perspective on human-microbe mutualism and
+disease. Nature 2007;449:811e18.
+19.
+Zoetendal EG, Rajilic-Stojanovic M, de Vos WM. High-
+throughput diversity and functionality analysis of the
+gastrointestinal tract microbiota. Gut 2008;57:1605e15.
+20.
+Eckburg PB, Bik EM, Bernstein CN, et al. Diversity of the human
+intestinal microbial ﬂora. Science 2005;308:1635e8.
+21.
+Parkes GC, Brostoff J, Whelan K, et al. Gastrointestinal
+microbiota in irritable bowel syndrome: their role in its
+pathogenesis and treatment. Am J Gastroenterol
+2008;103:1557e67.
+22.
+Spiller R, Garsed K. Postinfectious irritable bowel syndrome.
+Gastroenterology 2009;136:1979e88.
+23.
+Quigley EM. Therapies aimed at the gut microbiota and
+inﬂammation: antibiotics, prebiotics, probiotics, synbiotics, anti-
+inﬂammatory therapies. Gastroenterol Clin North Am
+2011;40:207e22.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+171
+24.
+Schmulson M, Chang L. Review article: the treatment of
+functional abdominal bloating and distension. Aliment Pharmacol
+Ther 2011;33:1071e86.
+25.
+Ford AC, Spiegel BM, Talley NJ, et al. Small intestinal bacterial
+overgrowth in irritable bowel syndrome: systematic review and
+meta-analysis. Clin Gastroenterol Hepatol 2009;7:1279e86.
+26.
+Salonen A, de Vos WM, Palva A. Gastrointestinal microbiota in
+irritable bowel syndrome: present state and perspectives.
+Microbiology 2010;156:3205e15.
+27.
+Arumugam M, Raes J, Pelletier E, et al. Enterotypes of the
+human gut microbiome. Nature 2011;473:174e80.
+28.
+Carroll IM, Chang YH, Park J, et al. Luminal and
+mucosal-associated intestinal microbiota in patients with diarrhoea-
+predominant irritable bowel syndrome. Gut Pathog 2010;2:19.
+29.
+Dominguez-Bello MG, Costello EK, Contreras M, et al. Delivery
+mode shapes the acquisition and structure of the initial
+microbiota across multiple body habitats in newborns. Proc Natl
+Acad Sci U S A 2010;107:11971e5.
+30.
+Stark PL, Lee A. The microbial ecology of the large bowel of
+breast-fed and formula-fed infants during the ﬁrst year of life.
+J Med Microbiol 1982;15:189e203.
+31.
+Palmer C, Bik EM, DiGiulio DB, et al. Development of the human
+infant intestinal microbiota. PLoS Biol 2007;5:e177.
+32.
+Balamurugan R, Janardhan HP, George S, et al. Bacterial
+succession in the colon during childhood and adolescence:
+molecular studies in a southern Indian village. Am J Clin Nutr
+2008;88:1643e7.
+33.
+Enck P, Zimmermann K, Rusch K, et al. The effects of ageing on
+the colonic bacterial microﬂora in adults. Z Gastroenterol
+2009;47:653e8.
+34.
+Biagi E, Nylund L, Candela M, et al. Through ageing, and beyond:
+gut microbiota and inﬂammatory status in seniors and
+centenarians. PLoS One 2010;5:e10667.
+35.
+De Filippo C, Cavalieri D, Di Paola M, et al. Impact of diet in
+shaping gut microbiota revealed by a comparative study in
+children from Europe and rural Africa. Proc Natl Acad Sci U S A
+2010;107:14691e6.
+36.
+Costabile A, Klinder A, Fava F, et al. Whole-grain wheat
+breakfast cereal has a prebiotic effect on the human gut
+microbiota: a double-blind, placebo-controlled, crossover study.
+Br J Nutr 2008;99:110e20.
+37.
+Walker AW, Ince J, Duncan SH, et al. Dominant and diet-
+responsive groups of bacteria within the human colonic
+microbiota. ISME J 2011;5:220e30.
+38.
+Martinez I, Kim J, Duffy PR, et al. Resistant starches types
+2 and 4 have differential effects on the composition of
+the fecal microbiota in human subjects. PLoS One 2010;5:
+e15046.
+39.
+Leach ST, Mitchell HM, Eng WR, et al. Sustained modulation of
+intestinal bacteria by exclusive enteral nutrition used to treat
+children with Crohn’s disease. Aliment Pharmacol Ther
+2008;28:724e33.
+40.
+Turnbaugh PJ, Hamady M, Yatsunenko T, et al. A core
+gut microbiome in obese and lean twins. Nature
+2009;457:480e4.
+41.
+Schwiertz A, Taras D, Schafer K, et al. Microbiota and SCFA in
+lean and overweight healthy subjects. Obes (Silver Spring)
+2010;18:190e5.
+42.
+Duncan SH, Lobley GE, Holtrop G, et al. Human colonic
+microbiota associated with diet, obesity and weight loss. Int J
+Obes (Lond) 2008;32:1720e4.
+43.
+Lewis S, Burmeister S, Brazier J. Effect of the prebiotic
+oligofructose on relapse of Clostridium difﬁcile-associated
+diarrhea: a randomised, controlled study. Clin Gastroenterol
+Hepatol 2005;3:442e8.
+44.
+Bouhnik Y, Attar A, Joly FA, et al. Lactulose ingestion increases
+faecal biﬁdobacterial counts: a randomised double-blind study in
+healthy humans. Eur J Clin Nutr 2004;58:462e6.
+45.
+Bouhnik Y, Neut C, Raskine L, et al. Prospective,
+randomised, parallel-group trial to evaluate the effects of
+lactulose and polyethylene glycol-4000 on colonic ﬂora in
+chronic idiopathic constipation. Aliment Pharmacol Ther
+2004;19:889e99.
+46.
+Smith SC, Choy R, Johnson SK, et al. Lupin kernel ﬁber
+consumption modiﬁes fecal microbiota in healthy men as
+determined by rRNA gene ﬂuorescent in situ hybridization. Eur J
+Nutr 2006;45:335e41.
+47.
+Ramnani P, Gaudier E, Bingham M, et al. Prebiotic effect of fruit
+and vegetable shots containing Jerusalem artichoke inulin:
+a human intervention study. Br J Nutr 2010;104:233e40.
+48.
+Cloetens L, Broekaert WF, Delaedt Y, et al. Tolerance of
+arabinoxylan-oligosaccharides and their prebiotic activity in
+healthy subjects: a randomised, placebo-controlled cross-over
+study. Br J Nutr 2010;103:703e13.
+49.
+Lewis S, Cochrane S. Alteration of sulfate and hydrogen
+metabolism in the human colon by changing intestinal transit
+rate. Am J Gastroenterol 2007;102:624e33.
+50.
+Ouﬁr LE, Barry JL, Flourie B, et al. Relationships between transit
+time in man and in vitro fermentation of dietary ﬁber by fecal
+bacteria. Eur J Clin Nutr 2000;54:603e9.
+51.
+Kamath PS, Phillips SF, Zinsmeister AR. Short-chain fatty acids
+stimulate ileal motility in humans. Gastroenterology
+1988;95:1496e502.
+52.
+Macpherson AJ, Uhr T. Induction of protective IgA by intestinal
+dendritic cells carrying commensal bacteria. Science
+2004;303:1662e5.
+53.
+Tlaskalova-Hogenova H, Stepankova R, Hudcovic T, et al.
+Commensal bacteria (normal microﬂora), mucosal immunity and
+chronic inﬂammatory and autoimmune diseases. Immunol Lett
+2004;93:97e108.
+54.
+Shroff KE, Meslin K, Cebra JJ. Commensal enteric bacteria
+engender a self-limiting humoral mucosal immune response while
+permanently colonizing the gut. Infect Immun 1995;63:3904e13.
+55.
+Crabbe PA, Nash DR, Bazin H, et al. Immunohistochemical
+observations on lymphoid tissues from conventional and germ-
+free mice. Lab Invest 1970;22:448e57.
+56.
+Helgeland L, Dissen E, Dai KZ, et al. Microbial colonization
+induces oligoclonal expansions of intraepithelial CD8 T cells in the
+gut. Eur J Immunol 2004;34:3389e400.
+57.
+Zoetendal EG, Akkermans AD, Akkermans-van Vliet WM, et al.
+The host genotype affects the bacterial community in the
+human gastrointestinal tract. Microb Ecol Health Dis
+2001;13:129e34.
+58.
+Petnicki-Ocwieja T, Hrncir T, Liu YJ, et al. Nod2 is required for
+the regulation of commensal microbiota in the intestine. Proc Natl
+Acad Sci U S A 2009;106:15813e18.
+59.
+Verdu EF, Bercik P, Verma-Gandhu M, et al. Speciﬁc probiotic
+therapy attenuates antibiotic induced visceral hypersensitivity in
+mice. Gut 2006;55:182e90.
+60.
+Rousseaux C, Thuru X, Gelot A, et al. Lactobacillus acidophilus
+modulates intestinal pain and induces opioid and cannabinoid
+receptors. Nat Med 2007;13:35e7.
+61.
+Eutamene H, Lamine F, Chabo C, et al. Synergy between
+Lactobacillus paracasei and its bacterial products to counteract
+stress-induced gut permeability and sensitivity increase in rats. J
+Nutr 2007;137:1901e7.
+62.
+Bercik P, Denou E, Collins J, et al. The intestinal microbiota
+affect central levels of brain-derived neurotropic factor and
+behavior in mice. Gastroenterology 2011;141:599e609, e1e3.
+63.
+Moore WE, Moore LH. Intestinal ﬂoras of populations that have
+a high risk of colon cancer. Appl Environ Microbiol
+1995;61:3202e7.
+64.
+Suau A, Bonnet R, Sutren M, et al. Direct analysis of genes
+encoding 16S rRNA from complex communities reveals many
+novel molecular species within the human gut. Appl Environ
+Microbiol 1999;65:4799e807.
+65.
+Zoetendal EG, Akkermans AD, De Vos WM. Temperature
+gradient gel electrophoresis analysis of 16S rRNA from human
+fecal samples reveals stable and host-speciﬁc communities of
+active bacteria. Appl Environ Microbiol 1998;64:3854e9.
+66.
+Andersson AF, Lindberg M, Jakobsson H, et al. Comparative
+analysis of human gut microbiota by barcoded pyrosequencing.
+PLoS One 2008;3:e2836.
+67.
+Rajilic-Stojanovic M, Heilig HG, Molenaar D, et al.
+Development and application of the human intestinal tract chip,
+a phylogenetic microarray: analysis of universally conserved
+phylotypes in the abundant microbiota of young and elderly
+adults. Environ Microbiol 2009;11:1736e51.
+68.
+Nelson KE, Weinstock GM, Highlander SK, et al; Human
+Microbiome Jumpstart Reference Strains Consortium. A catalog
+of reference genomes from the human microbiome. Science
+2010;328:994e9.
+69.
+Kurokawa K, Itoh T, Kuwahara T, et al. Comparative
+metagenomics revealed commonly enriched gene sets in human
+gut microbiomes. DNA Res 2007;14:169e81.
+70.
+Qin J, Li R, Raes J, et al. A human gut microbial gene catalogue
+established by metagenomic sequencing. Nature 2010;464:59e65.
+71.
+Klaassens ES, de Vos WM, Vaughan EE. A metaproteomics
+approach to study the functionality of the microbiota in the
+human infant gastrointestinal tract. Appl Environ Microbiol
+2007;73:1388e92.
+72.
+Gosalbes MJ, Durba´n A, Pignatelli M, et al. Metatranscriptomic
+approach to analyze the functional human gut microbiota. PLoS
+One 2011;6:e17447.
+Recent advances in clinical practice
+172
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+73.
+Verberkmoes NC, Russell AL, Shah M, et al. Shotgun
+metaproteomics of the human distal gut microbiota. ISME J
+2009;3:179e89.
+74.
+Rooijers K, Kolmeder C, Juste C, et al. An iterative workﬂow for
+mining the human intestinal metaproteome. BMC Genomics
+2011;12:6.
+75.
+Gasbarrini A, Corazza GR, Gasbarrini G, et al. Methodology and
+indications of H2-breath testing in gastrointestinal diseases: the
+Rome Consensus Conference. Aliment Pharmacol Ther 2009;29
+(Suppl 1):1e49.
+76.
+Drasar BS, Shiner M. Studies on the intestinal ﬂora. II. Bacterial
+ﬂora of the small intestine in patients with gastrointestinal
+disorders. Gut 1969;10:812e19.
+77.
+Rumessen JJ, Gudmand-Hoyer E, Bachmann E, et al. Diagnosis
+of bacterial overgrowth of the small intestine. Comparison of the
+14C-D-xylose breath test and jejunal cultures in 60 patients.
+Scand J Gastroenterol 1985;20:1267e75.
+78.
+Corazza GR, Menozzi MG, Strocchi A, et al. The diagnosis of
+small bowel bacterial overgrowth. Reliability of jejunal culture and
+inadequacy of breath hydrogen testing. Gastroenterology
+1990;98:302e9.
+79.
+Bardhan PK, Gyr K, Beglinger C, et al. Diagnosis of bacterial
+overgrowth after culturing proximal small-bowel aspirate
+obtained during routine upper gastrointestinal endoscopy. Scand
+J Gastroenterol 1992;27:253e6.
+80.
+Lewis SJ, Young G, Mann M, et al. Improvement in speciﬁcity of
+[14C]d-xylose breath test for bacterial overgrowth. Dig Dis Sci
+1997;42:1587e92.
+81.
+Sullivan A, Tornblom H, Lindberg G, et al. The micro-ﬂora of the
+small bowel in health and disease. Anaerobe 2003;9:11e14.
+82.
+Posserud I, Stotzer PO, Bjornsson ES, et al. Small intestinal
+bacterial overgrowth in patients with irritable bowel syndrome.
+Gut 2007;56:802e8.
+83.
+Kerckhoffs AP, Visser MR, Samsom M, et al. Critical evaluation
+of diagnosing bacterial overgrowth in the proximal small intestine.
+J Clin Gastroenterol 2008;42:1095e102.
+84.
+Choung RS, Ruff KC, Malhotra A, et al. Clinical predictors of
+small intestinal bacterial overgrowth by duodenal aspirate culture.
+Aliment Pharmacol Ther 2011;33:1059e67.
+85.
+Pyleris M, Giamarellos-Bourboulis EJ, Koussoulas B, et al. Small
+bowel culture conﬁrms the presence of small intestinal bacterial
+overgrowth in a Subset of IBS subjects. Gastroenterology
+2011;140:S-152.
+86.
+Booijink CCGM, El-Aidy S, Rajilic-Stojanovic M, et al. High
+temporal and inter-individual variation detected in the human ileal
+microbiota. Environ Microbiol 2010;12:3213e27.
+87.
+Guschin DY MB, Proudnikov D, Stahl DA, et al. Oligonucleotide
+microchips as genosensors for determinative and environmental
+studies in microbiology. Appl Environ Microbiol 1997;63:6.
+88.
+Ahmed S, Macfarlane GT, Fite A, et al. Mucosa-associated
+bacterial diversity in relation to human terminal ileum and colonic
+biopsy samples. Appl Environ Microbiol 2007;73:8.
+89.
+Zoetendal EG, Raes J, van den Bogert B, et al. The human small
+intestinal microbiota is driven by rapid uptake and conversion of
+simple carbohydrates. ISME J. Published Online First: 19 January
+2012. doi:10.1038/ismej.2011.212
+90.
+Vanner S. The small intestinal bacterial overgrowth. Irritable
+bowel syndrome hypothesis: implications for treatment. Gut
+2008;57:1315e21.
+91.
+Khoshini R, Dai SC, Lezcano S, et al. A systematic review of
+diagnostic tests for small intestinal bacterial overgrowth. Dig Dis
+Sci 2008;53:1443e54.
+92.
+Compare D, Pica L, Rocco A, et al. Effects of long-term PPI
+treatment on producing bowel symptoms and SIBO. Eur J Clin
+Invest 2011;41:380e6.
+93.
+Lombardo L, Foti M, Ruggia O, et al. Increased incidence of
+small intestinal bacterial overgrowth during proton pump inhibitor
+therapy. Clin Gastroenterol Hepatol 2010;8:504e8.
+94.
+Yu D, Cheeseman F, Vanner S. Combined oro-caecal scintigraphy
+and lactulose hydrogen breath testing demonstrate that breath
+testing detects oro-caecal transit, not small intestinal bacterial
+overgrowth in patients with IBS. Gut 2011;60:334e40.
+95.
+Law D, Pimentel M. Proton pump inhibitor therapy does not
+affect hydrogen production on lactulose breath test in subjects
+with IBS. Dig Dis Sci 2010;55:2302e8.
+96.
+Balsari A, Ceccarelli A, Dubini F, et al. The fecal microbial
+population in the irritable bowel syndrome. Microbiologica
+1982;5:185e94.
+97.
+Wyatt GM, Bayliss CE, Lakey AF, et al. The faecal ﬂora of two
+patients with food-related irritable bowel syndrome during
+challenge with symptom-provoking foods. J Med Microbiol
+1988;26:295e9.
+98.
+Si JM, Yu YC, Fan YJ, et al. Intestinal microecology and quality
+of life in irritable bowel syndrome patients. World J Gastroenterol
+2004;10:1802e5.
+99.
+Malinen E, Rinttila T, Kajander K, et al. Analysis of the fecal
+microbiota of irritable bowel syndrome patients and healthy
+controls with real-time PCR. Am J Gastroenterol
+2005;100:373e82.
+100.
+Matto J, Maunuksela L, Kajander K, et al. Composition and
+temporal stability of gastrointestinal microbiota in irritable bowel
+syndromeea longitudinal study in IBS and control subjects. FEMS
+Immunol Med Microbiol 2005;43:213e22.
+101.
+Maukonen J, Satokari R, Matto J, et al. Prevalence and
+temporal stability of selected clostridial groups in irritable bowel
+syndrome in relation to predominant faecal bacteria. J Med
+Microbiol 2006;55:625e33.
+102.
+Kassinen A, Krogius-Kurikka L, Makivuokko H, et al. The fecal
+microbiota of irritable bowel syndrome patients differs
+signiﬁcantly from that of healthy subjects. Gastroenterology
+2007;133:24e33.
+103.
+Rajilic-Stojanovic M. Diversity of the Human Gastrointestinal
+Microbiota: Novel Perspectives from High Throughput
+Analyses. Wageningen, The Netherlands: Wageningen University,
+2007.
+104.
+Kerckhoffs AP, Samsom M, van der Rest ME, et al. Lower
+Biﬁdobacteria counts in both duodenal mucosa-associated and
+fecal microbiota in irritable bowel syndrome patients. World J
+Gastroenterol 2009;15:2887e92.
+105.
+Krogius-Kurikka L, Lyra A, Malinen E, et al. Microbial
+community analysis reveals high level phylogenetic alterations in
+the overall gastrointestinal microbiota of diarrhoea-predominant
+irritable bowel syndrome sufferers. BMC Gastroenterol
+2009;9:95.
+106.
+Lyra A, Rinttila T, Nikkila J, et al. Diarrhoea-predominant irritable
+bowel syndrome distinguishable by 16S rRNA gene phylotype
+quantiﬁcation. World J Gastroenterol 2009;15:5936e45.
+107.
+Tana C, Umesaki Y, Imaoka A, et al. Altered proﬁles of intestinal
+microbiota and organic acids may be the origin of symptoms in
+irritable bowel syndrome. Neurogastroenterol Motil
+2010;22:512e19, e114e15.
+108.
+Codling C, O’Mahony L, Shanahan F, et al. A molecular analysis
+of fecal and mucosal bacterial communities in irritable bowel
+syndrome. Dig Dis Sci 2010;55:392e7.
+109.
+Noor SO, Ridgway K, Scovell L, et al. Ulcerative colitis and
+irritable bowel patients exhibit distinct abnormalities of the gut
+microbiota. BMC Gastroenterol 2010;10:134.
+110.
+Malinen E, Krogius-Kurikka L, Lyra A, et al. Association of
+symptoms with gastrointestinal microbiota in irritable bowel
+syndrome. World J Gastroenterol 2010;16:4532e40.
+111.
+Ponnusamy K, Choi JN, Kim J, et al. Microbial community and
+metabolomic comparison of irritable bowel syndrome faeces. J
+Med Microbiol 2011;60:817e27.
+112.
+Rinttila T, Lyra A, Krogius-Kurikka L, et al. Real-time PCR
+analysis of enteric pathogens from fecal samples of irritable
+bowel syndrome subjects. Gut Pathog 2011;3:6.
+113.
+Saulnier DM, Riehle K, Mistretta TA, et al. Gastrointestinal
+microbiome signatures of Paediatric patients with irritable bowel
+syndrome. Gastroenterology 2011;141:1782e91.
+114.
+Rajilic-Stojanovic M, Biagi E, Heilig HG, et al. Global and deep
+molecular analysis of microbiota signatures in fecal samples from
+patients with irritable bowel syndrome. Gastroenterology
+2011;141:1792e801.
+115.
+Carroll IM, Ringel-Kulka T, Keku TO, et al. Molecular analysis of
+the luminal- and mucosal-associated intestinal microbiota in
+diarrhea-predominant irritable bowel syndrome. Am J Physiol
+Gastrointest Liver Physiol 2011;301:G799e807.
+116.
+Parkes GC, Rayment NB, Hudspith BN, et al. Distinct microbial
+populations exist in the mucosa-associated microbiota of sub-
+groups of irritable bowel syndrome. Neurogastroenterol Motil
+2012;24:31e9.
+117.
+Jeffery IB, O’Toole PW, Ohman L, et al. An irritable bowel
+syndrome subtype deﬁned by species-speciﬁc alterations in
+faecal microbiota. Gut 2012;61:997e1006.
+118.
+Lupp C, Robertson ML, Wickham ME, et al. Host-mediated
+inﬂammation disrupts the intestinal microbiota and promotes the
+overgrowth of enterobacteriaceae. Cell Host Microbe
+2007;2:204.
+119.
+Barthel M, Hapfelmeier S, Quintanilla-Martinez L, et al.
+Pretreatment of mice with streptomycin provides a Salmonella
+enterica serovar Typhimurium colitis model that allows analysis of
+both pathogen and host. Infect Immun 2003;71:2839e58.
+120.
+Wheeler JG, Sethi D, Cowden JM, et al. Study of infectious
+intestinal disease in England: rates in the community, presenting
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+173
+to general practice, and reported to national surveillance. The
+Infectious Intestinal Disease Study Executive. BMJ
+1999;318:1046e50.
+121.
+Longstreth GF, Hawkey CJ, Mayer EA, et al. Characteristics of
+patients with irritable bowel syndrome recruited from three
+sources: implications for clinical trials. Aliment Pharmacol Ther
+2001;15:959e64.
+122.
+Spiller R, Card T, Mearin F, et al. Incidence and characteristics
+of postinfectious IBS (PI-IBS): a multinational internet survey. Gut
+2010;59:A32.
+123.
+Dunlop SP, Jenkins D, Neal KR, et al. Relative importance of
+enterochromafﬁn cell hyperplasia, anxiety, and depression in
+postinfectious IBS. Gastroenterology 2003;125:1651e9.
+124.
+Neal KR, Hebden J, Spiller R. Prevalence of gastrointestinal
+symptoms six months after bacterial gastroenteritis and risk
+factors for development of the irritable bowel syndrome: postal
+survey of patients. BMJ 1997;314:779e82.
+125.
+Thabane M, Kottachchi DT, Marshall JK. Systematic review and
+meta-analysis: the incidence and prognosis of post-infectious
+irritable bowel syndrome. Aliment Pharmacol Ther
+2007;26:535e44.
+126.
+Marshall JK, Thabane M, Borgaonkar MR, et al. Postinfectious
+irritable bowel syndrome after a food-borne outbreak of acute
+gastroenteritis attributed to a viral pathogen. Clin Gastroenterol
+Hepatol 2007;5:457e60.
+127.
+Porter CK, Gormley R, Tribble DR, et al. The incidence and
+gastrointestinal infectious risk of functional gastrointestinal
+disorders in a healthy US adult population. Am J Gastroenterol
+2011;106:130e8.
+128.
+Thornley JP, Jenkins D, Neal K, et al. Relationship of
+Campylobacter toxigenicity in vitro to the development of
+postinfectious irritable bowel syndrome. J Infect Dis
+2001;184:606e9.
+129.
+Marshall JK, Thabane M, Garg AX, et al. Incidence and
+epidemiology of irritable bowel syndrome after a large
+waterborne outbreak of bacterial dysentery. Gastroenterology
+2006;131:445e50; quiz 660.
+130.
+Cremon C, Carini G, Wang B, et al. Intestinal serotonin release,
+sensory neuron activation, and abdominal pain in irritable bowel
+syndrome. Am J Gastroenterol 2011;106:1290e8.
+131.
+Park JH, Rhee PL, Kim G, et al. Enteroendocrine cell counts
+correlate with visceral hypersensitivity in patients with diarrhoea-
+predominant irritable bowel syndrome. Neurogastroenterol Motil
+2006;18:539e46.
+132.
+Gwee KA, Leong YL, Graham C, et al. The role of psychological
+and biological factors in postinfective gut dysfunction. Gut
+1999;44:400e6.
+133.
+Fujita K, Kaku M, Yanagase Y, et al. Physicochemical
+characteristics and ﬂora of diarrhoeal and recovery faeces in
+children with acute gastro-enteritis in Kenya. Ann Trop Paediatr
+1990;10:339e45.
+134.
+Albert MJ, Bhat P, Rajan D, et al. Faecal ﬂora of South Indian
+infants and young children in health and with acute
+gastroenteritis. J Med Microbiol 1978;11:137e43.
+135.
+Balamurugan R, Janardhan HP, George S, et al.
+Molecular studies of fecal anaerobic commensal bacteria in acute
+diarrhea in children. J Pediatr Gastroenterol Nutr
+2008;46:514e19.
+136.
+Mai V, Braden CR, Heckendorf J, et al. Monitoring of stool
+microbiota in subjects with diarrhea indicates distortions in
+composition. J Clin Microbiol 2006;44:4550e2.
+137.
+Rao SS, Edwards CA, Austen CJ, et al. Impaired colonic
+fermentation of carbohydrate after ampicillin. Gastroenterology
+1988;94:928e32.
+138.
+Musch MW, Bookstein C, Xie Y, et al. SCFA increase intestinal
+Na absorption by induction of NHE3 in rat colon and human
+intestinal C2/bbe cells. Am J Physiol Gastrointest Liver Physiol
+2001;280:G687e93.
+139.
+Ruppin H, Bar-Meir S, Soergel KH, et al. Absorption of short-
+chain fatty acids by the colon. Gastroenterology 1980;78:1500e7.
+140.
+Zeissig S, Fromm A, Mankertz J, et al. Butyrate induces
+intestinal sodium absorption via Sp3-mediated transcriptional
+up-regulation of epithelial sodium channels. Gastroenterology
+2007;132:236e48.
+141.
+Treem WR, Ahsan N, Kastoff G, et al. Fecal short-chain fatty
+acids in patients with diarrhea-predominant irritable bowel
+syndrome: in vitro studies of carbohydrate fermentation. J Pediatr
+Gastroenterol Nutr 1996;23:280e6.
+142.
+Barbara G, Stanghellini V, Berti-Ceroni C, et al. Role of antibiotic
+therapy on long-term germ excretion in faeces and digestive
+symptoms after Salmonella infection. Aliment Pharmacol Ther
+2000;14:1127e31.
+143.
+Barbara G, Stanghellini V, Brandi G, et al. Interactions between
+commensal bacteria and gut sensorimotor function in health and
+disease. Am J Gastroenterol 2005;100:2560e8.
+144.
+Collins SM, Bercik P. The relationship between intestinal
+microbiota and the central nervous system in normal
+gastrointestinal function and disease. Gastroenterology
+2009;136:2003e14.
+145.
+Swidsinski A, Loening-Baucke V, Verstraelen H, et al.
+Biostructure of fecal microbiota in healthy subjects and patients
+with chronic idiopathic diarrhea. Gastroenterology
+2008;135:568e79.
+146.
+Langhorst J, Junge A, Rueffer A, et al. Elevated human beta-
+defensin-2 levels indicate an activation of the innate immune
+system in patients with irritable bowel syndrome. Am J
+Gastroenterol 2009;104:404e10.
+147.
+Brint EK, MacSharry J, Fanning A, et al. Differential expression
+of toll-like receptors in patients with irritable bowel syndrome. Am
+J Gastroenterol 2011;106:329e36.
+148.
+Schoepfer AM, Schaffer T, Seibold-Schmid B, et al. Antibodies
+to ﬂagellin indicate reactivity to bacterial antigens in IBS patients.
+Neurogastroenterol Motil 2008;20:1110e18.
+149.
+Barbara G, Cremon C, Carini G, et al. The immune system in
+irritable bowel syndrome. J Neurogastroenterol Motil
+2011;17:349e59.
+150.
+Barbara G, Wang B, Stanghellini V, et al. Mast cell-dependent
+excitation of visceral-nociceptive sensory neurons in irritable
+bowel syndrome. Gastroenterology 2007;132:26e37.
+151.
+Cenac N, Andrews CN, Holzhausen M, et al. Role for protease
+activity in visceral pain in irritable bowel syndrome. J Clin Invest
+2007;117:636e47.
+152.
+Barbara G, Stanghellini V, De Giorgio R, et al. Activated mast
+cells in proximity to colonic nerves correlate with abdominal pain
+in irritable bowel syndrome. Gastroenterology
+2004;126:693e702.
+153.
+Round JL, Mazmanian SK. The gut microbiota shapes intestinal
+immune responses during health and disease. Nat Rev Immunol
+2009;9:313e23.
+154.
+Piche T, Barbara G, Aubert P, et al. Impaired intestinal
+barrier integrity in the colon of patients with irritable bowel
+syndrome: involvement of soluble mediators. Gut
+2009;58:196e201.
+155.
+Gareau MG, Jury J, MacQueen G, et al. Probiotic treatment of
+rat pups normalises corticosterone release and ameliorates
+colonic dysfunction induced by maternal separation. Gut
+2007;56:1522e8.
+156.
+Bercik P, Verdu EF, Foster JA, et al. Chronic gastrointestinal
+inﬂammation induces anxiety-like behavior and alters central
+nervous system biochemistry in mice. Gastroenterology
+2010;139:2102e12.e1.
+157.
+Wahnschaffe U, Ullrich R, Riecken EO, et al. Celiac disease-like
+abnormalities in a subgroup of patients with irritable bowel
+syndrome. Gastroenterology 2001;121:1329e38.
+158.
+Sapone A, Lammers KM, Casolaro V, et al. Divergence of gut
+permeability and mucosal immune gene expression in two gluten-
+associated conditions: celiac disease and gluten sensitivity. BMC
+Med 2011;9:23.
+159.
+Verdu EF, Huang X, Natividad J, et al. Gliadin-dependent
+neuromuscular and epithelial secretory responses in gluten-
+sensitive HLA-DQ8 transgenic mice. Am J Physiol 2008;294:
+G217e25.
+160.
+Pinier M, Verdu EF, Nasser-Eddine M, et al. Polymeric binders
+suppress gliadin-induced toxicity in the intestinal epithelium.
+Gastroenterology 2009;136:288e98.
+161.
+Natividad JM, Huang X, Slack E, et al. Host responses to
+intestinal microbial antigens in gluten-sensitive mice. PLoS One
+2009;4:e6472.
+162.
+Simren M, Axelsson J, Gillberg R, et al. Quality of life in
+inﬂammatory bowel disease in remission: the impact of IBS-like
+symptoms and associated psychological factors. Am J
+Gastroenterol 2002;97:389e96.
+163.
+Pimentel M, Chang M, Chow EJ, et al. Identiﬁcation of
+a prodromal period in Crohn’s disease but not ulcerative colitis.
+Am J Gastroenterol 2000;95:3458e62.
+164.
+Keohane J, O’Mahony C, O’Mahony L, et al. Irritable bowel
+syndrome-type symptoms in patients with inﬂammatory
+bowel disease: a real association or reﬂection of occult
+inﬂammation? Am J Gastroenterol 2010;105:1788, 1789e94;
+quiz 95.
+165.
+Quigley EM. Commensal bacteria: the link between IBS and
+IBD? Curr Opin Clin Nutr Metab Care 2011;14:497e503.
+166.
+Scanlan PD, Shanahan F, O’Mahony C, et al. Culture-
+independent analyses of temporal variation of the dominant fecal
+Recent advances in clinical practice
+174
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+microbiota and targeted bacterial subgroups in Crohn’s disease. J
+Clin Microbiol 2006;44:3980e8.
+167.
+Conte MP, Schippa S, Zamboni I, et al. Gut-associated bacterial
+microbiota in paediatric patients with inﬂammatory bowel
+disease. Gut 2006;55:1760e7.
+168.
+Giaffer MH, Holdsworth CD, Duerden BI. The assessment of
+faecal ﬂora in patients with inﬂammatory bowel disease by
+a simpliﬁed bacteriological technique. J Med Microbiol
+1991;35:238e43.
+169.
+Giaffer MH, Holdsworth CD, Duerden BI. Virulence properties of
+Escherichia coli strains isolated from patients with inﬂammatory
+bowel disease. Gut 1992;33:646e50.
+170.
+Andoh A, Sakata S, Koizumi Y, et al. Terminal restriction
+fragment length polymorphism analysis of the diversity of fecal
+microbiota in patients with ulcerative colitis. Inﬂamm Bowel Dis
+2007;13:955e62.
+171.
+Lepage P, Seksik P, Sutren M, et al. Biodiversity of the mucosa-
+associated microbiota is stable along the distal digestive tract in
+healthy individuals and patients with IBD. Inﬂamm Bowel Dis
+2005;11:473e80.
+172.
+Kleessen B, Kroesen AJ, Buhr HJ, et al. Mucosal and invading
+bacteria in patients with inﬂammatory bowel disease compared
+with controls. Scand J Gastroenterol 2002;37:1034e41.
+173.
+Schultsz C, Van Den Berg FM, Ten Kate FW, et al. The intestinal
+mucus layer from patients with inﬂammatory bowel disease
+harbors high numbers of bacteria compared with controls.
+Gastroenterology 1999;117:1089e97.
+174.
+Swidsinski A, Ladhoff A, Pernthaler A, et al. Mucosal ﬂora in
+inﬂammatory bowel disease. Gastroenterology 2002;122:44e54.
+175.
+Swidsinski A, Weber J, Loening-Baucke V, et al. Spatial
+organization and composition of the mucosal ﬂora in patients
+with inﬂammatory bowel disease. J Clin Microbiol
+2005;43:3380e9.
+176.
+Gophna U, Sommerfeld K, Gophna S, et al. Differences between
+tissue-associated intestinal microﬂoras of patients with Crohn’s
+disease and ulcerative colitis. J Clin Microbiol 2006;44:4136e41.
+177.
+Prindiville T, Cantrell M, Wilson KH. Ribosomal DNA sequence
+analysis of mucosa-associated bacteria in Crohn’s disease.
+Inﬂamm Bowel Dis 2004;10:824e33.
+178.
+Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium
+prausnitzii is an anti-inﬂammatory commensal bacterium
+identiﬁed by gut microbiota analysis of Crohn disease patients.
+Proc Natl Acad Sci U S A 2008;105:16731e6.
+179.
+Simpson J, Neal KR, Scholeﬁeld JH, et al. Patterns of pain in
+diverticular disease and the inﬂuence of acute diverticulitis. Eur J
+Gastroenterol Hepatol 2003;15:1005e10.
+180.
+Humes DJ, Simpson J, Neal KR, et al. Psychological and colonic
+factors in painful diverticulosis. Br J Surg 2008;95:195e8.
+181.
+Humes D, Smith JK, Spiller RC. Colonic diverticular disease. Clin
+Evid (Online) 2011;2011:0405.
+182.
+Maxwell PR, Rink E, Kumar D, et al. Antibiotics increase functional
+abdominal symptoms. Am J Gastroenterol 2002;97:104e8.
+183.
+Mendall MA, Kumar D. Antibiotic use, childhood afﬂuence and
+irritable bowel syndrome (IBS). Eur J Gastroenterol Hepatol
+1998;10:59e62.
+184.
+Pimentel M, Chow EJ, Lin HC. Eradication of small intestinal
+bacterial overgrowth reduces symptoms of irritable bowel
+syndrome. Am J Gastroenterol 2000;95:3503e6.
+185.
+Pimentel M, Chow EJ, Lin HC. Normalization of lactulose breath
+testing correlates with symptom improvement in irritable bowel
+syndrome. a double-blind, randomized, placebo-controlled study.
+Am J Gastroenterol 2003;98:412e19.
+186.
+Koo HL, DuPont HL. Rifaximin: a unique gastrointestinal-selective
+antibiotic for enteric diseases. Curr Opin Gastroenterol
+2010;26:17e25.
+187.
+Pimentel M, Park S, Mirocha J, et al. The effect of
+a nonabsorbed oral antibiotic (rifaximin) on the symptoms of the
+irritable bowel syndrome: a randomized trial. Ann Intern Med
+2006;145:557e63.
+188.
+Sharara AI, Aoun E, Abdul-Baki H, et al. A randomized double-
+blind placebo-controlled trial of rifaximin in patients with
+abdominal bloating and ﬂatulence. Am J Gastroenterol
+2006;101:326e33.
+189.
+Pimentel M, Lembo A, Chey WD, et al. Rifaximin therapy for
+patients with irritable bowel syndrome without constipation. N
+Engl J Med 2011;364:22e32.
+190.
+Pimentel M, Morales W, Chua K, et al. Effects of rifaximin
+treatment and retreatment in Nonconstipated IBS subjects. Dig
+Dis Sci 2011;56:2067e72.
+191.
+Di Stefano M, Strocchi A, Malservisi S, et al. Non-absorbable
+antibiotics for managing intestinal gas production and gas-related
+symptoms. Aliment Pharmacol Ther 2000;14:1001e8.
+192.
+Cuoco L, Salvagnini M. Small intestine bacterial overgrowth in
+irritable bowel syndrome: a retrospective study with rifaximin.
+Minerva Gastroenterol Dietol 2006;52:89e95.
+193.
+Jolley J. High-dose rifaximin treatment alleviates global
+symptoms of irritable bowel syndrome. Clin Exp Gastroenterol
+2011;4:43e8.
+194.
+Peralta S, Cottone C, Doveri T, et al. Small intestine bacterial
+overgrowth and irritable bowel syndrome-related symptoms:
+experience with Rifaximin. World J Gastroenterol
+2009;15:2628e31.
+195.
+Yang J, Lee HR, Low K, et al. Rifaximin versus other antibiotics
+in the primary treatment and retreatment of bacterial overgrowth
+in IBS. Dig Dis Sci 2008;53:169e74.
+196.
+Valentin T, Leitner E, Rohn A, et al. Rifaximin intake leads to
+emergence of rifampin-resistant staphylococci. J Infect
+2011;62:34e8.
+197.
+Curry SR, Marsh JW, Shutt KA, et al. High frequency of rifampin
+resistance identiﬁed in an epidemic Clostridium difﬁcile clone from
+a large teaching hospital. Clin Infect Dis 2009;48:425e9.
+198.
+Jiang ZD, DuPont HL, La Rocco M, et al. In vitro susceptibility of
+Clostridium difﬁcile to rifaximin and rifampin in 359 consecutive
+isolates at a university hospital in Houston, Texas J Clin Pathol
+2010;63:355e8.
+199.
+Shah D, Dang MD, Hasbun R, et al. Clostridium difﬁcile infection:
+update on emerging antibiotic treatment options and antibiotic
+resistance. Expert Rev Anti Infect Ther 2010;8:555e64.
+200.
+Koo HL, DuPont HL. Current and future developments in travelers’
+diarrhea therapy. Expert Rev Anti Infect Ther 2006;4:417e27.
+201.
+Tack J. Antibiotic therapy for the irritable bowel syndrome. N
+Engl J Med 2011;364:81e2.
+202.
+Drossman DA. Treatment for bacterial overgrowth in the
+irritable bowel syndrome. Ann Intern Med 2006;145:626e8.
+203.
+Guarner F, Requena T, Marcos A. Consensus statements from
+the workshop “Probiotics and health: scientiﬁc evidence”. Nutr
+Hosp 2010;25:700e4.
+204.
+Ait-Belgnaoui A, Han W, Lamine F, et al. Lactobacillus
+farciminis treatment suppresses stress induced visceral
+hypersensitivity: a possible action through interaction with
+epithelial cell cytoskeleton contraction. Gut 2006;55:1090e4.
+205.
+Kamiya T, Wang L, Forsythe P, et al. Inhibitory effects of
+Lactobacillus reuteri on visceral pain induced by colorectal
+distension in Sprague-Dawley rats. Gut 2006;55:191e6.
+206.
+Wang B, Mao YK, Diorio C, et al. Luminal administration ex vivo
+of a live Lactobacillus species moderates mouse jejunal motility
+within minutes. Faseb J 2010;24:4078e88.
+207.
+Verdu EF, Bercik P, Bergonzelli GE, et al. Lactobacillus paracasei
+normalizes muscle hypercontractility in a murine model of
+postinfective gut dysfunction. Gastroenterology 2004;127:826e37.
+208.
+Agrawal A, Houghton LA, Morris J, et al. Clinical trial: the
+effects of a fermented milk product containing Biﬁdobacterium
+lactis DN-173-010 on abdominal distension and gastrointestinal
+transit in irritable bowel syndrome with constipation. Aliment
+Pharmacol Ther 2008;29:104e14.
+209.
+Kim HJ, Camilleri M, McKinzie S, et al. A randomized controlled
+trial of a probiotic, VSL#3, on gut transit and symptoms in
+diarrhoea-predominant irritable bowel syndrome. Aliment
+Pharmacol Ther 2003;17:895e904.
+210.
+Kim HJ, Vazquez Roque MI, Camilleri M, et al. A randomized
+controlled trial of a probiotic combination VSL# 3 and placebo in
+irritable bowel syndrome with bloating. Neurogastroenterol Motil
+2005;17:687e96.
+211.
+Zareie M, Johnson-Henry K, Jury J, et al. Probiotics prevent
+bacterial translocation and improve intestinal barrier function in
+rats following chronic psychological stress. Gut
+2006;55:1553e60.
+212.
+Francavilla R, Miniello V, Magista AM, et al. A randomized
+controlled trial of Lactobacillus GG in children with functional
+abdominal pain. Pediatrics 2010;126:e1445e52.
+213.
+Kajander K, Krogius-Kurikka L, Rinttila T, et al. Effects of
+multispecies probiotic supplementation on intestinal microbiota in
+irritable bowel syndrome. Aliment Pharmacol Ther 2007;26:463e73.
+214.
+Kajander K, Myllyluoma E, Rajilic-Stojanovic M, et al. Clinical
+trial: multispecies probiotic supplementation alleviates the
+symptoms of irritable bowel syndrome and stabilizes intestinal
+microbiota. Aliment Pharmacol Ther 2008;27:48e57.
+215.
+O’Mahony L, McCarthy J, Kelly P, et al. Lactobacillus and
+biﬁdobacterium in irritable bowel syndrome: symptom responses
+and relationship to cytokine proﬁles. Gastroenterology
+2005;128:541e51.
+216.
+Gade J, Thorn P. Paraghurt for patients with irritable bowel
+syndrome. A controlled clinical investigation from general
+practice. Scand J Prim Health Care 1989;7:23e6.
+Recent advances in clinical practice
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167
+175
+217.
+Halpern GM, Prindiville T, Blankenburg M, et al. Treatment of
+irritable bowel syndrome with lacteol fort: a randomized,
+double-blind, cross-over trial. Am J Gastroenterol
+1996;91:1579e85.
+218.
+Nobaek S, Johansson ML, Molin G, et al. Alteration of intestinal
+microﬂora is associated with reduction in abdominal bloating and
+pain in patients with irritable bowel syndrome. Am J
+Gastroenterol 2000;95:1231e8.
+219.
+Niedzielin K, Kordecki H, Birkenfeld B. A controlled, double-
+blind, randomized study on the efﬁcacy of Lactobacillus plantarum
+299V in patients with irritable bowel syndrome. Eur J
+Gastroenterol Hepatol 2001;13:1143e7.
+220.
+Sen S, Mullan MM, Parker TJ, et al. Effect of Lactobacillus
+plantarum 299v on colonic fermentation and symptoms of
+irritable bowel syndrome. Dig Dis Sci 2002;47:2615e20.
+221.
+Ligaarden SC, Axelsson L, Naterstad K, et al. A candidate
+probiotic with unfavourable effects in subjects with irritable
+bowel syndrome: a randomised controlled trial. BMC
+Gastroenterol 2010;10:16.
+222.
+Dolin BJ. Effects of a proprietary Bacillus coagulans preparation
+on symptoms of diarrhea-predominant irritable bowel syndrome.
+Methods Find Exp Clin Pharmacol 2009;31:655e9.
+223.
+Niv E, Naftali T, Hallak R, et al. The efﬁcacy of Lactobacillus
+reuteri ATCC 55730 in the treatment of patients with irritable
+bowel syndromeea double blind, placebo-controlled, randomized
+study. Clin Nutr 2005;24:925e31.
+224.
+Whorwell PJ, Altringer L, Morel J, et al. Efﬁcacy of an
+encapsulated probiotic Biﬁdobacterium infantis 35624 in women
+with irritable bowel syndrome. Am J Gastroenterol
+2006;101:1581e90.
+225.
+Guyonnet D, Chassany O, Ducrotte P, et al. Effect of
+a fermented milk containing Biﬁdobacterium animalis DN-173 010
+on the health-related quality of life and symptoms in irritable
+bowel syndrome in adults in primary care: a multicentre,
+randomized, double-blind, controlled trial. Aliment Pharmacol Ther
+2007;26:475e86.
+226.
+Guglielmetti S, Mora D, Gschwender M, et al. Randomised
+clinical trial: biﬁdobacterium biﬁdum MIMBb75 signiﬁcantly
+alleviates irritable bowel syndrome and improves quality of lifeea
+double-blind, placebo-controlled study. Aliment Pharmacol Ther
+2011;33:1123e32.
+227.
+Kruis W, Chrubasik S, Boehm S, et al. A double-blind placebo-
+controlled trial to study therapeutic effects of probiotic
+Escherichia coli nissle 1917 in subgroups of patients with irritable
+bowel syndrome. Int J Colorectal Dis 2012;27:467e74.
+228.
+Kim YG, Moon JT, Lee KM, et al. The effects of probiotics on
+symptoms of irritable bowel syndrome. Korean J Gastroenterol
+2006;47:413e19.
+229.
+Kajander K, Hatakka K, Poussa T, et al. A probiotic mixture
+alleviates symptoms in irritable bowel syndrome patients:
+a controlled 6-month intervention. Aliment Pharmacol Ther
+2005;22:387e94.
+230.
+Williams E, Stimpson J, Wang D, et al. Clinical trial:
+a multistrain probiotic preparation signiﬁcantly reduces symptoms
+of irritable bowel syndrome in a double-blind placebo-controlled
+study. Aliment Pharmacol Ther 2009;29:97e103.
+231.
+Drouault-Holowacz S, Bieuvelet S, Burckel A, et al. A double
+blind randomized controlled trial of a probiotic combination in 100
+patients with irritable bowel syndrome. Gastroenterol Clin Biol
+2008;32:147e52.
+232.
+Sinn DH, Song JH, Kim HJ, et al. Therapeutic effect of
+Lactobacillus acidophilus-SDC 2012, 2013 in patients with
+irritable bowel syndrome. Dig Dis Sci 2008;53:2714e18.
+233.
+Enck P, Zimmermann K, Menke G, et al. A mixture of Escherichia
+coli (DSM 17252) and Enterococcus faecalis (DSM 16440) for
+treatment of the irritable bowel syndromeea randomized
+controlled trial with primary care physicians. Neurogastroenterol
+Motil 2008;20:1103e9.
+234.
+Simren M, Ohman L, Olsson J, et al. Clinical trial: the effects
+of a fermented milk containing three probiotic bacteria in patients
+with irritable bowel syndromeda randomized, double-blind,
+controlled study. Aliment Pharmacol Ther 2010;31:218e27.
+235.
+Sondergaard B, Olsson J, Ohlson K, et al. Effects of probiotic
+fermented milk on symptoms and intestinal ﬂora in patients with
+irritable bowel syndrome: a randomized, placebo-controlled trial.
+Scand J Gastroenterol 2011;46:663e72.
+236.
+Hong KS, Kang HW, Im JP, et al. Effect of probiotics on
+symptoms in korean adults with irritable bowel syndrome. Gut
+Liver 2009;3:101e7.
+237.
+Bausserman M, Michail S. The use of Lactobacillus GG in
+irritable bowel syndrome in children: a double-blind randomized
+control trial. J Pediatr 2005;147:197e201.
+238.
+Gawronska A, Dziechciarz P, Horvath A, et al. A randomized
+double-blind placebo-controlled trial of Lactobacillus GG for
+abdominal pain disorders in children. Aliment Pharmacol Ther
+2007;25:177e84.
+239.
+Guandalini S, Magazzu G, Chiaro A, et al. VSL#3 improves
+symptoms in children with irritable bowel syndrome:
+a multicenter, randomized, placebo-controlled, double-blind,
+crossover study. J Pediatr Gastroenterol Nutr 2010;51:24e30.
+240.
+O’Sullivan MA, O’Morain CA. Bacterial supplementation in the
+irritable bowel syndrome. A randomised double-blind placebo-
+controlled crossover study. Dig Liver Dis 2000;32:294e301.
+241.
+Brenner DM, Moeller MJ, Chey WD, et al. The utility of probiotics
+in the treatment of irritable bowel syndrome: a systematic review.
+Am J Gastroenterol 2009;104:1033e49; quiz 50.
+242.
+Hoveyda N, Heneghan C, Mahtani KR, et al. A systematic
+review and meta-analysis: probiotics in the treatment of irritable
+bowel syndrome. BMC Gastroenterology 2009;9:15.
+243.
+McFarland LV, Dublin S. Meta-analysis of probiotics for the
+treatment of irritable bowel syndrome. World J Gastroenterol
+2008;14:2650e61.
+244.
+Moayyedi P, Ford AC, Talley NJ, et al. The efﬁcacy of probiotics
+in the treatment of irritable bowel syndrome: a systematic
+review. Gut 2010;59:325e32.
+245.
+Snook J, Shepherd HA. Bran supplementation in the treatment of
+irritable bowel syndrome. Aliment Pharmacol Ther 1994;8:511e14.
+246.
+Francis CY, Whorwell PJ. Bran and irritable bowel syndrome:
+time for reappraisal. Lancet 1994;344:39e40.
+247.
+Roberfroid M. Prebiotics: the concept revisited. J nutrition
+2007;137:830Se7S.
+248.
+Gibson GR, Roberfroid MB. Dietary modulation of the human
+colonic microbiota: introducing the concept of prebiotics. J
+nutrition 1995;125:1401e12.
+249.
+Florent C, Flourie B, Leblond A, et al. Inﬂuence of chronic
+lactulose ingestion on the colonic metabolism of lactulose in man
+(an in vivo study). J Clin Invest 1985;75:608e13.
+250.
+Silk DB, Davis A, Vulevic J, et al. Clinical trial: the effects of
+a trans-galactooligosaccharide prebiotic on faecal microbiota and
+symptoms in irritable bowel syndrome. Aliment Pharmacol Ther
+2009;29:508e18.
+251.
+Andriulli A, Neri M, Loguercio C, et al. Clinical trial on the
+efﬁcacy of a new symbiotic formulation, ﬂortec, in patients with
+irritable bowel syndrome: a multicenter, randomized study. J Clin
+Gastroenterol 2008;42(Suppl 3):S218e23.
+252.
+Bittner AC, Croffut RM, Stranahan MC. Prescript-assist
+probiotic-prebiotic treatment for irritable bowel syndrome:
+a methodologically oriented, 2-week, randomized, placebo-
+controlled, double-blind clinical study. Clin Ther 2005;27:755e61.
+253.
+Bittner AC, Croffut RM, Stranahan MC, et al. Prescript-assist
+probiotic-prebiotic treatment for irritable bowel syndrome: an
+open-label, partially controlled, 1-year extension of a previously
+published controlled clinical trial. Clin Ther 2007;29:1153e60.
+254.
+Colecchia A, Vestito A, La Rocca A, et al. Effect of a symbiotic
+preparation on the clinical manifestations of irritable bowel
+syndrome, constipation-variant. Results of an open, uncontrolled
+multicenter study. Minerva Gastroenterol Dietol 2006;52:349e58.
+255.
+Tsuchiya J, Barreto R, Okura R, et al. Single-blind follow-up
+study on the effectiveness of a symbiotic preparation in irritable
+bowel syndrome. Chin J Dig Dis 2004;5:169e74.
+256.
+Dear KL, Elia M, Hunter JO. Do interventions which reduce
+colonic bacterial fermentation improve symptoms of irritable
+bowel syndrome? Dig Dis Sci 2005;50:758e66.
+257.
+Shepherd SJ, Gibson PR. Fructose malabsorption and symptoms
+of irritable bowel syndrome: guidelines for effective dietary
+management. J Am Diet Assoc 2006;106:1631e9.
+258.
+Nanda R, James R, Smith H, et al. Food intolerance and the
+irritable bowel syndrome. Gut 1989;30:1099e104.
+259.
+Kaptchuk TJ, Friedlander E, Kelley JM, et al. Placebos without
+deception: a randomized controlled trial in irritable bowel
+syndrome. PLoS One 2010;5:e15591.
+260.
+Cremonini F, Delgado-Aros S, Camilleri M. Efﬁcacy of alosetron
+in irritable bowel syndrome: a meta-analysis of randomized
+controlled trials. Neurogastroenterol Motil 2003;15:79e86.
+261.
+Johnston JM, Kurtz CB, Macdougall JE, et al. Linaclotide
+improves abdominal pain and bowel habits in a phase IIb study of
+patients with irritable bowel syndrome with constipation.
+Gastroenterology 2010;139:1877e86.e2.
+262.
+Evans BW, Clark WK, Moore DJ, et al. Tegaserod for the
+treatment of irritable bowel syndrome and chronic constipation.
+Cochrane Database Syst Rev 2004;(4):CD003960.
+263.
+Landy J, Al-Hassi HO, McLaughlin SD, et al. Review article:
+faecal transplantation therapy for gastrointestinal disease.
+Aliment Pharmacol Ther 2011;34:409e15.
+Recent advances in clinical practice
+176
+Gut 2013;62:159–176. doi:10.1136/gutjnl-2012-302167

@@ -1,0 +1,1813 @@
+2
+Journal of Crohn's and Colitis, 2022, 2–17
+https://doi.org/10.1093/ecco-jcc/jjab178
+Advance Access publication October 12, 2021
+ECCO Guideline/Consensus Paper
+© The Author(s) 2021. Published by Oxford University Press on behalf of European Crohn’s and Colitis Organisation. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com
+ECCO Guideline/Consensus Paper
+ECCO Guidelines on Therapeutics in Ulcerative 
+Colitis: Medical Treatment
+Tim Raine,a, Stefanos Bonovas,b, Johan Burisch,c, Torsten Kucharzik,d 
+Michel Adamina,e, Vito Annese,f Oliver Bachmann,g, 
+Dominik Bettenworth,h Maria Chaparro,i,  
+Wladyslawa Czuber-Dochan,j Piotr Eder,k, Pierre Ellul,l 
+Catarina Fidalgo,m, Gionata Fiorino,n, Paolo Gionchetti,o 
+Javier P. Gisbert,i Hannah Gordon,p Charlotte Hedin,q, Stefan Holubar,r, 
+Marietta Iacucci,s Konstantinos Karmiris,t Konstantinos Katsanos,u 
+Uri Kopylov,v Peter L Lakatos,w, Theodore Lytras,x, Ivan Lyutakov,y 
+Nurulamin Noor,a, Gianluca Pellino,z,aa, Daniele Piovani,b 
+Edoardo Savarino,bb, Francesco Selvaggi,z Bram Verstockt,cc, 
+Antonino Spinelli,b Yves Panis,dd, Glen Dohertyee
+aDepartment of Gastroenterology, Addenbrooke’s Hospital, Cambridge University Hospitals NHS Foundation Trust, 
+Cambridge, UK bDepartment of Biomedical Sciences, Humanitas University; IRCCS Humanitas Research Hospital, 
+Milan, Italy cGastrounit, Medical Division, Hvidovre Hospital; Copenhagen Center for Inflammatory Bowel Disease 
+in Children, Adolescents and Adults, Hvidovre Hospital, University of Copenhagen, Denmark dDepartment of 
+Gastroenterology, Lüneburg Hospital, University of Hamburg, Lüneburg, Germany eDepartment of Surgery, Clinic 
+of Visceral and Thoracic Surgery, Cantonal Hospital Winterthur, Zurich, Switzerland Department of Biomedical 
+Engineering, Clinical Research and Artificial Intelligence in Surgery, Faculty of Medicine, University of Basel, 
+Allschwil, Switzerland fDepartment of Gastroenterology, Fakeeh University Hospital, Dubai, UAE gDepartment 
+of Internal Medicine I, Siloah St. Trudpert Hospital, Pforzheim; Hannover Medical School, Hannover, Germany 
+hUniversity Hospital Munster, Department of Medicine B - Gastroenterology and Hepatology, Munster, Germany 
+iGastroenterology Unit, Hospital Universitario de La Princesa, Instituto de Investigación Sanitaria Princesa (IIS-IP), 
+Universidad Autónoma de Madrid (UAM), Centro de Investigación Biomédica en Red de Enfermedades Hepáticas 
+y Digestivas (CIBEREHD), Madrid, Spain jKing’s College London, Florence Nightingale Faculty of Nursing, Midwifery 
+and Palliative Care, London, UK kDepartment of Gastroenterology, Dietetics and Internal Medicine - Poznań 
+University of Medical Sciences; Heliodor Święcicki University Hospital, Poznań, Poland lDepartment of Medicine, 
+Division of Gastroenterology, Mater Dei Hospital, Msida, Malta mGastroenterology Division, Hospital Beatriz Ângelo, 
+Loures, Portugal nDepartment of Biomedical Sciences, Humanitas University; IBD Center, Humanitas Clinical and 
+Research Center, Milan, Italy oIBD Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna DIMEC, University of 
+Bologna, Bologna, Italy pDepartment of Gastroenterology, Barts Health NHS Trust, Royal London Hospital, London, UK 
+qKarolinska Institutet, Department of Medicine Solna; Karolinska University Hospital, Department of Gastroenterology, 
+Dermatovenereology and Rheumatology, Stockholm, Sweden rDepartment of Colon & Rectal Surgery, Cleveland 
+Clinic, Cleveland, OH, USA sInstitute of Immunology and Immunotherapy, NIHR Biomedical Research Centre, 
+University of Birmingham; Division of Gastroenterology, University Hospitals Birmingham NHS Trust, Birmingham, UK 
+tDepartment of Gastroenterology, Venizeleio General Hospital, Heraklion, Greece uDepartment of Gastroenterology 
+and Hepatology, Division of Internal Medicine, University and Medical School of Ioannina, Ioannina, Greece 
+vDepartment of Gastroenterology, Tel-HaShomer Sheba Medical Center, Ramat Gan, and Sackler Medical School, 
+Tel Aviv, Israel wDivision of Gastroenterology, McGill University Health Centre, Montreal, QC, Canada; 1st Department 
+of Medicine, Semmelweis University, Budapest, Hungary xSchool of Medicine, European University Cyprus, Nicosia, 
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+3
+Cyprus yDepartment of Gastroenterology, University Hospital ‘Tsaritsa Yoanna - ISUL’, Medical University Sofia, 
+Sofia, Bulgaria zDepartment of Advanced Medical and Surgical Sciences, Universitá degli Studi della Campania 
+‘Luigi Vanvitelli’, Naples, Italy aaColorectal Surgery, Vall d’Hebron University Hospital, Barcelona, Spain bbDepartment 
+of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy ccDepartment of Gastroenterology 
+and Hepatology, University Hospitals Leuven, KU Leuven; Department of Chronic Diseases, Metabolism and Ageing, 
+TARGID - IBD, Leuven, Belgium ddDepartment of Colorectal Surgery, Beaujon Hospital, Assistance Publique-Hôpitaux 
+de Paris, Clichy and Université of Paris, France eeDepartment of Gastroenterology and Centre for Colorectal Disease, 
+St Vincent’s University Hospital, Dublin, Ireland
+Corresponding author: Tim Raine, MB, PhD, MRCP, Department of Gastroenterology, Addenbrooke’s Hospital, Cambridge 
+University Hospitals NHS Foundation Trust, Cambridge, UK. Email: tim.raine@addenbrookes.nhs.uk
+1.  Introduction
+Ulcerative colitis [UC] is a chronic inflammatory bowel disease [IBD] 
+characterised by colonic inflammation extending to a variable extent 
+from the rectum. Care of the patient with UC requires appropriate 
+input from across the multiprofessional team. These guidelines sum-
+marise the recommended medical treatment for adults with UC. 
+Other ECCO guidelines consider the approach to UC diagnosis 
+and monitoring,1–3 nursing care,4 management of disease compli-
+cations,5–7 risk of infection,8 and technical aspects of surgery.9 This 
+document was prepared as part of a process that also led to the 
+publication of a related guideline with recommendations on the sur-
+gical care of the patients with UC and on the medical aspects of 
+the management of the patient hospitalised with severe UC. ECCO 
+Guidelines on Therapeutics in Ulcerative Colitis: Surgical Treatment.
+Patients living with UC can have a variable disease course.10 
+In this document, we discuss therapeutic approaches stratified by 
+disease severity [mildly-to-moderately active and moderately-to-
+severely active disease]. Attempts to define disease severity are widely 
+used in setting clinical trial inclusion criteria and can be measured 
+according to several different definitions.11 Trial populations will in-
+evitably vary, and we reflect the continuum of disease severity by 
+having the moderate disease category span both broad categories. It 
+is also important to remember that these definitions capture severity 
+at a given point in time and may not reflect the cumulative long-term 
+burden of disease experienced by a patient.12
+It is also important to consider disease extent when plan-
+ning treatment in UC, as this may affect the optimal route of 
+drug administration. This is typically defined according to dis-
+ease involving the rectum only [proctitis], disease distal to the 
+splenic flexure [left-sided UC], or disease extending proximal to 
+the splenic flexure [extensive UC].13 These definitions of disease 
+extent are recognised as somewhat arbitrary; in clinical practice, 
+topically administered therapies are often used for UC whose ex-
+tent is limited to the rectum and a portion of the sigmoid colon 
+[proctosigmoiditis], with the term ‘distal colitis’ used to describe 
+this disease distribution. It should be remembered that disease dis-
+tribution can change10,14 and that proximal disease extension can 
+be a negative prognostic marker.15
+2.  Methods
+This document was compiled following the ‘Grading of 
+Recommendations Assessment, Development, and Evaluation’ 
+[GRADE] methodology.16 A panel of 33 experts was selected by the 
+Guidelines Committee of ECCO from a competitive pool of appli-
+cants and worked with a team of methodologists and librarians. All 
+panellists received training in the GRADE methodology. Additionally, 
+six patients with UC, representing the European Federation of 
+Crohn’s and Colitis Associations [EFCCA], were invited to partici-
+pate in all face-to-face meetings as full voting members.
+Two domains for the medical treatment of UC were identified 
+and used as the basis for the following two working groups based 
+upon disease severity: mildly-to-moderately active disease and 
+moderately-to-severely active disease. We recognise that these divi-
+sions are somewhat arbitrary, partially overlapping, and inconsist-
+ently defined; therefore, we ensured close collaboration between the 
+working groups to ensure that key topics were covered appropriately 
+with the aim of providing guidance applicable across the continuum 
+of UC severity encountered in clinical practice.
+Working group participants first formulated a series of spe-
+cific questions using the Population, Intervention, Comparator, 
+Outcomes [PICO] system, which were deemed to be clinically im-
+portant for the medical treatment of UC. These questions were 
+debated in a series of telephone conferences before final agreement 
+at a meeting of the full guideline group in Vienna in November 
+2019. Voting on the inclusion of PICO questions was conducted, 
+and only those achieving agreement of >80% by the panel were 
+included in the next phase of the process. At this meeting, the pan-
+ellists also ranked each outcome’s importance on a scale of 1 to 
+9 based on the GRADE definitions.16 Scores of 7‒9 indicated an 
+outcome that is critical to patients for decision making; scores of 
+4‒6 indicated an important outcome, but not critical; and scores 
+of 1‒3 indicated an outcome of limited importance. The panel-
+lists’ agreement on outcomes’ importance was assessed using the 
+Disagreement Index, as described in the RAND/UCLA appropri-
+ateness method.17
+The team of librarians performed a comprehensive literature 
+search on PubMed/Medline, Embase, and the Cochrane Central data-
+bases, using specific search strings for each PICO question [available 
+as Supplementary data at ECCO-JCC online]. Two working group 
+members [one assigned to the PICO question and another from the 
+same group as second reviewer] independently screened titles and ab-
+stracts to exclude any irrelevant reports. Subsequently, the working 
+group members assigned to each PICO question assessed the full text 
+of the selected publications for relevance to the specific PICO. Note 
+that studies were only selected if they addressed the PICO as formu-
+lated, including data on at least one of the outcomes of interest for 
+the relevant dose of the intervention. In some instances, this meant 
+that randomised controlled trials [RCTs] of a drug of interest were 
+not included because, for example, they did not report at least one 
+outcome defined as being of critical importance.
+Most of the evidence informing the guidelines in this document 
+came from randomised controlled trials conducted in adult patients 
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+4
+T. Raine et al.
+with UC. The methodologists directly performed the comparisons. 
+The risk ratio [RR] was used to measure treatment effects. Study-
+level RRs with 95% confidence intervals [CIs] were calculated in 
+accordance with the intention-to-treat principle. When zero events 
+occurred in one group of a trial, we used a continuity correction that 
+was inversely proportional to the relative size of the other group. To 
+synthesise the evidence, we prepared forest plots and calculated the 
+pooled effect estimates using random-effects models [DerSimonian 
+and Laird approach].18 We used R software for statistical analysis. 
+All p-values are two-tailed. For all tests [except for heterogeneity], a 
+p-value <0.05 indicates statistical significance.
+To calculate absolute benefits and harms, we relied on the pooled 
+event rates in the control groups. The absolute effect was based on 
+the pooled RR and the baseline risk in the control groups.
+The quality of evidence was expressed using the following four 
+categories: high, moderate, low, and very low. For each PICO ques-
+tion, we rated the quality of evidence separately for each patient-
+important outcome, and then determined the overall quality of 
+evidence across outcomes. For a guideline panel, the quality of evi-
+dence reflects the extent to which the confidence in the effect esti-
+mate is adequate to support a particular recommendation.16
+To determine the quality of the evidence for each outcome across 
+all studies, we started with rating the evidence from RCTs as ‘high’ 
+quality, and then assessed the following five factors that could lead 
+to down-rating the quality of evidence: risk of bias, inconsistency, 
+indirectness, imprecision, and publication bias.16 Risk of bias was 
+assessed using the Cochrane tool. Inconsistency was assessed with 
+the Cochrane Q test [using a 0.10 significance level] and the I2 metric 
+[with values >50% suggesting significant heterogeneity]. Indirectness 
+was determined according to whether the studies addressed a dif-
+ferent but related population, intervention, or outcome from the 
+one of interest. Imprecision was based on the number of events [the 
+quality of evidence was downgraded by one level when the total 
+number of events was <100, and by two levels when it was <50]. 
+Publication bias was assessed using funnel plots, and the Begg’s and 
+Egger’s tests only if there were at least 10 studies included in the 
+meta-analysis.
+The overall quality of evidence was a combined rating of the 
+quality of evidence across all outcomes considered critical for de-
+cision making; the lowest quality of evidence for any of the critical 
+outcomes determined the overall quality of evidence. Summary-of-
+Findings [SoF] tables showing all studies used in preparing each 
+recommendation, key data and study findings for each outcome of 
+interest, and our judgements about each of the quality of evidence 
+factors examined are available as Supplementary material, along 
+with documentation of the assessment of evidence quality. We pre-
+sent our rating of quality of evidence for: each one of the outcomes; 
+the risk with control group; the risk with intervention group; the 
+meta-analytic effect estimate; the anticipated absolute effects; and 
+any other relevant information regarding the data reported in the 
+SoF table; along with our rating of the overall quality of evidence 
+across outcomes.
+The strength of each recommendation was graded either as 
+‘strong’ [meaning that the desirable effects of an intervention clearly 
+outweigh the undesirable effects, or vice versa] or as ‘weak’ [meaning 
+that the balance is less certain], while also considering the quality of 
+evidence, values and preferences of patients, balance between desir-
+able and undesirable effects, and cost-effectiveness. All recommenda-
+tions were subject to online voting by the panel members, the ECCO 
+National Representatives [two for each country affiliated with 
+ECCO], six reviewers from the European Society of Coloproctology, 
+and nine additional reviewers from a list of ECCO members involved 
+in ECCO guideline development [see Acknowledgements section]. 
+The final version of all statements/recommendations was discussed 
+among panel members during a final virtual consensus meeting in 
+April 2021 and put to a vote; final recommendations were approved 
+if at least 80% of the panellists agreed with the statement and its as-
+sociated strength grading. The list of statements, supporting text and 
+material, and manuscript draft were critically reviewed by the ECCO 
+Governing Board members, who also approved the final version of 
+these guidelines.
+These guidelines are designed to inform and support clinicians 
+in making evidence-based decisions on the medical treatment of UC; 
+they should not be used to signify a minimal acceptable standard 
+of care, should not be used for medicolegal purposes, and should 
+not be interpreted as endorsing the use of any particular proprietary 
+or commercial product. All costs associated with the development 
+and publication of this guideline were met by ECCO. The Governing 
+Board of ECCO played no role in the selection of panel members or 
+the development or selection of PICO questions. A summary of some 
+of the key changes from previous ECCO UC guidelines is presented 
+in the Supplementary material.
+3.  General Approach to the Management of 
+Ulcerative Colitis
+These guidelines set out the evidence for the use of different medical 
+therapies in the treatment of UC. They were developed and written 
+in a manner driven by the available data, which were typically from 
+large-scale clinical trials and usually based upon testing of an inter-
+vention against placebo. Nevertheless, the medical care of a patient 
+with UC goes well beyond the selection between a given drug and 
+no treatment. Furthermore, patients encountered in the clinic fre-
+quently do not fit the profile of a given clinical trial population. It 
+is therefore important that these guidelines are used first to inform 
+the physician of the quality of evidence behind any given treatment, 
+which the physician must then consider, together with the patient, in 
+formulating a treatment plan.
+A key area of debate is when to escalate treatment. There is 
+less evidence in UC than in Crohn’s disease on the importance of 
+early treatment escalation. At the same time, the experience of 
+recurrent symptom flares can lead to physical and psychological 
+harm,19,20 as can repeated exposure to corticosteroids.21 Although 
+the cost of an intervention is a factor reflected in the GRADE 
+process when forming the strength of recommendation, as inter-
+national guidelines there will be local health economic consid-
+erations that this document can not address. Nevertheless, it is 
+clear that appropriate and timely selection of patients for higher-
+cost interventions is critical to achieve optimal health economic 
+outcomes.22,23
+The ultimate goal of treatment in UC is to maintain health-related 
+quality of life [QoL] and avoid disability.24 To achieve this, it is im-
+portant to not only provide rapid relief of clinical symptoms, but 
+also achieve endoscopic healing where possible, as this is associated 
+with improved long-term outcomes.25–27 The importance of these 
+outcomes was reflected in the decision by the expert panel to select 
+endoscopic and clinical outcomes as being of critical importance.
+The term ‘conventional therapy’ has been widely used in the 
+past to differentiate well-established traditional treatments (such 
+as 5-aminosalicylates [5-ASA], corticosteroids, and thiopurine 
+immunomodulators) from biologic therapies and other novel tar-
+geted small molecules. This concept is becoming somewhat outdated, 
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+5
+as the costs of and access to biologics therapies evolve [notably 
+with the introduction of biosimilars] and biologics are increasingly 
+viewed as a conventional part of UC treatment. For the purposes of 
+this guideline, we agreed to use the term ‘conventional therapy’ as it 
+has traditionally been understood, in the absence of any widely ac-
+cepted alternative nomenclature, while also accepting the limitations 
+of this language. Where specific definitions of conventional therapy 
+have been used in individual studies, these are outlined in the sup-
+porting SOF tables.
+Dose escalation has been reported for many of the interven-
+tions we considered, typically in a non-randomised manner, both for 
+patients showing disease flares during RCTs or in cohort studies. 
+Although appropriate dose escalation or dose optimisation can play 
+a role in clinical practice, there are minimal high-quality trial data 
+in this area, and uncontrolled studies are subject to several potential 
+forms of bias. For this reason, we have restricted our recommenda-
+tions to the doses studied in a randomised manner in clinical trials. 
+In addition to the initiation and escalation of medical treatments for 
+UC, how and when to consider reducing or stopping treatment to 
+minimise the risks, costs, and burden to patients of prolonged drug 
+therapy is an important consideration. The limited evidence on treat-
+ment withdrawal has been reviewed recently and is beyond the scope 
+of this current guideline.28
+4.  Medical Management of Mildly-to-
+moderately Active Ulcerative Colitis
+4.1.  Induction of remission in mildly-to-moderately 
+active ulcerative colitis
+5-aminosalicylates
+We performed a meta-analysis of 11 eligible RCTs with a total of 
+2156 patients evaluated for 4–12 weeks; 5-aminosalicylates [5-ASA] 
+had a significantly higher efficacy in achieving clinical remission 
+[RR: 1.56] versus placebo [95% CI: 1.24–1.97]. Similarly, the clin-
+ical response in 14 studies [total 2025 patients] evaluated at 2–10 
+weeks was significantly better for 5-ASA [RR: 1.58; 95% CI: 1.35–
+1.86] with response in 59% of patients receiving 5-ASA compared 
+with 35% of those receiving placebo. The efficacy of 5-ASA on endo-
+scopic response as evaluated in four RCTs with 416 patients inves-
+tigated after 4–12 weeks was better with 5-ASA [RR: 1.73; 95% 
+CI: 1.0–3.0]; 5-ASA was generally very well tolerated. The serious 
+adverse event [SAE] rate evaluated in 13 studies with 2141 patients 
+for a maximal follow-up of 12 weeks was 6.1% versus 9% in the 
+placebo arms [RR: 0.81; 95% CI: 0.47–1.38].
+The quality of evidence was globally evaluated as low due to 
+significant heterogeneity and possible publication and reporting bias 
+for certain outcomes [SoF Table 1, available as Supplementary data 
+at ECCO-JCC online].
+A Cochrane meta-analysis confirmed the similar efficacy of 
+once-daily or more frequent dosing regimens across multiple 
+studies.29 This meta-analysis did not show any apparent differences 
+in outcomes between different formulations of 5-ASA considered. 
+Notably, despite discussion regarding differences of colonic distri-
+bution of different mesalazine preparations, no significant differ-
+ences in outcomes were observed in any mesalazine comparator 
+studies. For this reason, patients with mildly active UC who fail to 
+reach remission with appropriately dosed oral 5-ASA are unlikely 
+to achieve remission upon switching to an alternative oral 5-ASA 
+formulation.
+The same Cochrane meta-analysis did not find overall evidence 
+for superior efficacy of higher total daily doses across multiple 
+dose-ranging trials when compared with standard licensed doses 
+of the same formulation.29 Subgroup evaluation of the ASCEND 
+trials suggested a benefit of 4.8  g/day of a polymer-coated for-
+mulation of mesalazine [with pH-dependent release] compared 
+with 2.4  g/day in patients with more active disease or in those 
+with previous treatment with corticosteroids, oral 5-ASA, rectal 
+therapies, or multiple UC medications.30–32 Likewise, a post-hoc 
+analysis of ASCEND data also showed greater rates of mucosal 
+healing in the 4.8 g/day group than in the 2.4 g/day group.33 In 
+contrast, subgroup analysis restricted according to disease severity 
+did not reveal any differences in outcomes between 4.8 g/day and 
+2.4 g/day in trials of a pH-dependent multimatrix (MMX) 5-ASA 
+preparation.29,34
+We identified eight suitable studies that assessed a dose of ≥1 g top-
+ical 5-ASA per day for 2–8 weeks which we used for meta-analysis 
+[SoF Table 2, available as Supplementary data at ECCO-JCC on-
+line].35–42 All studies required endoscopic confirmation of rectal in-
+flammation but varied in the maximum proximal limit of disease 
+extent permitted [from a maximum of 20 cm from the anal verge to 
+no upper limit]. There was a significant increase in clinical response 
+and clinical remission when compared with placebo-treated patients 
+[RR: 2.46; 95% CI: 2.01–3.01 and RR: 3.56; 95% CI: 2.08–6.09, 
+respectively]. In addition, endoscopic response in five studies that 
+assessed 1  g 5-ASA daily for 2–8 weeks, as induction therapy in 
+distal colitis, was significantly more frequently achieved in patients 
+treated with 5-ASA than those treated with placebo [RR: 2.75; 95% 
+CI: 2.04–3.7]. No significant differences in SAEs between topical 
+5-ASA treatment and placebo were observed [RR: 0.26; 95% CI: 
+0.03–2.29].
+Overall, the quality of available evidence was classified as low. 
+Despite this, our recommendation is strong considering the extensive 
+clinical experience corroborating efficacy and very few SAEs related 
+to topical 5-ASA administration.
+Recommendation 1
+We recommend 5-aminosalicylates at a dose of ≥2  g/
+day [d] to induce remission in patients with mildly-to-
+moderately active UC [strong recommendation; quality of 
+evidence low]
+Recommendation 2
+We recommend topical [rectal] 5-ASA at a dose of ≥1 g/d 
+for the induction of remission in active distal colitis 
+[strong recommendation, low-quality evidence]
+Recommendation 3
+We suggest the use of oral 5-ASA [≥2 g/d] combined with 
+topical [rectal] 5-ASA over oral 5-ASA monotherapy for 
+induction of remission in adult patients with active UC of 
+at least rectosigmoid extent [weak recommendation; very 
+low-quality evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+6
+T. Raine et al.
+Only a few trials were retrieved that compared the use of oral 5-ASA 
+combined with topical 5-ASA versus oral 5-ASA as monotherapy for 
+induction of remission in adult patients with active UC [SoF Table 3, 
+available as Supplementary data at ECCO-JCC online].43–46 In all of 
+these studies, the desirable effects of 5-ASA combined therapy [com-
+pared with oral monotherapy] probably outweigh the undesirable 
+effects of this intervention, although the level of uncertainty is high.
+Two trials compared these two therapeutic strategies for clinical 
+response in patients with disease of at least rectosigmoid extent.43,44 
+The trials were heterogeneous in terms of study design, 5-ASA doses, 
+definition of clinical activity, and definition of clinical improvement. 
+In the pooled analysis, no significant advantage of combined therapy 
+over 5-ASA monotherapy in clinical response was observed [RR: 
+1.1; 95% CI: 0.95–1.27].
+Four trials addressed whether combined 5-ASA therapy is su-
+perior to oral monotherapy in inducing clinical remission in active 
+UC.43–46 These studies included 322 patients and treatment duration 
+was 3–8 weeks. All trials were heterogeneous in terms of patient 
+characteristics, criteria used to define disease activity and remission, 
+doses, and 5-ASA regimens. There was a serious inconsistency of 
+evidence [I2 = 71%] and a serious risk of bias, as the methods of se-
+quence generation and allocation concealment were unclear in three 
+of four studies. The RR of obtaining clinical remission between com-
+bined [oral and topical] 5-ASA treatment versus oral monotherapy 
+was 1.45 [95% CI: 0.98–2.13].
+There was only one trial on the influence of combined versus oral 
+5-ASA therapy on endoscopic activity of UC.44 Patients receiving 2 g 
+of 5-ASA orally plus 2 g of 5-ASA enemas more frequently achieved 
+endoscopic remission than those treated with 4 g of 5-ASA orally 
+plus placebo enemas. However, the difference was not statistically 
+significant [RR: 1.21; 95% CI: 0.91–1.61]. The quality of evidence 
+for this outcome was downgraded because of serious indirectness 
+[the study assessed endoscopic remission, instead of the outcome of 
+interest, which was an endoscopic response] and imprecision [only 
+77 events in the study].
+It is difficult to compare the safety of combined versus oral 5-ASA 
+induction treatment since only one trial addressed this question, with 
+very sparse data.43 Only four SAEs were detected; 3/71 patients in 
+the combined treatment group and 1/56 patients in the oral 5-ASA 
+plus placebo enema group experienced SAEs [RR: 2.37; 95% CI: 
+0.25–22.14]. In parallel to this very serious imprecision, there was 
+also a serious risk of bias. Therefore, the quality of the data for this 
+outcome was assessed to be very low.
+Overall, we felt that the trend towards better outcomes for 
+combined therapy, clinical experience, and the low cost and risk 
+of the intervention all justified a weak recommendation in favour 
+of combined therapy in patients for whom combined therapy was 
+acceptable.
+Topical corticosteroids
+The use of topically administered steroids has been long established 
+for the induction of remission in patients with proctitis and distal 
+colitis. Topically applied steroids offer the advantage over systemic 
+steroids of a more targeted treatment with fewer systemic side ef-
+fects; however, topical treatments may be poorly accepted by some 
+patients due to the route of administration.
+Several systematic reviews have been conducted on this topic,47–53 
+but none included all of the available RCT evidence that was iden-
+tified here. Therefore, we performed a meta-analysis of five RCTs 
+that compared topical steroids with placebo [SoF Table 4, available 
+as Supplementary data at ECCO-JCC online].54–58 Topical steroids 
+were superior to placebo in induction of clinical remission [pooled 
+RR: 2.12; 95% CI: 1.48–3.06], clinical response [RR: 2.18; 95% 
+CI: 1.58–3.01], and endoscopic response [RR: 1.44; 95% CI: 1.21–
+1.70]. SAEs did not occur more frequently compared with placebo 
+[RR: 0.68; 95% CI: 0.10–4.40]. The number of patients included 
+in each study was quite low and the quality of evidence was very 
+low. This was due to indirectness and imprecision identified for the 
+SAE outcome [a critical outcome, although other critical outcomes 
+were judged to have high-quality evidence]. Overall, we believe that 
+the experience with topical steroids in clinical practice, the favour-
+able balance between their potential benefits and harms (there was 
+no statistically significant difference in adverse events [AE] between 
+topical steroids versus placebo), and their low cost support the rec-
+ommendation of topical steroids as an option for induction of remis-
+sion in patients with active UC.
+The effect of treatment with topical 5-ASA at a dose ≥1 g/day or 
+topical steroids [suppositories or enemas] for induction of remission 
+in adult patients with active distal UC has been investigated in 13 
+studies.38,59–70 We performed a meta-analysis of these studies, which 
+included a total of 1395 patients treated with topical 5-ASA at >1 g/
+day or topical steroids [suppositories or enemas], with outcomes 
+captured at 2–8 weeks [SoF Table 5, available as Supplementary data 
+at ECCO-JCC online].
+Topical 5-ASAs were superior for the induction of clinical 
+remission [RR: 1.36; 95% CI: 1.19–1.56] but were not signifi-
+cantly more effective than topical steroids in inducing clinical 
+response [RR: 1.09; 95% CI: 0.97–1.22]. In five studies68–72 
+including 376 patients followed for 2–4 weeks, endoscopic re-
+sponse was equally likely to be achieved with either topical 
+5-ASA or topical steroids [RR: 1.08; 95% CI: 0.82–1.44]. In nine 
+studies61,63,65–69,71,72 including 1306 patients, the rates of SAEs did 
+not differ between topical 5-ASA or topical steroids [RR: 1.21; 
+95% CI: 0.47–3.08]. Overall, the quality of evidence was rated 
+as very low.
+Although patients should generally be treated with a single 
+topical agent, there is some [very limited] evidence to suggest 
+that combination rectal 5-ASA and rectal corticosteroid may be 
+of benefit. This may be appropriate for some patients who fail 
+to respond to initial rectal therapy.69 It is also important to be 
+aware of differences between preparations in terms of delivery 
+systems and formulations, all of which may have differences in 
+patient acceptability. It is appropriate to offer a patient a trial 
+of an alternative preparation if they are unable to tolerate an 
+initial choice.
+Recommendation 4
+We recommend using topical [rectal] steroids for the in-
+duction of remission in patients with active distal colitis 
+[strong recommendation, very low-quality evidence]
+Recommendation 5
+We suggest treatment with topical [rectal] 5-ASAs over 
+topical [rectal] steroids for induction of remission in pa-
+tients with active distal UC [weak recommendation, very 
+low quality of evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+7
+Colonic-release corticosteroids
+The effect of treatment with colonic-release corticosteroids using 
+once-daily budesonide MMX 9  mg for induction of remission in 
+adult patients with active mild-to-moderate UC has been investi-
+gated in three studies73–75 [SoF Table 6, available as Supplementary 
+data at ECCO-JCC online]. A  total of 542 patients treated with 
+colonic-release corticosteroids were included and followed for 8 
+weeks. Colonic-release corticosteroids were superior to placebo in 
+inducing clinical remission and clinical response [RR: 2.86; 95% CI 
+1.62–5.04 and RR: 1.46; 95% CI: 1.11–1.93, respectively]. In two 
+studies73,74 including 510 patients followed for 8 weeks, endoscopic 
+response was more likely to be achieved with colonic-release cortico-
+steroids in comparison with placebo [RR: 1.43; 95% CI: 1.10–1.84]. 
+In all three studies, the rates of SAEs and of any AEs did not differ 
+between colonic-release corticosteroids and placebo [RR: 0.88; 95% 
+CI: 0.33–2.41 and RR: 1.04; 95% CI: 0.79–1.37, respectively]. The 
+low number of SAEs resulted in a low quality of evidence for this 
+critical endpoint, due to imprecision.
+A pooled analysis of data from both phase 3 trials showed a 
+combined clinical and endoscopic remission rate of 17.7% for 
+budesonide MMX 9 mg/day versus 6.2% for placebo (odds ratio 
+[OR]: 3.3; 95% CI: 1.7–6.4).76 Whereas subgroup analysis of these 
+pooled data revealed that this benefit was seen in patients with left-
+sided colitis, the difference between drug and placebo was not statis-
+tically significant in those with more extensive disease.
+Unlike other therapies, including 5-ASA, no data exist for the role 
+of budesonide MMX as a maintenance therapy. This suggests that 
+the most appropriate use of budesonide MMX may be in patients 
+with mildly-to-moderately active disease who are not responding to 
+or are intolerant to optimised 5-ASA therapy. An RCT comparing 
+budesonide MMX 9 mg/day with placebo, in patients with mildly-
+to-moderately active UC despite oral 5-ASA therapy, revealed a 
+significant improvement in the primary endpoint of combined clin-
+ical and endoscopic remission [13% vs 7.5%; p = 0.049) and histo-
+logical healing in the treatment arm [27% vs 17.5%; p = 0.016].77
+Immunomodulators
+Two studies have reported on the use of azathioprine as mono-
+therapy compared with placebo for induction of remission in pa-
+tients with UC.78,79 Overall, only 130 patients in two RCTs were 
+analysed and assessed for clinical remission after 1–4 months, with 
+azathioprine given alongside a concomitant course of corticoster-
+oids. We performed a meta-analysis of these studies and did not 
+observe a difference between azathioprine and placebo for induction 
+of clinical remission [RR: 1.22; 95% CI: 0.79–1.88] [SoF Table 7, 
+available as Supplementary data at ECCO-JCC online]. No placebo-
+controlled data on clinical response, endoscopic response, or SAEs 
+were available.
+It should be noted that due to the relatively slow onset of ac-
+tion of azathioprine, it may be appropriate to initiate azathioprine 
+in patients with active disease where maintenance therapy with 
+azathioprine is planned, but only when given alongside an effective 
+induction agent.
+We did not identify any studies using other thiopurines 
+[mercaptopurine or thioguanine] for the induction of remission. Due 
+to their related mechanism of action, we extend our recommenda-
+tion against the use of azathioprine in induction of remission across 
+the entire thiopurine class.
+4.2.  Maintenance of remission in mildly-to-
+moderately active ulcerative colitis
+5-ASAs
+We identified two RCTs involving 306 participants with 48–52 
+weeks of follow-up, which provided evidence relevant to our PICO 
+question. We synthesised these in a meta-analysis [SoF Table 8, avail-
+able as Supplementary data at ECCO-JCC online].
+For clinical remission, there was moderate-quality evidence that 
+oral 5-ASA [≥2 g/d] was statistically significantly superior to pla-
+cebo for maintaining remission in adult patients with UC [RR: 1.54; 
+95% CI: 1.11–2.14]. For endoscopic remission there was moderate-
+quality evidence favouring the use of 5-ASA, but this did not reach 
+significance [RR: 1.20; 95% CI: 1.00–1.44]. Only one RCT contrib-
+uted evidence [of very low quality] for SAEs.80 Treatment with oral 
+5-ASA [≥2 g/d] was associated with statistically significantly fewer 
+SAEs [RR: 0.41; 95% CI: 0.23–0.71].
+Although the quality of evidence was judged to be overall very 
+low [due to problems with data for SAEs], we nonetheless felt it ap-
+propriate to make a strong recommendation, given the safety and 
+relatively low cost of this intervention. An additional consideration 
+may be the reported potential chemopreventive benefits of mainten-
+ance 5-ASA treatment, although this finding has been inconsistently 
+reported in the literature and may reflect selection bias seen in re-
+ferral centre-based cohorts.81
+We identified four placebo-controlled trials that assessed top-
+ical 5-ASA as maintenance therapy in adult patients with distal 
+UC or proctitis [SoF Table 9, available as Supplementary data at 
+Recommendation 6
+We suggest the use of colonic-release corticosteroids 
+for induction of remission in patients with active mild-
+to-moderate UC [weak recommendation, low quality of 
+evidence]
+Recommendation 7
+We suggest against the use of thiopurines as mono-
+therapy for the induction of remission in patients with 
+active UC [weak recommendation, very low quality of 
+evidence]
+Recommendation 8
+We recommend the use of oral 5-ASA at a dose ≥2 g/day 
+for maintenance of remission in UC patients [strong rec-
+ommendation; very low quality of evidence]
+Recommendation 9
+We suggest the use of topical [rectal] 5-ASA for the main-
+tenance of remission in patients with distal UC [weak rec-
+ommendation, very low-quality evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+8
+T. Raine et al.
+ECCO-JCC online].82–85 Doses used ranged between 1 g three times 
+weekly and 1 g daily, administered as suppositories or enemas over 
+a period of 12  months [three studies] to 24  months [one study]. 
+The quality of evidence was rated as low due a to serious risk of 
+bias and inconsistency. The same studies were identified in a pre-
+vious Cochrane review.86 The use of topical 5-ASA as maintenance 
+therapy in adult patients with distal UC or proctitis was significantly 
+superior in maintenance of clinical remission compared with pla-
+cebo [RR: 2.22; 95% CI: 1.26–3.90]. For the maintenance of endo-
+scopic remission, data on the use of 1-g 5-ASA enemas in distal UC 
+or proctitis are available for just 25 patients treated over the course 
+of 12 months; 5-ASA was superior to placebo [RR: 4.88; 95% CI: 
+1.31–18.18].87
+These studies did not report data on SAEs. A previous Cochrane 
+Review found no significant difference in the proportion of patients 
+experiencing AEs or in the rate of withdrawals due to AEs with top-
+ical 5-ASA compared with placebo.86 Although the level of evidence 
+is very low, our recommendation is strong, based on the long clinical 
+experience of efficacy and minimal side effects of rectal formulations 
+of 5-ASA along with the low cost of this intervention. It is important 
+to consider patient acceptability; for some patients, the use of the 
+rectal route for maintenance therapy provides significant advantages 
+both in reducing systemic exposure to drugs and avoiding a greater 
+level of immunosuppression. However, the rectal route of admin-
+istration may present challenges for medication adherence,88 with 
+patients facing practical difficulties in administration and enema 
+retention. Patient support and education may increase adherence; 
+otherwise, alternative formulations or drugs should be considered.
+Immunomodulators
+We identified four placebo-controlled RCTs on maintenance treatment 
+with azathioprine in patients with UC who were steroid-dependent 
+or intolerant to 5-ASA [SoF Table 10, available as Supplementary 
+data at ECCO-JCC online].78,79,89,90 In 232 patients followed for 
+1 year, azathioprine was superior [56%] to placebo [35%] for the 
+maintenance of clinical remission [RR: 1.59; 95% CI: 1.19–2.11]. 
+No placebo-controlled data on endoscopic or histological remission, 
+sustained clinical remission, or SAEs were available. In contrast to 
+current clinical trials, different disease activity indices and endpoint 
+definitions were used. Hence, indirect comparisons with novel and 
+potentially more potent agents are difficult. Nevertheless, large-scale 
+cohort studies highlighted the apparent clinical benefit of thiopurine 
+monotherapy.91 Since we do not recommend the use of thiopurines for 
+induction of remission, it is important that any maintenance strategy 
+with thiopurines is planned alongside an effective induction agent. We 
+did not identify any RCTs of thiopurines other than azathioprine, but 
+due to their closely related pharmacology, we extend our recommen-
+dation across the drug class.
+Significant safety concerns do exist with the use of thiopurines. 
+This is particularly true in patients aged  >65 years; use of thiopurines 
+should be discouraged in this age group.8,92–94
+No evidence supports the use of methotrexate for the mainten-
+ance of remission in UC.95 An RCT of methotrexate against placebo 
+failed to demonstrate any advantage in terms of steroid-free clinical 
+remission.96
+5.  Medical Management of Moderately-to-
+severely Active Ulcerative Colitis
+5.1.  Induction of remission in moderately-to-
+severely active ulcerative colitis
+Systemic corticosteroids
+Despite a limited evidence base, the use of systemic corticosteroids 
+for the induction of remission in moderately-to-severely active UC 
+is well established in clinical practice. The limited evidence is due 
+in part to the large effect size and limited alternative options at the 
+time of the original RCTs.97,98 A previous meta-analysis99 included 
+five placebo-controlled RCTs, although only two of them97,98 used 
+standard systemic corticosteroids. Therefore, we performed a meta-
+analysis of just these two studies and calculated an RR of 2.83 [95% 
+CI: 1.79–4.46] for the induction of clinical remission. The quality of 
+evidence was rated as very low, due to a serious risk of bias, indirect-
+ness, and imprecision [in part since the number of patients included 
+in each study was low] [SoF Table 11, available as Supplementary 
+data at ECCO-JCC online].
+No information regarding AEs with steroid treatment was avail-
+able in these two studies. Other studies established the side-effect 
+profile of corticosteroids in both short courses and also longer-term 
+exposure in both UC and Crohn’s disease.21,100 Due to the potential 
+for side effects, some of which are irreversible, corticosteroid-free 
+remission represents a desired outcome for patients.101,102
+Overall, we believe that the ample experience with systemic ster-
+oids in clinical practice and the favourable balance between their po-
+tential benefits and harms [when used over limited periods] support 
+the recommendation of oral prednisolone [or another equivalent sys-
+temic steroid agent, such as methylprednisolone or prednisone] as 
+an option for induction of remission in patients with moderately-to-
+severely active UC. For these reasons, our recommendation is graded 
+as strong, despite the quality of evidence being very low.
+A previous meta-analysis identified six RCTs that compared sys-
+temic prednisolone with budesonide, and found a significantly higher 
+chance of induction of remission but increased steroid-related AEs 
+with prednisolone.99 However, none of these RCTs used a colonic-
+release budesonide formulation. We restrict our recommendations 
+for budesonide MMX in mild-to-moderately active disease, and 
+prednisolone in moderately-to-severely active UC, to reflect the 
+study populations of the RCTs identified and the likely risk-benefit 
+profile in these different populations.
+It is important to note that there are no efficacy data supporting 
+the use of corticosteroids as maintenance therapies, and very limited 
+data on the ability of these drugs to achieve endoscopic response. 
+Additionally, longer-term corticosteroid exposure is associated with 
+significant safety concerns. Due to this, along with the availability of 
+drugs with proven ability to maintain corticosteroid-free remission, 
+Recommendation 10
+We recommend monotherapy with thiopurines for 
+the maintenance of remission in patients with steroid-
+dependent UC or who are intolerant to 5-ASA [strong rec-
+ommendation, moderate quality of evidence]
+Recommendation 11
+We recommend oral prednisolone for induction of re-
+mission in non-hospitalised patients with moderately-
+to-severely active UC [strong recommendation; very low 
+quality of evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+9
+we advise monitoring of corticosteroid exposure in patients with 
+UC. Corticosteroid-sparing agents should be initiated for any pa-
+tient showing corticosteroid-refractory disease or intolerance of or 
+contraindication to corticosteroids. Additionally, courses of cortico-
+steroids should be restricted to a maximum of 3 months, and therapy 
+with a corticosteroid-sparing agent should be considered for any pa-
+tient who requires more than a single course of systemic corticoster-
+oids in a year or experiences a disease flare upon steroid tapering.
+Anti-tumour necrosis factor agents
+We identified nine suitable RCTs that compared anti-TNF agents 
+[infliximab, adalimumab, golimumab] with placebo in patients 
+with moderately-to-severely active UC [SoF Table 12, available as 
+Supplementary data at ECCO-JCC online].103–111 Patient eligibility 
+required an inadequate response to or intolerance of conventional 
+therapies, which were defined as corticosteroids, immunomodulators, 
+or both in most studies, although three RCTs also permitted inad-
+equate response to or intolerance of oral 5-ASA alone.103–105 Our 
+meta-analysis revealed evidence of efficacy for induction of clinical 
+remission [RR: 2.23; 95% CI: 1.81–2.76] and clinical response [RR: 
+1.56; 95% CI: 1.38–1.76]. We found data supporting efficacy for 
+mucosal healing [RR: 1.49; 95% CI: 1.32–1.68], which is closely re-
+lated to but defined differently from the outcome of interest used in 
+this guideline [endoscopic response]; evidence was therefore down-
+graded due to indirectness. There was no difference in terms of AEs 
+when analysed regardless of treatment duration [RR: 0.84; 95% 
+CI: 0.64–1.09]. Safety data for anti-TNF agents from large cohort 
+studies were generally reassuring.93,94,112
+Studies that directly compared anti-TNF agents are not avail-
+able. Two network meta-analyses113,114 that performed indirect com-
+parisons concluded that infliximab is superior to adalimumab for 
+the induction of clinical remission [OR: 2.10; 95% CI: 1.21–3.64113 
+and OR: 2.10; 95% CI: 1.16–3.79, respectively114]. The first net-
+work meta-analysis also concluded that infliximab is superior to 
+adalimumab and golimumab for induction of clinical response [OR: 
+2.01; 95% CI: 1.36–2.98 and OR: 1.67; 95% CI: 1.08–2.59, vs 
+adalimumab and golimumab, respectively] and for induction of mu-
+cosal healing [OR: 1.87; 95% CI: 1.26–2.79 and OR: 1.75; 95% CI: 
+1.13–2.73, vs adalimumab and golimumab, respectively].113
+For patients with a history of previous failure of biologic therapy, 
+there are limited data to guide treatment selection. Subgroup ana-
+lysis of a phase 3 trial suggests that the clinical effects of induction 
+therapy with adalimumab were markedly lower in patients with 
+previous anti-TNF agent exposure [and non-significantly different 
+from placebo].110 A  previous systematic review of cohort studies 
+identified eight studies that reported the efficacy of adalimumab 
+when used after infliximab in UC. However, meta-analysis was not 
+possible, due to study heterogeneity.115 In patients with a history of 
+previous infliximab therapy randomised to either adalimumab or 
+vedolizumab, rates of clinical remission and endoscopic response 
+were not significantly different.116 There are extremely limited data 
+on the use of anti-TNF agents in other biologic sequences.
+A key question is whether to combine an anti-TNF agent with an 
+immunomodulator. The combination of infliximab with azathioprine 
+is more effective than infliximab alone.117 Similar RCT-level data do 
+not exist for adalimumab in combination with thiopurine therapy 
+in UC, although cohort studies suggest a possible benefit for this 
+combination118 and pharmacokinetic benefits have been reported in 
+patients with Crohn’s disease.119 For patients experiencing loss of 
+response to a first anti-TNF agent used as monotherapy and with 
+evidence of anti-drug antibodies, there is clear RCT evidence in fa-
+vour of addition of a thiopurine to prevent formation of anti-drug 
+antibodies to the second anti-TNF agent.120
+The optimal time point for the introduction of anti-TNF therapy 
+has yet to be defined. Unlike in Crohn’s disease, no post-hoc analysis 
+has demonstrated increased efficacy of anti-TNF agents used early in 
+the UC disease course. Factors predicting severe or complicated dis-
+ease, such as young age at first diagnosis, extensive disease, and high 
+inflammatory burden, have been proposed to identify patients who 
+may benefit from early treatment escalation,121 although the benefits 
+of this approach have not been demonstrated in any strategy trial.
+Vedolizumab
+Two placebo-controlled RCTs were identified that addressed our 
+PICO question. These included 620 patients with moderately-to-
+severely active UC treated with vedolizumab or placebo; induction 
+of clinical remission, induction of clinical response, and SAEs were 
+reported.122,123 Patients were followed up to 6–10 weeks [SoF Table 
+13, available as Supplementary data at ECCO-JCC online].
+We included these two studies in a meta-analysis. Clinical remis-
+sion was achieved more often in patients receiving vedolizumab com-
+pared with placebo [RR: 2.14; 95% CI:1.03–4.43]. Although the 
+direction of effect for clinical response was the same as for clinical 
+remission, the difference between patients treated with vedolizumab 
+and those receiving placebo was not significant [RR: 1.51; 95% CI: 
+0.99–2.29]. Rates of SAEs in patients treated with vedolizumab were 
+not significantly different from those receiving placebo [RR: 0.71; 
+95% CI: 0.39–1.30]. Safety data from large cohort studies also con-
+firmed this favourable safety assessment.112
+Evidence was also sought for endoscopic response and biochem-
+ical remission; however, data were insufficient. Of note, rates of 
+endoscopic remission at Week 6 in the GEMINI I phase 3 induction 
+study were 40.9% for vedolizumab-treated patients compared with 
+24.8% for placebo-treated patients [p = 0.001].122 In contrast, endo-
+scopic remission rates at Week 10 in a Japanese phase 3 induction 
+study did not differ significantly between vedolizumab- and placebo-
+treated patients [36.6% vs 30.5%, p = 0.32].123
+The overall quality of evidence was low. The quality of evidence 
+was low for clinical remission due to serious inconsistency and im-
+precision. The quality of evidence was moderate for clinical response 
+due to serious inconsistency. The inconsistency for both outcomes 
+Recommendation 12
+We recommend treatment with anti-tumour necrosis factor 
+[TNF] agents [infliximab, adalimumab, and golimumab] 
+to induce remission in patients with moderate-to-severe 
+UC who have inadequate response or intolerance to con-
+ventional therapy [strong recommendation, moderate-
+quality evidence]
+Recommendation 13
+We recommend treatment with vedolizumab for the in-
+duction of remission in patients with moderately-to-
+severely active UC who have inadequate response or 
+intolerance to conventional therapy [strong recommen-
+dation, low quality of evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+10
+T. Raine et al.
+was due to heterogeneity in outcomes between the two RCTs. The 
+quality of evidence for SAEs was moderate due to serious impreci-
+sion. However, the overall recommendation was graded as strong, 
+considering the overall evidence available combined with the favour-
+able safety profile of vedolizumab in both RCT and cohort studies.
+Tofacitinib
+We performed a meta-analysis of data from two RCTs relevant to 
+our PICO question. These included 1220 patients with moderate-
+to-severe UC who previously had an inadequate response, loss 
+of response, or were intolerant to either conventional therapy 
+[mesalamine plus steroids or thiopurines] or a biologic agent who 
+were treated with tofacitinib or placebo [SoF Table 14, available as 
+Supplementary data at ECCO-JCC online].124,125 There was evidence 
+for efficacy in induction of clinical response [RR: 1.79; 95% CI: 
+1.49–2.14], clinical remission [RR: 3.26; 95% CI: 1.95–5.43], and 
+endoscopic response [RR: 5.18; 95% CI: 2.12–12.69]. However, the 
+evidence regarding endoscopic response was downgraded due to 
+indirectness and imprecision [low number of events]. Data on bio-
+chemical remission were insufficient. SAEs were comparable [RR: 
+0.70; 95% CI: 0.45–1.08], although the evidence was also down-
+graded due to imprecision.
+Further safety data are available from post-marketing studies of 
+tofacitinib [discussed under maintenance therapy below], which should 
+be considered when deciding upon choice of induction therapy. The 
+potential benefits of an oral route of administration and the lack of im-
+munogenicity should also be considered. A previous meta-analysis of 
+RCTs on tofacitinib showed similar positive data for clinical and endo-
+scopic endpoints in both the subgroup of patients naïve to anti-TNF 
+agents and the subgroup with previous anti-TNF agent exposure.126 
+There were no significant differences in estimates of effect sizes between 
+these subgroups. This was reflected in the findings of indirect network 
+meta-analyses that did not find evidence of a statistical difference be-
+tween tofacitinib and anti-TNF agents or ustekinumab for clinical and 
+endoscopic outcomes in patients naïve to biologic therapy,113,114 but 
+suggest a possible benefit over adalimumab or vedolizumab for pa-
+tients with previous anti-TNF agent exposure.114
+Ustekinumab
+A single RCT compared ustekinumab with placebo for induction 
+therapy in patients with moderately-to-severely active UC [SoF 
+Table 15, available as Supplementary data at ECCO-JCC online].127 
+Patients were required to have not responded to or been intolerant to 
+previous biologic or conventional therapy [defined as corticosteroid 
+or thiopurines], or both, or have corticosteroid-dependent disease. 
+Of these, 51.1% of randomised patients had previously failed treat-
+ment with an alternative biologic, including 16.6% who failed treat-
+ment with both an anti-TNF agent and vedolizumab. The study 
+demonstrated the benefit of ustekinumab [6 mg/kg] over placebo in 
+induction of clinical remission [15.5% vs 5.3%; RR: 2.91; 95% CI: 
+1.72–4.94], clinical response [61.8% vs 31.3%; RR: 1.97; 95% CI: 
+1.64–2.37], and endoscopic improvement [27.0% vs 13.8%; RR: 
+1.96; 95% CI: 1.41–2.72].
+At completion of induction, the change in mean Inflammatory 
+Bowel Disease Questionnaire [IBDQ] score from baseline was 
+greater in those receiving ustekinumab [6 mg/kg] than in those re-
+ceiving placebo [35.0 vs 16.16; p <0.001]. Median change in faecal 
+calprotectin from baseline also showed a more significant reduction 
+in the treatment arm [-1368.26 vs 17.92; p <0.001]. SAEs did not 
+differ between ustekinumab [6 mg/kg] and placebo [5.2% vs 7.9%; 
+RR: 0.67; 95% CI: 0.39–1.17].
+Clinical and endoscopic benefit compared with placebo was ob-
+served for patients with and without previous biologic failure. An 
+indirect network meta-analysis did not reveal a statistical difference 
+between ustekinumab and anti-TNF agents or tofacitinib for clin-
+ical and endoscopic outcomes in patients naïve to biologic therapy, 
+but suggested a possible benefit of ustekinumab over adalimumab or 
+vedolizumab for patients with previous anti-TNF exposure.114
+5.2.  Maintenance of remission of moderately-to-
+severely active ulcerative colitis
+Anti-TNF agents
+We performed a meta-analysis of data extracted from 10 placebo-
+controlled RCTs of anti-TNF agents [infliximab, golimumab, 
+adalimumab] for the maintenance of remission in adult patients 
+with moderately-to-severely active UC [SoF Table 16, available as 
+Supplementary data at ECCO-JCC online].103–111,128 Anti-TNF agents 
+were effective for the maintenance of clinical remission [RR: 1.98; 95% 
+CI: 1.60–2.45], steroid-free clinical remission [RR: 2.86; 95% CI: 1.67–
+4.90], improvement in quality of life [QoL] [RR: 1.71; 95% CI: 1.27–
+2.32], and sustained clinical remission [RR: 2.76; 95% CI: 1.78–4.28]. 
+The risk of SAEs was not different between anti-TNF agents and placebo 
+[RR: 0.84; 95% CI: 0.64–1.09]. Evidence was also sought for endo-
+scopic remission and biochemical remission; however, data were insuffi-
+cient. Large-scale cohort studies support the safety of these drugs.93,94,112
+Recommendation 14
+We recommend treatment with tofacitinib to induce re-
+mission in patients with moderate-to-severe UC who 
+have inadequate response or intolerance to conventional 
+therapy [strong recommendation, moderate quality of 
+evidence]
+Recommendation 15
+We recommend treatment with ustekinumab for the induc-
+tion of remission in patients with moderately-to-severely 
+active UC with inadequate response or intolerance to con-
+ventional therapy. [strong recommendation, moderate 
+quality of evidence]
+Recommendation 16
+We recommend anti-TNF agents [infliximab, adalimumab, 
+or golimumab] for the maintenance of remission in pa-
+tients with UC who responded to induction therapy with 
+the same drug [strong recommendation, high-quality 
+evidence]
+Recommendation 17
+In UC patients who have lost response to an anti-TNF 
+agent, there is currently insufficient evidence to recom-
+mend for or against the use of therapeutic drug moni-
+toring to improve clinical outcomes
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+11
+Multiple studies have shown an association between trough levels of 
+biologic agents, including anti- TNF agents,129–134 vedolizumab,135–137 
+and ustekinumab,138 and clinical outcomes in UC. Nonetheless, these 
+studies were all retrospective analyses and cannot confirm any causal 
+effect or suggest a benefit of trough-level based dose adjustment for 
+improvement of response to biologics in patients with persistent dis-
+ease activity. Retrospective analyses of mixed cohorts of patients 
+with IBD, experiencing loss of response to anti-TNF agents, have 
+shown that measurement of adequate infliximab or adalimumab 
+drug levels appears to correlate well with patients who do not re-
+spond to subsequent dose escalation and to patients who do respond 
+to switching to non anti-TNF therapies.139–141 These retrospective 
+data suggest that decisions informed by drug monitoring may be 
+more likely to be successful than clinically guided decision making 
+alone,140 but this requires validation in a prospective study.
+The same challenges and arguments around the need to demon-
+strate benefit and not just association apply to discussions around the 
+use of prospective monitoring of drug levels to guide dosing in patients 
+who are not experiencing loss of response. One study, published in ab-
+stract only, randomised 371 participants with UC, who had responded 
+to induction therapy with adalimumab, to receive adalimumab at 
+standard dose [40 mg every other week], high dose [40 mg every week], 
+or dosing guided by therapeutic drug monitoring.142 The therapeutic 
+drug monitoring arm was not powered to demonstrate superiority 
+and was considered exploratory. There was a non-significant trend to-
+wards higher rates of clinical remission amongst responders to induc-
+tion therapy who were randomised to receive drug monitoring-guided 
+dosing compared with standard dose [36.5% vs 29%].
+Overall, given the lack of appropriate prospective studies, we 
+were unable to make a recommendation [SoF Table 17, available as 
+Supplementary data at ECCO-JCC online] and we suggest further 
+research in this area.
+Vedolizumab
+We identified three RCTs that included 441 patients treated with 
+intravenous vedolizumab or placebo, which reported on mainten-
+ance of clinical remission and sustained clinical remission in adult 
+patients with moderately-to-severely active UC who responded to 
+induction therapy [SoF Table 18, available as Supplementary data 
+at ECCO-JCC online].122,123,143,144 Patients in these trials were fol-
+lowed up for 52–60 weeks. We performed a meta-analysis of results 
+from these trials. Clinical remission was more common in induction-
+responders who subsequently received vedolizumab compared with 
+placebo [RR: 2.37; 95% CI: 1.74–3.23]. Likewise, sustained clinical 
+remission was also more common in patients receiving vedolizumab 
+maintenance therapy compared with placebo [20.7% vs 9.4%; RR: 
+2.16; 95% CI: 1.34–3.50]. The quality of evidence for these out-
+comes was moderate to high. The rate of SAEs across five studies 
+involving 1288 patients was not significantly different between 
+vedolizumab and placebo [RR: 0.71; 95% CI: 0.39–1.30]. The 
+quality of evidence for this outcome was moderate due to serious 
+imprecision arising from sparse data. Nevertheless, the safety profile 
+of vedolizumab has been established in a large cohort study.112 In 
+particular, the rate of serious infections in patients with UC appeared 
+lower in those treated with vedolizumab than with anti-TNF agents, 
+after adjusting for baseline differences [including comorbidities].
+More recently, a double-dummy placebo-controlled RCT 
+evaluated both intravenous and subcutaneous preparations of 
+vedolizumab in patients with moderately-to-severely active UC, 
+who had responded to open-label intravenous vedolizumab induc-
+tion therapy.143 Clinical remission, endoscopic improvement, and 
+sustained clinical remission were significantly more frequently ob-
+served with subcutaneous vedolizumab than with placebo. The study 
+was not powered to compare intravenous and subcutaneous prepar-
+ations, although all outcomes were numerically similar between 
+these two groups. SAEs occurred at similar frequencies in all three 
+groups, and no distinct safety signals were observed with the sub-
+cutaneous preparation.
+One RCT compared the efficacy and safety of vedolizumab with those 
+of adalimumab over a 1-year period in patients with moderately-to-
+severely active UC [SoF Table 19, available as Supplementary data 
+at ECCO-JCC online].116 A significantly higher percentage of patients 
+in the vedolizumab group than in the adalimumab group achieved 
+clinical response [RR: 1.46; 95% CI: 1.29‒1.67], clinical remission 
+[RR: 1.39; 95% CI: 1.10‒1.76), and endoscopic remission [RR: 
+1.43; 95% CI: 1.17‒1.75]. There was a numerical trend in favour 
+of vedolizumab for biochemical remission [RR: 1.22; 95% CI: 
+0.96‒1.54]. Corticosteroid-free clinical remission occurred in a nu-
+merically lower percentage of patients in the vedolizumab group than 
+in the adalimumab group [RR: 0.58; 95% CI: 0.32‒1.05]. Of note, 
+the quality of evidence for steroid-free clinical remission was low, as 
+evidence relied on sparse data and the confidence intervals were very 
+wide. Incidence rates of infections and serious infections occurred at 
+similar frequencies with vedolizumab and with adalimumab [RR: 
+0.80; 95% CI: 0.55‒1.17]. It is important to note that dose escalation 
+was not permitted with either drug, despite evidence of improved 
+maintenance outcomes with dose escalation for both drugs.122,142,145
+Tofacitinib
+We identified one RCT that reported outcomes in 593 patients treated 
+with tofacitinib or placebo as maintenance therapy.125 For patients 
+who responded to induction therapy, tofacitinib at a dose of 5 or 
+10 mg twice daily was superior to placebo in maintaining clinical 
+remission [RR: 3.37; 95% CI: 2.23–5.10] and endoscopic remission 
+[RR: 3.88; 95% CI: 1.90–7.95] in patients with moderate-to-severe 
+Recommendation 18
+We recommend vedolizumab for maintenance of remis-
+sion in patients with UC who responded to induction 
+therapy with vedolizumab [strong recommendation, 
+moderate-quality evidence]
+Recommendation 19
+We suggest the use of vedolizumab rather than 
+adalimumab for the induction and maintenance of remis-
+sion in patients with moderately-to-severely active ulcera-
+tive colitis [weak recommendation, low level of evidence]
+Recommendation 20
+We recommend tofacitinib for maintaining remission in 
+patients with UC who responded to induction therapy 
+with tofacitinib [strong recommendation, moderate 
+quality of evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+12
+T. Raine et al.
+UC who had an adequate response to the induction scheme. 
+However, the evidence regarding endoscopic remission was down-
+graded due to imprecision [low number of events]. Sustained clin-
+ical remission [RR: 4.71; 95% CI: 2.51–8.84], corticosteroid-free 
+remission [RR: 2.54; 95% CI: 1.39–4.65], and improvement in QoL 
+[RR: 2.55; 95% CI: 1.93–3.37] were also superior. The evidence re-
+garding corticosteroid-free clinical remission was also downgraded 
+due to imprecision. Data on biochemical remission were insufficient.
+SAEs for tofacitinib therapy in RCTs were comparable to placebo 
+[RR: 0.70; 95% CI: 0.45–1.08]. The evidence was again downgraded 
+due to imprecision. However, an increased risk for infections was ob-
+served [OR: 1.56; 95% CI: 1.18–2.06]. Most of the serious infections 
+were of bacterial origin, including community-acquired pneumonia and 
+urinary tract and skin infections. A separate meta-analysis of the safety 
+profile of Janus kinase inhibitors across multiple inflammatory diseases 
+showed a particularly high risk of viral infections, especially herpes 
+zoster [RR: 6.53; 95% CI: 0.86–49.58].146 This signal was also observed 
+in a pooled analysis of safety data from the tofacitinib development pro-
+gramme in UC [incidence rate 4.1 events per 100 person-years; 95% 
+CI: 3.1–5.2],147 although most cases were uncomplicated and associated 
+with a single dermatome. This risk appears to be dose dependent and is 
+more common with 10 mg twice daily dosing than 5 mg twice daily.147 
+A large cohort study in rheumatoid arthritis suggested that the rates of 
+herpes zoster appear higher with tofacitinib than with anti-TNF agents; 
+this risk appeared to be especially significant in older patients or in those 
+receiving concomitant corticosteroid therapy.148
+A safety study of tofacitinib in patients with rheumatoid arthritis, 
+aged ≥50 years and with at least one known cardiovascular risk factor, 
+revealed a significantly increased risk of venous thromboembolism 
+[VTE] in patients treated with 10 mg twice daily tofacitinib compared 
+with patients treated with anti-TNF agents. This risk was not observed 
+in patients treated with 5 mg twice daily tofacitinib.149 Although data 
+are sparse, VTE has been reported in patients with VTE risk factors 
+who participated in the UC development programme.150 Considering 
+these findings, the European Medicines Agency recommended using 
+tofacitinib at the lowest efficacious dose and avoiding tofacitinib 10 mg 
+twice daily as maintenance treatment for patients with known VTE risk 
+factors. In this regard, 140 UC patients treated with tofacitinib 10 mg 
+twice daily for at least 2 consecutive years, and in sustained remis-
+sion for ≥6 months, were randomised to continue with the same dose 
+or de-escalate to 5 mg twice daily. After 6 months, clinical remission 
+rates were 77% and 90% for the 5 mg twice daily and 10 mg twice 
+daily groups, respectively. No differences in AEs or SAEs were detected 
+between the two groups, although herpes zoster cases were numeric-
+ally higher in the 10 mg twice daily group.151 Further post-marketing 
+surveillance data suggest that tofacitinib use is also associated with an 
+increased risk of cardiac events and malignancies.152 Overall, we re-
+iterate the comments made previously that the efficacy data, including 
+in patients with previous anti-TNF exposure, along with the benefits 
+associated with oral dosing and lack of immunogenicity, support our 
+recommendations for tofacitinib as a treatment option in patients with 
+UC, with the risks and benefits to be considered for each patient.
+Ustekinumab
+A single RCT compared ustekinumab with placebo for maintenance 
+therapy in UC in patients who responded to ustekinumab induc-
+tion therapy.127 The study revealed that maintenance treatment with 
+ustekinumab, at approved dosing of 90 mg subcutaneously every 8 
+weeks, offers benefit when compared with placebo in maintenance 
+of clinical remission [RR: 1.82; 95% CI: 1.33–2.49] and mainten-
+ance of steroid-free clinical remission [RR: 1.79; 95% CI: 1.30–
+2.47], at Week 44. Although data were not available for endoscopic 
+improvement, we used data for the closely related endpoint of endo-
+scopic remission and found benefit compared with placebo [RR: 
+1.79; 95% CI: 1.36–2.36]. There was a reduction in mean faecal 
+calprotectin for those who remained on ustekinumab during the 
+maintenance period [-434.9 vs 813.3]. The benefits of ustekinumab 
+were also reflected by the IBDQ scores in patients who completed 
+the maintenance study [3.9 vs -15.7]. SAEs did not occur more fre-
+quently in the treatment arm [5.2% vs 7.9%; RR: 0.67; 95% CI: 
+0.39–1.17].
+In addition to 8-weekly dosing, the study also evaluated 
+12-weekly maintenance therapy. Twelve-weekly dosing also showed 
+statistically significant superiority over placebo for clinical remission 
+[RR: 1.60; 95% CI: 1.16–2.21], steroid-free clinical remission [RR: 
+1.61; 95% CI: 1.16–2.24], and endoscopic remission [RR: 1.53; 
+95% CI: 1.14–2.04]. Compared with 8-weekly dosing, rates were 
+numerically lower, but this did not reach statistical significance. The 
+differences between outcomes with 8-weekly and 12-weekly dosing 
+were greater in patients with a history of previous biologic failure.127
+6.  Conclusion
+These recommendations summarise the current evidence on the 
+medical management of adult patients with UC. Gaps were iden-
+tified during the analysis of the data, which should be addressed 
+by further research. Where evidence is lacking or is very weak and 
+evidence-based recommendations cannot be given, ECCO provides 
+alternative tools, such as Topical Reviews28,95,153–158 or Position 
+Papers.159–161 It is important that clinicians use these guidelines 
+within the framework of local regulations, and seek to understand 
+and address the individual needs and expectations of every patient. 
+We recognise that constraints on health care resources are an im-
+portant factor in determining whether recommendations can be 
+implemented for patients in many countries. The recommendations 
+outlined here should be used to inform treatment decisions and 
+form part of an overall multidisciplinary treatment plan for patients 
+with UC, which may also encompass psychological, nutritional, and 
+other non-pharmacological interventions. ECCO will disseminate 
+these guidelines by educational activities [i.e., educational plat-
+forms, ECCO Workshops, e-learning, and e-Guide] and will support 
+any initiative to integrate ECCO Guidelines into clinical practice; 
+the ECCO e-Guide will primarily serve as a resource to examine 
+how the guideline recommendations can be implemented into daily 
+clinical practice and patient care pathways.162 The e-Guide ad-
+dresses important practical issues not addressed here, such as how 
+to monitor for both positive and negative effects of medications. 
+These treatment guidelines will be regularly updated according to 
+the Guideline Committee schedule for the update of guidelines on 
+the ECCO website. Updates will use the GRADE approach and con-
+sider the most recent evidence emerging from clinical research in 
+the field.
+Funding
+This project was initiated, funded, and supported by ECCO.
+Recommendation 21
+We recommend ustekinumab for the maintenance of 
+remission in patients with UC who responded to induc-
+tion therapy with ustekinumab [strong recommendation, 
+moderate quality of evidence]
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+13
+Conflict of Interest
+ECCO has diligently maintained a disclosure policy of potential conflicts of 
+interests [CoI]. The conflict-of-interest declaration is based on a form used by 
+the International Committee of Medical Journal Editors [ICMJE]. The CoI 
+disclosures are not only stored at the ECCO Office and the editorial office 
+of JCC, but are also open to public scrutiny on the ECCO website [https://
+www.ecco-ibd.eu/about-ecco/ecco-disclosures.html], providing a comprehen-
+sive overview of potential conflicts of interest of the authors.
+Disclaimer
+The ECCO consensus guidelines are targeted at health care professionals only 
+and are based on an international consensus process. Any treatment decisions 
+are a matter for the individual clinician and should not be based exclusively 
+on the content of the ECCO consensus guidelines. ECCO and/ or any of its 
+staff members and/or any consensus contributor may not be held liable for 
+any information published in good faith in the ECCO consensus guidelines.
+Acknowledgements
+We thank: the ECCO Office for logistical and coordination support; Paul 
+Freudenberger for the literature search; and Torsten Karge for the support 
+on informatics and on the online Guidelines platform. We gratefully thank 
+the EFCCA patient representatives Kirsty Gibson [UK], Isabella Grosu 
+[Romania], Lucie Lastikova [Czech Republic], Jarkko Lignell [Finland], Edda 
+Svavarsdottir [Iceland], Szajer Daria [Poland] who proactively collaborated in 
+the development of these Guidelines. 
+We would like to thank and acknowledge the ECCO National 
+Representatives, who acted as external reviewers and reviewed and provided 
+suggestions on the recommendations and supporting text to this document: 
+Filiz Akyüz [Turkey], Raja Atreya [Germany], Giorgos Bamias [Greece], Manuel 
+Barreiro de Acosta [Spain], Dominik Bettenworth [Germany], Ante Bogut [Bosnia 
+and Herzegovina], Garret Cullen [Ireland], Pieter Dewint [Belgium], Mihai 
+Mircea Diculescu [Romania], Srdjan Djuranovic [Serbia], Andrey Dorofeyev 
+[Ukraine], Pavel Drastich [Czech Republic], Dana Duricová [Czech Republic], 
+Pierre Ellul [Malta], Adrian Goldiș [Romania], Ana Gutierrez [Spain], Christoph 
+Högenauer [Austria], Tuire Ilus [Finland], Ioannis Kaimakliotis [Cyprus], 
+Željko Krznarić [Croatia], Karin Kull [Estonia], Hendrik Laja [Estonia], Triana 
+Lobaton [Belgium], Gregor Novak [Slovenia], Małgorzata Sładek [Poland], 
+Svetlana Turcan [Moldova], Willemijn van Dop [The Netherlands], Fiona van 
+Schaik [The Netherlands], Ana Isabel Vieira [Portugal], Matti Waterman [Israel], 
+Signe Wildt [Denmark], Henit Yanai [Israel].
+Additionally, we would like to thank our colleagues at the European Society 
+of Coloproctology [ESCP], who were invited to participate in the recom-
+mendations and statements during the preliminary online vote: Triantafyllos 
+Doulias [UK], Mark Ellebæk [Denmark], Gaetano Gallo [Italy], Rosa Jimenez-
+Rodriguez [Spain], Ionut Negoi [Romania], Luis Sánchez-Guillén [Spain].
+Last, but not least, we would also like to thank and acknowledge the fol-
+lowing additional external reviewers who also reviewed and provided sug-
+gestions on the recommendations and statements: Mariangela Allocca [Italy], 
+Michele Carvello [Italy], Gabriele Dragoni [Belgium], Daniela Gilardi [Italy], 
+Jost Langhorst [Germany], Lieven Pouillon [Belgium], Iago Rodríguez-Lago 
+[Spain], Simone Saibeni [Italy], Beatriz Sicilia [Spain].
+Supplementary Data
+Supplementary data are available at ECCO-JCC online.
+References 
+	1.	 Maaser  C, Sturm  A, Vavricka  SR, et  al. ECCO-ESGAR Guideline for 
+Diagnostic Assessment in IBD Part 1: Initial diagnosis, monitoring of known 
+IBD, detection of complications. J Crohns Colitis 2019;13:144–64K. 
+	2.	 Sturm A, Maaser C, Calabrese E, et al. ECCO-ESGAR guideline for diag-
+nostic assessment in IBD part 2: IBD scores and general principles and 
+technical aspects. J Crohns Colitis 2019;13:273–84.
+	3.	 Magro F, Langner C, Driessen A, et al.; European Society of Pathology 
+(ESP); European Crohn’s and Colitis Organisation (ECCO). European 
+consensus on the histopathology of inflammatory bowel disease. J Crohns 
+Colitis 2013;7:827–51.
+	4.	 Kemp K, Dibley L, Chauhan U, et al. Second N-ECCO consensus state-
+ments on the European nursing roles in caring for patients with Crohn’s 
+disease or ulcerative colitis. J Crohns Colitis 2018;12:760–76.
+	5.	 Harbord M, Annese V, Vavricka SR, et al.; European Crohn’s and Colitis 
+Organisation. The first European evidence-based consensus on extra-
+intestinal manifestations in inflammatory bowel disease. J Crohns Colitis 
+2016;10:239–54.
+	6.	 Annese V, Beaugerie L, Egan L, et al.; ECCO. European evidence-based 
+consensus: inflammatory bowel disease and malignancies. J Crohns Colitis 
+2015;9:945–65.
+	7.	 Dignass  AU, Gasche  C, Bettenworth  D, et  al.; European Crohn’s and 
+Colitis Organisation [ECCO]. European consensus on the diagnosis and 
+management of iron deficiency and anaemia in inflammatory bowel dis-
+eases. J Crohns Colitis 2015;9:211–22.
+	8.	 Kucharzik T, Ellul P, Greuter T, et al. ECCO guidelines on the prevention, 
+diagnosis, and management of infections in inflammatory bowel disease. J 
+Crohns Colitis 2021;15:879–913.
+	9.	 Adamina M, Angriman I, Bemelman WA, et al. European evidence based 
+consensus on surgery for ulcerative colitis. J Crohns Colitis 2015. doi: 
+10.1016/j.crohns.2014.08.012.
+	10.	Burisch J, Katsanos KH, Christodoulou DK, et al. Natural disease course 
+of ulcerative colitis during the first five years of follow-up in a European 
+population-based inception cohort – an Epi-IBD Study. J Crohns Colitis 
+2019;13:198–208.
+	11.	Walsh AJ, Bryant RV, Travis SP. Current best practice for disease activity 
+assessment in IBD. Nat Rev Gastroenterol Hepatol 2016;13:567–79.
+	12.	Ghosh S, Sensky T, Casellas F, et al. A global, prospective, observational 
+study measuring disease burden and suffering in patients with ulcerative 
+colitis, using the pictorial representation of illness and self-measure tool. J 
+Crohns Colitis 2021;15:228–37.
+	13.	Silverberg MS, Satsangi J, Ahmad T, et al. Toward an integrated clinical, 
+molecular and serological classification of inflammatory bowel disease: 
+report of a Working Party of the 2005 Montreal World Congress of 
+Gastroenterology. Can J Gastroenterol 2005;19[Suppl A]:5A–36A.
+	14.	Lee HS, Park SH, Yang SK, et al. Long-term prognosis of ulcerative colitis 
+and its temporal change between 1977 and 2013: A hospital-based cohort 
+study from Korea. J Crohns Colitis 2015;9:147–55.
+	15.	Burisch J, Ungaro R, Vind I, et al. Proximal disease extension in patients 
+with limited ulcerative colitis: A Danish population-based inception co-
+hort. J Crohns Colitis 2017;11:1200–4. 
+	16.	Schünemann H, Brożek J, Guyatt G, Oxman A. GRADE Handbook for 
+Grading Quality of Evidence and Strength of Recommendations. 2013. 
+https://gdt.gradepro.org/app/handbook/handbook.html. 
+Accessed 
+27 
+October 2021.
+	17.	Fitch K, Bernstein SJ, Aguilar MD, et al. The RAND/UCLA Appropriateness 
+Method User’s Manual. Santa Monica, CA: RAND Corporation; 2001. 
+https://www.rand.org/pubs/monograph_reports/MR1269.html.
+	18.	DerSimonian  R, Laird  N. Meta-analysis in clinical trials. Control Clin 
+Trials  1986. doi: 10.1016/0197-2456(86)90046-2.
+	19.	Torres J, Billioud V, Sachar DB, Peyrin-Biroulet L, Colombel JF. Ulcerative 
+colitis as a progressive disease: the forgotten evidence. Inflamm Bowel Dis 
+2012;18:1356–63.
+	20.	Sewitch MJ, Abrahamowicz M, Bitton A, et al. Psychological distress, so-
+cial support, and disease activity in patients with inflammatory bowel dis-
+ease. Am J Gastroenterol 2001. doi: 10.1016/S0002-9270(01)02363-2.
+	21.	Lewis JD, Scott FI, Brensinger CM, et al. Increased mortality rates with 
+prolonged corticosteroid therapy when compared with antitumor ne-
+crosis factor-α-directed therapy for inflammatory bowel disease. Am J 
+Gastroenterol 2018;113:405–17.
+	22.	Murthy  SK, Begum  J, Benchimol  EI, et  al. Introduction of anti-TNF 
+therapy has not yielded expected declines in hospitalisation and intestinal 
+resection rates in inflammatory bowel diseases: a population-based inter-
+rupted time series study. Gut 2020;69:274–82.
+	23.	Lo B, Vind I, Vester-Andersen MK, Bendtsen F, Burisch J. Direct and indirect 
+costs of inflammatory bowel disease: ten years of follow-up in a Danish 
+population-based inception cohort. J Crohns Colitis 2020;14:53–63.
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+14
+T. Raine et al.
+	24.	Turner  D, Ricciuto  A, Lewis  A, et  al.; International Organization for 
+the Study of IBD. STRIDE-II: An Update on the Selecting Therapeutic 
+Targets in Inflammatory Bowel Disease (STRIDE) Initiative of the 
+International Organization for the Study of IBD (IOIBD): Determining 
+Therapeutic Goals for Treat-to-Target strategies in IBD. Gastroenterology 
+2021;160:1570–83.
+	25.	Leung CM, Tang W, Kyaw M, et al. Endoscopic and histological mucosal 
+healing in ulcerative colitis in the first year of diagnosis: results from a 
+population-based inception cohort from six countries in Asia. J Crohns 
+Colitis 2017;11:1440–8.
+	26.	Laharie D, Filippi J, Roblin X, et al. Impact of mucosal healing on long-term 
+outcomes in ulcerative colitis treated with infliximab: A multicenter ex-
+perience. Aliment Pharmacol Ther 2013. doi: 10.1111/apt.12289.
+	27.	Theede K, Kiszka-Kanowitz M, Nordgaard-Lassen I, Mertz Nielsen A. The 
+impact of endoscopic inflammation and mucosal healing on health-related 
+quality of life in ulcerative colitis patients. J Crohns Colitis 2015;9:625–32.
+	28.	Doherty G, Katsanos KH, Burisch J, et al. European Crohn’s and Colitis 
+Organisation topical review on treatment withdrawal [‘exit strategies’] in 
+inflammatory bowel disease. J Crohns Colitis 2018;12:17–31.
+	29.	Murray  A, Nguyen  TM, Parker  CE, Feagan  BG, MacDonald  JK. Oral 
+5-aminosalicylic acid for induction of remission in ulcerative colitis. 
+Cochrane Database Syst Rev 2020. doi: 10.1002/14651858.CD000543.
+pub5.
+	30.	Hanauer  SB, Sandborn  WJ, Kornbluth  A, et  al. Delayed-release oral 
+mesalamine at 4.8  g/day (800  mg tablet) for the treatment of moder-
+ately active ulcerative colitis: the ASCEND II trial. Am J Gastroenterol 
+2005;100:2478–85.
+	31.	Hanauer  SB, Sandborn  WJ, Dallaire  C, et  al. Delayed-release oral 
+mesalamine 4.8 g/day (800 mg tablets) compared with 2.4 g/day (400 mg 
+tablets) for the treatment of mildly to moderately active ulcerative colitis: 
+The ASCEND I trial. Can J Gastroenterol 2007;21:827–34.
+	32.	Sandborn WJ, Regula J, Feagan BG, et al. Delayed-release oral mesalamine 
+4.8 g/day (800-mg tablet) is effective for patients with moderately active 
+ulcerative colitis. Gastroenterology 2009;137:1934–43.e1–3.
+	33.	Lichtenstein GR, Ramsey D, Rubin DT. Randomised clinical trial: delayed-
+release oral mesalazine 4.8  g/day vs. 2.4  g/day in endoscopic mucosal 
+healing–ASCEND I and II combined analysis. Aliment Pharmacol Ther 
+2011;33:672–8.
+	34.	Kamm MA, Sandborn WJ, Gassull M, et al. Once-daily, high-concentration 
+MMX mesalamine in active ulcerative colitis. Gastroenterology 
+2007;132:66–75; quiz 432–3.
+	35.	Campieri  M, De  Franchis  R, Bianchi  Porro  G, Ranzi  T, Brunetti  G, 
+Barbara L. Mesalazine (5-aminosalicylic acid) suppositories in the treat-
+ment of ulcerative proctitis or distal proctosigmoiditis. A randomized con-
+trolled trial. Scand J Gastroenterol 1990;25:663–8.
+	36.	Campieri  M, Gionchetti  P, Belluzzi  A, et  al. Topical treatment with 
+5-aminosalicylic in distal ulcerative colitis by using a new suppository 
+preparation. A double-blind placebo controlled trial. Int J Colorectal Dis 
+1990;5:79–81.
+	37.	Campieri M, Gionchetti P, Belluzzi A, et al. Sucralfate, 5-aminosalicylic 
+acid and placebo enemas in the treatment of distal ulcerative-colitis. Eur J 
+Gastroenterol Hepatol 1991;3:41–4.
+	38.	Campieri  M, Gionchetti  P, Belluzzi  A, et  al. Optimum dosage of 
+5-aminosalicylic acid as rectal enemas in patients with active ulcerative 
+colitis. Gut 1991;32:929–31.
+	39.	Hanauer  SB. Dose-ranging study of mesalamine (PENTASA) enemas 
+in the treatment of acute ulcerative proctosigmoiditis: Results of a 
+multicentered placebo-controlled trial. Inflamm Bowel Dis 1998. doi: 
+10.1097/00054725-199805000-00001.
+	40.	Möller C, Kiviluoto O, Santavirta S, Holtz A. Local treatment of ulcerative 
+proctitis with salicylazosulphapyridine (Salazopyrin) enema. Clin Trials J 
+1978;15:199–203.
+	41.	Pokrotnieks  J, Marlicz  K, Paradowski  L, Margus  B, Zaborowski  P, 
+Greinwald  R. Efficacy and tolerability of mesalazine foam enema 
+(Salofalk foam) for distal ulcerative colitis: A  double-blind, random-
+ized, placebo-controlled study. Aliment Pharmacol Ther 2000. doi: 
+10.1046/j.1365-2036.2000.00784.x.
+	42.	Williams  CN, Haber  G, Aquino  JA. Double-blind, placebo-controlled 
+evaluation of 5-ASA suppositories in active distal proctitis and measure-
+ment of extent of spread using 99mTc-labeled 5-ASA suppositories. Dig 
+Dis Sci 1987;32:71–5S.
+	43.	Marteau  P, Probert  CS, Lindgren  S, et  al. Combined oral and enema 
+treatment with Pentasa (mesalazine) is superior to oral therapy alone in 
+patients with extensive mild/moderate active ulcerative colitis: A random-
+ised, double blind, placebo controlled study. Gut 2005. doi: 10.1136/
+gut.2004.060103.
+	44.	Vecchi  M, Meucci  G, Gionchetti  P, et  al. Oral versus combination 
+mesalazine therapy in active ulcerative colitis: a double-blind, double-
+dummy, randomized multicentre study. Aliment Pharmacol Ther 
+2001;15:251–6.
+	45.	Frühmorgen  P, Demling  L. On the efficacy of ready-made-up commer-
+cially available salicylazosulphapyridine enemas in the treatment of proc-
+titis, proctosigmoiditis and ulcerative colitis involving rectum, sigmoid and 
+descending colon. Hepatogastroenterology 1980;27:473–6.
+	46.	Safdi  M, DeMicco  M, Sninsky  C, et  al. A double-blind comparison 
+of oral versus rectal mesalamine versus combination therapy in the 
+treatment of distal ulcerative colitis. Am J Gastroenterol 1997. doi: 
+10.1016/0016-5085(95)27940–7.
+	47.	Marshall JK, Irvine EJ. Rectal corticosteroids versus alternative treatments 
+in ulcerative colitis: a meta-analysis. Gut 1997;40:775–81.
+	48.	De Cassan C, Fiorino G, Danese S. Second-generation corticosteroids for 
+the treatment of Crohn’s disease and ulcerative colitis: more effective and 
+less side effects? Dig Dis 2012;30:368–75.
+	49.	Rubin DT, Sandborn WJ, Bosworth B, et al. Budesonide foam has a favor-
+able safety profile for inducing remission in mild-to-moderate ulcerative 
+proctitis or proctosigmoiditis. Dig Dis Sci 2015;60:3408–17.
+	50.	Cohen RD, Dalal SR. Systematic review: rectal therapies for the treatment 
+of distal forms of ulcerative colitis. Inflamm Bowel Dis 2015;21:1719–36.
+	51.	Christophi  GP, Rengarajan  A, Ciorba  MA. Rectal budesonide and 
+mesalamine formulations in active ulcerative proctosigmoiditis: ef-
+ficacy, tolerance, and treatment approach. Clin Exp Gastroenterol 
+2016;9:125–30.
+	52.	Zeng J, Lv L, Mei ZC. Budesonide foam for mild to moderate distal ul-
+cerative colitis: A  systematic review and meta-analysis. J Gastroenterol 
+Hepatol 2017. doi: 10.1111/jgh.13604.
+	53.	Cohen RD, Weisshof R. A comprehensive review of topical therapies for 
+distal ulcerative colitis. Gastroenterol Hepatol 2020;16:21–7.
+	54.	Watkinson G. Treatment of ulcerative colitis with topical hydrocortisone 
+hemisuccinate sodium. BMJ 1958. doi: 10.1136/bmj.2.5104.1077.
+	55.	Lennard-Jones JE, Baron JH, Connell AM, Jones FA. A double blind con-
+trolled trial of prednisolone-21-phosphate suppositories in the treatment 
+of idiopathic proctitis. Gut 1962. doi: 10.1136/gut.3.3.207.
+	56.	Danielsson Å, Löfberg R, Persson T, et al. A steroid enema, budesonide, 
+lacking systemic effects for the treatment of distal ulcerative colitis or proc-
+titis. Scand J Gastroenterol 1992. doi: 10.3109/00365529209011158.
+	57.	Hanauer SB, Robinson M, Pruitt R, et al. Budesonide enema for the treat-
+ment of active, distal ulcerative colitis and proctitis: A dose-ranging study. 
+Gastroenterology 1998. doi: 10.1016/S0016-5085(98)70131–3.
+	58.	Sandborn  WJ, Bosworth  B, Zakko  S, et  al. Budesonide foam induces 
+remission in patients with mild to moderate ulcerative proctitis and ul-
+cerative proctosigmoiditis. Gastroenterology 2015. doi: 10.1053/j.
+gastro.2015.01.037.
+	59.	Porro GB, Ardizzone S, Petrillo M, Fasoli A, Molteni P, Imbesi V. Low 
+Pentasa dosage versus hydrocortisone in the topical treatment of active 
+ulcerative colitis: a randomized, double-blind study. Am J Gastroenterol 
+1995. doi: 10.1111/j.1572-0241.1995.tb09309.x.
+	60.	Senagore  AJ, MacKeigan  JM, Scheider  M, Ebrom  JS. Short-chain fatty 
+acid enemas: a cost-effective alternative in the treatment of nonspecific 
+proctosigmoiditis. Dis Colon Rectum 1992;35:923–7.
+	61.	Farup PG, Hovde O, Halvorsen FA, Raknerud N, Brodin U. Mesalazine 
+suppositories versus hydrocortisone foam in patients with distal ul-
+cerative colitis:a comparison of the efficacy and practicality of 
+two topical treatment regimens. Scand J Gastroenterol 1995. doi: 
+10.3109/00365529509093256.
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+15
+	62.	Danish 5-ASA Group. Topical 5-aminosalicylic acid versus prednisolone in 
+ulcerative proctosigmoiditis. A randomized, double-blind multicenter trial. 
+Dig Dis Sci 1987;32:598–602.
+	63.	Biancone  L, Gionchetti  P, Blanco  Gdel  V, et  al. Beclomethasone 
+dipropionate versus mesalazine in distal ulcerative colitis: a multicenter, 
+randomized, double-blind study. Dig Liver Dis 2007;39:329–37.
+	64.	Friedman  LS, Richter  JM, Kirkham  SE, DeMonaco  HJ, May  RJ. 
+5-Aminosalicylic acid enemas in refractory distal ulcerative colitis: a ran-
+domized, controlled trial. Am J Gastroenterol 1986;81:412–8.
+	65.	Gionchetti P, D’Arienzo A, Rizzello F, et al.; Italian BDP Study Group. 
+Topical treatment of distal active ulcerative colitis with beclomethasone 
+dipropionate or mesalamine: a single-blind randomized controlled trial. J 
+Clin Gastroenterol 2005;39:291–7.
+	66.	Hartmann  F, Stein  J; BudMesa-Study Group. Clinical trial: controlled, 
+open, randomized multicentre study comparing the effects of treat-
+ment on quality of life, safety and efficacy of budesonide or mesalazine 
+enemas in active left-sided ulcerative colitis. Aliment Pharmacol Ther 
+2010;32:368–76.
+	67.	Lee FI, Jewell DP, Mani V, et al. A randomised trial comparing mesalazine 
+and prednisolone foam enemas in patients with acute distal ulcerative col-
+itis. Gut 1996. doi: 10.1136/gut.38.2.229.
+	68.	Lémann M, Galian A, Rutgeerts P, et al. Comparison of budesonide and 
+5-aminosalicylic acid enemas in active distal ulcerative colitis. Aliment 
+Pharmacol Ther 1995. doi: 10.1111/j.1365–2036.1995.tb00421.x.
+	69.	Mulder  CJ, Fockens  P, Meijer  JW, van  der  Heide  H, Wiltink  EH, 
+Tytgat GN. Beclomethasone dipropionate (3 mg) versus 5-aminosalicylic 
+acid (2 g) versus the combination of both (3 mg/2 g) as retention en-
+emas in active ulcerative proctitis. Eur J Gastroenterol Hepatol 
+1996;8:549–53.
+	70.	Mulder  CJJ, Tytgat  GNJ, Wiltink  EHH, Houthoff  HJ. Comparison of 
+5-aminosalicylic acid (3  g) and prednisolone phosphate sodium en-
+emas (30 mg) in the treatment of distal ulcerative colitis: A prospective, 
+randomized, double-blind trial. Scand J Gastroenterol 1988. doi: 
+10.3109/00365528809090161.
+	71.	Campieri M, Lanfranchi GA, Bazzocchi G, et al. Treatment of ulcerative 
+colitis with high-dose 5-aminosalicylic acid enemas. Lancet 1981. doi: 
+10.1016/S0140-6736(81)90523–7.
+	72.	Danish 5-ASA Group. Topical 5-aminosalicylic acid versus prednisolone in 
+ulcerative proctosigmoiditis. A randomized, double-blind multicenter trial. 
+Dig Dis Sci 1987. doi: 10.1007/BF01296159.
+	73.	Sandborn WJ, Travis S, Moro L, et al. Once-daily budesonide MMX® 
+extended-release tablets induce remission in patients with mild to mod-
+erate ulcerative colitis: results from the CORE I study. Gastroenterology 
+2012;143:1218–26.e2.
+	74.	Travis SPL, Danese S, Kupcinskas L, et al. Once-daily budesonide MMX 
+in active, mild-to-moderate ulcerative colitis: Results from the randomised 
+CORE II study. Gut 2014. doi: 10.1136/gutjnl-2012–304258.
+	75.	Therapeutic Goods Administration. Extract from: Clinical Evaluation 
+Report for Budesonide. https://www.tga.gov.au/sites/default/files/auspar-
+budesonide-160111-cer.pdf. Accessed 27 October 2021.
+	76.	Sandborn  WJ, Danese  S, D’Haens  G, et  al. Induction of clinical and 
+colonoscopic remission of mild-to-moderate ulcerative colitis with 
+budesonide MMX 9 mg: Pooled analysis of two phase 3 studies. Aliment 
+Pharmacol Ther  2015. doi: 10.1111/apt.13076.
+	77.	Rubin  DT, Cohen  RD, Sandborn  WJ, et  al. Budesonide multimatrix 
+is efficacious for mesalamine-refractory, mild to moderate ulcera-
+tive colitis: a randomised, placebo-controlled trial. J Crohns Colitis 
+2017;11:785–91.
+	78.	Jewell DP, Truelove SC. Azathioprine in ulcerative colitis: final report on 
+controlled therapeutic trial. Br Med J 1974;4:627–30.
+	79.	Sood A, Midha V, Sood N, Kaushal V. Role of azathioprine in severe ul-
+cerative colitis: One-year, placebo- controlled, randomized trial. Indian J 
+Gastroenterol  2000;19:14–6.
+	80.	Miner  P, Hanauer  S, Robinson  M, Schwartz  J, Arora  S. Safety and ef-
+ficacy of controlled-release mesalamine for maintenance of remission in 
+ulcerative colitis. Pentasa UC Maintenance Study Group. Dig Dis Sci 
+1995;40:296–304.
+	81.	Qiu  X, Ma  J, Wang  K, Zhang  H. Chemopreventive effects of 
+5-aminosalicylic acid on inflammatory bowel disease-associated colorectal 
+cancer and dysplasia: A systematic review with meta-analysis. Oncotarget 
+2017. doi: 10.18632/oncotarget.13715.
+	82.	D’Albasio  G, Paoluzi  P, Campieri  M, et  al. Maintenance treatment 
+of ulcerative proctitis with mesalazine suppositories: A  double-blind 
+placebo-controlled trial. Am J Gastroenterol 1998. doi: 10.1016/
+S0002-9270(98)00108-7.
+	83.	D’Arienzo  A, Panarese  A, D’Armiento  FP, et  al. 5-Aminosalicylic acid 
+suppositories in the maintenance of remission in idiopathic proctitis or 
+proctosigmoiditis: a double-blind placebo-controlled clinical trial. Am J 
+Gastroenterol 1990;85:1079–82.
+	84.	Hanauer S, Good LI, Goodman MW, et al. Long-term use of mesalamine 
+(Rowasa) suppositories in remission maintenance of ulcerative proctitis. 
+Am J Gastroenterol 2000. doi: 10.1016/S0002-9270(00)00977-1.
+	85.	Marteau P, Crand J, Foucault M, Rambaud JC. Use of mesalazine slow 
+release suppositories 1  g three times per week to maintain remission 
+of ulcerative proctitis: a randomised double blind placebo controlled 
+multicentre study. Gut 1998;42:195–9.
+	86.	Marshall JK, Thabane M, Steinhart AH, Newman JR, Anand A, Irvine EJ. 
+Rectal 5-aminosalicylic acid for maintenance of remission in ulcerative 
+colitis. Cochrane Database Syst Rev 2012;11:CD004118.
+	87.	Biddle  WL, Greenberger  NJ, Swan  JT, McPhee  MS, Miner  PB. 
+5-Aminosalicylic acid enemas: Effective agent in maintaining re-
+mission in left-sided ulcerative colitis. Gastroenterology 1988. doi: 
+10.1016/0016-5085(88)90569-0.
+	88.	D’Incà  R, Bertomoro  P, Mazzocco  K, Vettorato  MG, Rumiati  R, 
+Sturniolo GC. Risk factors for non-adherence to medication in inflamma-
+tory bowel disease patients. Aliment Pharmacol Ther 2008;27:166–72.
+	89.	Hawthorne AB, Logan RF, Hawkey CJ, et al. Randomised controlled trial 
+of azathioprine withdrawal in ulcerative colitis. BMJ 1992;305:20–2.
+	90.	Sood A, Kaushal V, Midha V, Bhatia KL, Sood N, Malhotra V. The benefi-
+cial effect of azathioprine on maintenance of remission in severe ulcerative 
+colitis. J Gastroenterol 2002;37:270–4.
+	91.	Stournaras  E, Qian  W, Pappas  A, et  al.; UK IBD BioResource 
+Investigators. Thiopurine monotherapy is effective in ulcerative col-
+itis but significantly less so in Crohn’s disease: long-term outcomes for 
+11 928 patients in the UK inflammatory bowel disease bioresource. Gut 
+2021;70:677–86.
+	92.	Beaugerie  L, Brousse  N, Bouvier  AM, et  al. Lymphoproliferative dis-
+orders in patients receiving thiopurines for inflammatory bowel disease: 
+a prospective observational cohort study. Lancet 2009. doi: 10.1016/
+S0140-6736(09)61302–7.
+	93.	Kirchgesner J, Lemaitre M, Carrat F, Zureik M, Carbonnel F, Dray-Spira R. 
+Risk of serious and opportunistic infections associated with treatment of 
+inflammatory bowel diseases. Gastroenterology 2018;155:337–46.e10.
+	94.	Lemaitre M, Kirchgesner J, Rudnichi A, et al. Association between use of 
+thiopurines or tumor necrosis factor antagonists alone or in combination 
+and risk of lymphoma in patients with inflammatory bowel disease. JAMA 
+2017;318:1679–86.
+	95.	Raine T, Verstockt B, Kopylov U, et al. ECCO topical review: Refractory 
+IBD. J Crohns Colitis 2021;15:1605–20.
+	96.	Herfarth H, Barnes EL, Valentine JF, et al.; Clinical Research Alliance of 
+the Crohn’s and Colitis Foundation. Methotrexate is not superior to pla-
+cebo in maintaining steroid-free response or remission in ulcerative colitis. 
+Gastroenterology 2018;155:1098–108.e9.
+	97.	Truelove SC, Horler AR, Richards WC. Serial biopsy in ulcerative colitis. 
+Br Med J 1955;2:1590–3.
+	98.	Lennard-Jones  JE, Longmore  AJ, Newell  AC, Wilson  CW, Jones  FA. 
+An assessment of prednisone, salazopyrin, and topical hydrocortisone 
+hemisuccinate used as out-patient treatment for ulcerative colitis. Gut 
+1960. doi: 10.1136/gut.1.3.217.
+	99.	Ford AC, Bernstein CN, Khan KJ, et al. Glucocorticosteroid therapy in 
+inflammatory bowel disease: Systematic review and meta-analysis. Am J 
+Gastroenterol 2011. doi: 10.1038/ajg.2011.70.
+	100.	Schoon  EJ, Bollani  S, Mills  PR, et  al. Bone mineral density in rela-
+tion to efficacy and side effects of budesonide and prednisolone in 
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+16
+T. Raine et al.
+Crohn’s disease. Clin Gastroenterol Hepatol 2005. doi: 10.1016/
+S1542-3565(04)00662-7.
+	101.	Hall NJ, Rubin GP, Hungin AP, Dougall A. Medication beliefs among 
+patients with inflammatory bowel disease who report low quality of life: 
+a qualitative study. BMC Gastroenterol 2007;7:20.
+	102.	Westwood N, Travis SP. Review article: what do patients with inflam-
+matory bowel disease want for their clinical management? Aliment 
+Pharmacol Ther 2008;27[Suppl 1]:1–8.
+	103.	Rutgeerts  P, Sandborn  WJ, Feagan  BG, et  al. Infliximab for induc-
+tion and maintenance therapy for ulcerative colitis. N Engl J Med 
+2005;353:2462–76.
+	104.	Sandborn WJ, Feagan BG, Marano C, et al. Subcutaneous golimumab 
+induces clinical response and remission in patients with moderate-
+to-severe ulcerative colitis. Gastroenterology 2014. doi: 10.1053/j.
+gastro.2013.05.048.
+	105.	Hibi T, Imai Y, Senoo A, Ohta K, Ukyo Y. Efficacy and safety of golimumab 
+52-week maintenance therapy in Japanese patients with moderate to 
+severely active ulcerative colitis: a phase 3, double-blind, randomized, 
+placebo-controlled study-(PURSUIT-J study). J Gastroenterol 2017. doi: 
+10.1007/s00535-017-1326-1.
+	106.	Kobayashi T, Suzuki Y, Motoya S, et al. First trough level of infliximab 
+at week 2 predicts future outcomes of induction therapy in ulcerative 
+colitis—results from a multicenter prospective randomized controlled 
+trial and its post hoc analysis. J Gastroenterol 2016. doi: 10.1007/
+s00535-015-1102-z.
+	107.	Jiang XL, Cui HF, Gao J, Fan H. Low-dose infliximab for induction and 
+maintenance treatment in Chinese patients with moderate to severe ac-
+tive ulcerative colitis. J Clin Gastroenterol 2015;49:582–8.
+	108.	Reinisch W, Sandborn WJ, Hommes DW, et al. Adalimumab for induc-
+tion of clinical remission in moderately to severely active ulcerative col-
+itis: Results of a randomised controlled trial. Gut 2011. doi: 10.1136/
+gut.2010.221127.
+	109.	Sandborn WJ, Feagan BG, Marano C, et al. Subcutaneous golimumab 
+maintains clinical response in patients with moderate-to-severe ulcerative 
+colitis. Gastroenterology 2014. doi: 10.1053/j.gastro.2013.06.010.
+	110.	Sandborn WJ, Van Assche G, Reinisch W, et al. Adalimumab induces and 
+maintains clinical remission in patients with moderate-to-severe ulcera-
+tive colitis. Gastroenterology 2012. doi: 10.1053/j.gastro.2011.10.032.
+	111.	Suzuki Y, Motoya S, Hanai H, et al. Efficacy and safety of adalimumab 
+in Japanese patients with moderately to severely active ulcerative colitis. 
+J Gastroenterol 2014;49:283–94.
+	112.	Kirchgesner J, Desai RJ, Beaugerie L, Schneeweiss S, Kim SC. Risk of 
+serious infections with vedolizumab versus tumor necrosis factor antag-
+onists in patients with inflammatory bowel disease. Clin Gastroenterol 
+Hepatol 2020. doi: 10.1016/j.cgh.2020.12.030.
+	113.	Bonovas  S, Lytras  T, Nikolopoulos  G, Peyrin-Biroulet  L, Danese  S. 
+Editorial: tofacitinib and biologics for moderate-to-severe ulcerative 
+colitis-what is best in class? Authors’ reply. Aliment Pharmacol Ther 
+2018;47:540–1.
+	114.	Singh  S, Murad  MH, Fumery  M, Dulai  PS, Sandborn  WJ. First- and 
+second-line pharmacotherapies for patients with moderate to se-
+verely active ulcerative colitis: an updated network meta-analysis. Clin 
+Gastroenterol Hepatol 2020. doi: 10.1016/j.cgh.2020.01.008.
+	115.	Gisbert JP, Marín AC, McNicholl AG, Chaparro M. Systematic review 
+with meta-analysis: The efficacy of a second anti-TNF in patients with in-
+flammatory bowel disease whose previous anti-TNF treatment has failed. 
+Aliment Pharmacol Ther 2015. doi: 10.1111/apt.13083.
+	116.	Sands BE, Peyrin-Biroulet L, Loftus EV Jr, et al.; VARSITY Study Group. 
+Vedolizumab versus adalimumab for moderate-to-severe ulcerative col-
+itis. N Engl J Med 2019;381:1215–26.
+	117.	Panaccione R, Ghosh S, Middleton S, et al. Combination therapy with 
+infliximab and azathioprine is superior to monotherapy with either agent 
+in ulcerative colitis. Gastroenterology 2014;146:392–400.e3.
+	118.	Targownik  LE, Benchimol  EI, Bernstein  CN, et  al. Combined bio-
+logic and immunomodulatory therapy is superior to monotherapy for 
+decreasing the risk of inflammatory bowel disease-related complications. 
+J Crohns Colitis 2020;14:1354–63.
+	119.	Kennedy NA, Heap GA, Green HD, et al. Predictors of anti-TNF treat-
+ment failure in anti-TNF-naive patients with active luminal Crohn’s 
+disease: a prospective, multicentre, cohort study. Lancet Gastroenterol 
+Hepatol 2019. doi: 10.1016/S2468-1253(19)30012–3.
+	120.	Roblin X, Williet N, Boschetti G, et al. Addition of azathioprine to the 
+switch of anti-TNF in patients with IBD in clinical relapse with undetect-
+able anti-TNF trough levels and antidrug antibodies: a prospective ran-
+domised trial. Gut 2020;69:1206–12.
+	121.	Peyrin-Biroulet L, Panés J, Sandborn WJ, et al. Defining disease severity 
+in inflammatory bowel diseases: current and future directions. Clin 
+Gastroenterol Hepatol 2016. doi: 10.1016/j.cgh.2015.06.001.
+	122.	Feagan  BG, Rutgeerts  P, Sands  BE, et  al.; GEMINI 1 Study Group. 
+Vedolizumab as induction and maintenance therapy for ulcerative colitis. 
+N Engl J Med 2013;369:699–710.
+	123.	Motoya S, Watanabe K, Ogata H, et al. Vedolizumab in Japanese patients 
+with ulcerative colitis: A  Phase 3, randomized, double-blind, placebo-
+controlled study. PLoS One 2019. doi: 10.1371/journal.pone.0212989.
+	124.	Sandborn WJ, Ghosh S, Panes J, et al. Tofacitinib, an oral Janus kinase 
+inhibitor, in active ulcerative colitis. N Engl J Med 2012;367:616–24. 
+	125.	Sandborn WJ, Su C, Panes J. Tofacitinib as induction and maintenance 
+therapy for ulcerative colitis. N Engl J Med 2017;377:496–7.
+	126.	Paschos P, Katsoula A, Giouleme O, et al. Tofacitinib for induction of 
+remission in ulcerative colitis: systematic review and meta-analysis. Ann 
+Gastroenterol 2018;31:572–82.
+	127.	Sands BE, Sandborn WJ, Panaccione R, et al. Ustekinumab as induction 
+and maintenance therapy for ulcerative colitis. N Engl J Med 2019. doi: 
+10.1056/nejmoa1900750.
+	128.	Janssen Research & Development. Clinical Study Report Synopsis 
+[Protocol 
+REMICADEUCO3001; 
+Phase 
+3]. 
+Xi’an 
+Janssen 
+Pharmaceutical Ltd; 2014.
+	129.	Ungar B, Mazor Y, Weisshof R, et al. Induction infliximab levels among 
+patients with acute severe ulcerative colitis compared with patients with 
+moderately severe ulcerative colitis. Aliment Pharmacol Ther 2016. doi: 
+10.1111/apt.13631.
+	130.	Papamichael K, Baert F, Tops S, et al. Post-induction adalimumab con-
+centration is associated with short-term mucosal healing in patients with 
+ulcerative colitis. J Crohns Colitis 2017;11:53–9.
+	131.	Papamichael  K, Vande  Casteele  N, Ferrante  M, Gils  A, Cheifetz  AS. 
+Therapeutic drug monitoring during induction of anti-tumor necrosis 
+factor therapy in inflammatory bowel disease: defining a therapeutic 
+drug window. Inflamm Bowel Dis 2017;23:1510–5.
+	132.	Papamichael  K, Van  Stappen  T, Vande  Casteele  N, et  al. Infliximab 
+concentration thresholds during induction therapy are associated with 
+short-term mucosal healing in patients with ulcerative Colitis. Clin 
+Gastroenterol Hepatol 2016;14:543–9.
+	133.	Gibson DJ, Ward MG, Rentsch C, et al. Review article: determination of 
+the therapeutic range for therapeutic drug monitoring of adalimumab 
+and infliximab in patients with inflammatory bowel disease. Aliment 
+Pharmacol Ther 2020;51:612–28.
+	134.	Adedokun  OJ, Sandborn  WJ, Feagan  BG, et  al. Association between 
+serum concentration of infliximab and efficacy in adult patients with ul-
+cerative colitis. Gastroenterology 2014;147:1296–307.e5.
+	135.	Ungar B, Kopylov U, Yavzori M, et al. Association of vedolizumab level, 
+anti-drug antibodies, and α4β7 occupancy with response in patients with 
+inflammatory bowel diseases. Clin Gastroenterol Hepatol 2018;16:697–
+705.e7.
+	136.	Pouillon  L, Rousseau  H, Busby-Venner  H, et  al. Vedolizumab trough 
+levels and histological healing during maintenance therapy in ulcerative 
+colitis. J Crohns Colitis 2019;13:970–5.
+	137.	Osterman MT, Rosario M, Lasch K, et al. Vedolizumab exposure levels 
+and clinical outcomes in ulcerative colitis: determining the potential for 
+dose optimisation. Aliment Pharmacol Ther 2019;49:408–18.
+	138.	Adedokun OJ, Xu Z, Marano C, et al. Ustekinumab pharmacokinetics 
+and exposure response in a phase 3 randomized trial of patients with ul-
+cerative colitis. Clin Gastroenterol Hepatol 2020;18:2244–55.e9.
+	139.	Yanai H, Lichtenstein L, Assa A, et al. Levels of drug and antidrug anti-
+bodies are associated with outcome of interventions after loss of response 
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023
+ECCO Guidelines on Therapeutics in Ulcerative Colitis
+17
+to infliximab or adalimumab. Clin Gastroenterol Hepatol 2015;13:522–
+30.e2.
+	140.	Kelly  OB, Donnell  SO, Stempak  JM, Steinhart  AH, Silverberg  MS. 
+Therapeutic drug monitoring to guide infliximab dose adjustment 
+is associated with better endoscopic outcomes than clinical decision 
+making alone in active inflammatory bowel disease. Inflamm Bowel Dis 
+2017;23:1202–9.
+	141.	Roblin X, Rinaudo M, Del Tedesco E, et al. Development of an algorithm 
+incorporating pharmacokinetics of adalimumab in inflammatory bowel 
+diseases. Am J Gastroenterol 2014;109:1250–6.
+	142.	Colombel JF, Panés J, D’Haens G, et al. Higher vs. standard adalimumab 
+maintenance regimens in patients with moderately to severely active 
+ulcerative colitis: Results from the SERENE-UC maintenance study. J 
+Crohns Colitis  2020;14[Suppl 1]:S001. 
+	143.	Sandborn WJ, Baert F, Danese S, et al. Efficacy and safety of vedolizumab 
+subcutaneous formulation in a randomized trial of patients with ulcera-
+tive colitis. Gastroenterology 2020;158:562–72.e12.
+	144.	Feagan BG, Patel H, Colombel JF, et al. Effects of vedolizumab on health-
+related quality of life in patients with ulcerative colitis: results from 
+the randomised GEMINI 1 trial. Aliment Pharmacol Ther 2017. doi: 
+10.1111/apt.13852.
+	145.	Wolf D, D’Haens G, Sandborn WJ, et al. Escalation to weekly dosing 
+recaptures response in adalimumab-treated patients with moderately 
+to severely active ulcerative colitis. Aliment Pharmacol Ther 2014. doi: 
+10.1111/apt.12863.
+	146.	Olivera PA, Lasa JS, Bonovas S, Danese S, Peyrin-Biroulet L. Safety of 
+Janus kinase inhibitors in patients with inflammatory bowel diseases or 
+other immune-mediated diseases: a systematic review and meta-analysis. 
+Gastroenterology 2020;158:1554–73.e12.
+	147.	Sandborn WJ, Panés J, D’Haens GR, et al. Safety of tofacitinib for treat-
+ment of ulcerative colitis, based on 4.4 years of data from global clinical 
+trials. Clin Gastroenterol Hepatol 2019. doi: 10.1016/j.cgh.2018.11.035.
+	148.	Curtis JR, Xie F, Yun H, Bernatsky S, Winthrop KL. Real-world com-
+parative risks of herpes virus infections in tofacitinib and biologic-treated 
+patients with rheumatoid arthritis. Ann Rheum Dis 2016. doi: 10.1136/
+annrheumdis-2016–209131.
+	149.	Pharmacovigilance 
+Risk 
+Assessment 
+Committee 
+(PRAC). 
+EMA/631064/2019. Publisher European Medicines Agency; 2019.
+	150.	Sandborn WJ, Panés J, Sands BE, et al. Venous thromboembolic events 
+in the tofacitinib ulcerative colitis clinical development programme. 
+Aliment Pharmacol Ther 2019;50:1068–76.
+	151.	Vermeire S, Su C, Lawendy N, et al. Outcomes of tofacitinib dose re-
+duction in patients with ulcerative colitis in stable remission from the 
+randomised RIVETING Trial. J Crohns Colitis 2021;15:1130–41.
+	152.	European Medicines Agency. Xeljanz (tofacitinib): Initial Clinical Trial 
+Results of Increased Risk of Major Adverse Cardiovascular Events 
+and Malignancies (Excluding NMSC) with Use of Tofacitinib Relative 
+to TNF-alpha Inhibitors. https://www.ema.europa.eu/en/documents/
+dhpc/direct-healthcare-professional-communication-dhpc-xeljanz-
+tofacitinib-initial-clinical-trial-results_en.pdf Accessed September 27, 
+2021.
+	153.	Adamina  M, Gerasimidis  K, Sigall-Boneh  R, et  al. Perioperative 
+dietary therapy in inflammatory bowel disease. J Crohns Colitis 
+2020;14:431–44.
+	154.	Torres  J, Ellul  P, Langhorst  J, et  al. European Crohn’s and Colitis 
+Organisation topical review on complementary medicine and psy-
+chotherapy in inflammatory bowel disease. J Crohns Colitis 
+2019;13:673–85e.
+	155.	Sigall-Boneh  R, Levine  A, Lomer  M, et  al. Research gaps in diet 
+and nutrition in inflammatory bowel disease. a topical review by 
+D-ECCO Working Group [Dietitians of ECCO]. J Crohns Colitis 
+2017;11:1407–19.
+	156.	Maaser C, Langholz E, Gordon H, et al. European Crohn’s and Colitis 
+Organisation topical review on environmental factors in IBD. J Crohns 
+Colitis 2017;11:905–20.
+	157.	van Rheenen PF, Aloi M, Biron IA, et al. European Crohn’s and Colitis 
+Organisation topical review on transitional care in inflammatory bowel 
+disease. J Crohns Colitis 2017;11:1032–8.
+	158.	Sturm  A, Maaser  C, Mendall  M, et  al. European Crohn’s and Colitis 
+Organisation topical review on IBD in the elderly. J Crohns Colitis 
+2017;11:263–73.
+	159.	Fiorino G, Lytras T, Younge L, et al. Quality of care standards in inflam-
+matory bowel diseases: a European Crohn’s and Colitis Organisation 
+[ECCO] Position Paper. J Crohns Colitis 2020;14:1037–48.
+	160.	Magro  F, Doherty  G, Peyrin-Biroulet  L, et  al. ECCO position paper: 
+Harmonization of the approach to ulcerative colitis histopathology. J 
+Crohns Colitis 2020;14:1503–11.
+	161.	Danese S, Fiorino G, Raine T, et al. ECCO position statement on the 
+use of biosimilars for inflammatory bowel disease-an update. J Crohns 
+Colitis  2017;11:26–34.
+	162.	ECCO. European Crohn’s Colitis Organisation ECCO e-Guide. http://
+www.e-guide.ecco-ibd.eu. Accessed 27 October 2021.
+Downloaded from https://academic.oup.com/ecco-jcc/article/16/1/2/6390052 by E-Library Insel user on 29 June 2023

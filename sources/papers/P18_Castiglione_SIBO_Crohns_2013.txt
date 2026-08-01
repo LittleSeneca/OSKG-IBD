@@ -1,0 +1,147 @@
+SELECTED SUMMARIES
+Vitamin D and Inﬂammatory Bowel Disease: Chicken or Egg?
+Ananthakrishnan AN, Khalili H, Higuch LM, et al. Higher predicted vitamin D status is associated with
+reduced risk of Crohn’s disease. Gastroenterology. 2012;143:482–489.
+V
+itamin D deﬁciency is described in patients with
+inﬂammatory bowel disease (IBD), but it is unclear if
+this is a consequence of the disease or a contributor to the
+disease pathogenesis.
+Ananthakrishnan et al1 conducted a prospective cohort
+study of 72,719 women (age 40–73 years) enrolled in the
+Nurses’ Health Study in which vitamin D status and new
+diagnoses of Crohn’s disease (CD) or ulcerative colitis (UC)
+were assessed over a 22-year period from 1986 to 2008. At
+inception, women completed an assessment of diet and life-
+style, from which 25-hydroxy vitamin D (25(OH)D) status
+was predicted using a validated model. A single assessment
+of 25(OH)D appears to be representative of long-term lev-
+els.2 New cases of IBD were conﬁrmed until 2008.
+For CD, they showed that prediagnosis predicted lev-
+els of 25(OH)D were associated with a signiﬁcant reduc-
+tion in risk of incident CD. The median interval between
+assessment of predicted plasma 25(OH)D level and diagno-
+sis of CD was 10 years. Compared with women who were
+predicted to be vitamin D-deﬁcient (plasma 25(OH)D <20
+ng/mL), the multivariate hazard ratio (HR) of CD was 0.38
+(95% conﬁdence interval [CI], 0.15–0.97) for women pre-
+dicted to be vitamin D-sufﬁcient deﬁned as a plasma
+25(OH)D >30 ng/mL (Ptrend ¼ 0.048).
+For UC, they showed that prediagnosis predicted lev-
+els of 25(OH)D were associated with a reduction in risk of
+incident UC, although this risk did not reach statistical sig-
+niﬁcance. There was a signiﬁcant trend toward reduction in
+UC risk with increasing vitamin D intake such that each
+100 IU/day increase in total vitamin D intake resulted in a
+10% reduction in UC risk.
+The authors conclude that higher predicted plasma
+levels of 25(OH)D signiﬁcantly reduces the risk for inci-
+dent CD and nonsigniﬁcantly reduces the risk for UC and
+suggest that vitamin D may be an important mediator in
+the pathogenesis of CD and possibly UC.
+COMMENT
+There is compelling evidence from epidemiological
+studies, observational studies, and animal models that vita-
+min D plays a role in IBD pathogenesis. In particular, there
+is an increased incidence of IBD among populations at
+higher latitudes,3 and a seasonal variation in onset and exac-
+erbations of IBD. Also a negative correlation has been found
+between disease activity and serum 25(OH)D levels.4 Ani-
+mals that lack the vitamin D receptor (VDR) are more sus-
+ceptible to development of intestinal inﬂammation.5 A thera-
+peutic effect of vitamin D is suggested by prevention and
+amelioration of intestinal inﬂammation in animal models of
+colitis such at IL-10KO or chemically induced trinitroben-
+zene sulfonic acid (TNBS) colitis.5–7 A clinical trial in which
+108 CD patients were randomized to 1200 IU vitamin D3 or
+placebo demonstrated a reduced risk of relapse from 29% to
+13% at 1 year in the vitamin D3-treated group, although the
+result did not reach statistical signiﬁcance (P ¼ 0.06).8
+However, although vitamin D deﬁciency is described
+in patients with IBD and there is evidence for a role of
+vitamin D in IBD pathogenesis, as discussed above, it has
+been unclear in patients if this is a consequence of the dis-
+ease or a contributor to the disease pathogenesis. The study
+by Ananthakrishnan et al suggests that vitamin D may be
+an important contributor to the disease pathogenesis.
+The stronger association of 25(OH)D with CD (as
+opposed to UC) is biologically plausible given the particu-
+lar mechanistic links of vitamin D with NOD2 and autoph-
+agy pathways, in that vitamin D induces NOD2 expression/
+antimicrobial peptides9 and autophagy contributing to elim-
+ination of intracellular mycobacteria in a cathelicidin-de-
+pendent manner.10
+Apart from stimulating further interest in the role of
+vitamin D in IBD pathogenesis, the current work may suggest
+targeted preventative therapy for at-risk patients such as those
+with a positive family history of IBD. There is some evidence
+of synergistic effects of vitamin D with immunomodulators
+used in IBD and a role for vitamin D in restoring steroid-
+responsiveness.11 However, larger trials of vitamin D as a
+therapeutic strategy are required in IBD in prevention, main-
+tenance of remission, and treatment of established disease.
+Ailsa L. Hart, BMBCh, MRCP, PhD
+Lead IBD Unit
+St Mark’s Hospital
+Harrow, Middlesex, UK
+Imperial College
+London, UK
+DOI 10.1002/ibd.23031
+Published
+online
+in
+Wiley
+Online
+Library
+(wileyonlinelibrary.com).
+Received for publication April 16, 2012; Accepted May 9, 2012.
+Copyright V
+C 2012 Crohn’s & Colitis Foundation of America, Inc.
+Inﬂamm Bowel Dis
+1
+REFERENCES
+1. Ananthakrishnan AN, Khalili H, Higuch LM, et al. Higher predicted
+vitamin D status is associated with reduced risk of Crohn’s disease.
+Gastroenterology. March 2012;143:482–489.
+2. Kotsopoulos J, Tworoger SS, Campos H, et al. Reproducibility of
+plasma and urine biomarkers among premenopausal and postmeno-
+pausal women from the Nurses’ Health Studies. Cancer Epidemiol
+Biomarkers Prev. 2010;19:938–946.
+3. Loftus EV Jr, Sandborn WJ. Epidemiology of inﬂammatory bowel dis-
+ease. Gastroenterol Clin North Am. 2002;31:1–20.
+4. Joseph AJ, George B, Pulimood AB, et al. 25(OH) Vitamin D level in
+Crohn’s disease association with sun exposure and disease activity. In-
+dian J Med Res. 2009;130:133–137.
+5. Froicu M, Cantorna MT. Vitamin D and the vitamin D receptor are
+critical for control of the innate immune response to colonic injury.
+BMC Immunol. 2007;30;8:5.
+6. Cantorna MT, Munsick C, Bemiss C, et al. 1,25-dihydroxycholecalci-
+ferol prevents and ameliorates symptoms of experimental murine IBD.
+J Nutr. 2000;130:2648–2652.
+7. Daniel C, Sartory NA, Zahn N, et al. Immune modulatory treat-
+ment of trinitrobenzene sulfonic acid colitis with calcitriol is
+associated with a change of a T helper (Th) 1/Th17 to a Th2
+and regulatory T cell proﬁle. J Pharmacol Exp Ther. 2008;324:
+23–33.
+8. Jørgensen SP, Agnholt J, Glerup H, et al. Clinical trial: vitamin
+D3 treatment in Crohn’s disease — a randomized double-blind
+placebo-controlled
+study.
+Aliment
+Pharmacol
+Ther.
+2010;32:
+377–383.
+9. Wang TT, Dabbas B, Laperriere D, et al. Direct and indirect induction
+by 1,25-dihydroxyvitamin D3 of the NOD2/CARD15-defensin beta2
+innate immune pathway defective in Crohn disease. J Biol Chem.
+2010;285:2227–2231.
+10. Yuk JM, Shin DM, Lee HM, et al. Vitamin D3 induces autophagy in
+human monocytes/macrophages via cathelicidin. Cell Host Microbe.
+2009;6:231–243.
+11. Xystrakis E, Kusumakar S, Boswell S, et al. Reversing the defective
+induction of IL-10-secreting regulatory T cells in glucocorticoid-resist-
+ant asthma patients. J Clin Invest. 2006;116:146–155.
+Inﬂamm Bowel Dis
+Hart
+2

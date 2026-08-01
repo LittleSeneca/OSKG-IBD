@@ -1,0 +1,1250 @@
+THE GUT MICROBIOME AND DISEASE
+The Microbiome in Inﬂammatory Bowel Disease: Current Status
+and the Future Ahead
+1Broad Institute of Massachusetts Institute of Technology and Harvard University, Cambridge; and 2Gastrointestinal Unit,
+Center for the Study of Inﬂammatory Bowel Disease, and Center for Computational and Integrative Biology, Massachusetts
+General Hospital, Harvard Medical School, Boston, Massachusetts
+Studies of the roles of microbial communities in the
+development of inﬂammatory bowel disease (IBD) have
+reached an important milestone. A decade of genome-wide
+association studies and other genetic analyses have linked
+IBD with loci that implicate an aberrant immune response
+to the intestinal microbiota.
+More recently,
+proﬁling
+studies of the intestinal microbiome have associated the
+pathogenesis of IBD with characteristic shifts in the
+composition of the intestinal microbiota, reinforcing the
+view that IBD results from altered interactions between
+intestinal microbes and the mucosal immune system.
+Enhanced technologies can increase our understanding of
+the interactions between the host and its resident micro-
+biota and their respective roles in IBD from both a large-
+scale pathway view and at the metabolic level. We review
+important microbiome studies of patients with IBD and
+describe what we have learned about the mechanisms of
+intestinal microbiota dysfunction. We describe the recent
+progress in microbiome research from exploratory 16S-
+based studies, reporting associations of speciﬁc organisms
+with a disease, to more recent studies that have taken a
+more nuanced view, addressing the function of the micro-
+biota by metagenomic and metabolomic methods. Finally,
+we propose study designs and methodologies for future
+investigations of the microbiome in patients with inﬂam-
+matory gut and autoimmune diseases in general.
+Keywords: Microbiota; Crohn’s Disease; Ulcerative Colitis;
+Metagenomics.
+O
+ver the past decade, inﬂammatory bowel disease
+(IBD) has emerged as one of the most studied hu-
+man conditions linked to the gut microbiota.1,2 IBD com-
+prises both Crohn’s disease (CD) and ulcerative colitis (UC),
+which together affect more than 3.6 million people.3 Large-
+scale studies of human genetics across a total of 75,000
+cases and controls have revealed 163 host susceptibility loci
+to date.4 These loci are enriched for pathways that interact
+with environmental factors to modulate intestinal homeo-
+stasis.5 The incidence of the disease has been on the rise
+over the past few decades, further highlighting the role of
+environmental factors in this disease. IBD was once a very
+rare disorder and only began to rise dramatically in inci-
+dence in the second half of the 20th century in North
+America and Europe, at times doubling every decade; it has
+expanded into developing countries in the past 2 decades,
+although there are more cases of UC than CD in the devel-
+oping world.6 In addition, several twin studies have shown
+that the concordance rate for IBD between monozygotic
+twin pairs is signiﬁcantly less than 50%, with the least
+concordance in CD.7 IBD is thus a multifaceted disorder in
+which not only germline genetics and the immune system
+but also several environmental factors play an important
+role.8 One such factor, the gut microbial community, is
+gaining increasing attention for its inﬂuence on many as-
+pects of health in general9 and IBD in particular (Table 1).
+The gut microbiota, the largest reservoir of microbes in
+the body, coexists with its host in variable concentrations
+throughout the gastrointestinal tract, reaching an upper level
+in the colon of 1011 or 1012 cells/g of luminal contents.10 This
+community performs a range of useful functions for the host,
+including digesting substrates inaccessible to host enzymes,
+educating the immune system, and repressing the growth
+of harmful microorganisms.11 The extensive use of low-
+resolution surveys of the microbial community structure in
+the past, as well as renewed efforts using next-generation
+Aleksandar D. Kostic1
+Ramnik J. Xavier1,2
+Dirk Gevers1
+Abbreviations used in this paper: CD, Crohn’s disease; FMT, fecal
+microbiota transplantation; IBD, inﬂammatory bowel disease; iCD, ileal
+Crohn’s disease; SCFA, short-chain fatty acid; T2DM, type 2 diabetes
+mellitus; UC, ulcerative colitis.
+© 2014 by the AGA Institute
+0016-5085/$36.00
+http://dx.doi.org/10.1053/j.gastro.2014.02.009
+Gastroenterology 2014;146:1489–1499
+THE GUT MICROBIOME
+AND DISEASE
+sequencing for a high-resolution description of composition,
+function, and ecology,12,13 have improved our overall un-
+derstanding of the role of the gut microbiota in health, a
+prerequisite for the study of disease-related dysbiosis.
+Several factors can intervene with microbial gut community
+composition, including genetics, diet, age, drug treatment,
+smoking, and potentially many more (Figure 1).14 The rela-
+tive importance of each of these factors is still unclear, but
+several of them are directly or indirectly linked to the disease
+state.
+Environmental Factors Affecting
+Microbiome Composition
+Diet
+One of the most important environmental factors
+affecting microbial composition is dietary preference,
+which has been shown to determine microbiome compo-
+sition throughout mammalian evolution.15 Although no
+speciﬁc diet has been shown to directly cause, prevent, or
+treat IBD, it is important to take interactions between
+nutrients and microbiota into account when studying the
+role of the microbiome in disease. Thus far, only limited
+information on this topic has been gathered in humans,
+undoubtedly as a result of the challenge of setting up a
+large-scale controlled diet study. Wu et al have shown that
+long-term dietary patterns affect the ratios of Bacteroides,
+Prevotella, and Firmicutes and that short-term changes
+may not have major inﬂuences.16 In addition, Zimmer et al
+have studied the impact of a strict vegan or vegetarian
+diet on the microbiota17 and found a signiﬁcant reduction
+in Bacteroides species, Biﬁdobacterium species, and the
+Enterobacteriaceae, whereas total bacterial load remained
+unaltered. Since the Enterobacteriaceae are among the
+taxa that are consistently found to be increased in pa-
+tients with IBD (see the following text), it would be of
+value to include both short-term and long-term dietary
+patterns in future studies of the role of the microbiome in
+IBD. Given the complexity of dietary effects, including
+such information will likely only be feasible in a large
+cohort study.18
+Figure 1. Factors affecting the stability and complexity of the gut microbiome in health and disease. Key characteristics of the
+microbiome, including stability, resilience, and complexity, are inﬂuenced over time from infancy to adulthood and into old age.
+In the healthy gut, these characteristics contribute to important physiological processes such as protection against pathogens,
+training of the immune system, and digestion of food to supply energy and nutrients including vitamins and SCFAs. Many
+factors are indicated to affect the microbiome throughout microbiome development and even established assembly, including
+genetics, diet, and medication, among others (marked in the gray boxes at the top of the ﬁgure). Some of these factors can
+introduce perturbations affecting the complexity and stability of the microbiome, potentially introducing microbial dysbiosis.
+Features of an imbalanced microbiome include, for example, an increase in gram-negative bacteria linked to an environment of
+oxidative stress and inﬂammation and metabolite production.
+Table 1.Changes in the Microbiome Linked to IBD
+Microbial composition
+Decrease in a diversity
+Decrease in Bacteroides and Firmicutes
+Increase in Gammaproteobacteria
+Presence of E coli, speciﬁcally adherent-
+invasive E coli
+Presence of Fusobacterium
+Decrease in Clostridia, Ruminococcaceae,
+Biﬁdobacterium, Lactobacillus
+Decrease in F prausnitzii
+Microbial function
+Decrease in SCFAs, butyrate
+Decrease in butanoate and propanoate
+metabolism
+Decrease in amino acid biosynthesis
+Increase in auxotrophy
+Increase in amino acid transport
+Increase in sulfate transport
+Increased oxidative stress
+Increase in type II secretion system,
+secretion of toxins
+1490 Kostic et al
+Gastroenterology Vol. 146, No. 6
+THE GUT MICROBIOME
+AND DISEASE
+Age
+There is an age-related variation in the distribution of
+IBD phenotypes, with 3 distinct stages of onset. A peak age
+of onset is typically 15 to 30 years of age, with late-onset
+cases occurring closer to 60 years of age and early onset
+occurring at younger than 10 years of age. Noticeably, the
+latter group has had a signiﬁcant increase in incidence over
+the past decade.19 These stages correspond to phases in
+which the gut microbiota alters its diversity and stability.20
+Early life is marked by a microbiome of low complexity and
+low stability, one that is more volatile, is affected by the
+birth route, and ﬂuctuates with events such as changes in
+diet (switch from breastfeeding to solid foods), illness, and
+puberty.21 It takes until adulthood for the microbial
+assemblage to reach maximal stability and complexity, with
+improved
+resilience
+toward
+perturbations.22
+However,
+decreased stability has been observed in elderly subjects
+(60 years of age or older).23 Given these different charac-
+teristics of the microbiome at the 3 distinct stages of disease
+onset, a different role for the microbiome in disease initia-
+tion and progression should be considered.
+IBD Genetics Point to an Interplay
+Between the Immune System and
+Microbiota in IBD
+A potential link between genetics and the microbiome has
+long been suspected. The ﬁrst identiﬁed CD susceptibility
+gene was NOD2,24 which stimulates an immune reaction on
+recognizing muramyl dipeptide, a cell wall peptidoglycan
+constituent of gram-positive and gram-negative bacteria.
+NOD2 is expressed in Paneth cells, which are located pre-
+dominantly in the terminal ileum at the base of intestinal
+crypts, and produce antimicrobial defensins.25 Therefore, it
+may not be surprising that mutations in NOD2 can have sig-
+niﬁcant effects on the composition of the microbial milieu.
+Indeed, patients with IBD carrying NOD2 mutations have
+increased
+numbers
+of
+mucosa-adherent
+bacteria2
+and
+decreased transcription of the anti-inﬂammatory cytokine
+interleukin 10.26 Patients with IBD carrying NOD2 and
+ATG16L1, an IBD susceptibility gene involved in autophagy,
+risk alleles have signiﬁcant alterations in the structure of
+their gut microbiota, including decreased levels of Faecali-
+bacterium and increased levels of Escherichia.27 Subjects
+homozygous for loss-of-function alleles for FUT2 are “non-
+secretors” who do not express ABO antigen on the gastroin-
+testinal mucosa and bodily secretions. Nonsecretors are at
+increased risk for CD28 and exhibit substantial alterations in
+the mucosa-associated microbiota.29 Host genetics may thus
+play a strong role in the establishment and shaping of the gut
+microbiota; indeed, monozygotic twins share more similar
+microbiomes than nontwin siblings.30 In regard to the skin, a
+recent study in patients with primary immunodeﬁciency
+showed a bidirectional dialogue between the microbiome
+and the host immune system. The skin of patients with pri-
+mary immunodeﬁciency has an altered population compo-
+sition compared with immunocompetent subjects, which in
+turn results in increased susceptibility to infection by altering
+the immune response toward pathogens.31 Although there
+are currently no genome-wide studies examining the in-
+teractions between common human genetic variation and the
+composition of the microbial ecosystem, such a study could
+be of great value.5
+An Overview of Gut Microbiome
+Studies in IBD
+Many
+IBD
+susceptibility
+loci
+suggest
+an
+impaired
+response to microbes in disease, but the causality of this
+relationship is unclear. The pathogenesis of IBD may result
+from a dysregulation of the mucosal immune system driving
+a pathogenic immune response against the commensal gut
+ﬂora.32 Some studies have shown that the gut microbiota is
+an essential factor in driving inﬂammation in IBD1; indeed,
+short-term treatment with enterically coated antibiotics
+dramatically reduces intestinal inﬂammation33 and has been
+shown to have some efﬁcacy in IBD and particularly in
+pouchitis.34 Speciﬁcally, rifaximin has shown efﬁcacy in
+recent trials in CD.35 Additionally, patients with IBD show
+mucosal secretion of immunoglobulin G antibodies36 and
+mucosal T-cell responses against commensal microbiota.37
+The dramatic improvements in DNA sequencing tech-
+nology and analysis over the past decade have set the stage
+for investigations of the IBD microbiome. Many studies have
+found structural imbalances, or dysbioses, that occur in IBD
+since the initial report,38 and a broad pattern has begun to
+emerge that includes a reduction in biodiversity, a decreased
+representation of several taxa within the Firmicutes phylum,
+and an increase in the Gammaproteobacteria.27,39
+Many studies consistently report a decrease in biodi-
+versity, known as a diversity or species richness in
+ecological terms, which is a measure of the total number of
+species in a community. There is reduced a diversity in the
+fecal microbiome in patients with CD compared with
+healthy controls,40 which was also found in pairs of mono-
+zygotic twins discordant for CD.41 This decreased diversity
+has been attributed to reduced diversity speciﬁcally within
+the Firmicutes phylum42 and has also been associated with
+temporal instability in the dominant taxa in both UC and
+CD.43 There is reduced diversity in inﬂamed versus non-
+inﬂamed tissues even within the same patient, and patients
+with CD have lower overall bacterial loads at inﬂamed re-
+gions.44 The largest IBD-related microbiome study to date is
+on new-onset CD in a multicenter pediatric cohort.45 This
+study analyzed more than 1000 treatment-naïve samples,
+which were collected from multiple concurrent gastroin-
+testinal locations, from patients representing the variety of
+disease phenotypes with respect to location, severity, and
+behavior. In addition to a detailed characterization of the
+speciﬁc organisms either lost or associated with disease,
+this study indicates that assessing the rectal mucosa–
+associated microbiome offers unique potential for conve-
+nient and early diagnosis of CD.
+Other nonbacterial members of the microbiota, namely
+the fungi, viruses, archaea, and phage, may have a signiﬁcant
+role in gastrointestinal disease46; however, the vast majority
+of recent studies of the microbiota are based on 16S
+May 2014
+The Microbiome in Inﬂammatory Bowel Disease 1491
+THE GUT MICROBIOME
+AND DISEASE
+sequencing, thus largely ignoring these groups of organisms.
+For example, norovirus infection, in the context of an intact
+gut microﬂora and mutated Atg16l1, is required for the
+development of CD in a mouse model.47 A number of studies
+note a relationship between fungi and IBD,48 including an
+overall increase in fungal diversity in UC and CD.49 The
+relationship between these organisms and IBD will no doubt
+be explored in more detail in the coming years, because
+microbiome studies will increasingly be performed by un-
+biased shotgun sequencing.
+Microbes Enriched in IBD May
+Potentiate Disease
+Speciﬁc taxonomic shifts have been reported in IBD
+(Table 1). The Enterobacteriaceae are increased in relative
+abundance both in patients with IBD and in mouse
+models.50 Escherichia coli, particularly adherent-invasive
+E coli strains, have been isolated from ileal CD (iCD) bi-
+opsy specimens in culture-based studies51 and are enriched
+in patients with UC.52 This enrichment is more pronounced
+in mucosal samples than in fecal samples.53 The increase in
+Enterobacteriaceae may indicate the preference of this clade
+for an inﬂammatory environment. In fact, treatment with
+mesalamine, an anti-inﬂammatory drug used in patients
+with IBD, decreases intestinal inﬂammation and is associ-
+ated with a decrease in Escherichia/Shigella.39,54
+In addition to trends seen in the lumen, a number of
+studies have observed a shift in microbes that are attached
+to the intestinal mucus layer. The small intestine has a
+single mucus layer, whereas the colon has 2 mucus layers: a
+ﬁrmly attached inner mucus layer that is essentially sterile
+and an outer mucus layer of variable thickness.55 The mucus
+layer consists of mucins, trefoil peptides, and secretory
+immunoglobulin A.56 Although host-microbiota interactions
+are bidirectional, direct contact with the epithelium is
+limited by the mucus and the production of antimicrobial
+factors such as defensins and RegIII-g.57–59 As long as the
+mucus layer is relatively healthy and intact, microbes will
+attach to the mucus and generally do not have direct access
+to epithelial cells. There is a greater overall density of
+attached bacteria on the colonic mucus layer in patients
+with UC compared with healthy controls.2 The adherent-
+invasive E coli pathovar, in particular, is at higher abun-
+dance in mucosal biopsy specimens from patients with CD
+compared with healthy subjects and particularly high in ileal
+specimens.60 Adherent-invasive E coli invades epithelial
+cells and can replicate within macrophages61 and induce
+granuloma formation in vitro.62 In fact, E coli has also been
+found at higher levels in granulomas from CD relative to
+other non-CD granulomas.63
+A second group of adherent and invasive bacteria is the
+Fusobacteria. The genus Fusobacterium is a group of gram-
+negative anaerobes that principally colonize the oral cavity
+but can also inhabit the gut. Fusobacterium species have
+been found to be at higher abundance in the colonic mucosa
+of patients with UC relative to control subjects,64,65 and
+human isolates of Fusobacterium varium have been shown
+to induce colonic mucosal erosion in mice by rectal enema.66
+The invasive ability of human Fusobacterium isolates has a
+positive correlation with the IBD status of the host,67 sug-
+gesting that invasive Fusobacterium species may inﬂuence
+IBD pathology. Intriguingly, Fusobacterium species have
+recently been shown to be enriched in tumor vs nonin-
+volved adjacent tissue in colorectal cancer,68,69 and human
+Fusobacterium isolates have been shown to directly pro-
+mote tumorigenesis in a mouse model.70,71 Because IBD is
+among the highest risk factors for the development of
+colorectal cancer, Fusobacterium species may represent a
+potential link between these diseases.
+Protective Effects of Microbes in IBD
+Several lines of evidence suggest that speciﬁc groups of
+gut bacteria may have protective effects against IBD. For
+example, the colitis phenotype after treatment with dextran
+sulfate sodium is more severe in mice that are reared germ-
+free compared with conventionally reared mice.72 One
+mechanism by which the commensal microbiota may protect
+the host is colonization resistance, in which commensals
+occupy niches within the host and prevent colonization by
+pathogens73 and help outcompete pathogenic bacteria.74
+(Interestingly, the microbiota can sometimes take on the
+opposite role and facilitate viral infection.75) Commensal
+microbiota can also have direct functional effects on potential
+pathogens (eg, in dampening virulence-related gene expres-
+sion).76 In addition, the gut microbiota plays a role in shaping
+the mucosal immune system. Bacteroides and Clostridium
+species have been shown to induce the expansion of regula-
+tory T cells, reducing intestinal inﬂammation.77 Other mem-
+bers of the microbiota can attenuate mucosal inﬂammation
+by regulating NF-kB activation.78
+A number of bacterial species, most notably the Biﬁdo-
+bacterium, Lactobacillus, and Faecalibacterium genera, may
+protect the host from mucosal inﬂammation by several
+mechanisms, including the down-regulation of inﬂammatory
+cytokines79 or stimulation of interleukin 10,80 an anti-
+inﬂammatory cytokine. Faecalibacterium prausnitzii, one
+such proposed member of the microbiota with anti-
+inﬂammatory properties, is underrepresented in IBD.81
+F prausnitzii is depleted in iCD biopsy samples concomi-
+tant with an increase in E coli abundance,82 and low levels of
+mucosa-associated F prausnitzii are associated with a higher
+risk of recurrent CD after surgery.80 Conversely, recovery of
+F prausnitzii after relapse is associated with maintenance of
+clinical remission of UC.83
+Several constituents of the gut microbiota ferment
+dietary ﬁber, a prebiotic, to produce short-chain fatty acids
+(SCFAs), which include acetate, propionate, and butyrate.
+SCFAs are the primary energy source for colonic epithelial
+cells84 and have recently been shown to induce the expan-
+sion of colonic regulatory T cells.77,85 The Ruminococcaceae,
+particularly the butyrate-producing genus Faecalibacte-
+rium,86 is decreased in IBD, especially in iCD.38,39,42,80,82
+Other SCFA-producing bacteria, including Odoribacter and
+the Leuconostocaceae, are reduced in UC, and Phasco-
+larctobacterium and Roseburia are reduced in CD.39 Inter-
+estingly, the Ruminococcaceae consume hydrogen and
+1492 Kostic et al
+Gastroenterology Vol. 146, No. 6
+THE GUT MICROBIOME
+AND DISEASE
+produce acetate that can be used by Roseburia to produce
+butyrate,39 and it is therefore consistent that both groups
+together are reduced in IBD.
+Functional Composition of the Gut
+Microbiota in IBD
+At the phylogenetic level, there is generally high vari-
+ability in the human microbiota between and within indi-
+vidual
+subjects
+over
+time.13
+However,
+the
+functional
+composition (ie, the functional potential of the gene content
+of the metagenome) of the gut microbiota is strikingly
+stable.13 Metagenomic approaches may therefore provide
+greater insight into the function of the gut microbiota in
+disease than taxonomic proﬁling87,88; indeed, one such met-
+agenomics study of the IBD microbiome found that 12% of
+metabolic pathways were signiﬁcantly different between
+patients with IBD and healthy controls compared with just
+2% of genus-level clades.39 Metagenomic and metaproteomic
+studies have conﬁrmed a decrease in butanoate and prop-
+anoate metabolism genes in iCD39 and lower overall levels of
+butyrate and other SCFAs in iCD,89 consistent with the de-
+creases in SCFA-producing Firmicutes clades seen in taxo-
+nomic proﬁling studies. Another metagenomic trend that has
+been identiﬁed in the IBD microbiome is an increase in
+functions characteristic of auxotrophic and pathobiont bac-
+teria, such as a decrease in biosynthesis of amino acids, and
+an increase in amino acid transporter genes.39 These bacteria
+generally have a reduced ability to produce their own nu-
+trients but rather transport them from the environment
+because they are readily available at sites of inﬂammation
+and tissue destruction.39
+A number of studies note an increase in sulfate-reducing
+bacteria, such as Desulfovibrio, in IBD.90 Mesalamine, a
+common treatment for patients with IBD, inhibits the pro-
+duction of fecal sulﬁde; intriguingly, stool samples from
+patients not treated with mesalamine show higher levels of
+sulﬁde.91 Genes involved in the metabolism of the sulfur-
+containing amino acid cysteine are increased in IBD,
+particularly in iCD, and there is increased sulfate transport
+in both UC and CD.39 Saturated fat–derived taurine conju-
+gates to bile acids, increasing the availability of free sulfur
+and causing an expansion of the sulfate-reducing pathobiont
+Bilophila wadsworthia, driving colitis in genetically suscep-
+tible Il10/ but not wild-type mice.92 The IBD metagenome
+has an increased propensity for managing oxidative stress, a
+hallmark of an inﬂammatory environment, as indicated by
+increased glutathione transport and riboﬂavin metabolism
+in UC.39 There is also an increase in type II secretion sys-
+tems,39 which are involved in the secretion of toxins, and an
+increase in bacterial genes with virulence-related func-
+tions89 in patients with CD, indicative of a shift toward an
+inﬂammation-promoting microbiome.
+The Gut Microbiota in
+Related Diseases
+A number of parallels can be drawn between IBD and
+related metabolic diseases such as type 2 diabetes mellitus
+(T2DM) and obesity. For example, there is an overall
+decrease in diversity in obesity at both the phylogenetic
+level (ie, a reduced number of distinct species)30 and the
+metagenomic gene count level (ie, a reduced number of
+distinct genes).93 Major shifts in clade abundances include a
+reduction of the Firmicutes and Clostridia in T2DM94 and a
+signiﬁcant increase in the Firmicutes to Bacteroidetes ratio
+in obesity in mice95; however, it is less clear whether this
+shift also holds true in human obesity.30,96 There is a
+decrease in Biﬁdobacterium species in obesity and T2DM,96
+and Biﬁdobacterium is reduced in children who become
+overweight,97 suggesting that it may act as a predictive
+factor. As in IBD, F prausnitzii is reduced in abundance in
+T2DM.98 In terms of gene function, there is an enrichment of
+genes involved in membrane transport,99 sulfate reduction,
+and oxidative stress resistance functions and a decrease in
+functions involving cofactor and vitamin metabolism and
+butyrate production.100 Therefore, many of the same shifts
+in function of the gut microbiota, and even speciﬁc taxa, are
+seen across these diseases, suggesting the existence of
+generalized features that relate these diseases and the se-
+lection for an auxotrophic microbiota that can thrive in an
+inﬂammatory environment.
+IBD Treatments Affecting the
+Microbiome
+An array of antibiotics have been shown to lead to a
+bloom of E coli.101 Because increased Enterobacteriaceae is
+a distinctive feature of intestinal inﬂammation and oxidative
+stress, the relationship between microbial composition,
+inﬂammation, and antibiotic use forms an important topic
+for future research. In contrast, some promising data show
+that antibiotic therapy speciﬁcally in IBD does induce
+remission or prevent relapse, but this topic will require
+further controlled trials.102 To better understand the con-
+sequences of perturbing the gut microbiota of patients and
+the role of the microbiota in treatment outcome, studies that
+monitor the temporal response at the levels of microbial
+ecology and functional composition will be required.103
+Thus
+far,
+several
+studies
+of
+healthy
+humans
+brieﬂy
+exposed to some antibiotics show the substantial pertur-
+bation, and the level of resilience, of the gut microbiota.104
+Repeated exposures to a single antibiotic in healthy sub-
+jects result in cumulative and persistent changes to the gut
+microbial composition.105 Microbial homeostasis is typically
+disrupted by the loss of species complexity, particularly of
+protective microbes and thereby potentially resulting in an
+increased risk of infections,106 or dysbiosis.45 Another
+mechanism by which antibiotics lead to increased gut in-
+fections is by causing a thinning of the mucus layer, thereby
+weakening its barrier function.107
+Instead of perturbing the existing microbiome
+by
+removing diversity through antibiotics, repopulating the gut
+habitat with a healthy community has gained popularity in
+the past few years. This will be an exciting new direction for
+the pharmaceutical industry, expanding the focus beyond
+traditional small molecules and biologics.108 The complexity
+May 2014
+The Microbiome in Inﬂammatory Bowel Disease 1493
+THE GUT MICROBIOME
+AND DISEASE
+and composition that will be used to repopulate the gut
+community will be very important. The success of probiotics
+in the management of IBD ranges from mixed results to
+considerable potential109 and is dependent on the strains
+used and disease subtype targeted. In contrast, the evidence
+that fecal microbiota transplantation (FMT) can be highly
+effective in
+replenishing
+our complex
+microbiota
+has
+received considerable attention because of a convincing
+clinical trial of treatment of relapsing Clostridium difﬁcile
+infection.110 Related studies have shown that the use of a
+well-selected community subset rather than whole fecal
+communities can be sufﬁcient for recovery.111 The high
+success rate reported for relapsing C difﬁcile infection has
+elevated FMT as an emerging treatment for several gastro-
+intestinal and metabolic disorders112 and is actively being
+considered for IBD.113 So far, the sparse results reported for
+cases of IBD have been variable with regard to the success
+rate for inducing remission, and well-designed randomized
+controlled trials are currently still lacking.114 Although
+changes in the composition of the intestinal microbiota were
+signiﬁcant, and reductions in Proteobacteria as well as an
+increase in Bacteroides after FMT were observed, reaching
+or
+maintaining
+remission
+has
+been
+less
+frequent.115
+Changing protocols toward repeated FMT procedures for
+multiple days in a row seems to increase the chances of
+achieving clinical remission.116
+Future Directions
+Studies thus far have been able to address many aspects
+of IBD, including genetics, immune responses, microbial
+dysbiosis,
+and
+microbial
+functional
+activity.
+However,
+because of the complexity of the human microbiome as a
+dynamically interacting system, only limited data have been
+produced to bridge the gap between pathogenesis in a hu-
+man host, individual microbes, and alterations in microbial
+metabolism and function. This suggests the need for a more
+multifaceted approach to the microbiome in IBD (Figure 2).
+Because the gaps in IBD are arguably the narrowest among
+diseases in the microbiome ﬁeld, as indicated by the prog-
+ress reviewed in the preceding text, it can be considered a
+model for systems-level investigations of human-associated
+microbial communities and their interactions with the host’s
+immune system. Increasing our mechanistic understanding
+of host-microbe interactions through such a systems-level
+approach will provide new opportunities to develop di-
+agnostics and treatments117 but is certainly not without
+challenges.118 Recent technological advances, including
+Figure
+2. A
+multifaceted
+approach to study the role
+of the microbiome in IBD.
+Future microbiome studies
+in the context of disease
+will
+shift
+toward
+multi-
+omics
+approaches
+to
+study
+host-microbe
+re-
+lations more comprehen-
+sively. Optimized sample
+collection, detailed clinical
+annotation,
+and
+sample
+processing will be key to
+expanding data generation
+far
+beyond
+the
+typical
+marker gene and shotgun
+sequencing approaches. A
+number of assays on the
+host side (red) and micro-
+bial end (blue) will gain
+increasing attention going
+forward.
+1494 Kostic et al
+Gastroenterology Vol. 146, No. 6
+THE GUT MICROBIOME
+AND DISEASE
+improvements in sequencing and computational biology, are
+contributing novel methods to study human-associated mi-
+crobial communities,119 with an increasing focus on func-
+tional follow-up using cultured microbes and germ-free
+animal models.
+Essential to further explorations, more longitudinal sur-
+veys of patients before, during, and after treatment as well as
+large-scale clinical trials that take into account both microbial
+and genetic heterogeneity will need to be performed and
+should take a multifaceted approach. One approach to in-
+crease sample size is to combine different cohort studies.
+However, sample type,120 collection,121 and extraction122 can
+introduce artifactual differences in microbial composition,
+which unfortunately makes it more challenging to combine
+data sets produced under different protocols.123 Stream-
+lining experimental protocols across cohorts will be essential
+to preserve statistical power for identifying true biological
+effects in microbiome data sets. This will require growing
+efforts for standardizing the collection of patient samples and
+their clinical information. The discussion around the value of
+uniform data collection has resulted in solutions already,124
+but these need further adaptation for clinical information.
+Pursuing a true systems biology approach will require a
+solution for simultaneous measurement of the host state, the
+microbiome, and the multidirectional signaling between
+them. Although solutions for sequential isolation of metabo-
+lites, RNA, DNA, and proteins from the same unique sample
+have been described,125 engineering a solution that can easily
+be deployed as a self-sampling kit for patients will require
+further exploration. Such challenges have been addressed
+with other technologies, for example, in the use of micro-
+arrays as a tool for biomarker detection in clinical applica-
+tions, which led to the establishment of a consortium with a
+mandate to set up standards and quality measures.126 Such
+efforts are now also initiated in the microbiome space with
+both environmental and clinical relevance (see www.
+hmpdacc.org,
+http://www.mbqc.org,
+and
+http://www.
+earthmicrobiome.org) and could eventually allow us to
+combine several large well-characterized cohorts without the
+challenge of study-introduced biases.123
+Despite promising correlations between shifts in micro-
+bial composition and disease phenotypes, to date no causa-
+tive role for the microbiome has been established, and our
+understanding of the dynamic role of the human microbiome
+in IBD remains incomplete. The biological questions of in-
+terest enabled by prospective longitudinal studies would be
+to (1) identify the potential role of the intestinal microbiome
+in triggering disease, (2) determine if microbial composition
+predicts subsequent risk of activity ﬂares, and (3) examine
+whether the luminal ﬂora predicts response to therapy. The
+identiﬁcation of a correlative microbial pattern in humans
+that induces antimicrobial defense and ameliorates inﬂam-
+mation would have considerable promise as a novel diag-
+nostic and therapeutic approach for the management of these
+complex diseases. Existing correlative genetic-microbial
+studies have helped to motivate this area but cannot speak
+to causality, response to treatment, or risk prediction in the
+absence of multifaceted longitudinal measurements.
+References
+1.Sartor RB. Microbial inﬂuences in inﬂammatory bowel
+diseases. Gastroenterology 2008;134:577–594.
+2.Swidsinski A, Ladhoff A, Pernthaler A, et al. Mucosal ﬂora
+in inﬂammatory bowel disease. Gastroenterology 2002;
+122:44–54.
+3.Loftus EV Jr. Clinical epidemiology of inﬂammatory
+bowel disease: incidence, prevalence, and environmental
+inﬂuences. Gastroenterology 2004;126:1504–1517.
+4.Jostins L, Ripke S, Weersma RK, et al. Host-microbe
+interactions have shaped the genetic architecture of in-
+ﬂammatory bowel disease. Nature 2012;491:119–124.
+5.Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of
+inﬂammatory bowel disease. Nature 2011;474:307–317.
+6.Molodecky NA, Soon IS, Rabi DM, et al. Increasing
+incidence and prevalence of the inﬂammatory bowel
+diseases
+with
+time,
+based
+on
+systematic
+review.
+Gastroenterology 2012;142:46–54.e42; quiz e30.
+7.Halme L, Paavola-Sakki P, Turunen U, et al. Family and
+twin studies in inﬂammatory bowel disease. World J
+Gastroenterol 2006;12:3668–3672.
+8.Pillai S. Rethinking mechanisms of autoimmune patho-
+genesis. J Autoimmun 2013;45:97–103.
+9.Flint HJ, Scott KP, Louis P, et al. The role of the gut
+microbiota in nutrition and health. Nat Rev Gastroenterol
+Hepatol 2012;9:577–589.
+10.Dave M, Higgins PD, Middha S, et al. The human gut
+microbiome: current knowledge, challenges, and future
+directions. Transl Res 2012;160:246–257.
+11.O’Hara AM, Shanahan F. The gut ﬂora as a forgotten
+organ. EMBO Rep 2006;7:688–693.
+12.Qin J, Li R, Raes J, et al. A human gut microbial gene
+catalogue established by metagenomic sequencing.
+Nature 2010;464:59–65.
+13.Human
+Microbiome
+Project
+Consortium.
+Structure,
+function and diversity of the healthy human microbiome.
+Nature 2012;486:207–214.
+14.Blaser MJ, Falkow S. What are the consequences of the
+disappearing human microbiota? Nat Rev Microbiol
+2009;7:887–894.
+15.Ley RE, Hamady M, Lozupone C, et al. Evolution of
+mammals and their gut microbes. Science 2008;320:
+1647–1651.
+16.Wu GD, Chen J, Hoffmann C, et al. Linking long-term
+dietary patterns with gut microbial enterotypes. Science
+2011;334:105–108.
+17.Zimmer J, Lange B, Frick JS, et al. A vegan or vegetarian
+diet substantially alters the human colonic faecal micro-
+biota. Eur J Clin Nutr 2012;66:53–60.
+18.Moschen AR, Wieser V, Tilg H. Dietary factors: major reg-
+ulators of the gut’s microbiota. Gut Liver 2012;6:411–416.
+19.Martin-de-Carpi J, Rodriguez A, Ramos E, et al. Increasing
+incidence of pediatric inﬂammatory bowel disease in
+Spain (1996-2009): the SPIRIT Registry. Inﬂamm Bowel
+Dis 2013;19:73–80.
+20.Spor A, Koren O, Ley R. Unravelling the effects of the
+environment and host genotype on the gut microbiome.
+Nat Rev Microbiol 2011;9:279–290.
+May 2014
+The Microbiome in Inﬂammatory Bowel Disease 1495
+THE GUT MICROBIOME
+AND DISEASE
+21.Dominguez-Bello MG, Blaser MJ, Ley RE, et al. Devel-
+opment of the human gastrointestinal microbiota and
+insights from high-throughput sequencing. Gastroenter-
+ology 2011;140:1713–1719.
+22.Lozupone CA, Stombaugh JI, Gordon JI, et al. Diversity,
+stability and resilience of the human gut microbiota.
+Nature 2012;489:220–230.
+23.Claesson MJ, Cusack S, O’Sullivan O, et al. Composi-
+tion, variability, and temporal stability of the intestinal
+microbiota of the elderly. Proc Natl Acad Sci U S A 2011;
+108(suppl 1):4586–4591.
+24.Ogura Y, Bonen DK, Inohara N, et al. A frameshift mu-
+tation in NOD2 associated with susceptibility to Crohn’s
+disease. Nature 2001;411:603–606.
+25.Stappenbeck TS, Hooper LV, Gordon JI. Developmental
+regulation of intestinal angiogenesis by indigenous mi-
+crobes via Paneth cells. Proc Natl Acad Sci U S A 2002;
+99:15451–15455.
+26.Philpott DJ, Girardin SE. Crohn’s disease-associated
+Nod2 mutants reduce IL10 transcription. Nat Immunol
+2009;10:455–457.
+27.Frank DN, Robertson CE, Hamm CM, et al. Disease
+phenotype and genotype are associated with shifts in
+intestinal-associated microbiota in inﬂammatory bowel
+diseases. Inﬂamm Bowel Dis 2011;17:179–184.
+28.McGovern DP, Jones MR, Taylor KD, et al. Fucosyl-
+transferase 2 (FUT2) non-secretor status is associated
+with
+Crohn’s
+disease.
+Hum
+Mol
+Genet
+2010;19:
+3468–3476.
+29.Rausch P, Rehman A, Kunzel S, et al. Colonic mucosa-
+associated microbiota is inﬂuenced by an interaction of
+Crohn disease and FUT2 (Secretor) genotype. Proc Natl
+Acad Sci U S A 2011;108:19030–19035.
+30.Turnbaugh PJ, Hamady M, Yatsunenko T, et al. A core
+gut microbiome in obese and lean twins. Nature 2009;
+457:480–484.
+31.Smeekens SP, Huttenhower C, Riza A, et al. Skin
+microbiome imbalance in patients with STAT1/STAT3
+defects impairs innate host defense responses. J Innate
+Immun 2013 Jun 22 [Epub ahead of print].
+32.Strober W, Fuss I, Mannon P. The fundamental basis of
+inﬂammatory bowel disease. J Clin Invest 2007;117:
+514–521.
+33.Casellas F, Borruel N, Papo M, et al. Antiinﬂammatory
+effects of enterically coated amoxicillin-clavulanic acid in
+active ulcerative colitis. Inﬂamm Bowel Dis 1998;4:1–5.
+34.Sartor RB. Therapeutic manipulation of the enteric
+microﬂora in inﬂammatory bowel diseases: antibiotics,
+probiotics, and prebiotics. Gastroenterology 2004;126:
+1620–1633.
+35.Rietdijk ST, D’Haens GR. Recent developments in the
+treatment of inﬂammatory bowel disease. J Dig Dis 2013;
+14:282–287.
+36.Macpherson A, Khoo UY, Forgacs I, et al. Mucosal an-
+tibodies in inﬂammatory bowel disease are directed
+against intestinal bacteria. Gut 1996;38:365–375.
+37.Pirzer U, Schonhaar A, Fleischer B, et al. Reactivity of
+inﬁltrating T lymphocytes with microbial antigens in
+Crohn’s disease. Lancet 1991;338:1238–1239.
+38.Frank DN, St Amand AL, Feldman RA, et al. Molecular-
+phylogenetic characterization of microbial community
+imbalances in human inﬂammatory bowel diseases. Proc
+Natl Acad Sci U S A 2007;104:13780–13785.
+39.Morgan XC, Tickle TL, Sokol H, et al. Dysfunction of the
+intestinal microbiome in inﬂammatory bowel disease and
+treatment. Genome Biol 2012;13:R79.
+40.Manichanh C, Rigottier-Gois L, Bonnaud E, et al.
+Reduced diversity of faecal microbiota in Crohn’s dis-
+ease revealed by a metagenomic approach. Gut 2006;
+55:205–211.
+41.Dicksved J, Halfvarson J, Rosenquist M, et al. Molecular
+analysis of the gut microbiota of identical twins with
+Crohn’s disease. ISME J 2008;2:716–727.
+42.Kang S, Denman SE, Morrison M, et al. Dysbiosis of fecal
+microbiota in Crohn’s disease patients as revealed by a
+custom phylogenetic microarray. Inﬂamm Bowel Dis
+2010;16:2034–2042.
+43.Martinez C, Antolin M, Santos J, et al. Unstable
+composition of the fecal microbiota in ulcerative colitis
+during clinical remission. Am J Gastroenterol 2008;103:
+643–648.
+44.Sepehri S, Kotlowski R, Bernstein CN, et al. Microbial
+diversity of inﬂamed and noninﬂamed gut biopsy tissues
+in inﬂammatory bowel disease. Inﬂamm Bowel Dis 2007;
+13:675–683.
+45.Gevers D, Kugathasan S, Denson LA, et al. The treat-
+ment-naïve microbiome in new-onset Crohn’s disease.
+Cell Host Microbe 2014;15:382–392.
+46.Hunter P. The secret garden’s gardeners. Research
+increasingly appreciates the crucial role of gut viruses
+for human health and disease. EMBO Rep 2013;14:
+683–685.
+47.Cadwell K, Patel KK, Maloney NS, et al. Virus-plus-sus-
+ceptibility gene interaction determines Crohn’s disease
+gene Atg16L1 phenotypes in intestine. Cell 2010;141:
+1135–1145.
+48.Trojanowska D, Zwolinska-Wcislo M, Tokarczyk M, et al.
+The role of Candida in inﬂammatory bowel disease.
+Estimation of transmission of C. albicans fungi in
+gastrointestinal tract based on genetic afﬁnity between
+strains. Med Sci Monit 2010;16:CR451–CR457.
+49.Ott SJ, Kuhbacher T, Musfeldt M, et al. Fungi and in-
+ﬂammatory bowel diseases: alterations of composition
+and diversity. Scand J Gastroenterol 2008;43:831–841.
+50.Lupp C, Robertson ML, Wickham ME, et al. Host-medi-
+ated inﬂammation disrupts the intestinal microbiota and
+promotes the overgrowth of Enterobacteriaceae. Cell
+Host Microbe 2007;2:119–129.
+51.Darfeuille-Michaud A, Boudeau J, Bulois P, et al. High
+prevalence of adherent-invasive Escherichia coli asso-
+ciated with ileal mucosa in Crohn’s disease. Gastroen-
+terology 2004;127:412–421.
+52.Sokol H, Lepage P, Seksik P, et al. Temperature gradient
+gel electrophoresis of fecal 16S rRNA reveals active
+Escherichia coli in the microbiota of patients with ulcer-
+ative colitis. J Clin Microbiol 2006;44:3172–3177.
+53.Chassaing B, Darfeuille-Michaud A. The commensal
+microbiota and enteropathogens in the pathogenesis of
+1496 Kostic et al
+Gastroenterology Vol. 146, No. 6
+THE GUT MICROBIOME
+AND DISEASE
+inﬂammatory bowel diseases. Gastroenterology 2011;
+140:1720–1728.
+54.Benjamin JL, Hedin CR, Koutsoumpas A, et al. Smokers
+with active Crohn’s disease have a clinically relevant
+dysbiosis of the gastrointestinal microbiota. Inﬂamm
+Bowel Dis 2012;18:1092–1100.
+55.Johansson ME, Larsson JM, Hansson GC. The two
+mucus layers of colon are organized by the MUC2 mucin,
+whereas the outer layer is a legislator of host-microbial
+interactions. Proc Natl Acad Sci U S A 2011;108(suppl 1):
+4659–6465.
+56.Cario E. Microbiota and innate immunity in intestinal
+inﬂammation and neoplasia. Curr Opin Gastroenterol
+2013;29:85–91.
+57.Shanahan F. The colonic microbiota in health and dis-
+ease. Curr Opin Gastroenterol 2013;29:49–54.
+58.Vaishnava S, Yamamoto M, Severson KM, et al. The
+antibacterial lectin RegIIIgamma promotes the spatial
+segregation of microbiota and host in the intestine.
+Science 2011;334:255–258.
+59.Hooper LV, Littman DR, Macpherson AJ. Interactions
+between
+the
+microbiota
+and
+the
+immune
+system.
+Science 2012;336:1268–1273.
+60.Martinez-Medina M, Aldeguer X, Lopez-Siles M, et al.
+Molecular diversity of Escherichia coli in the human gut:
+new ecological evidence supporting the role of adherent-
+invasive E. coli (AIEC) in Crohn’s disease. Inﬂamm Bowel
+Dis 2009;15:872–882.
+61.Glasser AL, Boudeau J, Barnich N, et al. Adherent inva-
+sive Escherichia coli strains from patients with Crohn’s
+disease
+survive
+and
+replicate
+within
+macrophages
+without inducing host cell death. Infect Immun 2001;69:
+5529–5537.
+62.Meconi S, Vercellone A, Levillain F, et al. Adherent-
+invasive Escherichia coli isolated from Crohn’s disease
+patients induce granulomas in vitro. Cell Microbiol 2007;
+9:1252–1261.
+63.Ryan P, Kelly RG, Lee G, et al. Bacterial DNA within
+granulomas of patients with Crohn’s disease—detection
+by laser capture microdissection and PCR. Am J Gas-
+troenterol 2004;99:1539–1543.
+64.Ohkusa T, Sato N, Ogihara T, et al. Fusobacterium var-
+ium localized in the colonic mucosa of patients with ul-
+cerative colitis
+stimulates species-speciﬁc antibody.
+J Gastroenterol Hepatol 2002;17:849–853.
+65.OhkusaT,YoshidaT,SatoN,etal.Commensalbacteriacan
+enter colonic epithelial cells and induce proinﬂammatory
+cytokine secretion: a possible pathogenic mechanism of
+ulcerative colitis. J Med Microbiol 2009;58:535–545.
+66.Ohkusa T, Okayasu I, Ogihara T, et al. Induction of
+experimental ulcerative colitis by Fusobacterium varium
+isolated from colonic mucosa of patients with ulcerative
+colitis. Gut 2003;52:79–83.
+67.Strauss J, Kaplan GG, Beck PL, et al. Invasive potential
+of gut mucosa-derived Fusobacterium nucleatum posi-
+tively correlates with IBD status of the host. Inﬂamm
+Bowel Dis 2011;17:1971–1978.
+68.Kostic AD, Gevers D, Pedamallu CS, et al. Genomic
+analysis identiﬁes association of Fusobacterium with
+colorectal carcinoma. Genome Res 2012;22:292–298.
+69.Castellarin M, Warren RL, Freeman DJ, et al. Fuso-
+bacterium nucleatum infection is prevalent in human
+colorectal carcinoma. Genome Res 2012;22:299–306.
+70.Rubinstein MR, Wang X, Liu W, et al. Fusobacterium
+nucleatum
+promotes
+colorectal
+carcinogenesis
+by
+modulating E-cadherin/beta-catenin
+signaling via its
+FadA adhesin. Cell Host Microbe 2013;14:195–206.
+71.Kostic AD, Chun E, Robertson L, et al. Fusobacterium
+nucleatum
+potentiates
+intestinal
+tumorigenesis
+and
+modulates the tumor-immune microenvironment. Cell
+Host Microbe 2013;14:207–215.
+72.Kitajima S, Morimoto M, Sagara E, et al. Dextran sodium
+sulfate-induced colitis in germ-free IQI/Jic mice. Exp
+Anim 2001;50:387–395.
+73.Callaway TR, Edrington TS, Anderson RC, et al. Pro-
+biotics, prebiotics and competitive exclusion for pro-
+phylaxis against bacterial disease. Anim Health Res Rev
+2008;9:217–225.
+74.Kamada N, Chen G, Nunez G. A complex microworld in
+the gut: harnessing pathogen-commensal relations. Nat
+Med 2012;18:1190–1191.
+75.Kane M, Case LK, Kopaskie K, et al. Successful trans-
+mission of a retrovirus depends on the commensal
+microbiota. Science 2011;334:245–249.
+76.Medellin-Pena MJ, Wang H, Johnson R, et al. Probiotics
+affect virulence-related gene expression in Escherichia
+coli O157:H7. Appl Environ Microbiol 2007;73:4259–4267.
+77.Atarashi K, Tanoue T, Oshima K, et al. Treg induction by
+a rationally selected mixture of Clostridia strains from the
+human microbiota. Nature 2013;500:232–236.
+78.Kelly D, Campbell JI, King TP, et al. Commensal anaer-
+obic gut bacteria attenuate inﬂammation by regulating
+nuclear-cytoplasmic
+shuttling
+of
+PPAR-gamma
+and
+RelA. Nat Immunol 2004;5:104–112.
+79.Llopis M, Antolin M, Carol M, et al. Lactobacillus casei
+downregulates commensals’ inﬂammatory signals in
+Crohn’s disease mucosa. Inﬂamm Bowel Dis 2009;15:
+275–283.
+80.Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium
+prausnitzii is an anti-inﬂammatory commensal bacterium
+identiﬁed by gut microbiota analysis of Crohn disease
+patients.
+Proc
+Natl
+Acad
+Sci
+U
+S
+A
+2008;105:
+16731–16736.
+81.Sokol H, Seksik P, Furet JP, et al. Low counts of Fae-
+calibacterium prausnitzii in colitis microbiota. Inﬂamm
+Bowel Dis 2009;15:1183–1189.
+82.Willing B, Halfvarson J, Dicksved J, et al. Twin studies
+reveal speciﬁc imbalances in the mucosa-associated
+microbiota
+of
+patients
+with
+ileal
+Crohn’s
+disease.
+Inﬂamm Bowel Dis 2009;15:653–660.
+83.Varela E, Manichanh C, Gallart M, et al. Colonisation by
+Faecalibacterium prausnitzii and maintenance of clinical
+remission in patients with ulcerative colitis. Aliment
+Pharmacol Ther 2013;38:151–161.
+84.Ahmad MS, Krishnan S, Ramakrishna BS, et al. Butyrate
+and glucose metabolism by colonocytes in experimental
+colitis in mice. Gut 2000;46:493–499.
+85.Smith PM, Howitt MR, Panikov N, et al. The microbial
+metabolites, short-chain fatty acids, regulate colonic
+Treg cell homeostasis. Science 2013;341:569–573.
+May 2014
+The Microbiome in Inﬂammatory Bowel Disease 1497
+THE GUT MICROBIOME
+AND DISEASE
+86.Duncan SH, Hold GL, Barcenilla A, et al. Roseburia
+intestinalis sp. nov., a novel saccharolytic, butyrate-
+producing bacterium from human faeces. Int J Syst
+Evol Microbiol 2002;52:1615–1620.
+87.Meyer F, Trimble WL, Chang EB, et al. Functional pre-
+dictions from inference and observation in sequence-
+based inﬂammatory bowel disease research. Genome
+Biol 2012;13:169.
+88.Presley LL, Ye J, Li X, et al. Host-microbe relationships in
+inﬂammatory bowel disease detected by bacterial and
+metaproteomic analysis of the mucosal-luminal interface.
+Inﬂamm Bowel Dis 2012;18:409–417.
+89.Erickson AR, Cantarel BL, Lamendella R, et al. Integrated
+metagenomics/metaproteomics
+reveals
+human
+host-
+microbiota signatures of Crohn’s disease. PLoS One
+2012;7:e49138.
+90.Rowan F, Docherty NG, Murphy M, et al. Desulfovibrio
+bacterial species are increased in ulcerative colitis. Dis
+Colon Rectum 2010;53:1530–1536.
+91.Pitcher MC, Beatty ER, Cummings JH. The contribution
+of sulphate reducing bacteria and 5-aminosalicylic acid
+to faecal sulphide in patients with ulcerative colitis. Gut
+2000;46:64–72.
+92.Devkota S, Wang Y, Musch MW, et al. Dietary-fat-
+induced taurocholic acid promotes pathobiont expan-
+sion and colitis in Il10-/- mice. Nature 2012;487:104–108.
+93.Le Chatelier E, Nielsen T, Qin J, et al. Richness of human
+gut microbiome
+correlates
+with
+metabolic
+markers.
+Nature 2013;500:541–546.
+94.Larsen N, Vogensen FK, van den Berg FW, et al. Gut
+microbiota in human adults with type 2 diabetes differs
+from non-diabetic adults. PLoS One 2010;5:e9085.
+95.Turnbaugh PJ, Ley RE, Mahowald MA, et al. An obesity-
+associated gut microbiome with increased capacity for
+energy harvest. Nature 2006;444:1027–1031.
+96.Schwiertz A, Taras D, Schafer K, et al. Microbiota and
+SCFA in lean and overweight healthy subjects. Obesity
+(Silver Spring) 2010;18:190–195.
+97.Kalliomaki M, Collado MC, Salminen S, et al. Early dif-
+ferences in fecal microbiota composition in children may
+predict overweight. Am J Clin Nutr 2008;87:534–538.
+98.Furet JP, Kong LC, Tap J, et al. Differential adaptation of
+human
+gut
+microbiota
+to
+bariatric
+surgery-induced
+weight loss: links with metabolic and low-grade inﬂam-
+mation markers. Diabetes 2010;59:3049–3057.
+99.Greenblum S, Turnbaugh
+PJ, Borenstein E. Meta-
+genomic systems biology of the human gut microbiome
+reveals topological shifts associated with obesity and
+inﬂammatory bowel disease. Proc Natl Acad Sci U S A
+2012;109:594–599.
+100.Qin J, Li Y, Cai Z, et al. A metagenome-wide association
+study of gut microbiota in type 2 diabetes. Nature 2012;
+490:55–60.
+101.Looft T, Allen HK. Collateral effects of antibiotics on
+mammalian
+gut
+microbiomes.
+Gut
+Microbes
+2012;
+3:463–467.
+102.Khan KJ, Ullman TA, Ford AC, et al. Antibiotic therapy in
+inﬂammatory bowel disease: a systematic review and
+meta-analysis. Am J Gastroenterol 2011;106:661–673.
+103.Lemon KP, Armitage GC, Relman DA, et al. Microbiota-
+targeted therapies: an ecological perspective. Sci Transl
+Med 2012;4:137rv5.
+104.Relman DA. The human microbiome: ecosystem resil-
+ience and health. Nutr Rev 2012;70(suppl 1):S2–S9.
+105.Dethlefsen L, Relman DA. Incomplete recovery and
+individualized responses of the human distal gut micro-
+biota to repeated antibiotic perturbation. Proc Natl Acad
+Sci U S A 2011;108(suppl 1):4554–4561.
+106.Khosravi A, Mazmanian SK. Disruption of the gut
+microbiome as a risk factor for microbial infections. Curr
+Opin Microbiol 2013;16:221–227.
+107.Wlodarska M, Willing B, Keeney KM, et al. Antibiotic
+treatment alters the colonic mucus layer and predisposes
+the host to exacerbated Citrobacter rodentium-induced
+colitis. Infect Immun 2011;79:1536–1545.
+108.Fischbach MA, Bluestone JA, Lim WA. Cell-based ther-
+apeutics: the next pillar of medicine. Sci Transl Med
+2013;5:179ps7.
+109.Whelan K, Quigley EM. Probiotics in the management of
+irritable bowel syndrome and inﬂammatory bowel dis-
+ease. Curr Opin Gastroenterol 2013;29:184–189.
+110.van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal
+infusion of donor feces for recurrent Clostridium difﬁcile.
+N Engl J Med 2013;368:407–415.
+111.Shahinas D, Silverman M, Sittler T, et al. Toward an un-
+derstanding of changes in diversity associated with fecal
+microbiome transplantation based on 16S rRNA gene
+deep sequencing. MBio 2012;3.
+112.Smits LP, Bouter KE, de Vos WM, et al. Therapeutic
+potential of fecal microbiota transplantation. Gastroen-
+terology 2013;145:946–953.
+113.Damman CJ, Miller SI, Surawicz CM, et al. The micro-
+biome and inﬂammatory bowel disease: is there a ther-
+apeutic role for fecal microbiota transplantation? Am J
+Gastroenterol 2012;107:1452–1459.
+114.Anderson JL, Edney RJ, Whelan K. Systematic review:
+faecal microbiota transplantation in the management of
+inﬂammatory bowel disease. Aliment Pharmacol Ther
+2012;36:503–516.
+115.Kump PK, Grochenig HP, Lackner S, et al. Alteration of
+intestinal dysbiosis by fecal microbiota transplantation
+does not induce remission in patients with chronic
+active ulcerative colitis. Inﬂamm Bowel Dis 2013;19:
+2155–2165.
+116.Kunde S, Pham A, Bonczyk S, et al. Safety, tolerability,
+and clinical response after fecal transplantation in chil-
+dren and young adults with ulcerative colitis. J Pediatr
+Gastroenterol Nutr 2013;56:597–601.
+117.Olle B. Medicines from microbiota. Nat Biotechnol 2013;
+31:309–315.
+118.Brown J, de Vos WM, DiStefano PS, et al. Translating the
+human microbiome. Nat Biotechnol 2013;31:304–308.
+119.Gevers D, Pop M, Schloss PD, et al. Bioinformatics for
+the Human Microbiome Project. PLoS Comput Biol 2012;
+8:e1002779.
+120.Stearns JC, Lynch MD, Senadheera DB, et al. Bacterial
+biogeography of the human digestive tract. Sci Rep
+2011;1:170.
+1498 Kostic et al
+Gastroenterology Vol. 146, No. 6
+THE GUT MICROBIOME
+AND DISEASE
+121.Rubin BE, Gibbons SM, Kennedy S, et al. Investigating
+the impact of storage conditions on microbial commu-
+nity composition in soil samples. PLoS One 2013;
+8:e70460.
+122.Momozawa Y, Deffontaine V, Louis E, et al. Charac-
+terization of bacteria in biopsies of colon and stools by
+high throughput sequencing of the V2 region of bac-
+terial 16S rRNA gene in human. PLoS One 2011;
+6:e16952.
+123.Lozupone CA, Stombaugh J, Gonzalez A, et al. Meta-
+analyses of studies of the human microbiota. Genome
+Res 2013;23:1704–1714.
+124.Yilmaz P, Kottmann R, Field D, et al. Minimum informa-
+tion about a marker gene sequence (MIMARKS) and
+minimum information about any (x) sequence (MIxS)
+speciﬁcations. Nat Biotechnol 2011;29:415–420.
+125.Roume H, Heintz-Buschart A, Muller EE, et al. Sequential
+isolation of metabolites, RNA, DNA, and proteins from
+the same unique sample. Methods Enzymol 2013;531:
+219–236.
+126.Tillinghast GW. Microarrays in the clinic. Nat Biotechnol
+2010;28:810–812.
+Received October 29, 2013. Accepted February 17, 2014.
+Reprint requests
+Address requests for reprints to: Ramnik J. Xavier, MD, PhD, Center for
+Computational
+and
+Integrative
+Biology,
+Richard
+B.
+Simches
+Research
+Center, Massachusetts General Hospital, 185 Cambridge Street, Boston,
+Massachusetts 02114. e-mail: xavier@molbio.mgh.harvard.edu; fax: (617) 724
+6832.
+Conﬂicts of interest
+The authors disclose no conﬂicts.
+Funding
+Supported by grants from the Crohn’s and Colitis Foundation of America (to
+R.J.X.) and National Institutes of Health grants U54 DE023798 and R01
+DK092405 (to R.J.X.).
+May 2014
+The Microbiome in Inﬂammatory Bowel Disease 1499
+THE GUT MICROBIOME
+AND DISEASE

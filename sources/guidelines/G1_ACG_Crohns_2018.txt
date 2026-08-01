@@ -1,0 +1,448 @@
+ACG Clinical Guideline: Management of Crohn’s Disease in Adults 
+ 
+Gary R. Lichtenstein, MD, FACG1, Edward V. Loftus Jr., MD, FACG2, Kim L. Isaacs, MD, PhD, FACG3, Miguel D. Regueiro, MD, 
+FACG4, Lauren B. Gerson , MD, MSc, MACG (GRADE Methodologist)5,† and Bruce E. Sands , MD, MS, FACG6 
+ 
+1Department of Medicine, Division of Gastroenterology, Hospital of the University of Pennsylvania, Perelman School of 
+Medicine of the University of Pennsylvania, Philadelphia, Pennsylvania, USA; 2Division of Gastroenterology and Hepatology, 
+Mayo Clinic, Rochester, Minnesota, USA; 3Department of Medicine, Division of Gastroenterology, University of North 
+Carolina Chapel Hill, Chapel Hill, North Carolina, USA; 4Department of Gastroenterology and Hepatology, Cleveland 
+Clinic, Cleveland, Ohio, USA; 5Department of Medicine, Division of Gastroenterology, California Pacific Medical Center, San 
+Francisco, California, USA; 6Dr Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, 
+New York, New York, USA; †Deceased. 
+ 
+Am J Gastroenterol advance online publication, 27 March 2018; doi: 10.1038/ajg.2018.27 
+ 
+Abstract 
+Crohn’s disease is an idiopathic inflammatory disorder of unknown etiology with genetic, immunologic, 
+and environmental influences. The incidence of Crohn’s disease has steadily increased over the past 
+several decades. The diagnosis and treatment of patients with Crohn’s disease has evolved since the 
+last practice guideline was published. These guidelines represent the official practice recommendations 
+of the American College of Gastroenterology and were developed under the auspices of the Practice 
+Parameters Committee for the management of adult patients with Crohn’s disease. These guidelines 
+are established for clinical practice with the intent of suggesting preferable approaches to particular 
+medical problems as established by interpretation and collation of scientifically valid research, derived 
+from extensive review of published literature. When exercising clinical judgment, health-care providers 
+should incorporate this guideline along with patient’s needs, desires, and their values in order to fully 
+and appropriately care for patients with Crohn’s disease. This guideline is intended to be flexible, not 
+necessarily indicating the only acceptable approach, and should be distinguished from standards of 
+care that are inflexible and rarely violated. To evaluate the level of evidence and strength of 
+recommendations, we used the Grading of Recommendations Assessment, Development, and 
+Evaluation (GRADE) system. The Committee reviews guidelines in depth, with participation from 
+experienced clinicians and others in related fields. The final recommendations are based on the data 
+available at the time of the production of the document and may be updated with pertinent scientific 
+developments at a later time. 
+ 
+Introduction 
+Crohn’s disease has been increasing in incidence and prevalence worldwide. At the same time, the 
+number of therapeutic options is rapidly increasing. The purpose of this guideline is to review 
+Crohn’s disease clinical features and natural history, diagnostics, and therapeutic interventions. 
+ 
+To prepare this guideline, literature searches on the different areas were conducted using Ovid 
+MEDLINE from 1946 to 2018, EMBASE from 1988 to 2018, and SCOPUS from 1980 to 2018. The major 
+terms that were searched were Crohn’s disease, inflammatory bowel diseases (IBD), regional ileitis, 
+and regional enteritis. These were translated into EMTREE controlled vocabulary as enteritis and 
+Crohn’s disease. The remainder of the search included key words related to the subject area that 
+included clinical features, natural history, diagnosis, biomarkers, treatment, and therapy. For each of 
+the therapeutic sections, key words included the individual drug names. The results used for analysis 
+were limited to primary clinical trials, meta-analyses, systematic reviews, and prior guidelines. Where 
+there were limited data, abstracts were used. In many areas reviewed, there were not available clinical 
+trial data, and these areas are discussed as summary statements rather than GRADE statements. 
+ 
+To evaluate the level of evidence and strength of recommendations, we used the Grading of 
+Recommendations Assessment, Development, and Evaluation (GRADE) system (1). The level of 
+evidence could range from “high” (implying that further research as unlikely to change the authors’ 
+confidence in the estimate of the effect), “moderate” (further research would be likely to have an 
+impact on the confidence in the estimate of effect), “low” (further research would be expected to have 
+an important impact on the confidence in the estimate of the effect and would be likely to change the 
+estimate), or “very low” (any estimate of effect is very uncertain). The strength of a recommendation 
+was graded as “strong” when the desirable effects of an intervention clearly outweigh the undesirable 
+effects and as “conditional” when there is uncertainty about the trade-off s. We preferentially used 
+metaanalyses or systematic reviews when available, followed by clinical trials and retrospective cohort 
+studies. To determine the level of evidence, we entered data for the papers of highest evidence into 
+the GRADE program (accessible at http://www.gradepro.org). The GRADE recommendations 
+statements from this guideline are in Table 1. Summary statements are descriptive and do not have 
+associated evidence-based ratings (Table 2). In this guideline, the numbered statements are the GRADE 
+statements and the unnumbered statements relate to summary statements. 
+  
+Table 1. Summary and strength of recommendations 
+Diagnosis 
+Routine laboratory investigation 
+1. Fecal calprotectin is a helpful test that should be considered to help differentiate the presence of 
+IBD from irritable bowel syndrome (IBS) (strong recommendation, moderate level of evidence). 
+Endoscopy 
+2. In patients at particularly high risk for colorectal neoplasia (e.g., personal history of dysplasia, 
+primary sclerosing cholangitis), chromoendoscopy should be used during colonoscopy, as it may 
+increase the diagnostic yield for detection of colorectal dysplasia, especially compared with 
+standard-definition white light endoscopy (conditional recommendation, low level of evidence). 
+3. For patients undergoing surveillance colonoscopy there is insufficient evidence to recommend 
+universal chromoendoscopy for IBD colorectal neoplasia surveillance if the endoscopist has access 
+to high-definition white light endoscopy (conditional recommendation, moderate level of 
+evidence). 
+4. Narrow-band imaging should not be used during colorectal neoplasia surveillance examinations for 
+Crohn’s disease (conditional recommendation, very low level of evidence). 
+5. Endoscopists who are sufficiently trained and comfortable performing chromoendoscopy may be 
+able to forgo obtaining random surveillance biopsies and rely on targeted biopsies alone 
+(conditional recommendation, very low level of evidence). 
+Disease modifiers 
+6. Nonsteroidal anti-inflammatory drugs (NSAIDs) may exacerbate disease activity and should be 
+avoided when possible in patients with Crohn’s disease (strong recommendation, low level of 
+evidence). 
+ 
+ 
+Table 1. Summary and strength of recommendations continued 
+7. Cigarette smoking exacerbates disease activity and accelerates disease recurrence and should be 
+avoided. Active smoking cessation programs should be encouraged (strong recommendation, low 
+level of evidence). 
+8. Usage of antibiotics should not be restricted in Crohn’s disease patients in order to prevent disease 
+flares (conditional recommendation, very low level of evidence). 
+9. Perceived stress, depression, and anxiety, which are common in IBD, are factors that lead to 
+decreased health-related quality of life in patients with Crohn’s disease, and lead to lower 
+adherence to provider recommendations. Assessment and management of stress, depression, and 
+anxiety should be included as part of the comprehensive care of the Crohn’s disease patient 
+(strong recommendation, very low level of evidence) 
+Medical Therapy 
+Mild-to-moderately severe disease/low-risk disease 
+10. Sulfasalazine is effective for treating symptoms of colonic Crohn’s disease that is mild to 
+moderately active and can be used as treatment for this patient population (conditional 
+recommendation, low level of evidence). 
+11. Oral mesalamine has not consistently been demonstrated to be effective compared with placebo 
+for induction of remission and achieving mucosal healing in patients with active Crohn’s disease 
+and should not be used to treat patients with active Crohn’s disease (strong recommendation, 
+moderate level of evidence). 
+12. Controlled ileal release budesonide at a dose of 9 mg once daily is effective and should be used for 
+induction of symptomatic remission for patients with mild-to-moderate ileocecal Crohn’s disease 
+(strong recommendation, low level of evidence). 
+13. Metronidazole is not more effective than placebo as therapy for luminal inflammatory Crohn’s 
+disease and should not be used as primary therapy (conditional recommendation, low level of 
+evidence). 
+14. Ciprofloxacin has shown similar efficacy to mesalamine in active luminal Crohn’s disease but has 
+not been shown to be more effective than placebo to induce remission in Crohn’s disease and 
+should not be used as therapy for luminal inflammatory Crohn’s disease (conditional 
+recommendation, very low level of evidence). 
+15 Antimycobacterial therapy has not been shown to be effective for induction or for maintenance of 
+remission or mucosal healing in patients with Crohn’s disease and should not be used as primary 
+therapy (conditional recommendation, low level of evidence). 
+16 For patients with low risk of progression, treatment of active symptoms with anti-diarrheals, other 
+non-specific medications, and dietary manipulation, along with careful observation for inadequate 
+symptom relief, worsening inflammation, or disease progression, is acceptable (strong 
+recommendation, very low level of evidence). 
+ 
+ 
+Table 1. Summary and strength of recommendations continued 
+Moderate-to-severe disease/moderate-to-high-risk disease 
+17 Oral corticosteroids are effective and can be used for short-term use in alleviating signs and 
+symptoms of moderate to severely active Crohn’s disease (strong recommendation, moderate level 
+of evidence). 
+18 Conventional corticosteroids do not consistently achieve mucosal healing and should be used 
+sparingly (weak recommendation, low level of evidence). 
+19 Azathioprine (at doses of 1.5–2.5 mg/kg/day) and 6-mercaptopurine (at doses of 0.75–1.5 mg/kg 
+day) are not more effective than placebo to induce short-term symptomatic remission and should 
+not be used in this manner (strong recommendation, low level of evidence). 
+20 Thiopurines (azathioprine, 6-mercaptopurine) are effective and should be considered for use for 
+steroid sparing in Crohn’s disease (strong recommendation, low level of evidence). 
+21 Azathioprine and 6-mercaptourine are effective therapies and should be considered for treatment 
+of patients with Crohn’s disease for maintenance of remission (strong recommendation, moderate 
+level of evidence). 
+22 Thiopurine methyltransferase (TPMT) testing should be considered before initial use of azathioprine 
+or 6-mercaptopurine to treat patients with Crohn’s disease (strong recommendation, low level of 
+evidence). 
+23 Methotrexate (up to 25 mg once weekly IM or SC) is effective and should be considered for use in 
+alleviating signs and symptoms in patients with steroid-dependent Crohn’s disease and for 
+maintaining remission (conditional recommendation, low level of evidence). 
+24 Anti-TNF agents (infliximab, adalimumab, certolizumab pegol) should be used to treat Crohn’s 
+disease that is resistant to treatment with corticosteroids (strong recommendation, moderate level 
+of evidence). 
+25 Anti-TNF agents should be given for Crohn’s disease refractory to thiopurines or methotrexate 
+(strong recommendation, moderate level of evidence). 
+26. Combination therapy of infliximab with immunomodulators (thiopurines) is more effective than 
+treatment with either immunomodulators alone or infliximab alone in patients who are naive to 
+those agents (strong recommendation, high level of evidence). 
+27. For patients with moderately to severely active Crohn’s disease and objective evidence of active 
+disease, anti-integrin therapy (with vedolizumab) with or without an immunomodulator is more 
+effective than placebo and should be considered to be used for induction of symptomatic remission 
+in patients with Crohn’s disease (strong recommendation, high level of evidence). 
+28. Natalizumab is more effective than placebo and should be considered to be used for induction of 
+symptomatic response and remission in patients with active Crohn’s disease (strong 
+recommendation, high level of evidence). 
+29. Natalizumab should be used for maintenance of natalizumab-induced remission of Crohn’s disease 
+only if serum antibody to John Cunningham (JC) virus is negative. Testing for anti-JC virus antibody 
+should be repeated every 6 months and treatment stopped if the result is positive. (strong 
+recommendation, moderate level of evidence). 
+ 
+ 
+Table 1. Summary and strength of recommendations continued 
+30. Ustekinumab should be given for moderate-to-severe Crohn’s disease patients who failed previous 
+treatment with corticosteroids, thiopurines, methotrexate, or anti-TNF inhibitors or who have had 
+no prior exposure to anti-TNF inhibitors (strong recommendation, high level of evidence). 
+31. Cyclosporine, mycophenolate mofetil, and tacrolimus should not be used for Crohn’s disease (strong 
+recommendation, moderate level of evidence). 
+Severe/fulminant disease 
+32. Intravenous corticosteroids should be used to treat severe or fulminant Crohn’s disease (conditional 
+recommendation, moderate level of evidence). 
+33. Anti-TNF agents (infliximab, adalimumab, certolizumab pegol) can be considered to treat severely 
+active Crohn’s disease (strong recommendation, moderate level of evidence). 
+34. Infliximab may be administered to treat fulminant Crohn’s disease (conditional recommendation, 
+low level of evidence). 
+Fistulizing Crohn’s Disease 
+Perianal/fistulizing disease 
+35. Infliximab is effective and should be considered in treating perianal fistulas in Crohn’s disease 
+(strong recommendation, moderate level of evidence). 
+36. Infliximab may be effective and should be considered in treating enterocutaneous and rectovaginal 
+fistulas in Crohn’s disease (strong recommendation, moderate level of evidence) 
+37. Adalimumab and certolizumab pegol may be effective and should be considered in treating perianal 
+fistulas in Crohn’s disease (strong recommendation, low level of evidence). 
+38. Thiopurines (azathioprine, 6-mercaptopurine) may be effective and should be considered in treating 
+fistulizing Crohn’s disease (strong recommendation, low level of evidence). 
+39. Tacrolimus can be administered for short-term treatment of perianal and cutaneous fistulas in 
+Crohn’s disease (strong recommendation, moderate level of evidence). 
+40. Antibiotics (imidazoles) may be effective and should be considered in treating simple perianal 
+fistulas (strong recommendation, moderate level of evidence). 
+41. The addition of antibiotics to infliximab is more effective than infliximab alone and should be 
+considered in treating perianal fistulas (strong recommendation, moderate level of evidence). 
+42. Drainage of abscesses (surgically or percutaneously) should be undertaken before treatment of 
+fistulizing Crohn’s disease with anti-TNF agents (conditional recommendation, very low level of 
+evidence). 
+43. Placement of setons increases the efficacy of infliximab and should be considered in treating 
+perianal fistulas (strong recommendation, moderate level of evidence). 
+Maintenance Therapy of Luminal Crohn’s Disease 
+44. Once remission is induced with corticosteroids, a thiopurine or methotrexate should be considered 
+(strong recommendation, moderate level of evidence). 
+45. Patients who are steroid dependent should be started on thiopurines or methotrexate with or 
+without anti-TNF therapy (strong recommendation, moderate level of evidence). 
+ 
+ 
+Table 1. Summary and strength of recommendations continued 
+46. Oral 5-aminosalicylic acid has not been demonstrated to be effective for maintenance of medically 
+induced remission in patients with Crohn’s disease, and is not recommended for long-term 
+treatment (strong recommendation, moderate level of evidence). 
+47. Corticosteroids are not effective for maintenance of medically induced remission in Crohn’s disease 
+and should not be used for long-term treatment (strong recommendation, moderate level of 
+evidence). 
+48. Budesonide should not be used to maintain remission of Crohn’s disease beyond 4 months (strong 
+recommendation, moderate level of evidence). 
+49. Anti-TNF therapy, specifically infliximab, adalimumab, and certolizumab pegol, should be used to 
+maintain remission of anti-TNF-induced remission (strong recommendation, high level of evidence). 
+50. Anti-TNF monotherapy is effective at maintaining anti-TNF induced remission, but because of the 
+potential for immunogenicity and loss of response, combination with azathioprine/6-
+mercaptopurine or methotrexate should be considered (strong recommendation, moderate level of 
+evidence). 
+51. Vedolizumab should be used for maintenance of remission of vedolizumab-induced remission of 
+Crohn’s disease (conditional recommendation, moderate level of evidence). 
+52. Natalizumab should be considered for maintaining remission of natalizumab-induced remission of 
+Crohn’s disease patients only if John Cunningham (JC) virus is negative (conditional 
+recommendation, moderate level of evidence). 
+53. Ustekinumab should be use for maintenance of remission of ustekinumab-induced response of 
+Crohn’s disease (conditional recommendation, moderate level of evidence). 
+Postoperative Crohn’s Disease 
+54. All patients who have Crohn’s disease should quit smoking (conditional recommendation, very low 
+level of evidence). 
+55. Mesalamine is of limited benefit in preventing postoperative Crohn’s disease, but in addition to no 
+treatment is an option for patients with an isolated ileal resection and no risk factors for recurrence 
+(conditional recommendation, moderate level of evidence). 
+56. Imidazole antibiotics (metronidazole and ornidazole) at doses between 1 and 2 g/day can be used 
+after small intestinal resection in Crohn’s disease patients to prevent recurrence (conditional 
+recommendation, low level of evidence). 
+57. Thiopurines may be used to prevent clinical and endoscopic recurrence and are more effective than 
+mesalamine or placebo. However, they are not effective at preventing severe endoscopic recurrence 
+(strong recommendation, moderate level of evidence). 
+58. In high-risk patients, anti-TNF agents should be started within 4 weeks of surgery in order to prevent 
+postoperative Crohn’s disease recurrence (conditional recommendation, low level of evidence). 
+59. Although data are lacking in postoperative Crohn’s disease, anti-TNF therapy should be combined 
+with an immunomodulator to decrease immunogenicity and decrease loss of response (conditional 
+recommendation, very low level of evidence). 
+ 
+ 
+Table 1. Summary and strength of recommendations continued 
+When to refer to surgery 
+60. An intra-abdominal abscess should be treated with antibiotics and a drainage procedure, either 
+radiographically or surgically (conditional recommendation, low level of evidence). 
+IBD, inflammatory bowel disease; IM, intramuscular; SC, subcutaneous; TNF, tumor necrosis factor. 
+ 
+ 
+Table 2. Summary statements 
+Clinical Features 
+1. Hallmark/cardinal symptoms of Crohn’s disease include abdominal pain, diarrhea, and fatigue; 
+weight loss, fever, growth failure, anemia, recurrent fistulas, or extraintestinal manifestations can 
+also be presenting features. 
+2. Crohn’s disease is diagnosed clinically. There are no truly pathognomonic features. Endoscopic, 
+radiographic, and histologic criteria with evidence of chronic intestinal inflammation will be 
+present. 
+3. Extraintestinal manifestations of Crohn’s disease include the classic ones such as arthropathy (both 
+axial and peripheral); dermatological (including pyoderma gangrenosum and erythema nodosum); 
+ocular (including uveitis, scleritis, and episcleritis); and hepatobiliary disease (i.e., primary 
+sclerosing cholangitis). Other extraintestinal complications of Crohn’s disease include: 
+thromboembolic (both venous and arterial); metabolic bone diseases; osteonecrosis; 
+cholelithiasis; and nephrolithiasis. A number of other immune-mediated diseases are associated 
+with Crohn’s disease, including asthma, chronic bronchitis, pericarditis, psoriasis, celiac disease, 
+rheumatoid arthritis, and multiple sclerosis. 
+Natural History 
+4. Crohn’s disease, in most cases, is a chronic, progressive, destructive disease. 
+5. The location of Crohn’s disease tends to be stable, but can occasionally extend. 
+6. Most, but not all, patients with Crohn’s disease will present with nonpenetrating, nonstricturing 
+disease behavior, but up to half of patients would have developed an intestinal complication (i.e., 
+stricture, abscess, fistula, or phlegmon) within 20 years of diagnosis. Patients with ileal, ileocolonic, 
+or proximal GI involvement are significantly more likely than those with isolated colonic disease to 
+progress to an intestinal complication. Extensive anatomic involvement and deep ulcerations are 
+other risk factors for progression to intestinal complications. 
+7. Over long periods of observation, only 20–30% of patients with Crohn’s disease will have a 
+nonprogressive or indolent course. Therefore, the majority of patients will require active effort to 
+identify therapies that achieve adequate control of bowel inflammation. 
+8. Features that are associated with a high risk for progressive disease burden include young age at 
+diagnosis (11), initial extensive bowel involvement, ileal/ileocolonic involvement, perianal/severe 
+rectal disease, and patients presenting with a penetrating or stenosis disease phenotype (12). 
+Visceral adiposity may be a marker for increased risk of penetrating disease (13). 
+9. Symptoms of Crohn’s disease do not correlate well with the presence of active inflammation, and 
+therefore should not be the sole guide for therapy. Objective evaluation by endoscopic or cross-
+sectional imaging should be undertaken periodically to avoid errors of under- or over treatment. 
+Table 2. Summary statements continued 
+10. Perianal fistulizing Crohn’s disease occurs in up to one-quarter of patients. 
+11. Symptoms of Crohn’s disease occur in most cases as a chronic, intermittent course; only a minority 
+of patients will have continuously active symptomatic disease or prolonged symptomatic 
+remission. 
+12. In the absence of immunomodulator or biologic treatment, steroid dependency and/or resistance 
+occurs in up to half of patients. 
+13. Up to 80% of patients with Crohn’s disease require hospitalization at some point during their 
+clinical course, but the annual hospitalization rate decreases in later years after diagnosis. 
+14. The 10-year cumulative risk of major abdominal surgery in Crohn’s disease is 40% to 55%, although 
+recent studies performed in the biologic era suggest that the 10-year risk may have decreased to 
+30%. The 10-year risk of a second resection after the first is 35%, although again more recent 
+studies suggest that this may have dropped to closer to 30%. 
+15 In Crohn’s disease, the 5-year rate of symptomatic postoperative recurrence is ∼ 50%. 
+16 Overall mortality in Crohn’s disease is slightly increased, with a standardized mortality ratio of 1.4 
+times that of the general population. Causes of excess mortality include gastrointestinal disease, 
+gastrointestinal cancer, lung disease, and lung cancer. 
+Intestinal Malignancy 
+17 Patients with colonic involvement are at increased risk of colorectal cancer, and risk factors include 
+duration of disease, extent of colonic involvement, primary sclerosing cholangitis, family history of 
+colorectal cancer, and severity of ongoing colonic inflammation. 
+18 Patients with small bowel involvement are at increased risk of small bowel adenocarcinoma that 
+can be difficult to diagnose preoperatively. 
+Diagnosis 
+Routine laboratory investigation 
+19 Initial laboratory investigation should include evaluation for inflammation, anemia, dehydration, 
+and malnutrition. 
+20 In patients who have symptoms of active Crohn’s disease, stool testing should be performed to 
+include fecal pathogens, Clostridium difficile testing, and may include studies that identify gut 
+inflammation such as a fecal calprotectin. 
+Genetic testing 
+21 Genetic testing is not indicated to establish the diagnosis of Crohn’s disease. 
+22 Certain genetic variants are associated with different phenotypic expressions in Crohn’s disease 
+but testing remains a research tool at this time. 
+Serologic markers of IBD 
+23 Routine use of serologic markers of IBD to establish the diagnosis of Crohn’s disease is not 
+indicated. 
+Endoscopy 
+24 Ileocolonoscopy with biopsies should be performed in the assessment of patients with suspected 
+Crohn’s disease. 
+Table 2. Summary statements continued 
+25 Disease distribution and severity should be documented at the time of diagnosis. Biopsies of 
+uninvolved mucosa are recommended to identify extent of histologic disease. 
+26. Upper endoscopy should only be performed in patients with upper gastrointestinal signs and 
+symptoms. 
+27. Video capsule endoscopy (VCE) is a useful adjunct in the diagnosis of patients with small bowel 
+Crohn’s disease in patients in whom there is a high index of suspicion of disease. 
+28. Patients with obstructive symptoms should have small bowel imaging and/or patency capsule 
+evaluation before VCE to decrease risk of capsule retention. 
+29. Deep enteroscopy is not part of routine diagnostic testing in patients with suspected Crohn’s 
+disease, but may provide additional information in patients who require biopsy/sampling of small 
+bowel tissue to make a diagnosis. 
+Imaging studies 
+30. Small bowel imaging should be performed as part of the initial diagnostic workup for patients with 
+suspected Crohn’s disease. 
+31. Computed tomography enterography (CTE) is sensitive for the detection of small bowel disease in 
+patients with Crohn’s disease and is comparable to magnetic resonance enterography (MRE). 
+32. Because of the absence of any radiation exposure, MRE should be used preferentially in young 
+patients (<35 years) and in patients in whom it is likely that serial exams will need to be performed. 
+33. The decision for which small bowel imaging study to use is in part related to the expertise of the 
+institution and the clinical presentation of the patient. 
+34. Cross-sectional imaging with MRI of the pelvis and/or endoscopic ultrasound may be used to 
+further characterize perianal Crohn’s disease and perirectal abscesses. 
+35. If an intra-abdominal abscess is suspected, cross-sectional imaging of the abdomen and pelvis 
+should be performed. 
+Determining disease activity and distribution 
+36. IBD type, location, and disease activity should be documented in the medical record. 
+Monitoring disease activity 
+37. Fecal calprotectin and fecal lactoferrin measurements may have an adjunctive role in monitoring 
+disease activity. 
+38. Serum CRP is relatively nonspecific for the inflammation of Crohn’s disease, but in select patients 
+serial measurements may have a role in monitoring disease activity and response to therapy 
+39. Periodic cross-sectional imaging (CTE, MRE) may be considered in monitoring response to therapy 
+in certain patients with small bowel Crohn’s disease. 
+40. Mucosal healing as determined by endoscopy is a goal of therapy. 
+a. Endoscopic scores have been developed that are reliable in measuring degree of mucosal healing 
+and may be used to monitor response to therapy. 
+b. Evaluation of the ileum for post-operative endoscopic recurrence by colonoscopy within a year 
+after ileocolonic resection may help guide further therapy. 
+ 
+ 
+Table 2. Summary statements continued 
+Management of Disease 
+Moderate-to-severe disease/moderate-to-high-risk disease 
+41. Systemic corticosteroids are ineffective for maintenance therapy in patients with Crohn’s disease. 
+Topical corticosteroids, although commonly used in Crohn’s disease, are of limited benefit. 
+42. Azathioprine, 6-mercaptopurine, or methotrexate (15 mg once weekly) may be used in treatment 
+of active Crohn’s disease and as adjunctive therapy for reducing immunogenicity against biologic 
+therapy. 
+Biosimilar anti-TNF agents 
+43. Biosimilar infliximab and biosimilar adalimumab are effective treatments for patients with 
+moderate-to-severe Crohn’s disease and can be used for de novo induction and maintenance 
+therapy. 
+44. Insufficient data exist to support the safety and efficacy of switching patients in stable disease 
+maintenance from one biosimilar to another of the same biosimilar molecule. 
+Fistulizing Crohn’s Disease 
+Perianal/fistulizing disease 
+45. The presence of a perianal abscess in Crohn’s disease should prompt surgical drainage. 
+Maintenance Therapy of Luminal Crohn’s Disease 
+46. No maintenance treatment is a treatment option for some patients with asymptomatic (silent), 
+mild Crohn’s disease. 
+47. Surgery may be considered for patients with symptomatic Crohn’s disease localized to a short 
+segment of bowel. 
+48. Data are lacking demonstrating the effectiveness of sulfasalazine or of olsalazine for the 
+maintenance of medically induced remission in patients with Crohn’s disease and are these agents 
+not recommended for long-term treatment. 
+Postoperative Crohn’s Disease 
+49. Prophylactic treatment is recommended after small intestinal resection in patients with risk factors 
+for recurrence. 
+50. Risk factors for postoperative Crohn’s disease recurrence should be taken into account when 
+deciding on treatment. 
+When to refer to surgery 
+51. Surgery is required to treat enteric complications of Crohn’s disease. 
+52. A resection of a segment of diseased intestine is the most common surgery for a Crohn’s disease. 
+53. Crohn’s disease patients who develop an abdominal abscess should undergo a surgical resection. 
+However, some may respond to medical therapy after radiologically guided drainage. 
+CRP, C-reactive protein; GI, gastrointestinal; IBD, inflammatory bowel disease; MRI, magnetic resonance imaging; TNF, 
+tumor necrosis factor. 
+ 
+ 
+ 
+Future Directives 
+Despite the recent advances in the treatment of patients with CD, there still remains a large group of 
+patients who do not respond adequately to our current medication armamentarium. We cannot 
+selectively determine whether an individual will respond to a particular biologic, it is more of a “wait 
+and see” approach. We are now entering an era of precision medicine and have begun to explore 
+factors that predict response or nonresponse. In the future, biological therapies for IBD are likely to be 
+used more selectively based on an individual patient’s specific benefit/risk assessment, as determined 
+by specific tissue signatures and reliable biomarkers, and will probably be adjusted throughout the 
+course of their treatment. We will certainly expand our medical treatment war chest and uncover 
+effective biologics with different mechanisms of action to treat our patients. If the initial biologic drug 
+fails, patients will be able to switch to another agent and even combination biologics may become a 
+reality. 
+ 
+Novel Agents 
+There are currently numerous novel agents in various phases of development being investigated for 
+their ability to effectively treat patients with CD. There is an unmet need for the treatment of patients 
+with CD. Approximately one-third of patients who are anti-TNF naive have a primary nonresponse to 
+anti-TNF therapy. Among patients who are initial anti-TNF therapy responders, approximately one-
+third subsequently lose their response to therapy or become intolerant to therapy (secondary 
+nonresponders). These secondary nonresponders can either escalate dose of their current medication, 
+switch to another anti-TNF agent, or switch out of class (to an anti-integrin (natalizumab or 
+vedolizumab), anti-IL-12 / 23 (ustekinumab), or to a novel mechanism. Those individuals who switch to 
+therapy within class have less benefit than individuals who are TNF naive. 
+ 
+Some of the other agents under different stages of development for the treatment of patients with CD 
+include other anti-integrins such as etrolizumab (which is a dual action anti-integrin that inhibits both 
+α4β7 and αEβ7) or ozanimod (a potent sphingosine-1-phosphate receptor modulator that inhibits the 
+egress of lymphocytes from lymph nodes) (370,371). Several other agents in early phases of 
+development include the anti-IL-23 agents, risankizumab (372) and brazikumab (373), and the selective 
+Janus kinase-1 inhibitors, filgotinib (374) and upadacitinib (formerly ABT-494) (375). 
