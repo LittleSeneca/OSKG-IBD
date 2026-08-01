@@ -56,15 +56,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-oral-5-asa-induces-remission-low-quality-evidence-strong|The ACG UC claim refines the general oral 5-ASA induction claim by specifying proctitis first-line therapy and combinati]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

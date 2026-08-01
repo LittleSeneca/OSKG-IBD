@@ -54,15 +54,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over|The ACG ustekinumab efficacy data across biologic-naive and anti-TNF-failure populations provides the evidence base for ]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

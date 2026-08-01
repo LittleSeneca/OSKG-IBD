@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
+- [[claim-bsg-statement-126-mesalazine-crc-chemoprevention|BSG makes a strong chemoprevention recommendation for mesalazine that ACG UC 2019 explicitly rejects based on inconsiste]]
 
 ## Assessment
 

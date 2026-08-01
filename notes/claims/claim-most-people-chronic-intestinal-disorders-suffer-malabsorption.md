@@ -49,15 +49,18 @@ Nutritional deficiencies compound the morbidity of IBD. Gottschall's emphasis on
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-inflammation-small-intestine-cause-malabsorption-nutrients-while|Foote's pathophysiological explanation that intestinal inflammation directly causes malabsorption provides the mechanist]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

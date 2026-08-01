@@ -1,0 +1,305 @@
+{
+  "cluster_id": "cluster-009",
+  "cluster_label": "anti-tnf (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 33,
+  "claims": [
+    {
+      "slug": "claim-adjunctive-antibiotics-used-routinely-asuc-without-infection",
+      "claim_id": "aga-uc2020-9",
+      "statement": "Adjunctive antibiotics should not be used routinely in ASUC without infection",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "4 RCTs, heterogeneous antibiotics, 5-10 day courses. Overall RR for colectomy 0.79 (0.46-1.35). Excluding the oral vancomycin trial (which used an insensitive C. difficile test), RR 0.95 (0.55-1.64). Quality rated very low due to risk of bias, imprecision, inconsistency."
+    },
+    {
+      "slug": "claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina",
+      "claim_id": "acg-cd2018-15",
+      "statement": "Anti-TNF agents are effective for steroid-refractory and thiopurine-refractory CD; combination therapy with infliximab + azathioprine is superior to either alone (R24-R26)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "R26 is one of only five recommendations with \"high\" quality evidence, based on the landmark SONIC trial (Colombel 2010). Anti-TNF agents are rapid in onset (benefit often within 2 weeks), effective for induction of response, remission, and mucosal healing. They appear more effective when given earli..."
+    },
+    {
+      "slug": "claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy",
+      "claim_id": "acg-cd2018-23",
+      "statement": "Anti-TNF agents maintain anti-TNF-induced remission; combination therapy reduces immunogenicity (R49-R50)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Multiple RCTs (ACCENT I, CHARM, PRECiSE) demonstrate maintenance efficacy. A meta-analysis of 21 studies (5,356 patients) found anti-TNF therapy did not increase risk of serious infection, malignancy, or death vs. placebo (though lymphoma and TB were noted at higher rates in individual trials). Comb..."
+    },
+    {
+      "slug": "claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination",
+      "claim_id": "ecco-cd2020-11",
+      "statement": "Antibiotics and thiopurines should NOT be used as monotherapy for fistula closure; combination surgical-medical care is standard (R3.3, R3.6-R3.7)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Antibiotics:** Only one RCT (n=25) compared antibiotics with placebo: remission at Week 10 in 17.6% vs. 12.5% (RR 1.41; 95% CI 0.17-11.54) \u2014 no significant benefit as monotherapy. Ciprofloxacin may improve short-term anti-TNF efficacy but doesn't impact long-term healing. Antibiotics remain indica..."
+    },
+    {
+      "slug": "claim-bsg-statement-11-tofacitinib-post-anti-tnf",
+      "claim_id": "bsg-ibd2019-4",
+      "statement": "Statement 11 (strong, high): Tofacitinib can be used in induction and maintenance of UC in patients where anti-TNF treatment has failed. The BSG limits tofacitinib to post-anti-TNF failure, whereas ACG 2019 makes strong recommendations for tofacitinib in anti-TNF-naive patients.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "high",
+      "evidence_excerpt": "91.1% agreement. The BSG's conservative positioning: 'Tofacitinib can be used in induction and maintenance of UC in patients where anti-TNF treatment has failed' (Statement 11). This contrasts with ACG 2019 (Rubin) which recommended tofacitinib in anti-TNF-naive patients. The BSG's position anticipa..."
+    },
+    {
+      "slug": "claim-bsg-statement-126-mesalazine-crc-chemoprevention",
+      "claim_id": "bsg-ibd2019-8",
+      "statement": "Statement 126 (strong, moderate): UC/IBD-U patients with left-sided or more extensive disease should take mesalazine \u22652 g daily to reduce colorectal cancer risk. This is a uniquely strong chemoprevention recommendation not found in ACG guidelines at the same evidence level.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "medium",
+      "evidence_excerpt": "95.5% agreement. The recommendation is supported by observational data showing reduced CRC risk with mesalazine maintenance therapy. However, the evidence is confounded by mucosal healing: patients who take mesalazine regularly are also those with better disease control, and it is unclear whether th..."
+    },
+    {
+      "slug": "claim-bsg-statement-128-anti-tnf-pregnancy",
+      "claim_id": "bsg-ibd2019-13",
+      "statement": "Statement 128 (weak, very low): IBD patients receiving anti-TNF therapy should be counselled about risks and benefits of continuing treatment throughout pregnancy. For patients with active disease or high risk of relapse, it may be advisable to continue throughout. For those with inactive disease who wish to discontinue, it may be reasonable to stop at the start of the third trimester.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "97.7% agreement. Active IBD prior to conception is associated with poor pregnancy outcomes (premature delivery, low birth weight, spontaneous abortion). Anti-TNF in the third trimester increases transplacental transfer; infliximab levels are more variable than adalimumab. Low levels of biologics are..."
+    },
+    {
+      "slug": "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+      "claim_id": "bsg-ibd2019-5",
+      "statement": "Statement 18 (strong, high): Patients failing IV steroids by day 3 for ASUC should receive rescue therapy with IV infliximab or ciclosporin (for patients who have not previously failed thiopurines). The CYSIF and CONSTRUCT trials showed no significant difference in colectomy rates or quality-adjusted survival between the two agents.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "97.8% agreement. CYSIF trial (Laharie 2012, n=115): treatment failure at day 98: 60% ciclosporin vs 54% infliximab (NS). Colectomy at 98 days: 17% vs 21%. CONSTRUCT trial (2019, n=270): no difference in quality-adjusted survival, colectomy rates (29% vs 30% at 3 months; 35% vs 45% at 1 year), time t..."
+    },
+    {
+      "slug": "claim-bsg-statement-2-treatment-target-mucosal-healing",
+      "claim_id": "bsg-ibd2019-2",
+      "statement": "Statement 2 (weak, very low): Symptomatic remission combined with mucosal healing should be the treatment target in UC. The guideline endorses the STRIDE paradigm: clinical remission (absence of rectal bleeding + normal bowel habit) combined with endoscopic remission (Mayo endoscopic subscore \u22641). Histological remission is associated with improved outcomes but is not yet a validated treatment targ",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "medium",
+      "evidence_excerpt": "95.7% agreement in eDelphi. The guideline cites the STRIDE consensus (Peyrin-Biroulet 2015) for the clinical + endoscopic remission paradigm. It acknowledges that histological remission is associated with improved outcomes but lacks standardized definition and prospective validation. The UCEIS is en..."
+    },
+    {
+      "slug": "claim-bsg-statement-3-5asa-induction-uc",
+      "claim_id": "bsg-ibd2019-3",
+      "statement": "Statement 3 (strong, high): Mild-to-moderate UC should be managed with oral 5-ASA 2-3 g/day, with the addition of 5-ASA enemas rather than oral treatment alone. Combined oral + rectal 5-ASA is superior to monotherapy even in pancolitis (RR no remission 0.65, 95% CI 0.47-0.91).",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "95.6% agreement. The RR of 0.65 (95% CI 0.47-0.91) for no remission with combined oral + rectal vs oral alone is cited from meta-analytic data. This recommendation has 'high' GRADE quality \u2014 one of the rare high-quality recommendations in the guideline \u2014 reflecting the strength and consistency of th..."
+    },
+    {
+      "slug": "claim-bsg-statement-34-een-adult-cd",
+      "claim_id": "bsg-ibd2019-9",
+      "statement": "Statement 34 (weak, low): Exclusive Enteral Nutrition (EEN) may be considered as an alternative to corticosteroids to induce remission in adults with CD, with appropriate dietetic support. EEN is as effective as corticosteroids in paediatric CD (73% remission on intention-to-treat basis) but evidence is weaker in adults.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "The guideline acknowledges: 'EEN is as effective as corticosteroids in paediatric CD (73% remission on intention-to-treat basis) but evidence is weaker in adults.' Polymeric feeds are as effective as elemental feeds (Statement 35, strong, moderate). A minimum of 4-6 weeks is recommended; 10 days ach..."
+    },
+    {
+      "slug": "claim-bsg-statement-36-surgery-localized-ileocaecal-cd",
+      "claim_id": "bsg-ibd2019-6",
+      "statement": "Statement 36 (weak, low): Laparoscopic resection should be considered as an alternative to medical therapy for localized ileocaecal Crohn's disease. The BSG guideline explicitly frames surgery as a valid primary treatment option for limited disease \u2014 not just a last resort.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "medium",
+      "evidence_excerpt": "97.3% agreement. The guideline positions surgery alongside medical therapy as a primary option, reflecting the LIR!C trial and cost-effectiveness data. This contrasts with North American practice, where surgery is typically reserved for medically refractory disease. The European tradition of earlier..."
+    },
+    {
+      "slug": "claim-bsg-statement-42-mesalazine-not-for-cd",
+      "claim_id": "bsg-ibd2019-7",
+      "statement": "Statement 42 (strong, moderate): Mesalazine should NOT be used for induction or maintenance of remission in Crohn's disease. This strong negative recommendation is consistent with ACG 2018.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "97.7% agreement. The guideline cites multiple RCTs and meta-analyses showing no benefit of mesalazine over placebo for CD induction or maintenance. This is one of the strongest negative recommendations in the guideline, reflecting the consistency and quality of the evidence against mesalazine in CD."
+    },
+    {
+      "slug": "claim-bsg-statement-69-smoking-postoperative-cd",
+      "claim_id": "bsg-ibd2019-12",
+      "statement": "Statement 69 (strong, moderate): All patients smoking after intestinal resection for CD should be actively encouraged to stop. Smoking is the strongest modifiable risk factor for postoperative recurrence (OR 2.5 for endoscopic, 2.0 for clinical recurrence).",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "100% agreement. The guideline cites meta-analytic data: OR 2.5 for endoscopic recurrence and 2.0 for clinical recurrence in smokers vs non-smokers post-resection. The TOPPIC trial showed thiopurines improved outcomes in smokers but did not confirm a wider postoperative role. The guideline's risk str..."
+    },
+    {
+      "slug": "claim-bsg-statement-9-biologic-choice-moderate-severe-uc",
+      "claim_id": "bsg-ibd2019-14",
+      "statement": "Statement 9 (strong, high/moderate): Patients requiring \u22652 corticosteroid courses in the past year, or who become corticosteroid-dependent or refractory, require escalation to thiopurines (moderate quality), anti-TNF therapy (high quality), vedolizumab (high quality), or tofacitinib (high quality). Choice should be determined by clinical factors, patient choice, cost, likely adherence, and local i",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "high",
+      "evidence_excerpt": "96.6% agreement. The guideline explicitly lists cost as a determining factor alongside clinical factors and patient choice \u2014 reflecting the NHS single-payer context. The 'all options on the table' approach (thiopurines, anti-TNF, vedolizumab, tofacitinib as co-equal options post-steroid failure) dif..."
+    },
+    {
+      "slug": "claim-bsg-statement-91-biosimilar-infliximab-ct-p13",
+      "claim_id": "bsg-ibd2019-10",
+      "statement": "Statement 91 (strong, moderate): Biosimilar infliximab (CT-P13) may be used for induction and maintenance in CD and UC. The PANTS study showed no clinically meaningful differences between originator and biosimilar infliximab in efficacy or immunogenicity.",
+      "claim_type": "therapeutic",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "The PANTS 3-year observational cohort (1,601 CD patients) showed immunogenicity rates at week 54 of 26% for originator infliximab and 28% for biosimilar CT-P13 \u2014 not significantly different. Immunomodulator co-therapy reduced immunogenicity risk (HR 0.37, p<0.0001). NOR-SWITCH and real-world switchi..."
+    },
+    {
+      "slug": "claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard",
+      "claim_id": "ecco-cd2020-5",
+      "statement": "No consensus was reached on methotrexate for induction; anti-TNF agents are the standard for moderate-to-severe disease (R1.5-R1.7)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "This is the most clinically important set of recommendations in the guideline, centered on the divergent evidence for infliximab vs. adalimumab combination therapy."
+    },
+    {
+      "slug": "claim-controlled-ileal-release-budesonide-daily-first-line-mild-to-moderate",
+      "claim_id": "acg-cd2018-9",
+      "statement": "Controlled ileal release budesonide 9 mg daily is first-line for mild-to-moderate ileocecal CD (R12)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "CIR budesonide is a pH-dependent ileal-release oral corticosteroid with high topical activity and low systemic bioavailability (~10-20%). Demonstrated effective in RCTs for active mild-to-moderate ileocecal CD (Greenberg 1994, Tremaine 2002). The lesser efficacy compared with conventional corticoste..."
+    },
+    {
+      "slug": "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+      "claim_id": "acg-cd2018-19",
+      "statement": "IV corticosteroids are first-line for severe/fulminant disease; anti-TNF agents (especially infliximab) may be effective (R32-R34)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Parenteral methylprednisolone 40-60 mg/day is effective for acute severe disease. Important caveats: pivotal anti-TNF trials excluded patients with CDAI >450 (the most severe patients). Clinical experience suggests some severely symptomatic patients respond. For fulminant disease, infliximab (weight..."
+    },
+    {
+      "slug": "claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease",
+      "claim_id": "acg-cd2018-18",
+      "statement": "Cyclosporine, mycophenolate mofetil, and tacrolimus should NOT be used for Crohn's disease (R31)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Cyclosporine, despite efficacy in UC, has not been demonstrated to be effective in CD (two negative RCTs). Mycophenolate mofetil was inferior to azathioprine in a small RCT. Tacrolimus has only small uncontrolled case series with suggestion of benefit for luminal disease but insufficient evidence. T..."
+    },
+    {
+      "slug": "claim-infliximab-best-studied-agent-perianal-fistulas-combination-seton",
+      "claim_id": "acg-cd2018-20",
+      "statement": "Infliximab is the best-studied agent for perianal fistulas; combination with seton placement and antibiotics improves outcomes (R35-R43)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Fistulas occur in ~1/3 of CD patients, with perianal being the most common location. Classification: simple (distal to dentate line, single tract) vs. complex (transsphincteric, suprasphincteric, multiple tracts). Key management principles:\n- **Exclude abscess before immunosuppression** (cross-secti..."
+    },
+    {
+      "slug": "claim-low-risk-patients-symptomatic-treatment-careful-observation-acceptable",
+      "claim_id": "acg-cd2018-11",
+      "statement": "For low-risk patients, symptomatic treatment with careful observation is acceptable (R16)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Some patients have genuinely mild, non-progressive disease. Dietary therapies (elemental, semi-elemental, defined diets) may reduce mucosal inflammation but benefits are not durable upon resumption of unrestricted diet. The key safeguard: providers must follow carefully for signs of disease worsenin..."
+    },
+    {
+      "slug": "claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan",
+      "claim_id": "acg-uc2019-17",
+      "statement": "No medication has proven chemopreventive efficacy to replace colonoscopic surveillance; 5-ASA and thiopurine chemoprevention data are inconsistent",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Case-control and cohort studies suggest protective effects of 5-ASA and thiopurines for dysplasia/CRC, but results are inconsistent, and effect sizes diminish when adjusted for degree of inflammation. The guideline explicitly rejects the notion that medication can substitute for colonoscopic surveil..."
+    },
+    {
+      "slug": "claim-methotrexate-effective-steroid-dependent-r23",
+      "claim_id": "acg-cd2018-14",
+      "statement": "Methotrexate is effective for steroid-dependent CD (R23)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Parenteral methotrexate 25 mg/week is effective for induction of remission in steroid-dependent CD and for maintenance. After 4 months of steroid-free remission on 25 mg/week, the dose may be lowered to 15 mg/week. Oral methotrexate data for maintenance are lacking. Low-dose oral methotrexate (12.5 ..."
+    },
+    {
+      "slug": "claim-nsaids-exacerbate-disease-avoided-smoking-cessation-critical",
+      "claim_id": "acg-cd2018-6",
+      "statement": "NSAIDs may exacerbate disease and should be avoided; smoking cessation is critical (R6-R7)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "NSAIDs damage small intestinal mucosa (ulcerations, erosions, webs) and increase mucosal permeability. Non-selective NSAIDs (naproxen, nabumetone) caused 17-28% relapse rate within 9 days in quiescent IBD (Takeuchi 2006). Recent NSAID use associated with increased emergency hospital admissions. Sele..."
+    },
+    {
+      "slug": "claim-report-provides-seven-general-clinical-recommendations-prioritize",
+      "claim_id": "rome-sibo2017-12",
+      "statement": "The report provides seven general clinical recommendations that prioritize dietary evaluation, probiotic trials, and cautious antibiotic use -- with explicit acknowledgment that SIBO testing remains an \"area of uncertainty\"",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Box 4: Diagnostic and Therapeutic General Recommendations:**"
+    },
+    {
+      "slug": "claim-short-course-gut-specific-antibiotics-utility-patients-ibs",
+      "claim_id": "rome-sibo2017-9",
+      "statement": "A short course of gut-specific antibiotics may have utility in some patients with IBS but we need to know more about predictors of treatment responsiveness, antibiotic resistance, the efficacy and safety of re-treatment schedules as well as the optimal dosing regimen.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Three fully-published double-blind placebo-controlled trials of rifaximin in FBD (Sharara et al. 2006, Pimentel et al. 2008, Pimentel et al. 2011 -- TARGET 1 and 2 were not yet published at the time of this report)\n- Symptom improvement, especially bloating and flatulence, for \"approximately 10 we..."
+    },
+    {
+      "slug": "claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi",
+      "claim_id": "ecco-uc2022-8",
+      "statement": "Systemic corticosteroids (prednisolone) are strongly recommended for induction despite very low-quality evidence \u2014 a paradox explained by clinical experience, large effect size, and limited alternatives at the time of original trials",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Only two placebo-controlled RCTs met the panel's PICO criteria (Truelove & Horler 1955, Lennard-Jones 1960), yielding RR 2.83 (1.79-4.46) for clinical remission. Quality downgraded for risk of bias, indirectness, and imprecision. No AE data from these trials. The guideline emphasizes: corticosteroid..."
+    },
+    {
+      "slug": "claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm",
+      "claim_id": "acg-cd2018-13",
+      "statement": "Thiopurines are effective for steroid-sparing and maintenance but NOT for short-term induction; TPMT testing is recommended (R19-R22)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The slow onset of thiopurines (8-12 weeks to clinical response) makes them unsuitable for acute induction. Their role is in steroid-sparing and maintenance. Adverse effects include allergic reactions, pancreatitis, myelosuppression, nausea, infections, hepatotoxicity, and malignancy (non-melanoma sk..."
+    },
+    {
+      "slug": "claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active",
+      "claim_id": "acg-uc2019-10",
+      "statement": "Thiopurines and methotrexate are NOT effective for induction -- do not use as monotherapy in active disease",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Thiopurines are slow-acting (8-12 weeks to onset) and do not induce remission in active UC. The European METEOR trial: parenteral methotrexate 25 mg/week showed numerically higher steroid-free remission at week 16 but did not reach statistical significance vs placebo. Two meta-analyses of methotrexa..."
+    },
+    {
+      "slug": "claim-thiopurines-methotrexate-started-after-corticosteroid-induced-remission-r4",
+      "claim_id": "acg-cd2018-21",
+      "statement": "Thiopurines or methotrexate should be started after corticosteroid-induced remission (R44-R45)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Three scenarios for thiopurine use after steroid induction: (1) at first corticosteroid course, (2) after repeated courses/steroid dependence, (3) as concomitant medication with anti-TNF. Scenario 1 is supported by pediatric data (Markowitz 2000) but an adult RCT (Cosnes 2013) could not demonstrate ..."
+    },
+    {
+      "slug": "claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate",
+      "claim_id": "aga-cd2021-4",
+      "statement": "Thiopurines are not recommended for induction but suggested for maintenance; SC/IM methotrexate is suggested; oral methotrexate is recommended against (R3A-D, R4)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Recommendation 3A:** \"The AGA suggests against the use of thiopurines monotherapy over no treatment for achieving remission.\" **Conditional, very low certainty.** 5 trials, 380 patients \u2014 thiopurines did not increase corticosteroid-free remission vs. placebo. Evidence rated down for serious bias, ..."
+    },
+    {
+      "slug": "claim-thiopurines-used-monotherapy-induction-they-too-slow",
+      "claim_id": "ecco-uc2022-6",
+      "statement": "Thiopurines should NOT be used as monotherapy for induction \u2014 they are too slow; initiate alongside an effective induction agent if maintenance is planned",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Two RCTs (n=130) comparing azathioprine to placebo for induction (1-4 months, with concomitant corticosteroids): clinical remission RR 1.22 (0.79-1.88) \u2014 not significant. No data on clinical response, endoscopic response, or SAEs. No RCTs identified for mercaptopurine or thioguanine. The slow onset ..."
+    }
+  ]
+}

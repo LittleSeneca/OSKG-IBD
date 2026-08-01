@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for|Both guidelines recommend combined oral and topical 5-ASA over oral alone for left-sided colitis, despite both acknowled]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

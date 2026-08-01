@@ -55,15 +55,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan|Both ECCO and AGA independently recommend against 5-ASA and sulfasalazine for inducing remission in CD.]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

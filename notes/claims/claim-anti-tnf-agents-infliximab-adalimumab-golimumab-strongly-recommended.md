@@ -59,15 +59,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-mucosal-healing-important-therapeutic-goal-both-validated|Anti-TNF agents achieve mucosal healing, operationalizing the abstract therapeutic goal with a concrete class of agents.]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

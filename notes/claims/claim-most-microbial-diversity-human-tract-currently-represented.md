@@ -56,15 +56,18 @@ If we don't know what "normal" small intestinal microbiota looks like -- in comp
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries|Rome Foundation's finding that most gut microbial diversity remains uncultured provides a mechanistic explanation for wh]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

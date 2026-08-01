@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu|ACG and ECCO both strongly recommend continuing vedolizumab for maintenance after successful induction, demonstrating cr]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

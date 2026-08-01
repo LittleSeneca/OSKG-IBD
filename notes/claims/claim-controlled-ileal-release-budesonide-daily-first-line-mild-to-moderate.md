@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-bsg-statement-34-een-adult-cd|BSG offers exclusive enteral nutrition as a corticosteroid alternative for inducing remission, challenging ACG's positio]]
+
+**Contradicts:**
 
 ## Assessment
 

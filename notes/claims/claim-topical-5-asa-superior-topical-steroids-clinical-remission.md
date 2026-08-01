@@ -56,15 +56,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc|The ECCO topical 5-ASA superiority finding extends the ACG general maintenance claim by specifying the comparative advan]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

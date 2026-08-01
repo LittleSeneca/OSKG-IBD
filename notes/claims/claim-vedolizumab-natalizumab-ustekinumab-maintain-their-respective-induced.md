@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
+- [[claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive|The ACG maintenance claim for vedolizumab and ustekinumab logically depends on the ECCO evidence that these agents are e]]
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -56,15 +56,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan|ACG UC and AGA CD independently agree that corticosteroids have no maintenance role, reinforcing this principle across b]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

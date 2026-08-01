@@ -53,15 +53,18 @@ This is the most important clinical insight in SIBO management. If SIBO is a sec
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-sibo-relapse-management-multiple-treatment-rounds|Sarna's relapse management protocol with retesting and prokinetic maintenance operationalizes Pimentel's core principle ]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

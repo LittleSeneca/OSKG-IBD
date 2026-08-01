@@ -50,15 +50,18 @@ This distinction determines surgical strategy entirely. In UC, the goal is compl
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-section-lines-84908-covers-total-proctocolectomy-end|Steinhart's claim that colectomy effectively cures UC provides the clinical rationale for Yamada's description of IPAA a]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

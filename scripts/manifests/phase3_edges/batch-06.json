@@ -1,0 +1,86 @@
+[
+  {
+    "claim_a": "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
+    "claim_b": "claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance",
+    "edge_type": "supports",
+    "rationale": "ACG UC 2019 provides independent trial evidence (GEMINI 1, OCTAVE) confirming vedolizumab and tofacitinib are superior to placebo for induction, directly corroborating the AGA 2020 meta-analytic finding."
+  },
+  {
+    "claim_a": "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
+    "claim_b": "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab",
+    "edge_type": "supports",
+    "rationale": "ACG UC 2019 confirms tofacitinib efficacy specifically in anti-TNF-exposed patients, providing direct evidence for AGA 2020's recommendation that tofacitinib be preferred in this population."
+  },
+  {
+    "claim_a": "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
+    "claim_b": "claim-biologic-na\u00efve-patients-infliximab-vedolizumab-preferred-over-adalimumab",
+    "edge_type": "extends",
+    "rationale": "ACG UC 2019 extends AGA 2020's biologic-na\u00efve preference ranking by demonstrating that vedolizumab and tofacitinib remain effective even beyond the na\u00efve population, broadening the evidence base to anti-TNF-exposed patients."
+  },
+  {
+    "claim_a": "claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries",
+    "claim_b": "claim-majority-trials-probiotics-ibs-show-degree-efficacy",
+    "edge_type": "challenged_by",
+    "rationale": "ACG SIBO 2020 challenges Rome Foundation's finding of probiotic efficacy in IBS by concluding evidence is insufficient for SIBO, highlighting that positive IBS results do not generalize across functional GI disorders."
+  },
+  {
+    "claim_a": "claim-most-microbial-diversity-human-tract-currently-represented",
+    "claim_b": "claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries",
+    "edge_type": "supports",
+    "rationale": "Rome Foundation's finding that most gut microbial diversity remains uncultured provides a mechanistic explanation for why ACG SIBO 2020 finds probiotic evidence insufficient \u2014 available probiotic strains may not target the relevant uncultured species."
+  },
+  {
+    "claim_a": "claim-you-really-need-take-time-off-workschool",
+    "claim_b": "claim-two-distinct-one-week-meal-plans-provided-meal",
+    "edge_type": "extends",
+    "rationale": "Thompson's healing vacation concept extends Foote's structured meal-plan approach by adding the critical dimension of rest and energy conservation as a necessary complement to dietary intervention during IBD flares."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+    "claim_b": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "edge_type": "supports",
+    "rationale": "AGA 2021 independently confirms ACG 2018's strong recommendation against mesalamine for active Crohn's disease, with both guidelines reaching the same conclusion at moderate evidence quality."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+    "claim_b": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "edge_type": "supports",
+    "rationale": "AGA 2021 corroborates ACG 2018's strong recommendation against 5-ASA for maintenance of Crohn's disease, reinforcing that neither induction nor maintenance roles are supported by moderate-quality evidence."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+    "claim_b": "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
+    "edge_type": "challenged_by",
+    "rationale": "AGA 2021's strong recommendation against 5-ASA and sulfasalazine challenges ACG 2018's conditional endorsement of sulfasalazine for colonic Crohn's, reflecting a guideline shift toward more restrictive use."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa",
+    "claim_b": "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+    "edge_type": "supports",
+    "rationale": "ACG 2018's finding that corticosteroids fail to consistently achieve mucosal healing supports AGA 2021's recommendation for early biologics over step-up therapy, since corticosteroids are a cornerstone of the step-up approach."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r47-corticosteroids-not-for-maintenance",
+    "claim_b": "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+    "edge_type": "supports",
+    "rationale": "ACG 2018's strong recommendation against corticosteroids for maintenance reinforces AGA 2021's early biologic strategy by eliminating the most common step-up maintenance option and pointing toward biologic alternatives."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+    "claim_b": "claim-acg-cd2018-r21-thiopurines-for-maintenance",
+    "edge_type": "challenged_by",
+    "rationale": "AGA 2021's early biologic recommendation challenges ACG 2018's thiopurine maintenance paradigm by arguing that biologics should be used before rather than after thiopurine failure in the treatment algorithm."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc",
+    "claim_b": "claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction",
+    "edge_type": "challenged_by",
+    "rationale": "ECCO 2022 gives budesonide MMX only a weak recommendation for mild-moderate UC, challenging ACG 2019's strong recommendation for moderate UC and reflecting more conservative interpretation of the evidence base."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r11-oral-prednisolone-for-induction-in-moderate-severe",
+    "claim_b": "claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction",
+    "edge_type": "extends",
+    "rationale": "ECCO 2022 extends ACG 2019's budesonide induction recommendation by addressing the next severity tier, where systemic prednisolone replaces topically-acting budesonide for moderate-severe UC."
+  }
+]

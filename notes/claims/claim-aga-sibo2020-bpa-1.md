@@ -49,15 +49,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-sibo-defined-presence-excessive-numbers-bacteria-small|AGA SIBO 2020 identifies the definitional imprecision and lack of consistency that ACG SIBO 2020's clinical definition a]]
+
+**Contradicts:**
 
 ## Assessment
 

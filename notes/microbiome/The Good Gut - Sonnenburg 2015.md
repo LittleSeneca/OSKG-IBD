@@ -24,7 +24,8 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 1
-claims_files: ["claim-sonnenburg-gut-implicit-6"]
+claims_files:
+  "[[claim-core-thesis-sonnenburg-gut]]"
 
 
 # The Good Gut — Sonnenburg & Sonnenburg (2015)

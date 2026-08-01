@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|ACG's strong recommendation for tofacitinib after anti-TNF failure extends AGA's broader conditional recommendation for ]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

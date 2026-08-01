@@ -57,15 +57,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-aga-uc2020-r3a-against-thiopurine-induction|ACG UC 2019's strong recommendation against thiopurine monotherapy for induction supports AGA UC 2020's conditional reco]]
+- [[claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction|ACG's strong recommendation against thiopurine induction supports ECCO's weak recommendation against thiopurine monother]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

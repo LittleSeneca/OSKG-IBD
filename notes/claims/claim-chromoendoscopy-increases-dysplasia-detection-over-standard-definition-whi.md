@@ -59,15 +59,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy|ECCO Diagnostic 2019 operationalizes the chromoendoscopy evidence from ACG Crohn's 2018 into a specific risk-stratified ]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

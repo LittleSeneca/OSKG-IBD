@@ -50,15 +50,18 @@ TDM transforms biologic therapy from empiric ("it stopped working") to mechanist
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-infliximab-shown-effective-inducing-maintaining-clinical-remission|Therapeutic drug monitoring operationalizes anti-TNF therapy by optimizing drug levels to sustain the remission that inf]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

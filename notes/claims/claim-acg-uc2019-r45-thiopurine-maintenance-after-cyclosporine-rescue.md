@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-aga-uc2020-r3b-thiopurine-maintenance|ACG specifies the post-cyclosporine rescue context, extending AGA's general thiopurine maintenance recommendation with a]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

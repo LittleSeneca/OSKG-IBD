@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction|ECCO 2022 extends ACG 2019's budesonide induction recommendation by addressing the next severity tier, where systemic pr]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,18 @@ The framing of herbal antimicrobials as co-equal with pharmaceutical antibiotics
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-treatment-efficacy-modest-improvement-2006-2022|Pimentel's finding of only modest absolute efficacy improvement from 2006-2022 explains why Sarna presents pharmaceutica]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

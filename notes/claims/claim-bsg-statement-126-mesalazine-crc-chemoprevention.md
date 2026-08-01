@@ -53,15 +53,18 @@ If mesalazine truly reduces CRC risk, every UC patient with extensive disease sh
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
+- [[claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan|BSG makes a strong chemoprevention recommendation for mesalazine that ACG UC 2019 explicitly rejects based on inconsiste]]
 
 ## Assessment
 

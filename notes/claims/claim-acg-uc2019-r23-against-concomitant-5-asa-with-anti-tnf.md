@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation|Both ACG and AGA recommend against continuing 5-ASA in patients escalated to biologic therapy, representing cross-guidel]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

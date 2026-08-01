@@ -50,15 +50,18 @@ If mucosal healing is the real goal, then medications must be assessed not just 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve|Steinhart's observation that mucosal healing is becoming a treatment goal aligns with Yamada's more formal recommendatio]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -1,0 +1,80 @@
+{
+  "cluster_id": "cluster-007",
+  "cluster_label": "biomarkers (diagnostic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 8,
+  "claims": [
+    {
+      "slug": "claim-assessment-disease-activity-endoscopy-andor-imaging-necessary",
+      "claim_id": "ecco-diag2019-8",
+      "statement": "Assessment of disease activity by endoscopy and/or imaging is necessary before withdrawal of maintenance therapy; TDM may guide management in loss of response",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Meta-analysis (Torres 2015): ~75% relapse within 5 years after stopping immunomodulator monotherapy. ~50% maintained remission 24 months after anti-TNF discontinuation, decreasing over time. GETAID infliximab withdrawal trial (Louis 2012): absence of MH strongly associated with relapse (HR 2.6). Met..."
+    },
+    {
+      "slug": "claim-disease-severity-must-incorporate-four-domains-patient-reported",
+      "claim_id": "acg-uc2019-2",
+      "statement": "Disease severity must incorporate four domains: patient-reported outcomes, inflammatory burden, disease course, and disease impact -- not just bowel frequency",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The guideline proposes a new ACG UC Activity Index (Table 4) that stratifies into Remission, Mild, Moderate-Severe, and Fulminant using stools/day, blood in stools, urgency, hemoglobin, ESR/CRP, fecal calprotectin, endoscopic Mayo subscore, and UCEIS. The Truelove and Witts criteria (1955) remain th..."
+    },
+    {
+      "slug": "claim-fecal-calprotectin-helpful-test-differentiate-ibd-ibs",
+      "claim_id": "acg-cd2018-3",
+      "statement": "Fecal calprotectin is a helpful test to differentiate IBD from IBS (R1)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Fecal calprotectin (a calcium-binding protein derived from neutrophils) and fecal lactoferrin serve as noninvasive markers of intestinal inflammation. Multiple studies demonstrate utility in differentiating IBD from IBS (references 38-42). Additional uses: monitoring postoperative recurrence (calpro..."
+    },
+    {
+      "slug": "claim-intensive-infliximab-dosing-asuc-guideline-punts",
+      "claim_id": "aga-uc2020-11",
+      "statement": "Intensive infliximab dosing in ASUC \u2014 the guideline punts",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "No RCTs. 5 observational studies. \"Intensive\" regimens included shortened intervals (<2 weeks, dose stacking) and/or higher doses (10 mg/kg). Meta-analysis: no significant difference in short-term colectomy (RR 1.61; 0.74-3.52). Subgroup: upfront 10 mg/kg induction superior to dose stacking with 5 m..."
+    },
+    {
+      "slug": "claim-methylprednisolone-mgd-hydrocortisone-100-tid-qid-3-5-days",
+      "claim_id": "acg-uc2019-14",
+      "statement": "IV methylprednisolone 60 mg/d or hydrocortisone 100 mg TID-QID for 3-5 days is the standard; nonresponders need rescue therapy or surgery -- do not delay",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "ASUC defined as \u22656 bloody stools/day plus systemic toxicity (Truelove and Witts). Up to 25% of UC patients develop ASUC; 40% require colectomy. IV steroid response rate: 67% (meta-analysis of 1,948 patients). No benefit to doses above methylprednisolone 60 mg/d. Response plateau at 3-5 days; additio..."
+    },
+    {
+      "slug": "claim-structured-fc-based-monitoring-strategy-detect-preclinical-relapse",
+      "claim_id": "ecco-diag2019-7",
+      "statement": "A structured FC-based monitoring strategy can detect preclinical relapse; two consecutively elevated FC levels are the best predictor of clinical flare",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The four-phase FC monitoring model (Figure 2): Phase I (diagnosis), Phase II (induction), Phase III (remission \u2014 detect drift from target range), Phase IV (therapy adjustment). FC in target range \u2192 retest 3 months; action range \u2192 adjust treatment, retest 1 month; uncertain range \u2192 retest 1 month bef..."
+    },
+    {
+      "slug": "claim-thiopurines-used-monotherapy-induction-their-role-steroid-sparing",
+      "claim_id": "ecco-cd2020-4",
+      "statement": "Thiopurines should NOT be used as monotherapy for induction; their role is in steroid-sparing maintenance (R1.4)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Pooled analysis of 5 trials (n=380): no difference for induction of remission between thiopurines and placebo (48% vs. 37%; RR 1.23; 95% CI 0.97-1.55). Clinical response data from 3 trials: 42.8% vs. 26.9% (RR 1.87; 95% CI 0.44-7.96) with serious heterogeneity (I\u00b2=69%) and very serious imprecision. ..."
+    },
+    {
+      "slug": "claim-ustekinumab-strongly-recommended-induction-first-major-guideline",
+      "claim_id": "ecco-uc2022-12",
+      "statement": "Ustekinumab is strongly recommended for induction \u2014 the first major UC guideline to incorporate it, with efficacy in both biologic-naive and biologic-exposed patients",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Single phase 3 RCT (UNIFI, Sands 2019). Ustekinumab 6 mg/kg IV induction: clinical remission 15.5% vs 5.3% placebo (RR 2.91; 1.72-4.94), clinical response 61.8% vs 31.3% (RR 1.97; 1.64-2.37), endoscopic improvement 27.0% vs 13.8% (RR 1.96; 1.41-2.72). Of randomized patients, 51.1% had prior biologic..."
+    }
+  ]
+}

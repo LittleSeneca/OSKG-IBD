@@ -1,0 +1,71 @@
+{
+  "cluster_id": "cluster-019",
+  "cluster_label": "elemental-diet (therapeutic)",
+  "domain": "domain/microbiome",
+  "size": 7,
+  "claims": [
+    {
+      "slug": "claim-almost-patients-see-practice-crohns-disease-ulcerative",
+      "claim_id": "chutkan-rewild-4",
+      "statement": "Almost all of the patients I see in my practice with Crohn's disease and ulcerative colitis have a history of taking antibiotics for acne, and while that doesn't necessarily prove causation in those particular patients, the medical literature is full of studies that now confirm that antibiotic use, particularly in childhood, is a major risk factor for the development of these diseases.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+      "confidence": "high",
+      "evidence_excerpt": "Cites the epidemiological literature. Describes acne antibiotics as especially damaging because: they are broad-spectrum, taken for months or years, and highly active against gut bacteria. Notes that dermatologists often tell teenagers \"what they eat doesn't have any effect on their skin\" while pres..."
+    },
+    {
+      "slug": "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+      "claim_id": "chutkan-dysbiosis-6",
+      "statement": "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. \"What we think of as just a wicked sweet tooth may actually represent specific communities of bacteria directing us to behave in a way that ensures their survival.\" This explains why cravings for sugar and starch diminish rapidly on a low-carb d",
+      "claim_type": "mechanistic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-culturing-technique-considered-gold-standard-sibo-diagnosis",
+      "claim_id": "pimentel-ch5-6",
+      "statement": "This culturing technique... has been considered the gold standard of SIBO diagnosis. That said, it can't really be the ultimate gold standard, as laboratories have differing culture techniques; furthermore, not all bacteria are culturable. Aspirations are taken from only a few inches of the small intestine, which may not represent the whole small intestine.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Lacy/Mayo Clinic contamination data (20%). Pimentel's own experience with sterile catheter technique. The broader limitations of culture-based methods: many gut bacteria are unculturable; sampling only the proximal small intestine misses distal overgrowth; standard lab processing (treating aspirate ..."
+    },
+    {
+      "slug": "claim-doctors-prescribe-more-antibiotics-they-perceive-patient",
+      "claim_id": "chutkan-rewild-1",
+      "statement": "Doctors prescribe more antibiotics when they perceive the patient wants one. A structured set of 10 questions (Table 11-1) can signal that the patient is \"not keen on taking an antibiotic unless absolutely necessary\" and shift the clinical conversation from automatic prescribing to shared decision-making.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+      "confidence": "high",
+      "evidence_excerpt": "Cites studies showing that \"doctors are far more likely to prescribe an antibiotic when they perceive that the patient is interested in taking one.\" The ten questions range from the foundational (\"Is the antibiotic absolutely necessary?\") to the practical (\"What's the shortest amount of time I can t..."
+    },
+    {
+      "slug": "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies",
+      "claim_id": "pimentel-ch3-5",
+      "statement": "An emulsifier such as polysorbate 80 disrupts mucous membranes and, in effect, emulsifies your microbiome too. And sodium benzoate kills fungi that are supposed to be in the microbiome.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+      "confidence": "medium",
+      "evidence_excerpt": "General reference to food science and microbiome literature. The mechanism: emulsifiers disrupt the mucus layer that separates gut bacteria from the intestinal epithelium; preservatives intended to kill food-spoilage microorganisms also kill commensal gut microbes."
+    },
+    {
+      "slug": "claim-modern-westerners-lost-roughly-third-their-microbial",
+      "claim_id": "chutkan-found-2",
+      "statement": "Modern Westerners have lost roughly a third of their microbial diversity compared to hunter-gatherer and traditional agricultural populations. This loss is driven by processed foods, antibiotics, C-sections, formula feeding, and hyper-sanitized environments.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]",
+      "confidence": "medium",
+      "evidence_excerpt": "References studies comparing Hadza hunter-gatherers, rural African populations, and Amerindians in the Venezuelan Amazon to Western populations. Notes that traditional populations consuming high-fiber diets have microbial species not found in any Western gut."
+    },
+    {
+      "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+      "claim_id": "chutkan-rewild-5",
+      "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+      "confidence": "high",
+      "evidence_excerpt": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact..."
+    }
+  ]
+}

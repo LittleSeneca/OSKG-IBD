@@ -33,7 +33,12 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 5
-claims_files: ["claim-sarna-sibo-diet-1", "claim-sarna-sibo-diet-2", "claim-sarna-sibo-diet-3", "claim-sarna-sibo-diet-4", "claim-sarna-sibo-diet-5"]
+claims_files:
+  "[[claim-diets-work-same-reason-they-reduce-amount]]",
+  "[[claim-food-guide-developed-siebecker-based-her-clinical]]",
+  "[[claim-week-most-restrictive-eliminate-many-carbohydrates-much]]",
+  "[[claim-space-your-meals-four-five-hours-apart]]",
+  "[[claim-quoting-siebecker-youre-diet-thats-restricted-both]]"
 
 
 # Sarna -- Healing SIBO: Dietary Intervention and the SIBO Specific Food Guide
@@ -43,41 +48,9 @@ Shivan Sarna is a SIBO patient, patient advocate, and founder of the SIBO SOS Su
 ## Ch4: Change Your Diet to Change Your Life
 
 ### Claim 1: All SIBO diets work through the same mechanism: reducing fermentable carbohydrates that feed bacterial overgrowth
-
-**Author's claim:** "All of these diets work for the same reason: They reduce the amount of fermentable carbohydrates you're eating, which, in turn, gives the overgrown bacteria in your gut less to eat!"
-
-**Evidence presented:** Overview of five dietary approaches for SIBO, all converging on fermentable carbohydrate restriction. Sarna observes that "food doesn't cause SIBO" -- dietary triggers are about symptom management, not etiology.
-
-**Confidence:** HIGH. This is the unifying principle of ALL carbohydrate-restricted diets for SIBO/IBD. Gottschall (SCD), Pimentel (LFE), Monash (low-FODMAP), Siebecker (SSFG), and Campbell-McBride (GAPS) all converge on the same mechanism despite different food classifications. This is the most important conceptual claim in the book and it is correct.
-
-**What's at stake:** If all diets work through the same mechanism, the differences between them are about tolerability, sustainability, and individual variation -- not about one being "correct" and others "wrong." This reframes the dietary debate from competing truths to personalized implementation of a shared principle.
-
-**Who disagrees:** Purists in each camp may argue their specific carbohydrate classification is biochemically superior. Gottschall would argue monosaccharide/disaccharide distinction matters; low-FODMAP advocates would argue direct fermentation testing is more accurate than chemical classification.
-
-**Alternative reading:** The diets may work through different secondary mechanisms. SCD eliminates grains entirely (may reduce antinutrients, gluten, and food additives as well as carbohydrates). Low-FODMAP specifically targets fermentable oligosaccharides. LFE adds meal spacing (MMC support). These secondary mechanisms may matter for some patients.
-
-**My assessment:** Sarna's unifying framing is the most valuable contribution of this book to the OSKG. It correctly identifies the shared mechanism and presents the diets as a toolkit rather than competing ideologies. This is the pragmatic, patient-centered perspective that the clinical literature often lacks.
-
+**Claim 1 —** All SIBO diets work through the same mechanism: reducing fermentable carbohydrates that feed bacterial overgrowth → [[claim-diets-work-same-reason-they-reduce-amount]] | claim-sarna-sibo-diet-1 | Confidence: HIGH
 ### Claim 2: The SIBO Specific Food Guide (SSFG) is a hybrid of SCD and low-FODMAP, using a color-coded tier system instead of binary "legal/illegal" classification
-
-**Author's claim:** "This food guide was developed by Dr. Siebecker and is based on her clinical experience treating SIBO. It combines the recommendations of the Specific Carbohydrate Diet and the low FODMAP diet and is low fermentable."
-
-The SSFG uses a color-coded system: green (least fermentable, generally safe) → yellow (moderate, limit to one per meal) → orange → red (most fermentable, avoid initially). "No foods are totally off-limits, which, for me, is extremely reassuring."
-
-Sarna explicitly critiques the SCD's binary "legal/illegal" language: "That kind of black-and-white thinking can make following a SIBO diet more difficult and limiting than it needs to be."
-
-**Evidence presented:** Siebecker's clinical experience (no trials). Sarna's personal experience as a vegetarian navigating SIBO diets.
-
-**Confidence:** LOW for the SSFG as a validated dietary protocol (no trials). MEDIUM-HIGH for the color-coded tier approach being more flexible and sustainable than binary classification. The SSFG is a clinical tool, not an evidence-based protocol.
-
-**What's at stake:** The tiered approach represents an important evolution beyond SCD's rigidity. By acknowledging that fermentability is dose-dependent and individually variable, the SSFG empowers patients to experiment rather than obey. This is psychologically healthier and more sustainable.
-
-**Who disagrees:** SCD purists would argue that the color-coding obscures the biochemical distinction between allowed and forbidden carbohydrates. If the SCD's monosaccharide theory is correct, some red-category foods are genuinely harmful regardless of quantity.
-
-**Alternative reading:** The SSFG's flexibility may lead to inconsistent implementation and reduced efficacy. A patient who interprets "orange foods in small amounts are okay" liberally may never achieve the degree of fermentable carbohydrate restriction needed for symptom relief.
-
-**My assessment:** The color-coded approach is a significant practical improvement over binary "legal/illegal" classification. It acknowledges dose-dependency (a fundamental principle of fermentation that Gottschall's model ignores) and individual variation. The weakness is the complete absence of formal validation -- we don't know if SSFG adherence produces outcomes comparable to SCD or low-FODMAP.
-
+**Claim 2 —** The SIBO Specific Food Guide (SSFG) is a hybrid of SCD and low-FODMAP, using a color-coded tier system instead of binary "legal/illegal" classification → [[claim-food-guide-developed-siebecker-based-her-clinical]] | claim-sarna-sibo-diet-2 | Confidence: LOW
 ---
 
 ## SIBO Dietary Approaches Compared (from Ch4 text)
@@ -118,51 +91,11 @@ Sarna provides capsule summaries of five SIBO dietary approaches:
 ## Ch5: The 21-Day Plan
 
 ### Claim 3: A structured 3-week meal plan with progressive food expansion produces symptom improvement and dietary habit formation
-
-**Author's claim:** Week 1 is the most restrictive ("eliminate as many carbohydrates, as much fiber, and as many triggering foods as you possibly can. Steam and/or sauté all your fruits and veggies... Your food needs to be predigested as much as possible"). Week 2 begins cautious reintroduction ("one at a time, much as you would do on an allergy elimination diet"). Week 3 is habituation ("you know what to eat, it is starting to become a habit, and you are feeling noticeably better").
-
-**Evidence presented:** Sarna's personal experience and reader feedback. No trial data.
-
-**Confidence:** LOW. The 21-day timeframe is arbitrary. The progressive expansion structure is sensible but unvalidated. The specific meal plans (which include potatoes, white rice, and grilled cheese sandwiches) reflect Sarna's personal tolerances and vegetarian preferences, not universal SIBO dietary principles.
-
-**What's at stake:** The meal plans demonstrate that a SIBO diet can include satisfying, varied food -- countering the perception that SIBO diets are necessarily austere. This is important for compliance. However, the inclusion of high-starch foods (potatoes, white rice, bread) conflicts with SCD principles and may be poorly tolerated by some SIBO patients.
-
-**Who disagrees:** SCD advocates would object to potatoes, white rice, bread, and grilled cheese sandwiches in a SIBO dietary protocol. These are "illegal" on SCD. Sarna acknowledges this by noting "my recipes include starches like white rice, which isn't listed in SSFG, and potato, which is in the red category."
-
-**Alternative reading:** The meal plans are illustrative, not prescriptive. Sarna emphasizes individualization throughout. A patient following the SSFG strictly (without Sarna's personal modifications) would have a more restricted diet.
-
-**My assessment:** The meal plans are pedagogically useful (showing what's possible) but not clinically validated. Sarna's inclusion of potatoes and white rice as staples reflects her personal tolerance and the Cedars-Sinai/LFE approach more than the SSFG. The progressive structure (restrict → reintroduce → habituate) is the standard elimination diet pattern and is sensible.
-
+**Claim 3 —** A structured 3-week meal plan with progressive food expansion produces symptom improvement and dietary habit formation → [[claim-week-most-restrictive-eliminate-many-carbohydrates-much]] | claim-sarna-sibo-diet-3 | Confidence: LOW
 ### Claim 4: Meal spacing (4-5 hours between meals) supports the migrating motor complex and is as important as food choice
-
-**Author's claim:** "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion before you send more down the tube."
-
-**Evidence presented:** This is Pimentel's MMC theory, presented without citation in Sarna's voice.
-
-**Confidence:** HIGH for the MMC mechanism (Pimentel's research establishes the importance of fasting-state MMC activity for bacterial clearance). LOW for the specific 4-5 hour interval being optimal (no timing trials). The principle -- that constant eating/snacking impairs MMC function -- is well-supported.
-
-**What's at stake:** Meal spacing is a behavioral intervention that costs nothing and may be as important as food choice for SIBO management. It's the convergence point where Pimentel's motility theory meets dietary practice.
-
-**Who disagrees:** No one disputes the MMC mechanism. The debate is whether meal spacing alone (without dietary change or prokinetics) is sufficient. Pimentel's protocol uses both meal spacing AND the LFE diet AND prokinetics.
-
-**My assessment:** This is Sarna's most evidence-aligned dietary recommendation. The MMC mechanism is well-established in SIBO research. Meal spacing is a low-cost, low-burden intervention that should be part of any SIBO dietary protocol regardless of which specific diet is chosen.
-
+**Claim 4 —** Meal spacing (4-5 hours between meals) supports the migrating motor complex and is as important as food choice → [[claim-space-your-meals-four-five-hours-apart]] | claim-sarna-sibo-diet-4 | Confidence: HIGH
 ### Claim 5: The SIBO diet must balance restriction with sustainability -- excessive restriction risks eating disorders and diet abandonment
-
-**Author's claim:** Quoting Siebecker: "When you're on a diet that's so restricted both in scope and in portion size, it could trigger an eating disorder, which is why we try to treat the SIBO and then expand the diet as soon as possible." Sarna adds: "Sometimes you need to treat yourself and have a small amount of something you love. If you don't allow yourself to do that, you might just give up on the diet altogether."
-
-**Evidence presented:** Clinical observation (Siebecker's practice). The recognized phenomenon that medical diets can trigger disordered eating, particularly in populations with pre-existing food anxiety.
-
-**Confidence:** MEDIUM-HIGH. The association between restrictive medical diets and disordered eating is documented in the eating disorder literature. Sarna's recommendation for planned "treats" is a harm reduction strategy with no formal evidence but sound clinical reasoning.
-
-**What's at stake:** This directly contradicts Gottschall's "fanatical adherence" standard. Sarna argues that perfect adherence is counterproductive if it leads to diet abandonment or psychological harm. This is the patient-centered perspective vs. the protocol-centered perspective.
-
-**Who disagrees:** Gottschall would argue that even small infractions restart the vicious cycle, making "planned treats" self-sabotaging. The SCD model predicts that any fermentable substrate reaching the microbes perpetuates the problem.
-
-**Alternative reading:** Both are right for different patients. Patients with severe, acute SIBO/IBD may need strict adherence for a defined period. Patients with chronic, moderate SIBO/IBD may benefit more from sustainable partial adherence than from cycles of strict adherence followed by abandonment.
-
-**My assessment:** Sarna's harm reduction approach is more psychologically realistic than Gottschall's absolutism. The key insight -- that dietary perfectionism can cause more harm than occasional dietary deviations -- is supported by the eating disorder literature and clinical experience. The practical question is where the threshold lies between beneficial flexibility and counterproductive permissiveness. No research answers this.
-
+**Claim 5 —** The SIBO diet must balance restriction with sustainability -- excessive restriction risks eating disorders and diet abandonment → [[claim-quoting-siebecker-youre-diet-thats-restricted-both]] | claim-sarna-sibo-diet-5 | Confidence: MEDIUM-HIGH
 ---
 
 ## SSFG Implementation Principles (from Ch4-5)

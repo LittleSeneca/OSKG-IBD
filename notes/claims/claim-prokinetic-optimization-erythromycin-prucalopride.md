@@ -50,15 +50,18 @@ Prokinetic therapy is Pillar 3 of Pimentel's SIBO management framework (preventi
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-sibo-medicine-cabinet-symptom-remedies|Sarna adds naturopathic prokinetic options (Iberogast, ginger) and OTC symptom remedies to Pimentel's pharmaceutical pro]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

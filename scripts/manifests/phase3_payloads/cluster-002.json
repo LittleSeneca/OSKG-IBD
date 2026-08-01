@@ -1,0 +1,188 @@
+{
+  "cluster_id": "cluster-002",
+  "cluster_label": "surgery (therapeutic)",
+  "domain": "domain/treatment",
+  "size": 20,
+  "claims": [
+    {
+      "slug": "claim-approach-often-used-manage-perianal-crohns-disease",
+      "claim_id": "steinhart-surg-5",
+      "statement": "An approach that is often used to manage perianal Crohn's disease is a combined surgical and medical approach, whereby the surgeon drains any abscesses and puts in setons as necessary and the gastroenterologist treats the Crohn's disease with medication, most often infliximab or adalimumab.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical practice patterns. Steinhart acknowledges \"there haven't been large trials to study this combined approach, but it appears that it may provide long-term healing and symptom control better than what can be provided by either surgery or drug therapy alone.\" Surgical flap procedures have \"a fa..."
+    },
+    {
+      "slug": "claim-approximately-people-suffering-crohns-disease-approximately-people",
+      "claim_id": "steinhart-surg-2",
+      "statement": "Approximately 70% to 80% of people suffering from Crohn's disease and approximately 20% to 40% of people suffering from ulcerative colitis will require surgery at some point following their diagnosis. These estimates are based on information from previous decades and do not necessarily reflect the effect of recent advances in drug therapy. There is some indication that surgical rates are coming do",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Historical surgical epidemiology. Steinhart acknowledges the limitation: these are pre-biologic era estimates, and rates are declining with earlier and more effective medical therapy."
+    },
+    {
+      "slug": "claim-aside-coli-nissle-probiotic-there-evidence-probiotic",
+      "claim_id": "steinhart-drug-10",
+      "statement": "Aside from the E. coli Nissle probiotic, there is no evidence that any probiotic, including VSL#3, is effective in improving outcomes in ulcerative colitis or Crohn's disease.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "E. coli Nissle for UC maintenance (roughly equivalent to 5-ASA). VSL#3 for pouchitis prevention (some positive studies). FMT studies have \"huge variation in how FMT is carried out\" making results impossible to interpret. Steinhart notes donor selection, processing, delivery route, and timing all var..."
+    },
+    {
+      "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+      "claim_id": "steinhart-drug-9",
+      "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe..."
+    },
+    {
+      "slug": "claim-conditions-right-laparoscopic-surgery-done-safely-without",
+      "claim_id": "steinhart-surg-7",
+      "statement": "When the conditions are right, laparoscopic surgery can be done safely and without an increase in complications over the open approach. It leaves a much smaller scar on the abdomen than open surgery. It may also reduce pain and speed up recovery.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Surgical experience since approximately 1990. Steinhart notes limitations: adhesions from prior surgery, complex fistulizing disease, and abscesses may preclude laparoscopic completion and require conversion to open."
+    },
+    {
+      "slug": "claim-current-guidelines-therefore-recommend-drug-concentration-monitoring",
+      "claim_id": "yamada-uc63-6",
+      "statement": "Current guidelines therefore recommend that drug concentration monitoring only be done reactively when a patient is observed to have active persistent disease despite therapy to assess for whether they have adequate drug exposure and are a true nonresponder, and/or if they have developed antidrug antibodies as a source of nonresponse.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "The TAXIT trial (n=263 IBD patients, 85 UC): drug concentration-based management achieved similar remission rates to clinically-based management (69% vs 66%) but lower relapse rates (7% vs 17%, p=0.018). However, a subsequent Crohn's trial comparing symptom-based, biomarker-based, and drug concentra..."
+    },
+    {
+      "slug": "claim-given-cured-surgery-short-bowel-syndrome-occur",
+      "claim_id": "yamada-surg65-2",
+      "statement": "Given CD is not cured by surgery, and short bowel syndrome can occur in up to 13% of cases, strictureplasty has been used",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch65 Surgical Treatment of IBD]]",
+      "confidence": "high",
+      "evidence_excerpt": "Multiple surgical series. Risk factors for complications: low preoperative albumin, weight loss, advanced age, preoperative steroid use, abscess/fistula at time of strictureplasty. Reoperation rates: 29% at 5 years, 34% at 7.5 years, 73% at 10 years."
+    },
+    {
+      "slug": "claim-infliximab-produces-patients-responded-positively-active-crohns",
+      "claim_id": "steinhart-drug-6",
+      "statement": "Infliximab produces \"60% to 80% of patients responded positively\" in active Crohn's. \"Repeated dosing of infliximab can produce complete healing of the inner lining of the intestine, something that is not consistently observed with any of the previous medical therapies.\" It is effective for fistulizing Crohn's (\"the first treatment shown to cause fistulas to stop draining\") and for treatment-resis",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical trial data. Steinhart references the ACT trials for UC, the fistula trials for Crohn's, and general clinical experience. He notes the infusion reaction rate (5-10%), the tuberculosis reactivation risk (now mitigated by pre-treatment screening), and the antibody formation problem (which redu..."
+    },
+    {
+      "slug": "claim-patients-ulcerative-colitis-major-advantage-over-patients",
+      "claim_id": "steinhart-surg-1",
+      "statement": "Patients with ulcerative colitis have a major advantage over patients with Crohn's disease because their disease involves only the large intestine (colon): when the large intestine is surgically removed, the disease is effectively 'cured.'",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Decades of surgical experience. Recurrence data: \"Approximately 1 out of every 3 patients undergoing surgery for Crohn's disease will have a recurrence of symptoms within 3 to 5 years if they are on no treatment, and a portion of those will end up requiring another operation.\" The clinical consequen..."
+    },
+    {
+      "slug": "claim-pelvic-pouch-procedure-offered-most-patients-need",
+      "claim_id": "steinhart-surg-3",
+      "statement": "The pelvic pouch procedure is offered to most patients who need surgery for ulcerative colitis. More than 90% end up being very satisfied with the result.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Surgical case series and clinical experience. The pouchitis rate of 10-15% is cited, with the observation that \"some centers that have a large experience with the pelvic pouch procedure report higher rates.\" Pouchitis is treated with antibiotics (ciprofloxacin) and responds differently from UC. Fert..."
+    },
+    {
+      "slug": "claim-rates-clinical-remission-endoscopic-improvement-significantly-higher",
+      "claim_id": "yamada-uc63-5",
+      "statement": "Rates of clinical remission and endoscopic improvement were significantly higher with 10 mg twice-daily dose of tofacitinib for induction, and significantly higher with both the 5 mg and 10 mg twice-daily dose of tofacitinib during maintenance.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "OCTAVE Induction 1 and 2, OCTAVE Sustain (phase III program). Remission at induction: ~18.5% tofacitinib vs 8.2% placebo. Maintenance: 34.3% (5 mg) and 40.6% (10 mg) vs 11.1% placebo. Safety: herpes zoster rate is dose-dependent (6.6 per 100 PY at 10 mg bid vs 2.1 at 5 mg bid). No immunogenicity con..."
+    },
+    {
+      "slug": "claim-section-lines-84908-covers-total-proctocolectomy-end",
+      "claim_id": "yamada-surg65-3",
+      "statement": "The UC section (lines 84908+) covers total proctocolectomy with end ileostomy as the historical standard and IPAA as the current restorative procedure of choice. The chapter covers technical aspects: pouch construction, temporary diverting ileostomy, and staged procedures for sick/malnourished patients.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch65 Surgical Treatment of IBD]]",
+      "confidence": "high",
+      "evidence_excerpt": "Surgical technique descriptions and outcome data. The chapter acknowledges indeterminate colitis as a diagnostic challenge: patients with indeterminate colitis undergoing IPAA have \"only a slightly higher risk of pouch failure\" compared to UC patients, but known CD patients are \"usually not candidat..."
+    },
+    {
+      "slug": "claim-strictureplasty-method-avoiding-removal-additional-segments-intestine",
+      "claim_id": "steinhart-surg-4",
+      "statement": "Strictureplasty is a method of avoiding removal of additional segments of intestine... by opening up the affected and narrowed segment of the intestine and creating a larger internal passageway for food to pass through without causing symptoms of obstruction.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Surgical technique description. Steinhart notes the limitations: \"The affected segment is often too long,\" \"sometimes too diseased and thickened,\" and when \"there may be only a single short segment of narrowing... the risk of the strictureplasty procedure (leak, infection, recurrent obstruction) is ..."
+    },
+    {
+      "slug": "claim-there-move-toward-making-elimination-active-inflammation",
+      "claim_id": "steinhart-drug-1",
+      "statement": "There has been a move toward making elimination of active inflammation and healing of ulcers -- called mucosal healing -- a goal of therapy in IBD.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical observation and the natural history of Crohn's complications. Steinhart acknowledges that mucosal healing \"is a higher hurdle to achieve than remission or elimination of symptoms\" and that complete healing \"may be an unrealistic goal\" in long-standing Crohn's. He notes that colonoscopy or i..."
+    },
+    {
+      "slug": "claim-there-move-toward-using-more-potent-more",
+      "claim_id": "steinhart-drug-2",
+      "statement": "There has been a move toward using the more potent and more consistently effective therapies that are more likely to result in ulcer healing earlier on in the course of the disease, before complications have occurred.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "The observation that Crohn's complications (strictures, fistulas, abscesses) are often irreversible once they occur, and that surgery becomes necessary. The argument is preventive: treat aggressively before damage accumulates. Steinhart notes that predicting which patients will have aggressive disea..."
+    },
+    {
+      "slug": "claim-tofacitinib-shown-effective-treating-ulcerative-colitis-properly",
+      "claim_id": "steinhart-drug-8",
+      "statement": "Tofacitinib \"has been shown to be effective in treating ulcerative colitis. It has not been properly tested in Crohn's disease.\" As a small molecule, it is orally administered, does not provoke antibody formation, and has a different side effect profile from biologics -- notably an increased risk of shingles.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical trial data for UC. Steinhart notes that other JAK inhibitors (filgotinib, upadacitinib) were in development for Crohn's at the time of writing. The shingles risk is highlighted: \"One infection that has been seen more often than expected in people taking tofacitinib is shingles.\""
+    },
+    {
+      "slug": "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+      "claim_id": "yamada-cd64-1",
+      "statement": "To truly reduce long-term outcomes of CD, clinicians should aim to achieve not only symptomatic improvement but rather deep remission as a goal of therapy.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "The REACT and CALM trials are cited as the evidence basis. REACT demonstrated improved long-term outcomes (hospitalization, surgery) with algorithmic 12-week reassessment and dose adjustment based on symptom-based scores. CALM showed that targeting objective markers (fecal calprotectin, CRP) produce..."
+    },
+    {
+      "slug": "claim-vedolizumab-effective-induction-maintenance-agent-approved-use",
+      "claim_id": "yamada-cd64-5",
+      "statement": "Vedolizumab \"is an effective induction and maintenance agent approved for use in CD,\" with \"up to 89% of patients in remission after 3 years\" among initial responders, though \"the efficacy of vedolizumab is lower among those with prior anti-TNF failure.\" Ustekinumab \"is an effective induction and maintenance agent for CD among patients who are experienced or naive to anti-TNF therapy.\" Neither car",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Vedolizumab: pivotal trials (GEMINI), post-hoc analyses showing trough level-response relationships, immunogenicity of ~5%. Ustekinumab: UNITI trials, immunogenicity <5% through week 156, higher trough levels correlated with clinical remission. The authors note that drug level monitoring for these a..."
+    },
+    {
+      "slug": "claim-vedolizumab-gut-specific-appear-suppress-entire-bodys",
+      "claim_id": "steinhart-drug-7",
+      "statement": "Vedolizumab \"is 'gut specific'... it does not appear to suppress the entire body's immune system, only the immune system of the gut... serious infections occurring only very rarely.\" For ustekinumab: \"It is an antibody that attaches to and blocks the action of two proteins, called interleukin-12 and interleukin-23... inflammation caused by Crohn's disease is reduced.\"",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Vedolizumab's mechanism (alpha4beta7 integrin blockade preventing lymphocyte gut homing) is described accessibly. Steinhart notes the unknowns: whether vedolizumab treats extra-intestinal manifestations (arthritis, skin, liver) is not established. Ustekinumab had only been tested in Crohn's at the t..."
+    },
+    {
+      "slug": "claim-vedolizumab-suppresses-inflammation-gastrointestinal-tract-without-inducin",
+      "claim_id": "yamada-uc63-4",
+      "statement": "Vedolizumab suppresses inflammation in the gastrointestinal tract without inducing the systemic immunosuppression that characterizes the anti-alpha4 integrin monoclonal antibody natalizumab. This gut-selective targeting of inflammation potentially offers a distinct advantage of treating intestinal mucosal inflammation while avoiding off-target side-effects seen with TNF-alpha antagonists.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "GEMINI trial: clinical response at week 6 in 47.1% vs 25.5% placebo (p<0.001). Maintenance at week 52: remission in 42-45% (vedolizumab q8wk/q4wk) vs 16% placebo. Safety: serious infection rates similar to placebo (4.3 vs 3.8 per 100 PY). PML reported only once in a patient with concurrent AIDS. Imm..."
+    }
+  ]
+}

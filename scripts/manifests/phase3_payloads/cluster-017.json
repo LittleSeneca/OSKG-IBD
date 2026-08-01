@@ -1,0 +1,251 @@
+{
+  "cluster_id": "cluster-017",
+  "cluster_label": "ibs (mechanistic)",
+  "domain": "domain/microbiome",
+  "size": 27,
+  "claims": [
+    {
+      "slug": "claim-anxiety-doesnt-give-you-ibs-ibs-gives",
+      "claim_id": "pimentel-ch1-6",
+      "statement": "Anxiety Doesn't Give You IBS -- IBS Gives You Anxiety.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "high",
+      "evidence_excerpt": "The authors cite Nicholas Talley and Marjorie Walker's research at the University of Newcastle, Australia. They document the historical injustice: IBS listed in DSM-IV until 2000, physicians telling patients \"It's all in your head,\" the medical school teaching that \"Those IBS patients you're going t..."
+    },
+    {
+      "slug": "claim-average-take-four-six-years-you-receive",
+      "claim_id": "pimentel-ch1-4",
+      "statement": "On average, it might take four to six years for you to receive a diagnosis of IBS, usually after undergoing a variety of costly and invasive diagnostic procedures... We've had patients who spent $20,000 in out-of-pocket co-pays for a variety of investigations before the diagnosis of IBS was finally settled on.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "high",
+      "evidence_excerpt": "A study finding that \"79 percent of community clinicians diagnosed IBS via exclusion, which resulted in more tests for their patients and significantly raised the direct costs of patient care.\" The list of unnecessary procedures: \"stool tests, colonoscopies, upper endoscopies, computed tomography sc..."
+    },
+    {
+      "slug": "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+      "claim_id": "pimentel-ch2-5",
+      "statement": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and is different from SIBO, but it's worse when SIBO is present. One of the main causes of bile acid diarrhea is SIBO.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "high",
+      "evidence_excerpt": "The biochemical pathway: bacteria deconjugate bile acids to toxic secondary bile acids (deoxycholic acid, lithocholic acid) that are pro-secretory in the colon. The connection to gallbladder: \"If your gallbladder is removed or is not functioning properly, bile will flow straight from the liver into ..."
+    },
+    {
+      "slug": "claim-because-food-poisoning-connection-now-know-more",
+      "claim_id": "pimentel-ch4-5",
+      "statement": "Because of the food poisoning connection, we now know more about the cause of IBS than we do about Crohn's disease or ulcerative colitis. IBS is 40 times more common than Crohn's disease or ulcerative colitis. We're much further along in understanding the true mechanism of IBS than that of the other two diseases. Yet in the last decade, Crohn's disease and ulcerative colitis have received $250 mil",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+      "confidence": "high",
+      "evidence_excerpt": "NIH funding figures ($250M for IBD vs. $10M for IBS over a decade). The 40x prevalence comparison. Pimentel's CdtB-vinculin mechanism as a more complete causal explanation than anything available for IBD."
+    },
+    {
+      "slug": "claim-cdtb-vinculin-autoimmunity-discovery-2006-2022",
+      "claim_id": "pimentel-evol-2",
+      "statement": "Between 2006 and 2022, Pimentel's group discovered the CdtB-vinculin autoimmunity mechanism: Campylobacter CdtB toxin \u2192 anti-CdtB antibodies \u2192 molecular mimicry with vinculin \u2192 anti-vinculin autoantibodies \u2192 MMC damage \u2192 SIBO. In 2006, the mechanism was unknown; by 2022, the full cascade had been characterized, validated in a 3000-patient study, and operationalized as a commercial blood test.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "high",
+      "evidence_excerpt": "2006 book: Pimentel was actively researching the toxin mechanism but had not identified CdtB: 'I am working with my colleagues at Cedars-Sinai conducting research to determine whether the toxin produced by...' \u2014 sentence trails off mid-page. Post-infectious IBS was recognized (European researchers s..."
+    },
+    {
+      "slug": "claim-clinical-study-published-2002-found-ibs-sibo",
+      "claim_id": "pimentel-ch2-2",
+      "statement": "In a clinical study published in 2002, we found that IBS and SIBO patients had 60 percent fewer housekeeping waves compared to healthy controls, meaning that the small bowel motility of these IBS patients was insufficient to completely clean out their small intestine.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "high",
+      "evidence_excerpt": "Pimentel's 2002 study (likely Pimentel et al., American Journal of Gastroenterology, 2002). The mechanism: \"On a regular basis, bacteria in the colon creep back up to the small intestine in search of more food. However, the small intestine pushes them back to the colon with housekeeper waves. If the..."
+    },
+    {
+      "slug": "claim-five-categories-rifaximin-response-one-done-mostly",
+      "claim_id": "pimentel-ch6-2",
+      "statement": "Five categories of rifaximin response: (1) \"One and done\" -- mostly symptom-free for months or years; (2) \"One and better, relapse in time\" -- \"generally accounts for about 70 percent of patients\" who feel better then relapse within 6 months; (3) \"Feel better, relapse quickly\" -- within one month, suggesting mechanical cause; (4) \"Partial response\" -- requires further investigation; (5) \"No respon",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "TARGET 3 clinical trial data. Clinical experience at Cedars-Sinai. A sub-study showing rifaximin was \"even more effective among IBS with diarrhea patients who had a positive breath test for SIBO.\""
+    },
+    {
+      "slug": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+      "claim_id": "chutkan-dysbiosis-5",
+      "statement": "It's helpful to think of leaky gut more as a mechanism than a disease, since there's such a wide range of signs and symptoms associated with it. It's a precondition for developing autoimmune disease, since it's the increase in intestinal permeability \u2014 the opening of the door from our gut into our body \u2014 that allows toxins to enter and then trigger an immune response.",
+      "claim_type": "mechanistic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Describes the IP (intestinal permeability) test using lactulose/mannitol ratio. Notes its limitations (affected by exercise, can normalize quickly with diet/probiotics). Cites the Fasano model: gluten \u2192 zonulin release \u2192 tight junction opening \u2192 increased permeability \u2192 autoimmune triggering in gene..."
+    },
+    {
+      "slug": "claim-main-problem-rome-criteria-they-never-really",
+      "claim_id": "pimentel-ch1-5",
+      "statement": "The main problem with the Rome Criteria is that they never really diagnosed IBS, as the criteria required first eliminating other diseases. For example, 70 to 80 percent of people with Crohn's disease meet the Rome Criteria, making the Rome Criteria useful only after the clinician eliminates other diseases.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "high",
+      "evidence_excerpt": "The Rome Criteria evolution: Rome I (1988), Rome II (1998), Rome III (2008), Rome IV (2016). Rome IV removed \"abdominal discomfort,\" retaining only \"abdominal pain.\" Pimentel notes the Rome IV criteria: \"if you have persistent, weekly abdominal pain for more than three months that's associated with ..."
+    },
+    {
+      "slug": "claim-notice-just-referred-ibs-disease-doesnt-ibs",
+      "claim_id": "pimentel-ch1-2",
+      "statement": "Notice that we just referred to IBS as a 'disease.' Doesn't IBS stand for irritable bowel 'syndrome'? As you read through the chapters of this book you'll see that IBS is a legitimate 'disease' and that the word 'syndrome' may no longer apply.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The term \"syndrome\" historically leaned on \"the now-dispelled belief that IBS is a disease of psychological origin.\" The authors argue that since SIBO provides an organic etiology, IBS should be reclassified. They cite the history of IBS being listed in the DSM-IV (until 2000) as evidence of the psy..."
+    },
+    {
+      "slug": "claim-now-know-microbiome-20-foot-long-small-intestine-radically",
+      "claim_id": "pimentel-ch3-1",
+      "statement": "We now know that the microbiome in the 20-foot-long small intestine is radically different from the microbiome in the stool. Declaring that the stool represents the microbiome in the gut is incomplete and incorrect. In a recent paper (2020), we published for the first time the bacterial profile of the entire small intestine and colon (represented by stool). Even at the highest levels, the small bo",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+      "confidence": "high",
+      "evidence_excerpt": "The REIMAGINE study (Pimentel et al., 2020): \"we examined aspirates from the small intestine to define for the first time the composition of the small intestine's microbiome.\" The technique: \"an endoscope into the mouth and snaked down into the small intestine. Then, using a newly designed sterile a..."
+    },
+    {
+      "slug": "claim-one-retrospective-study-suggested-nearly-half-ibs",
+      "claim_id": "pimentel-ch6-7",
+      "statement": "One retrospective study suggested nearly half of IBS patients responded to these natural products [oil of oregano, neem, garlic extract/allicin]. We are open to providing these plant-based antibiotics to our patients who don't want to take conventional antibiotics, however, the plant-based antibiotics haven't been assessed for their safety or potential interactions with other drugs.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "medium",
+      "evidence_excerpt": "One retrospective study (~50% response). Clinical observation. Open questions: \"Which producer has the most effective product? Which combination is best? For these answers you'll need to rely on those who have expertise in their use.\""
+    },
+    {
+      "slug": "claim-peppermint-appears-work-multiple-ways-calcium-channel",
+      "claim_id": "pimentel-ch9-1",
+      "statement": "Peppermint appears to work in multiple ways. It is a calcium channel blocker... It blocks calcium channels in the smooth muscle from the esophagus all the way to the rectum and relaxes muscles as it travels.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+      "confidence": "high",
+      "evidence_excerpt": "One robust RCT for IBS diarrhea. Mechanism: calcium channel blockade relaxes smooth muscle (anti-spasmodic), weak 5-HT3 antagonism slows transit. Enteric-coated formulations release in the small intestine. Peppermint oil can also relieve esophageal spasm (4 drops in water)."
+    },
+    {
+      "slug": "claim-percent-siboibs-patients-smearing-fecal-incontinence-stool",
+      "claim_id": "pimentel-ch2-6",
+      "statement": "Up to 30 percent of SIBO/IBS patients have smearing or fecal incontinence... The stool is more like peanut butter, and if you've had peanut butter on your hands, you know how hard it is to remove. So, if stool like that passes through the anus, it's hard to clean and sometimes it cannot be completely cleaned by just wiping after bowel movements.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical observation at Cedars-Sinai. The altered stool form in SIBO is attributed to incomplete digestion and bacterial fermentation products affecting stool consistency."
+    },
+    {
+      "slug": "claim-performed-study-compared-erythromycin-another-serotonin-agonist",
+      "claim_id": "pimentel-ch6-5",
+      "statement": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod). The serotonin agonist kept bacteria away for over 200 days, while erythromycin kept bacteria away for only a few months. So, in this one study, serotonin receptor agonists were more effective at preventing the relapse of SIBO than erythromycin (but erythromycin was better than n",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Comparative study of tegaserod vs. erythromycin for SIBO prevention. Pharmacological rationale: erythromycin's short half-life vs. prucalopride's longer half-life. Tachyphylaxis observation with long-term prokinetic use: \"After a few months, prucalopride may lose some of its effectiveness... To trea..."
+    },
+    {
+      "slug": "claim-pimentel-lists-five-natural-defenses-table-phase",
+      "claim_id": "pimentel-ch2-3",
+      "statement": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve (preventing colonic reflux into small intestine), (4) stomach acid (killing ingested bacteria before they reach the small intestine), and (5) mucosal immunity (GALT, Peyer's patches, tight junctions)",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "high",
+      "evidence_excerpt": "Standard GI physiology. The stomach produces \"two liters, or a half gallon, a day\" of highly acidic fluid \"strong enough to eat through a sheet of steel\" that kills most bacteria. The ileocecal valve \"has an important role in separating the colon microbiome from that of the small intestine, which co..."
+    },
+    {
+      "slug": "claim-proton-pump-inhibitors-ppis-acid-suppressants-create",
+      "claim_id": "chutkan-dysbiosis-2",
+      "statement": "Proton pump inhibitors (PPIs) and acid suppressants create a hospitable environment for bacterial overgrowth by removing the stomach's acid barrier. NSAIDs increase intestinal permeability (\"make holes in your gut\") allowing bacterial translocation. Birth control pills and hormone replacement therapy alter the microbial ecosystem through estrogen effects. Corticosteroids suppress beneficial bacter",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "For PPIs: increased risk of C. difficile infection and pneumonia, altered gut bacterial composition, small intestinal bacterial overgrowth. For NSAIDs: well-established ulceration and permeability effects. For hormones: association with chronic yeast infections. For steroids: clinical observation of..."
+    },
+    {
+      "slug": "claim-recent-medium-sized-randomized-controlled-trial-found-5000",
+      "claim_id": "pimentel-ch9-5",
+      "statement": "A recent medium-sized randomized controlled trial found 5000 mg doses (about 2 teaspoons) of L-glutamine three times daily improved IBS symptoms and intestinal permeability, the so-called leaky gut. Larger trials are needed to confirm this data. L-glutamine is a safe supplement and an option for IBS treatment.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+      "confidence": "medium",
+      "evidence_excerpt": "One medium-sized RCT. Mechanism: L-glutamine is an amino acid that may heal the intestinal lining."
+    },
+    {
+      "slug": "claim-remember-gut-two-modes-feeding-digestion-fasting",
+      "claim_id": "pimentel-ch2-1",
+      "statement": "Remember, the gut has two modes: feeding (digestion) and fasting (cleaning). Two to four hours after you eat and digest a meal, the feeding mode turns off and fasting mode begins... During the fasting mode, waves of electrical activity induce the gut to sweep residual undigested material through the digestive tract. This 'housekeeping' role is known as the migrating motor complex.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "high",
+      "evidence_excerpt": "The MMC mechanism is well-characterized in the gastrointestinal physiology literature. Pimentel cites standard GI physiology: phase III of the MMC is the \"housekeeper\" phase, occurring every 90-120 minutes during fasting, lasting 5-8 minutes, and originating in the stomach or proximal small intestin..."
+    },
+    {
+      "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+      "claim_id": "pimentel-ch9-3",
+      "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+      "confidence": "high",
+      "evidence_excerpt": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO."
+    },
+    {
+      "slug": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+      "claim_id": "pimentel-ch5-1",
+      "statement": "SIBO occurs when there are greater than 1000 bacteria per milliliter (>10^3/mL) in the small intestine. In SIBO, this excessive quantity of bacteria is not an infection, but rather an over-colonization of specific bacteria in an area where they don't belong. The bacteria aren't invading or attacking you; they are your own resident bacteria. SIBO is, in effect, a phenomenon of bacteria dislocated f",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Standard SIBO definition from gastroenterology. The REIMAGINE study's confirmation of the small intestine-colon bacterial gradient. The mechanism of bacterial reflux: \"the ileocecal valve... is a simple connector rather than a functioning sphincter. This means that the valve never fully closes and t..."
+    },
+    {
+      "slug": "claim-similar-sibo-fungal-elements-overgrow-small-intestine",
+      "claim_id": "pimentel-ch9-4",
+      "statement": "Similar to SIBO, fungal elements can overgrow in the small intestine and cause symptoms. The only way to diagnose small intestinal fungal overgrowth (SIFO) is to perform an endoscopic aspiration of the small intestine and culture it for fungal elements. Current stool, saliva, or blood tests are not accurate in diagnosing SIFO.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Pimentel's group has \"launched the largest trial to date to define mycobiome in various diseases.\" Candida albicans is the most common gut fungus. Treatment: antifungal medications such as nystatin."
+    },
+    {
+      "slug": "claim-structural-yamada-sibo58-1",
+      "claim_id": "yamada-sibo58-implicit-5",
+      "statement": "SIBO Has Two Distinct Clinical Presentations",
+      "claim_type": "definitional",
+      "source_note": "[[Yamada Ch58 - Bacterial Overgrowth Textbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-there-antidepressant-drug-antidepressantantipsychotic-property-approved-tr",
+      "claim_id": "pimentel-ch9-2",
+      "statement": "There is no antidepressant or drug with antidepressant/antipsychotic property approved for treatment of IBS by the FDA or European or Asian drug agencies.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+      "confidence": "high",
+      "evidence_excerpt": "Pimentel's published harm analysis using \"number needed to harm\" (NNH). Meta-analysis problems: small negative studies unpublished (publication bias), different drugs pooled (apples and oranges), variable methods. Side effects of tricyclics: dry mouth, constipation, heart rhythm problems, impotence."
+    },
+    {
+      "slug": "claim-treatment-rifaximin-alone-another-antibiotic-neomycin-alone",
+      "claim_id": "pimentel-ch6-3",
+      "statement": "Treatment with rifaximin alone or with another antibiotic (neomycin) alone did not work well. However, in the laboratory, a combination of both antibiotics (rifaximin and neomycin) appeared more effective. As a result of this finding, we compared neomycin alone versus neomycin plus rifaximin in a double-blind study and found that nearly 80 percent of IBS patients taking both drugs felt better, and",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Double-blind study of neomycin \u00b1 rifaximin. Laboratory data on M. smithii antibiotic sensitivity. Clinical observation that \"methane seems to relapse sooner and more often\" -- \"constipation symptoms returned in one month in a large number of patients who initially responded.\""
+    },
+    {
+      "slug": "claim-you-sibo-taking-prebiotic-actually-provide-food",
+      "claim_id": "pimentel-ch10-3",
+      "statement": "If you have SIBO, taking a prebiotic may actually provide food for the bacteria you don't want to overgrow. We've also found that prebiotics cause more bloating in our patients.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch10-11 Probiotics FMT and Myths]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical observation at Cedars-Sinai (prebiotics cause bloating). Mechanistic argument: prebiotics are fermentable fiber that feeds all bacteria, including the overgrown disrupter species."
+    },
+    {
+      "slug": "claim-your-gut-millions-immune-cells-more-immune",
+      "claim_id": "pimentel-ch2-4",
+      "statement": "Your gut has millions of immune cells -- more immune cells than anywhere else in your body. The intestinal immune system encounters more antigens -- toxins or other foreign substances that induce an immune response -- than any other part of the body. That's because you're bringing the outside world into your body by eating.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+      "confidence": "high",
+      "evidence_excerpt": "Standard immunology. The epithelial barrier consists of a single cell layer with tight junctions that \"only allow microorganisms to enter through them and not in-between them.\""
+    }
+  ]
+}

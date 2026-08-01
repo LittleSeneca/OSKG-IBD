@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-aga-cd2021-r9-against-5-asa-sulfasalazine|AGA 2021's strong recommendation against 5-ASA and sulfasalazine challenges ACG 2018's conditional endorsement of sulfas]]
+
+**Contradicts:**
 
 ## Assessment
 

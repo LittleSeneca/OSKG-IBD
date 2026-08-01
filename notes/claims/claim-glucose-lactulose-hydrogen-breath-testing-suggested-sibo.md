@@ -56,15 +56,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-role-sibo-pathogenesis-ibs-controversial-because-breath|Rome 2017 report challenges the validity of breath testing that ACG SIBO 2020 suggests for SIBO diagnosis, noting breath]]
+
+**Contradicts:**
 
 ## Assessment
 

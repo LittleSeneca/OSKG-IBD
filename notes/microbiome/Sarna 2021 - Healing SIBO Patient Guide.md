@@ -30,7 +30,12 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 5
-claims_files: ["claim-sarna-guide-1", "claim-sarna-guide-2", "claim-sarna-guide-3", "claim-sarna-guide-4", "claim-sarna-guide-5"]
+claims_files:
+  "[[claim-three-treatment-modalities-pharmaceutical-herbal-elemental]]",
+  "[[claim-sibo-relapse-management-multiple-treatment-rounds]]",
+  "[[claim-sibo-medicine-cabinet-symptom-remedies]]",
+  "[[claim-sarna-pimentel-alignment-differences]]",
+  "[[claim-sibo-prevalence-78-percent-ibs-sarna]]"
 
 
 # Sarna 2021 — Healing SIBO: A Patient's Guide to the SIBO Consensus

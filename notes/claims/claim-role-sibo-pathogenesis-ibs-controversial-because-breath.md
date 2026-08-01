@@ -56,15 +56,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-graded-recommendation-discussed-reference-standard-significant-limitations|Both Rome 2017 and ACG SIBO 2020 identify significant limitations of jejunal aspirate culture as a gold standard for SIB]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo|Rome 2017 report challenges the validity of breath testing that ACG SIBO 2020 suggests for SIBO diagnosis, noting breath]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -55,15 +55,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-aga-sibo2020-bpa-1|AGA SIBO 2020 identifies the definitional imprecision and lack of consistency that ACG SIBO 2020's clinical definition a]]
+- [[claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost|The SIBO paradigm challenges the symptom-based FGID framework by identifying an organic bacterial cause for symptoms pre]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -54,15 +54,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate|AGA Crohn's 2021 confirms ACG 2018's MTX efficacy finding while adding the critical specification that parenteral (SC/IM]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

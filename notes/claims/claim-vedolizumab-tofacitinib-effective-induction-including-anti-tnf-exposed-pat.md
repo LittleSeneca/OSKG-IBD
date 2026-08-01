@@ -55,15 +55,20 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance|ACG UC 2019 provides independent trial evidence (GEMINI 1, OCTAVE) confirming vedolizumab and tofacitinib are superior t]]
+- [[claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab|ACG UC 2019 confirms tofacitinib efficacy specifically in anti-TNF-exposed patients, providing direct evidence for AGA 2]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab|ACG UC 2019 extends AGA 2020's biologic-naïve preference ranking by demonstrating that vedolizumab and tofacitinib remai]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

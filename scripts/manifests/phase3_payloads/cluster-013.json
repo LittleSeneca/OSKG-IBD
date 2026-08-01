@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-013",
+  "cluster_label": "anti-il12-23 (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over",
+      "claim_id": "aga-cd2021-3",
+      "statement": "In biologic-naive patients, infliximab, adalimumab, or ustekinumab are preferred over certolizumab; in primary nonresponders to anti-TNF, ustekinumab is preferred (R2A-C)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Among biologic-naive patients (8 RCTs, 1,458 patients): infliximab was superior to certolizumab pegol (OR 4.33, 95% CI 1.83-10.27) with moderate confidence. Infliximab trended toward superiority over vedolizumab (OR 2.20, 0.79-6.07) and ustekinumab (OR 2.14, 0.89-5.15) but confidence intervals cross..."
+    },
+    {
+      "slug": "claim-combination-biologic-immunomodulator-therapy-recommended-over-either",
+      "claim_id": "aga-uc2020-6",
+      "statement": "Combination biologic + immunomodulator therapy is recommended over either monotherapy, but the evidence is almost entirely infliximab-specific and the extrapolation to other biologics is acknowledged as indirect",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "All based on UC-SUCCESS (infliximab + azathioprine vs. infliximab vs. azathioprine, biologic-na\u00efve patients, terminated prematurely). Combination vs. infliximab monotherapy: RR 1.78 (1.08-1.94) for corticosteroid-free remission at week 16. Combination vs. azathioprine monotherapy: RR 1.70 (1.04-2.78..."
+    },
+    {
+      "slug": "claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment",
+      "claim_id": "aga-cd2021-2",
+      "statement": "Infliximab, adalimumab, and ustekinumab are strongly recommended over no treatment; vedolizumab is conditionally recommended; natalizumab is recommended against (R1A-D)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "13 RCTs for induction (4-12 weeks), 9 RCTs for maintenance (22-54 weeks). All interventions were superior to placebo. Key RRs for failure to induce remission: infliximab 0.54 (95% CI 0.39-0.75), adalimumab 0.82 (0.75-0.89), certolizumab pegol 0.92 (0.86-0.98), vedolizumab 0.92 (0.87-0.97), ustekinum..."
+    },
+    {
+      "slug": "claim-infliximab-best-evidence-perianal-fistula-closure-adalimumab",
+      "claim_id": "aga-cd2021-8",
+      "statement": "Infliximab has the best evidence for perianal fistula closure; adalimumab, ustekinumab, and vedolizumab have weaker supporting data; antibiotics should be combined with biologics, not used alone (R10A-C, R11)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "1. Infliximab \u2014 dedicated prospective RCT (strong, moderate)\n2. Adalimumab \u2014 subgroup analysis + indirect evidence (conditional, low)\n3. Ustekinumab \u2014 pooled post hoc analysis (conditional, low)\n4. Vedolizumab \u2014 single subgroup analysis (conditional, low)\n5. Certolizumab pegol \u2014 evidence suggests in..."
+    },
+    {
+      "slug": "claim-infliximab-only-biologic-rct-level-evidence-fistula-healing",
+      "claim_id": "ecco-cd2020-10",
+      "statement": "Infliximab is the only biologic with RCT-level evidence for fistula healing; adalimumab has weaker evidence; ustekinumab and vedolizumab lack sufficient evidence (R3.1-R3.5)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "This is the clearest evidence hierarchy in the entire guideline:"
+    },
+    {
+      "slug": "claim-infliximab-thiopurine-combination-suggested-adalimumab-thiopurine-suggeste",
+      "claim_id": "aga-cd2021-5",
+      "statement": "Infliximab + thiopurine combination is suggested; adalimumab + thiopurine is suggested with very low certainty; no recommendation for vedolizumab or ustekinumab combination (R5A-C, R6)",
+      "claim_type": "methodological",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Recommendation 5A:** \"In biologic and immunomodulator-naive patients, the AGA suggests infliximab + thiopurines over infliximab monotherapy.\" **Conditional, moderate certainty.** Two trials: combination therapy more effective for induction (RR 0.77, 0.64-0.92) and maintenance (RR 0.74, 0.60-0.90)...."
+    },
+    {
+      "slug": "claim-there-insufficient-evidence-recommend-against-therapeutic-drug",
+      "claim_id": "ecco-uc2022-14",
+      "statement": "There is insufficient evidence to recommend for or against therapeutic drug monitoring to improve clinical outcomes \u2014 ECCO takes the most conservative position of any major guideline",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Multiple retrospective studies demonstrate associations between trough drug levels and clinical outcomes for infliximab, adalimumab, vedolizumab, and ustekinumab. Retrospective analyses suggest TDM-informed decisions may be more successful than clinically guided decisions (Kelly 2017). However, all ..."
+    },
+    {
+      "slug": "claim-tofacitinib-strongly-recommended-induction-moderate-quality-evidence-guide",
+      "claim_id": "ecco-uc2022-11",
+      "statement": "Tofacitinib is strongly recommended for induction with moderate-quality evidence; the guideline explicitly addresses emerging safety concerns (herpes zoster, VTE, MACE, malignancy) that post-date the ACG 2019 guideline",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Two RCTs (n=1,220): OCTAVE 1 and 2. Clinical response RR 1.79 (1.49-2.14), clinical remission RR 3.26 (1.95-5.43), endoscopic response RR 5.18 (2.12-12.69). Half of patients had prior anti-TNF failure; efficacy was similar regardless of anti-TNF exposure status. Network meta-analyses (Singh 2020): n..."
+    },
+    {
+      "slug": "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+      "claim_id": "acg-cd2018-17",
+      "statement": "Ustekinumab is effective for moderate-to-severe CD, including in anti-TNF failures and anti-TNF-naive patients (R30)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Based on the UNITI trials (Feagan 2016). Ustekinumab, an anti-p40 antibody inhibiting IL-12 and IL-23, demonstrated efficacy in both anti-TNF-failure and conventional therapy-failure populations. The psoriasis safety database shows an excellent safety profile without apparent increase in serious inf..."
+    },
+    {
+      "slug": "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+      "claim_id": "ecco-cd2020-6",
+      "statement": "Ustekinumab and vedolizumab are effective induction agents for both biologic-naive and anti-TNF-experienced patients; no head-to-head data differentiate them (R1.8-R1.10)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Ustekinumab:** Meta-analysis of 4 RCTs (n=1,947): RR for clinical response 1.56 (95% CI 1.38-1.77); RR for clinical remission 1.76 (95% CI 1.40-2.22). Endoscopic improvement at 8 weeks: 47.7% vs. 29.9% (RR 1.60; 95% CI 1.13-2.26). No increase in AEs (RR 0.96) or serious AEs (RR 0.79). Anti-drug an..."
+    },
+    {
+      "slug": "claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced",
+      "claim_id": "acg-cd2018-24",
+      "statement": "Vedolizumab, natalizumab, and ustekinumab maintain their respective induced remissions (R51-R53)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "All three agents have positive maintenance RCT data (GEMINI 2 for vedolizumab, ENCORE/ENABLE for natalizumab, UNITI-IM for ustekinumab). Natalizumab's PML restriction is re-emphasized. Vedolizumab may be used as monotherapy but combination with an immunomodulator may be considered to reduce immunoge..."
+    }
+  ]
+}

@@ -33,7 +33,10 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 3
-claims_files: ["claim-pimentel-ch10-1", "claim-pimentel-ch10-2", "claim-pimentel-ch10-3"]
+claims_files:
+  "[[claim-theres-really-thing-good-bad-native-bacteria]]",
+  "[[claim-six-randomized-controlled-trials-fecal-transplant-ibs]]",
+  "[[claim-you-sibo-taking-prebiotic-actually-provide-food]]"
 
 
 # Pimentel & Rezaie -- Ch10-11: Probiotics, FMT, and the 10 Myths of IBS
@@ -43,47 +46,11 @@ The book's closing chapters serve a corrective function: dismantling misconcepti
 ## Ch10: Probiotics, Prebiotics, and Fecal Transplantation
 
 ### Claim 1: There is no definitive evidence that probiotics are beneficial for IBS or SIBO; the concept of "good bacteria" is a marketing construct
-
-**Author's claim:** "There's really is no such thing as 'good' and 'bad' native bacteria in the gastrointestinal tract. Actually, when it comes to the gastrointestinal tract, the concept of 'good' bacteria is a misnomer... The concept of 'good' bacteria has been largely promoted by the companies that manufacture probiotics."
-
-Evidence quality: "Most studies show no statistically significant improvement in IBS symptoms with probiotics over placebo." Meta-analyses are compromised by pooling different microorganisms (Lactobacillus, Bifidobacterium, Saccharomyces) as if equivalent, publication bias (negative studies unpublished), and variable quality.
-
-Specific finding: "One recent double-blind study found that there were no measurable improvements among IBS patients who were given Lactobacillus acidophilus. There was, however, some improvement in IBS symptoms among patients who were given Bifidobacterium bifidum."
-
-**Evidence presented:** Multiple RCTs and meta-analyses. The Lancet 2013 study: 3000 patients taking probiotics post-antibiotics showed "exactly the same" rates of C. difficile infection and diarrhea as placebo; probiotics caused more bloating and flatulence. Two NEJM studies: "probiotics don't protect against viral gastroenteritis." Quality control: "up to half of probiotic supplements don't contain the right amount, the right strain, or the live probiotics listed on the label."
-
-**Confidence:** MEDIUM-HIGH. The evidence for probiotics in IBS is genuinely weak, and Pimentel's critique of meta-analysis methodology is valid. However, some specific strains (Bifidobacterium infantis 35624, now Align) have shown benefit in well-designed trials. Pimentel acknowledges this: "Bifidobacterium bifidum" showed some improvement. The blanket statement that probiotics don't work overstates the evidence against specific strains.
-
-**What's at stake:** Probiotics are a multi-billion-dollar industry. If they don't work for IBS/SIBO, patients are wasting money and delaying effective treatment. The "good bacteria" marketing construct (perpetuated by companies like Activia, Align, Culturelle) undermines the more nuanced understanding of the microbiome that Pimentel advocates.
-
-**Who disagrees:** Probiotic manufacturers. Some academic microbiome researchers would argue that specific strains have demonstrated efficacy (e.g., B. infantis 35624 for IBS, VSL#3 for ulcerative colitis). The debate is whether probiotics as a category are ineffective (Pimentel's position) or whether the right strain at the right dose for the right patient can be effective.
-
-**My assessment:** Pimentel's probiotic skepticism is evidence-based but overbroad. The "probiotics don't work" claim is stronger for IBS/SIBO than for other conditions (e.g., VSL#3 has good evidence in pouchitis and UC). His core argument -- adding more bacteria to a condition defined by bacterial overgrowth is illogical -- is mechanistically sound but doesn't preclude specific strains having beneficial metabolic or immunomodulatory effects independent of bacterial numbers. The quality control problem (half of products don't contain what's on the label) is a genuine concern that applies across the supplement industry.
-
+**Claim 1 —** There is no definitive evidence that probiotics are beneficial for IBS or SIBO; the concept of "good bacteria" is a marketing construct → [[claim-theres-really-thing-good-bad-native-bacteria]] | claim-pimentel-ch10-1 | Confidence: MEDIUM-HIGH
 ### Claim 2: Fecal transplantation for IBS has failed in randomized trials -- the two largest trials were negative, and one showed placebo superiority
-
-**Author's claim:** "In six randomized controlled trials of fecal transplant in IBS, one trial was positive, one was barely positive, one was neutral, one was negative, and two were strongly negative (the placebo worked better than the transplant). The two largest, most robust trials were conducted in Denmark and the US and they were both negative."
-
-Key finding: "The transplant made the patients' stool look like a normal person's stool, but the IBS patients still had symptoms. This tells us that the source of IBS symptoms is in the small intestine, not the colon."
-
-**Evidence presented:** Danish trial (placebo capsules superior to FMT capsules for IBS symptoms). US trial (stopped early due to placebo superiority). Harvard study (antibiotics + FMT showed no difference from antibiotics alone). Safety concern: FDA reported two deaths from multidrug-resistant bacteria during FMT in immunocompromised patients (2019). Donor SIBO risk: "If the donor had SIBO, the fecal transplant recipient had a 50 percent chance of developing IBS after the transplant."
-
-**Confidence:** HIGH for the trial results (published data). The mechanistic interpretation (small intestine vs. colon) is Pimentel's inference but consistent with REIMAGINE data.
-
-**What's at stake:** FMT has been hyped as a cure-all for microbiome diseases. The IBS trial data strongly suggests it is not effective. The finding that FMT normalizes stool microbiome composition without improving symptoms is the strongest evidence for Pimentel's thesis that IBS originates in the small intestine, not the colon.
-
-**My assessment:** The FMT-for-IBS failure is one of the most important negative results in the microbiome field. It demonstrates that stool microbiome composition is not the driver of IBS symptoms, supporting Pimentel's small-intestine-focused approach. The donor SIBO transmission risk is a cautionary tale that fecal transplantation is not benign -- it can transmit functional GI disorders.
-
+**Claim 2 —** Fecal transplantation for IBS has failed in randomized trials -- the two largest trials were negative, and one showed placebo superiority → [[claim-six-randomized-controlled-trials-fecal-transplant-ibs]] | claim-pimentel-ch10-2 | Confidence: HIGH
 ### Claim 3: Prebiotics and synbiotics are unproven for IBS and may worsen SIBO by feeding overgrown bacteria
-
-**Author's claim:** "If you have SIBO, taking a prebiotic may actually provide food for the bacteria you don't want to overgrow. We've also found that prebiotics cause more bloating in our patients." Synbiotics: "There's not a lot of data to show that synbiotics are effective in treating IBS." The FDA "doesn't supervise probiotics or prebiotics, as they're considered food, not medication."
-
-**Evidence presented:** Clinical observation at Cedars-Sinai (prebiotics cause bloating). Mechanistic argument: prebiotics are fermentable fiber that feeds all bacteria, including the overgrown disrupter species.
-
-**Confidence:** MEDIUM. The mechanistic argument is sound (feeding bacteria when you have bacterial overgrowth is counterproductive). Clinical data on prebiotics in SIBO specifically is limited. The general prebiotic literature (outside SIBO) shows benefits for metabolic health.
-
-**My assessment:** Pimentel's prebiotic caution is logical within the SIBO framework. For a patient with confirmed SIBO, adding fermentable fiber is genuinely likely to worsen symptoms. For patients without SIBO, prebiotics may have metabolic benefits. The problem is that many IBS patients are prescribed prebiotics without first being tested for SIBO.
-
+**Claim 3 —** Prebiotics and synbiotics are unproven for IBS and may worsen SIBO by feeding overgrown bacteria → [[claim-you-sibo-taking-prebiotic-actually-provide-food]] | claim-pimentel-ch10-3 | Confidence: MEDIUM
 ---
 
 ## Ch11: The 10 Myths of IBS

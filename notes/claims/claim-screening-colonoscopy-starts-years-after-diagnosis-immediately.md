@@ -55,15 +55,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy|Both ACG UC 2019 and ECCO Diagnostic 2019 converge on the 8-year CRC surveillance initiation point, aligning North Ameri]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

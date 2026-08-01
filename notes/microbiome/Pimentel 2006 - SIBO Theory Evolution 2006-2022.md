@@ -35,7 +35,14 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 7
-claims_files: ["claim-pimentel-evol-1", "claim-pimentel-evol-2", "claim-pimentel-evol-3", "claim-pimentel-evol-4", "claim-pimentel-evol-5", "claim-pimentel-evol-6", "claim-pimentel-evol-7"]
+claims_files:
+  "[[claim-sibo-prevalence-84-vs-60-75-percent]]",
+  "[[claim-cdtb-vinculin-autoimmunity-discovery-2006-2022]]",
+  "[[claim-three-gas-model-imo-terminology-evolution]]",
+  "[[claim-prokinetic-optimization-erythromycin-prucalopride]]",
+  "[[claim-treatment-expectation-refinement-2006-2022]]",
+  "[[claim-sibo-core-principles-unchanged-2006-2022]]",
+  "[[claim-treatment-efficacy-modest-improvement-2006-2022]]"
 
 
 # Pimentel 2006 — SIBO Theory at Its Origin: Tracing 16 Years of Evolution

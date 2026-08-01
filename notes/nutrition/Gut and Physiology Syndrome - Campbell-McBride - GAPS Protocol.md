@@ -27,7 +27,13 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 6
-claims_files: ["claim-campbell-gaps-1", "claim-campbell-gaps-2", "claim-campbell-gaps-3", "claim-campbell-gaps-4", "claim-campbell-gaps-5", "claim-campbell-gaps-6"]
+claims_files:
+  "[[claim-doubt-autoimmunity-born-gut]]",
+  "[[claim-introduction-diet-works-three-mechanisms-providing-large]]",
+  "[[claim-full-gaps-diet-adds-more-variety-meats]]",
+  "[[claim-mainstream-approach-sibo-usual-try-kill-microbes]]",
+  "[[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux]]",
+  "[[claim-most-potent-probiotics-use-gaps-nutritional-protocol]]"
 
 
 # Campbell-McBride — GAPS Nutritional Protocol: Diet, SIBO, and IBD
@@ -37,84 +43,17 @@ Natasha Campbell-McBride is a physician with postgraduate degrees in neurology a
 ## The GAPS Framework
 
 ### Claim 1: All chronic disease — including IBD and SIBO — originates in the gut, specifically in abnormal gut flora causing leaky gut, systemic toxicity, and immune dysregulation
-
-**Author's claim:** "I have no doubt that all autoimmunity is born in the gut." Abnormal gut flora damages the intestinal lining → leaky gut → partially digested food proteins, microbial toxins, and environmental chemicals enter the bloodstream → systemic inflammation → the immune system attacks both foreign substances and self-tissue. The specific diagnosis (Crohn's, UC, MS, rheumatoid arthritis, autism, depression) depends on genetic predisposition and which tissues become targets, but the root cause is always the gut.
-
-**Evidence presented:** Campbell-McBride draws on clinical experience with "many thousands of children and adults around the world" treated over ~20 years. She cites studies on intestinal permeability, the gut-brain axis, microbiome composition, and the role of specific nutrients (gelatin, collagen, glycine, glutamine) in gut barrier repair. However, her citations are supporting rather than systematic — the book is a clinical argument, not a systematic review.
-
-**Confidence:** LOW-MEDIUM for the universal claim. The association between gut dysbiosis and autoimmunity is well-supported, but the claim that ALL autoimmunity originates in the gut is a strong causal assertion that exceeds the evidence. Genetic susceptibility, environmental triggers, and extra-intestinal immune dysregulation all contribute to autoimmune pathogenesis independently of gut status.
-
-**What's at stake:** If this claim is true, then treating IBD with immunosuppressants without healing the gut is treating the downstream effect while leaving the cause intact. Conversely, if the claim is overstated, patients who pursue dietary healing while declining evidence-based pharmacotherapy may experience preventable disease progression (strictures, fistulae, colorectal cancer risk).
-
-## The GAPS Diet Protocol
-
+**Claim 1 —** All chronic disease — including IBD and SIBO — originates in the gut, specifically in abnormal gut flora causing leaky gut, systemic toxicity, and immune dysregulation → [[claim-doubt-autoimmunity-born-gut]] | claim-campbell-gaps-1 | Confidence: LOW-MEDIUM
 ### Claim 2: The GAPS Introduction Diet — a staged protocol of meat stock, probiotic foods, and gradual food reintroduction — heals the gut lining by providing the specific nutrients gut cells need for regeneration while removing all irritants
-
-**Author's claim:** The Introduction Diet works through three mechanisms: (1) providing "large amounts of nourishing substances" — amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining is literally made from; (2) removing fiber and other irritants that can damage an inflamed gut ("your gut lining may be sore and very sensitive"); (3) delivering probiotic microbes through fermented foods from the start, since "without their presence there can be no healing."
-
-**The protocol stages:**
-
-**Stage 1 (most restricted):** Homemade meat or fish stock (not bone broth — Campbell-McBride distinguishes meat stock, cooked 2.5-4 hours, from bone broth, cooked 12+ hours, arguing the latter releases excessive glutamates that can be neuroexcitatory). Soups made with stock + well-cooked non-fibrous vegetables (carrots, onions, pumpkin, zucchini — no cabbage, celery, or fibrous stalks). Juice from fermented vegetables (not the vegetables themselves). Ginger/mint/chamomile tea with honey.
-
-**Stage 2:** Adds raw organic egg yolks (starting at 1/day), stews and casseroles, increased fermented dairy (whey, sour cream, yogurt, kefir), fermented fish, ghee.
-
-**Stage 3:** Adds avocado, nut-butter pancakes, scrambled eggs, and the actual fermented vegetables (not just juice).
-
-**Stage 4:** Adds roasted/grilled meats, cold-pressed olive oil, fresh-pressed juices, fermented nut-flour bread.
-
-**Stage 5:** Adds raw vegetables, cooked apple/pear as fruit puree.
-
-**Stage 6:** Adds raw fruit, gradually increasing variety.
-
-**Evidence presented:** The protocol is based on clinical observation and traditional food practices. Campbell-McBride emphasizes that meat stock provides gelatin, glycine, proline, and glutamine — all substrates for enterocyte regeneration. Fermented foods provide probiotics in food form. The staged reintroduction prevents overwhelming a damaged gut.
-
-**Confidence:** MEDIUM. The nutritional rationale for meat stock (gelatin, glycine, glutamine for gut repair) is mechanistically sound and supported by the wound-healing and gut-barrier literature. The staged reintroduction approach is clinically logical. However, the specific protocol has not been tested in controlled trials for IBD or SIBO. The distinction between "meat stock" and "bone broth" (histamine/glutamate concerns) is Campbell-McBride's own classification, not standard nutritional science terminology.
-
-**What's at stake:** The Introduction Diet is the most restrictive phase and the one Campbell-McBride insists is "absolutely essential" for IBD patients ("chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease"). If it works, it provides a non-pharmacological option for inducing remission. If it doesn't, patients may lose weight and muscle mass on a very restricted diet while active inflammation continues unchecked.
-
+**Claim 2 —** The GAPS Introduction Diet — a staged protocol of meat stock, probiotic foods, and gradual food reintroduction — heals the gut lining by providing the specific nutrients gut cells need for regeneration while removing all irritants → [[claim-introduction-diet-works-three-mechanisms-providing-large]] | claim-campbell-gaps-2 | Confidence: MEDIUM
 ### Claim 3: The Full GAPS Diet should be followed for approximately two years, after which foods can be gradually reintroduced — but many patients need the protocol permanently
-
-**Author's claim:** The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initially only well-cooked, later raw), fermented foods, nuts/seeds (properly prepared), and limited fruit. It excludes all grains, starchy vegetables (potatoes, sweet potatoes, yams, parsnips), sugar, and processed foods. The diet should be followed for "about two years" before attempting reintroduction, though "at least two years on average" for full healing. Dairy introduction follows a specific structure: ghee → butter → sour cream → yogurt → kefir → cheese.
-
-**Confidence:** LOW-MEDIUM. The two-year timeline is based on clinical experience, not controlled data. The exclusion of starchy vegetables (potatoes, sweet potatoes) is more restrictive than SCD (which allows them) and the rationale (feeding pathogenic bacteria) may unnecessarily limit nutrient-dense food options. The long duration creates practical adherence challenges.
-
-## SIBO-Specific Guidance
-
+**Claim 3 —** The Full GAPS Diet should be followed for approximately two years, after which foods can be gradually reintroduced — but many patients need the protocol permanently → [[claim-full-gaps-diet-adds-more-variety-meats]] | claim-campbell-gaps-3 | Confidence: LOW-MEDIUM
 ### Claim 4: SIBO results from low stomach acid and damaged gut lining; treatment should restore stomach acid production and heal the gut rather than kill bacteria with antibiotics
-
-**Author's claim:** "The mainstream approach to SIBO (as usual) is to try and kill the microbes, so antibiotics are prescribed. Alternative practitioners try to replace antibiotics with natural antimicrobial substances, essentially following the same idea. But the key is to improve stomach acid production and provide healing for the gut lining." Campbell-McBride recommends the GAPS Introduction Diet, fermented foods (especially fermented cabbage juice to stimulate stomach acid), and Betaine HCl supplementation before meals while the stomach heals.
-
-**Evidence presented:** Clinical reasoning: low stomach acid → failure of the gastric acid barrier → bacterial overgrowth in the stomach and small intestine → SIBO. Restoring stomach acid and healing the gut lining addresses the cause rather than repeatedly treating the symptom. She cites the association between chronic PPI use, hypochlorhydria, and SIBO.
-
-**Confidence:** LOW-MEDIUM for the exclusive focus on stomach acid and gut healing. Low stomach acid IS a risk factor for SIBO, and PPIs are associated with increased SIBO risk. However, impaired small intestinal motility (the migrating motor complex) is now understood as the primary mechanism in most SIBO, and Campbell-McBride does not address prokinetics, motility dysfunction, or the post-infectious IBS → SIBO pathway. Her dismissal of antibiotic treatment ("kill the microbes") ignores the evidence that rifaximin is effective for appropriately selected patients and that antibiotics + root cause addressing is more effective than either alone.
-
-## IBD-Specific Guidance
-
+**Claim 4 —** SIBO results from low stomach acid and damaged gut lining; treatment should restore stomach acid production and heal the gut rather than kill bacteria with antibiotics → [[claim-mainstream-approach-sibo-usual-try-kill-microbes]] | claim-campbell-gaps-4 | Confidence: LOW-MEDIUM
 ### Claim 5: The GAPS Introduction Diet is "absolutely essential" for ulcerative colitis and Crohn's disease; it will "reduce the symptoms quickly and initiate the healing process"
-
-**Author's claim:** For people with "chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders," the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea should stay on stages 1-2, and she explicitly advises against enemas for "people with ulcerative colitis and Crohn's disease and indeterminate colitis" due to bleeding risk.
-
-**Evidence presented:** Patient testimonials (Katrina: "recovered from Crohn's disease and rheumatoid arthritis"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate beneficial bacteria.
-
-**Confidence:** LOW. This is the book's most consequential claim for the IBD/SIBO knowledge graph, and it is supported only by clinical experience and mechanistic reasoning. There are no controlled trials of the GAPS diet for IBD. The claim that the Introduction Diet will "reduce symptoms quickly and initiate healing" may be true for some patients (low-residue diets ARE standard during IBD flares) but overstates the evidence for the specific protocol. The risk of nutritional inadequacy on the most restrictive stages (stages 1-2, which are essentially meat stock + soup + fermented juice) is real for patients who may already be malnourished from active IBD.
-
-## Probiotic Approach
-
+**Claim 5 —** The GAPS Introduction Diet is "absolutely essential" for ulcerative colitis and Crohn's disease; it will "reduce the symptoms quickly and initiate the healing process" → [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux]] | claim-campbell-gaps-5 | Confidence: LOW
 ### Claim 6: Homemade fermented foods are superior to commercial probiotic supplements; dairy-based ferments (yogurt, kefir, whey, sour cream) are particularly therapeutic
-
-**Author's claim:** "The most potent probiotics we use in the GAPS Nutritional Protocol come in the form of homemade fermented foods." Fermented vegetables (sauerkraut, vegetable medley), dairy ferments (yogurt, kefir, sour cream, whey), fermented fish, and fermented beverages provide a diversity of probiotic species in food form, with the food matrix enhancing survival through the stomach. Fermented cabbage juice specifically helps restore stomach acid production.
-
-**Confidence:** MEDIUM for the general claim that fermented foods provide beneficial bacteria — this is well-established. LOW for the claim that they are "more potent" than commercial probiotics — this depends on the specific probiotic strain, CFU count, and clinical indication. For conditions like antibiotic-associated diarrhea and C. difficile prevention, specific commercial probiotic strains (Saccharomyces boulardii, Lactobacillus rhamnosus GG) have RCT evidence that generic fermented foods do not.
-
-## Broader Clinical Observations
-
-The book contains an A-Z section covering dozens of conditions with brief GAPS protocol recommendations. Notable entries:
-
-- **Celiac disease:** Described as having "similar symptoms to SIBO (small intestinal bacterial overgrowth)" — an interesting clinical observation that reflects the diagnostic overlap between these conditions
-- **IBS:** "Irritable Bowel Syndrome should be renamed gut dysbiosis" — consistent with Chutkan's framing
-- **Autoimmunity generally:** "I have no doubt that all autoimmunity is born in the gut"
-- **Diarrhea:** Recommends stages 1-2 of Introduction Diet as primary treatment; notes that chronic loose stools may be caused by fecal compaction (overflow diarrhea) — an important clinical distinction
-
+**Claim 6 —** Homemade fermented foods are superior to commercial probiotic supplements; dairy-based ferments (yogurt, kefir, whey, sour cream) are particularly therapeutic → [[claim-most-potent-probiotics-use-gaps-nutritional-protocol]] | claim-campbell-gaps-6 | Confidence: MEDIUM
 ## Critical Assessment
 
 ### Strengths

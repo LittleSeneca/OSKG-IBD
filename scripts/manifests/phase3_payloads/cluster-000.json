@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-000",
+  "cluster_label": "pathogenesis (mechanistic)",
+  "domain": "domain/pathophysiology",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-core-thesis-marya-inflamed",
+      "claim_id": "marya-inflamed-implicit-7",
+      "statement": "Inflammation is the body's response to damage. The damage is not just bacterial, viral, or dietary \u2014 it is also social, economic, and environmental. Colonialism, racism, poverty, pollution, industrial food systems, and the erosion of community are inflammatory forces that literally change human biology: they alter the microbiome, dysregulate the immune system, accelerate cellular aging, and produc",
+      "claim_type": "epidemiological",
+      "source_note": "[[Inflamed - Marya Patel 2021]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Inflammation is the body's response to damage. The damage is not just bacterial, viral, or dietary \u2014 it is also social, economic, and environmental. Colonialism, racism, poverty, pollution, industrial food systems, and the erosion of community are inflammatory forces that literally change human biol..."
+    },
+    {
+      "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+      "claim_id": "yamada-ibd62-8",
+      "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist..."
+    },
+    {
+      "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+      "claim_id": "yamada-ibd62-9",
+      "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant..."
+    },
+    {
+      "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+      "claim_id": "yamada-ibd62-1",
+      "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban..."
+    },
+    {
+      "slug": "claim-large-international-collaborative-study-including-over-000",
+      "claim_id": "yamada-ibd62-2",
+      "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo..."
+    },
+    {
+      "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+      "claim_id": "yamada-ibd62-3",
+      "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra..."
+    },
+    {
+      "slug": "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+      "claim_id": "yamada-ibd62-6",
+      "statement": "Not only patients with inflammatory bowel disease but also their first-degree relatives demonstrate an alteration in intestinal permeability... Several of the IBD risk loci-associated genes, including CDH1, HNF4A, GNA12, MUC19, and ITLN1, play an important role in the maintenance of the intestinal epithelial barrier.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "First-degree relatives of IBD patients have increased intestinal permeability (referenced to studies 70-73). CDH1 polymorphisms produce truncated E-cadherin with defective plasma membrane localization and cytosolic accumulation, leading to defective goblet and Paneth cell maturation. HNF4A deletion ..."
+    },
+    {
+      "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+      "claim_id": "yamada-ibd62-7",
+      "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201..."
+    },
+    {
+      "slug": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+      "claim_id": "yamada-ibd62-4",
+      "statement": "Polymorphisms in several loci involved in autophagy, including ATG16L1, LRRK2, and IRGM, appear to play important roles in the pathogenesis of Crohn's disease... Defects in autophagy may interact with microbial triggers to induce an inflammatory response. Atg16L1 hypomorphic mice reared in a germ-free environment do not display the same Paneth cell abnormalities as conventionally reared mice. Expo",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Mice with hypomorphic Atg16l1 or deficient Atg5 in intestinal epithelial cells exhibit aberrant Paneth cell number and location and deficient antimicrobial peptide secretion. Identical defects are observed in biopsies from CD patients carrying the T300A variant of ATG16L1 (Cadwell et al. 2008). IRGM..."
+    },
+    {
+      "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+      "claim_id": "yamada-ibd62-10",
+      "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass..."
+    },
+    {
+      "slug": "claim-th1-th17-cells-play-role-development-crohn's",
+      "claim_id": "yamada-ibd62-5",
+      "statement": "Th1 and Th17 cells play a role in the development of Crohn's disease. The intestinal mucosa of patients with Crohn's disease manifests increased concentrations of TNF-\u03b1 and interferon (IFN)-\u03b3... In contrast, ulcerative colitis has historically been presented as dependent on Th2-cell-mediated responses. Th2 cells are characterized by production of IL-4, IL-5, and IL-13.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+      "confidence": "high",
+      "evidence_excerpt": "CD mucosa: increased TNF-\u03b1, IFN-\u03b3, IL-2, IL-8. Th17 cells are elevated and overexpress IL-17A. Both risk and protective variants in IL23R exist. Ustekinumab (anti-p40 subunit shared by IL-12 and IL-23) is efficacious in both CD and UC (Feagan et al. 2016, Sands et al. 2019). UC mucosa: mucosal T cel..."
+    }
+  ]
+}

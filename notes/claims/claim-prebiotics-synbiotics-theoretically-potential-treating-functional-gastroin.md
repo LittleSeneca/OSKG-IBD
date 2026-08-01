@@ -57,15 +57,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-graded-discussed-adjunctive-therapy-without-formal-recommendation|Both Rome 2017 and ACG SIBO 2020 find insufficient evidence for dietary and prebiotic interventions in SIBO, converging ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

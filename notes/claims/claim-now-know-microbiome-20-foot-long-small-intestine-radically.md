@@ -51,15 +51,18 @@ If stool testing cannot characterize the small intestinal microbiome, then the e
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-sibo-occurs-there-greater-1000-bacteria-per|The REIMAGINE study's finding that small intestine microbiome fundamentally differs from stool supports the need for sit]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

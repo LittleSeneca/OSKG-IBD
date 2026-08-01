@@ -53,15 +53,18 @@ If Pimentel is right that most "food sensitivities" in SIBO/IBS are actually SIB
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-specific-carbohydrate-diet-most-often-corrects-malabsorption|Gottschall claims SCD corrects malabsorption universally; Pimentel's survey cites a clinical trial finding low-FODMAP su]]
+
+**Contradicts:**
 
 ## Assessment
 

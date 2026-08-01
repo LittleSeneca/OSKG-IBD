@@ -24,7 +24,8 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 1
-claims_files: ["claim-marya-inflamed-implicit-7"]
+claims_files:
+  "[[claim-core-thesis-marya-inflamed]]"
 
 
 # Inflamed — Marya & Patel (2021)

@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-progressive-disease-requiring-early-intensive-monitoring-individualized|ACG Crohn's 2018 finding that symptoms do not correlate with inflammation provides the rationale for ECCO 2020's recomme]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

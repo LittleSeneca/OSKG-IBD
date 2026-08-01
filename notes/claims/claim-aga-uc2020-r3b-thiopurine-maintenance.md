@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction|AGA's affirmation of thiopurine maintenance extends ACG's induction rejection by clarifying that thiopurines retain a ro]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

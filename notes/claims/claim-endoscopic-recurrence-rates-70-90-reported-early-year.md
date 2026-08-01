@@ -52,15 +52,18 @@ Without postoperative prophylaxis, the majority of Crohn's patients will have en
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-perhaps-best-way-reduce-risk-recurrence-crohns|Yamada's quantification of 70-90% endoscopic recurrence within one year of surgery provides the epidemiological urgency ]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-thiopurines-used-monotherapy-induction-they-too-slow|AGA Crohn's 2021 and ECCO UC 2022 independently converge on thiopurines' unsuitability for induction monotherapy due to ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard|ACG's strong negative recommendation against cyclosporine in CD reinforces ECCO's positioning of anti-TNF agents as the ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

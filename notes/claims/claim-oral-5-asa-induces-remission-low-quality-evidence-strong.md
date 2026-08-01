@@ -59,15 +59,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-oral-mesalamine-used-active-crohns-disease-sulfasalazine|The ACG CD negative recommendation limits 5-ASA efficacy to UC only, clarifying the disease-specific scope of the ECCO U]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

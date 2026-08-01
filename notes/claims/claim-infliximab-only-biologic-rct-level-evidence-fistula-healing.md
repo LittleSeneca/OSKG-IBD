@@ -65,15 +65,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-infliximab-best-evidence-perianal-fistula-closure-adalimumab|ECCO sharpens the AGA claim from infliximab having the best evidence to being the only biologic with RCT-level fistula h]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance|Both ECCO UC 2022 and ACG UC 2019 recommend continuing tofacitinib for maintenance of remission following successful ind]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -1,0 +1,179 @@
+{
+  "cluster_id": "cluster-020",
+  "cluster_label": "scd (therapeutic)",
+  "domain": "domain/nutrition",
+  "size": 19,
+  "claims": [
+    {
+      "slug": "claim-1951-after-many-years-clinical-experience-drs",
+      "claim_id": "gottschall-ch12-1",
+      "statement": "In 1951, after many years of clinical experience, Drs. Sidney V. and Merrill P. Haas published a book entitled Management of Celiac Disease... When patients followed this Specific Carbohydrate Diet for a minimum of one year, they were then able to return to a normal diet with complete and permanent disappearance of symptoms.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "confidence": "low",
+      "evidence_excerpt": "Gottschall's personal testimony: her 8-year-old daughter, diagnosed with \"incurable ulcerative colitis\" and deteriorating on cortisone and sulfonamides, was placed on the Haas diet and \"within two years she was free of symptoms. She returned to eating normally after another few years, and has remain..."
+    },
+    {
+      "slug": "claim-bacterial-overgrowth-stomach-small-intestine-occur-various",
+      "claim_id": "gottschall-ch35-1",
+      "statement": "Bacterial overgrowth in the stomach and small intestine can and does occur for various reasons among which are: (1) Interference with the high acidity of the stomach through the continual use of antacids; (2) A decrease in the acidity of the stomach such as occurs in the aging process; (3) Malnutrition or a diet of poor quality, and the resulting weakening of the body's immune system; (4) Antibiot",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "high",
+      "evidence_excerpt": "References to published literature on gastric acid as a microbial barrier, peristalsis as a clearance mechanism, B12 malabsorption as a marker of small intestinal bacterial overgrowth, and historical stool studies (1904) showing abnormally large numbers of fermentative and putrefactive bacteria in c..."
+    },
+    {
+      "slug": "claim-common-denominator-underlying-effectiveness-both-natural-specific",
+      "claim_id": "gottschall-ch12-2",
+      "statement": "The common denominator underlying the effectiveness of both the natural Specific Carbohydrate Diet and the synthetic Elemental Diet is the type of carbohydrate which predominates. In the synthetic Elemental Diet, the principal carbohydrate is the single sugar, glucose, which, in biochemical circles, is called a monosaccharide... In the natural Specific Carbohydrate Diet, the carbohydrates are also",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "confidence": "high",
+      "evidence_excerpt": "References to six hundred scientific publications on elemental diet efficacy (1970s-early 1980s) for malabsorption and intestinal disorders. Specific citations: cystic fibrosis of the pancreas, cancer chemotherapy diarrhea, Crohn's disease in children (dramatic weight and height gains). Notes that t..."
+    },
+    {
+      "slug": "claim-doubt-autoimmunity-born-gut",
+      "claim_id": "campbell-gaps-1",
+      "statement": "I have no doubt that all autoimmunity is born in the gut.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Campbell-McBride draws on clinical experience with \"many thousands of children and adults around the world\" treated over ~20 years. She cites studies on intestinal permeability, the gut-brain axis, microbiome composition, and the role of specific nutrients (gelatin, collagen, glycine, glutamine) in ..."
+    },
+    {
+      "slug": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+      "claim_id": "thompson-een-3",
+      "statement": "An elemental diet \"provides the colon with the rest necessary to heal its wounds unhindered.\" Because nutrients are pre-digested, \"there is very little undigested matter passing into the colon\" -- providing bowel rest. The bacterial population \"has less to eat\" making it \"easier to eliminate undesirable micro-organisms.\" Combined with antimicrobials and probiotics, the protocol \"eliminates a lot o",
+      "claim_type": "therapeutic",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical reasoning and Thompson's personal experience. The bowel rest concept is standard surgical rationale. The bacterial starvation concept echoes Gottschall's SCD mechanism."
+    },
+    {
+      "slug": "claim-food-guide-developed-siebecker-based-her-clinical",
+      "claim_id": "sarna-sibo-diet-2",
+      "statement": "This food guide was developed by Dr. Siebecker and is based on her clinical experience treating SIBO. It combines the recommendations of the Specific Carbohydrate Diet and the low FODMAP diet and is low fermentable.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "Siebecker's clinical experience (no trials). Sarna's personal experience as a vegetarian navigating SIBO diets."
+    },
+    {
+      "slug": "claim-hoffman-states-scd-simply-presented-yet-sophisticated",
+      "claim_id": "gottschall-fw-1",
+      "statement": "Hoffman states the SCD is \"simply presented, yet sophisticated in its conception\" and \"transcends several oversimplifications to which patients with gastrointestinal problems and their physicians often fall prey.\"",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gottschall 1994 - Foreword]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Hoffman's clinical experience: \"Patients from many parts of the country have consulted me. Many complain of symptoms consistent with irritable bowel syndrome. Others have been diagnosed formally with classic inflammatory bowel disease.\" Standard approaches (natural digestive aids, intestinal flora r..."
+    },
+    {
+      "slug": "claim-introduction-diet-works-three-mechanisms-providing-large",
+      "claim_id": "campbell-gaps-2",
+      "statement": "The Introduction Diet works through three mechanisms: (1) providing \"large amounts of nourishing substances\" \u2014 amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining is literally made from; (2) removing fiber and other irritants that can damage an inflamed gut (\"your gut lining may be sore and very sensitive\"); (3) delivering probiotic microbes through fermented ",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The protocol is based on clinical observation and traditional food practices. Campbell-McBride emphasizes that meat stock provides gelatin, glycine, proline, and glutamine \u2014 all substrates for enterocyte regeneration. Fermented foods provide probiotics in food form. The staged reintroduction prevent..."
+    },
+    {
+      "slug": "claim-lapine-synthesis-not-primary-source",
+      "claim_id": "lapine-cookbook-3",
+      "statement": "LaPine's book is a synthesis of expert sources (Pimentel, Siebecker, Jacobi, Bulsiewicz, Sarna, Ruscio) rather than a source of original clinical recommendations. It is explicitly curated from the SIBO clinical consensus rather than presenting independent claims. The book's value to the knowledge graph is as a marker of dietary landscape maturity, not as primary evidence.",
+      "claim_type": "definitional",
+      "source_note": "[[LaPine 2021 - SIBO Made Simple Cookbook]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "LaPine's acknowledgments list the key SIBO experts she consulted. The introductory chapters synthesize existing SIBO education (definition, three-gas model, breath testing, dietary principles) consistent with the 2021 consensus. No original clinical recommendations or trial data are presented. The b..."
+    },
+    {
+      "slug": "claim-multi-diet-recipe-tagging-five-sibo-protocols",
+      "claim_id": "lapine-cookbook-1",
+      "statement": "LaPine's recipes are tagged with compatibility across five SIBO dietary protocols: Low-FODMAP, SCD, SSFG (Siebecker's SIBO Specific Food Guide), Bi-phasic Diet (both phases), and Paleo. This is the only SIBO cookbook that systematically cross-references recipes across multiple dietary frameworks.",
+      "claim_type": "dietary",
+      "source_note": "[[LaPine 2021 - SIBO Made Simple Cookbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The book's 90+ recipes each carry dietary compatibility tags. The tagging system acknowledges that SIBO patients may cycle through different diets during different treatment phases (restriction, reintroduction, maintenance). LaPine's introduction explains the rationale: patients who start on SCD may..."
+    },
+    {
+      "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+      "claim_id": "foote-cookbook-1",
+      "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "high",
+      "evidence_excerpt": "Standard medical consensus summary. No primary research cited in this chapter."
+    },
+    {
+      "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+      "claim_id": "campbell-gaps-5",
+      "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+      "claim_type": "dietary",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic..."
+    },
+    {
+      "slug": "claim-pimentel-rezaie-survey-dietary-landscape-find-existing",
+      "claim_id": "pimentel-lfe-1",
+      "statement": "Pimentel and Rezaie survey the dietary landscape and find all existing approaches wanting. Lactose avoidance: \"patients who have lingering gastrointestinal issues may well have an enzyme deficiency that leads to lactose intolerance, but their continuing symptoms are likely due to IBS/SIBO.\" Gluten-free: \"if you have SIBO and eat wheat, you will have symptoms... When we remedy their SIBO, their int",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical experience at Cedars-Sinai (thousands of patients). One referenced clinical trial comparing low-FODMAP to SCD for IBS (finding low-FODMAP superior). Breath test data showing lactose intolerance resolves in 30-40% of SIBO patients after successful SIBO treatment. The FODMAP content of wheat ..."
+    },
+    {
+      "slug": "claim-quoting-siebecker-youre-diet-thats-restricted-both",
+      "claim_id": "sarna-sibo-diet-5",
+      "statement": "Quoting Siebecker: \"When you're on a diet that's so restricted both in scope and in portion size, it could trigger an eating disorder, which is why we try to treat the SIBO and then expand the diet as soon as possible.\" Sarna adds: \"Sometimes you need to treat yourself and have a small amount of something you love. If you don't allow yourself to do that, you might just give up on the diet altogeth",
+      "claim_type": "therapeutic",
+      "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical observation (Siebecker's practice). The recognized phenomenon that medical diets can trigger disordered eating, particularly in populations with pre-existing food anxiety."
+    },
+    {
+      "slug": "claim-scd-low-fodmap-intersection-dietary-framework",
+      "claim_id": "lapine-cookbook-2",
+      "statement": "LaPine's approach combines SCD and low-FODMAP by finding their intersection: foods that are both SCD-legal (monosaccharides only, no disaccharides/polysaccharides) and low-FODMAP (restricted fermentable oligosaccharides, disaccharides, monosaccharides, and polyols). This intersection creates recipes that work for patients on either protocol.",
+      "claim_type": "dietary",
+      "source_note": "[[LaPine 2021 - SIBO Made Simple Cookbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The introductory chapters explain the SCD + low-FODMAP integration. SCD (Gottschall) restricts disaccharides and polysaccharides; low-FODMAP (Monash) restricts specific fermentable carbohydrates. The intersection of these two diets \u2014 foods legal on both \u2014 forms the basis of LaPine's recipe developme..."
+    },
+    {
+      "slug": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+      "claim_id": "gottschall-ch35-3",
+      "statement": "A sensible and harmless form of warfare on the aberrant population of intestinal microbes is to manipulate their energy (food) supply through diet. Most intestinal microbes require carbohydrates for energy, and the Specific Carbohydrate Diet severely limits the availability of carbohydrates. By depriving intestinal microbes of their energy source, their numbers gradually decrease along with the pr",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "high",
+      "evidence_excerpt": "General microbial physiology -- most gut bacteria are saccharolytic (carbohydrate-fermenting). The principle is logical: starve the microbes of their preferred substrate and their population declines."
+    },
+    {
+      "slug": "claim-simple-approach-minimizing-undesirable-activities-intestinal-microbes",
+      "claim_id": "gottschall-ch35-2",
+      "statement": "A simple approach to minimizing the undesirable activities of intestinal microbes would seem to be through the use of antibiotics. This approach is often tried but, unfortunately, in most chronic intestinal disorders, it has limitations.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "medium",
+      "evidence_excerpt": "References to microbial adherence mechanisms: \"there is evidence that intestinal microbes will not cause disease unless they develop methods of adhering to the gut wall.\" Antibiotic therapy \"is of limited usefulness while other drugs of the cortisone and sulfa families have side-effects if continued..."
+    },
+    {
+      "slug": "claim-specific-carbohydrate-diet-most-often-corrects-malabsorption",
+      "claim_id": "gottschall-ch35-8",
+      "statement": "The Specific Carbohydrate Diet most often corrects malabsorption allowing nutrients to enter the bloodstream and be made available to the cells of the body thereby strengthening the immune system's ability to fight.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "low",
+      "evidence_excerpt": "Reiteration of the monosaccharide principle from Ch1. The SCD allows glucose, fructose, and galactose (monosaccharides found in honey, fruit, properly fermented yoghurt). It bans lactose, sucrose, maltose, isomaltose (disaccharides) and most starches (polysaccharides). Exception: legume starches (dr..."
+    },
+    {
+      "slug": "claim-treat-sibo-patients-successfully-about-percent-them",
+      "claim_id": "pimentel-lfe-2",
+      "statement": "When we treat SIBO patients successfully, about 30 to 40 percent of them who initially had a positive lactose intolerance test now have a negative lactose intolerance test, thus providing more proof of the involvement of SIBO in lactose intolerance.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+      "confidence": "high",
+      "evidence_excerpt": "Lactose breath test before/after SIBO treatment data from Cedars-Sinai. Clinical observation."
+    }
+  ]
+}

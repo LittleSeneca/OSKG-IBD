@@ -1,0 +1,236 @@
+[
+  {
+    "claim_a": "claim-elemental-diet-therapy-effective-steroids-inducing-remission",
+    "claim_b": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+    "edge_type": "supports",
+    "rationale": "EEN's steroid-equivalent clinical efficacy validates the vicious cycle model that removing fermentable carbohydrates interrupts the cycle of malabsorption, fermentation, and intestinal injury."
+  },
+  {
+    "claim_a": "claim-dietary-components-carbohydrate-major-influence-over-intestinal",
+    "claim_b": "claim-elemental-diet-therapy-effective-steroids-inducing-remission",
+    "edge_type": "supports",
+    "rationale": "The principle that carbohydrate is the major dietary influence on intestinal microbes provides the mechanistic explanation for why an elemental diet achieves steroid-equivalent remission."
+  },
+  {
+    "claim_a": "claim-cant-emphasize-enough-importance-keeping-gastrointestinal-tracts",
+    "claim_b": "claim-space-your-meals-four-five-hours-apart",
+    "edge_type": "supports",
+    "rationale": "Sarna's meal spacing recommendation explicitly restates Pimentel's MMC cleaning wave theory as its physiological rationale."
+  },
+  {
+    "claim_a": "claim-dietary-components-carbohydrate-major-influence-over-intestinal",
+    "claim_b": "claim-low-fermentation-eating-two-essential-rules-restrict-products",
+    "edge_type": "operationalizes",
+    "rationale": "LFE's two rules (restrict indigestible carbs and space meals) are a modern clinical implementation of Gottschall's principle that carbohydrate is the major driver of intestinal microbial activity."
+  },
+  {
+    "claim_a": "claim-diet-alone-wont-cure-sibo-even-you",
+    "claim_b": "claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering",
+    "edge_type": "challenged_by",
+    "rationale": "Gottschall asserts that fanatical dietary adherence leads to recovery; Pimentel counters that diet alone is insufficient to eliminate bacterial overgrowth without addressing the underlying motility defect."
+  },
+  {
+    "claim_a": "claim-core-thesis-ballantyne-paleo",
+    "claim_b": "claim-core-thesis-myers-autoimmune",
+    "edge_type": "extends",
+    "rationale": "Myers builds on Ballantyne's framework by quantifying the genetic-vs-environmental risk split (25/75) and arguing that addressing environmental factors can reverse, not just manage, autoimmune disease."
+  },
+  {
+    "claim_a": "claim-mainstream-approach-sibo-usual-try-kill-microbes",
+    "claim_b": "claim-low-fermentation-eating-two-essential-rules-restrict-products",
+    "edge_type": "challenged_by",
+    "rationale": "Campbell-McBride argues that killing microbes misses the root cause (low stomach acid, damaged gut lining), whereas Pimentel's LFE focuses on dietary substrate restriction as the primary management strategy."
+  },
+  {
+    "claim_a": "claim-core-thesis-ballantyne-paleo",
+    "claim_b": "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory",
+    "edge_type": "supports",
+    "rationale": "Foote's recommendation of an anti-inflammatory diet for Crohn's disease aligns with Ballantyne's thesis that dietary elimination of inflammatory and immune-stimulating foods is central to managing autoimmune conditions."
+  },
+  {
+    "claim_a": "claim-ranier-poley-showed-most-patients-lost-ability",
+    "claim_b": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+    "edge_type": "supports",
+    "rationale": "Poley's finding that excessive mucus prevents enzyme-substrate contact directly supports the vicious cycle step where mucus barrier leads to further carbohydrate malabsorption."
+  },
+  {
+    "claim_a": "claim-one-oversimplification-elaine-gottschalls-book-avoids-notion",
+    "claim_b": "claim-starchy-foods-assumed-digested-completely-fact-incompletely",
+    "edge_type": "supports",
+    "rationale": "The foreword's argument that fermentation byproducts, not food allergy per se, cause GI symptoms aligns with the claim that incomplete starch digestion provides substrate for microbial fermentation."
+  },
+  {
+    "claim_a": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+    "claim_b": "claim-most-potent-probiotics-use-gaps-nutritional-protocol",
+    "edge_type": "operationalizes",
+    "rationale": "GAPS implements Gottschall's microbial warfare strategy not just by carbohydrate restriction but by actively repopulating the gut with beneficial microbes through homemade fermented foods."
+  },
+  {
+    "claim_a": "claim-most-cases-begin-improve-within-three-weeks",
+    "claim_b": "claim-after-elemental-diet-reintroduce-foods-four-progressive",
+    "edge_type": "extends",
+    "rationale": "Thompson provides a structured four-phase reintroduction protocol that builds on Gottschall's observation that dietary improvement takes weeks to months and requires systematic food challenges."
+  },
+  {
+    "claim_a": "claim-core-thesis-ballantyne-paleo",
+    "claim_b": "claim-began-notice-other-unanticipated-benefits-patients-muscle",
+    "edge_type": "supports",
+    "rationale": "Gottschall's observation that dietary therapy resolved extra-intestinal symptoms (arthritis, skin rashes, fatigue) supports Ballantyne's thesis that gut permeability drives systemic autoimmune manifestations."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
+    "claim_b": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+    "edge_type": "supports",
+    "rationale": "Both guidelines converge on oral 5-ASA \u22652g/d as first-line induction therapy, with ECCO independently corroborating the ACG recommendation."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r6-rectal-5-asa-1-g-d-for-proctitis-induction",
+    "claim_b": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+    "edge_type": "supports",
+    "rationale": "Both ACG and ECCO recommend topical 5-ASA \u22651g/d as first-line therapy for distal colitis, representing cross-guideline consensus."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r8-combination-oral---rectal-5-asa-for-left-sided",
+    "claim_b": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+    "edge_type": "supports",
+    "rationale": "Both guidelines recommend combined oral and topical 5-ASA over oral alone for left-sided colitis, despite both acknowledging low-quality evidence."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r7-rectal-5-asa---rectal-steroids-for-left-sided",
+    "claim_b": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+    "edge_type": "supports",
+    "rationale": "Both guidelines agree that topical 5-ASA is preferred over topical steroids for distal UC, reinforcing this treatment hierarchy across independent guideline bodies."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r17-oral-5-asa-maintenance-for-left-sided-extensive",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "supports",
+    "rationale": "Both ACG and ECCO recommend oral 5-ASA \u22652g/d for maintenance of remission, showing cross-guideline convergence on maintenance dosing."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r16-rectal-5-asa-maintenance-for-proctitis",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "supports",
+    "rationale": "Both guidelines recommend topical 5-ASA for maintenance in distal UC, converging on the same therapeutic strategy."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "supports",
+    "rationale": "Both ACG and AGA recommend against continuing 5-ASA in patients escalated to biologic therapy, representing cross-guideline consensus on treatment de-escalation."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
+    "claim_b": "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa",
+    "edge_type": "challenged_by",
+    "rationale": "ACG recommends 5-ASA as first-line therapy, while AGA suggests early biologic use over step-up therapy for moderate-severe UC, representing a philosophical divergence in treatment sequencing."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+    "claim_b": "claim-ecco-uc2022-r10-thiopurine-monotherapy-for-maintenance--steroid-de",
+    "edge_type": "depends_on",
+    "rationale": "Thiopurine maintenance therapy is positioned after steroid induction for 5-ASA failures, making the steroid recommendation a logical prerequisite for thiopurine maintenance."
+  },
+  {
+    "claim_a": "claim-patients-ulcerative-colitis-major-advantage-over-patients",
+    "claim_b": "claim-section-lines-84908-covers-total-proctocolectomy-end",
+    "edge_type": "supports",
+    "rationale": "Steinhart's claim that colectomy effectively cures UC provides the clinical rationale for Yamada's description of IPAA as the restorative procedure of choice."
+  },
+  {
+    "claim_a": "claim-given-cured-surgery-short-bowel-syndrome-occur",
+    "claim_b": "claim-strictureplasty-method-avoiding-removal-additional-segments-intestine",
+    "edge_type": "operationalizes",
+    "rationale": "Strictureplasty is the bowel-sparing surgical technique specifically developed to address the risk of short bowel syndrome that Yamada identifies as a consequence of repeated CD resections."
+  },
+  {
+    "claim_a": "claim-there-move-toward-making-elimination-active-inflammation",
+    "claim_b": "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+    "edge_type": "supports",
+    "rationale": "Steinhart's observation that mucosal healing is becoming a treatment goal aligns with Yamada's more formal recommendation that deep remission should be the therapeutic target."
+  },
+  {
+    "claim_a": "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+    "claim_b": "claim-there-move-toward-using-more-potent-more",
+    "edge_type": "extends",
+    "rationale": "Yamada establishes deep remission as the goal; Steinhart extends this by arguing that early use of potent therapies is the strategy needed to achieve it before irreversible damage occurs."
+  },
+  {
+    "claim_a": "claim-vedolizumab-gut-specific-appear-suppress-entire-bodys",
+    "claim_b": "claim-vedolizumab-suppresses-inflammation-gastrointestinal-tract-without-inducin",
+    "edge_type": "supports",
+    "rationale": "Steinhart's accessible description of vedolizumab as gut-specific aligns with Yamada's more technical explanation of alpha4beta7 integrin blockade providing gut-selective immunosuppression."
+  },
+  {
+    "claim_a": "claim-tofacitinib-shown-effective-treating-ulcerative-colitis-properly",
+    "claim_b": "claim-rates-clinical-remission-endoscopic-improvement-significantly-higher",
+    "edge_type": "supports",
+    "rationale": "Steinhart's summary claim of tofacitinib efficacy is substantiated by Yamada's detailed OCTAVE trial data showing significant remission and endoscopic improvement rates."
+  },
+  {
+    "claim_a": "claim-given-cured-surgery-short-bowel-syndrome-occur",
+    "claim_b": "claim-approximately-people-suffering-crohns-disease-approximately-people",
+    "edge_type": "supports",
+    "rationale": "The 70-80% lifetime surgical rate for CD patients demonstrates that surgery is not curative, supporting Yamada's statement that CD is not cured by surgery and reoperation is common."
+  },
+  {
+    "claim_a": "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+    "claim_b": "claim-approach-often-used-manage-perianal-crohns-disease",
+    "edge_type": "operationalizes",
+    "rationale": "The combined surgical-medical approach for perianal CD is a concrete implementation of Yamada's multimodal deep remission strategy."
+  },
+  {
+    "claim_a": "claim-section-lines-84908-covers-total-proctocolectomy-end",
+    "claim_b": "claim-pelvic-pouch-procedure-offered-most-patients-need",
+    "edge_type": "supports",
+    "rationale": "Steinhart's >90% satisfaction rate for the pelvic pouch validates Yamada's description of IPAA as the restorative procedure of choice for UC patients requiring colectomy."
+  },
+  {
+    "claim_a": "claim-specific-carbohydrate-diet-most-often-corrects-malabsorption",
+    "claim_b": "claim-1951-after-many-years-clinical-experience-drs",
+    "edge_type": "supports",
+    "rationale": "The mechanism of correcting malabsorption through monosaccharide provision explains the historical observation that patients following the SCD for one year achieved complete and permanent symptom disappearance."
+  },
+  {
+    "claim_a": "claim-common-denominator-underlying-effectiveness-both-natural-specific",
+    "claim_b": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+    "edge_type": "supports",
+    "rationale": "The observation that SCD and elemental diet share a monosaccharide common denominator validates the microbial warfare strategy of depriving intestinal microbes of carbohydrate energy sources."
+  },
+  {
+    "claim_a": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+    "claim_b": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+    "edge_type": "supports",
+    "rationale": "Thompson's description of EEN starving bacteria by eliminating fermentable substrate directly parallels Gottschall's microbial warfare strategy of depriving microbes of carbohydrates."
+  },
+  {
+    "claim_a": "claim-bacterial-overgrowth-stomach-small-intestine-occur-various",
+    "claim_b": "claim-doubt-autoimmunity-born-gut",
+    "edge_type": "supports",
+    "rationale": "Gottschall's catalog of causes for bacterial overgrowth (antacids, aging, malnutrition, antibiotics) provides mechanistic underpinning for Campbell-McBride's thesis that all autoimmunity originates in the gut."
+  },
+  {
+    "claim_a": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+    "claim_b": "claim-introduction-diet-works-three-mechanisms-providing-large",
+    "edge_type": "operationalizes",
+    "rationale": "GAPS Introduction Diet implements Gottschall's microbial warfare through three concrete mechanisms: providing gut-healing nutrients, removing irritants, and delivering probiotics via fermented foods."
+  },
+  {
+    "claim_a": "claim-common-denominator-underlying-effectiveness-both-natural-specific",
+    "claim_b": "claim-food-guide-developed-siebecker-based-her-clinical",
+    "edge_type": "operationalizes",
+    "rationale": "Siebecker's food guide combines SCD and low-FODMAP into a single dietary framework, operationalizing Gottschall's recognition that multiple dietary approaches converge on fermentable carbohydrate restriction."
+  },
+  {
+    "claim_a": "claim-food-guide-developed-siebecker-based-her-clinical",
+    "claim_b": "claim-multi-diet-recipe-tagging-five-sibo-protocols",
+    "edge_type": "operationalizes",
+    "rationale": "LaPine's systematic recipe tagging across five SIBO dietary protocols is the practical implementation of Siebecker's multi-diet approach, making the combined framework usable for patients."
+  },
+  {
+    "claim_a": "claim-specific-carbohydrate-diet-most-often-corrects-malabsorption",
+    "claim_b": "claim-pimentel-rezaie-survey-dietary-landscape-find-existing",
+    "edge_type": "challenged_by",
+    "rationale": "Gottschall claims SCD corrects malabsorption universally; Pimentel's survey cites a clinical trial finding low-FODMAP superior to SCD for IBS, challenging the claim of SCD's universal efficacy."
+  }
+]

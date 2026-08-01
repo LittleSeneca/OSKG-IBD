@@ -1,0 +1,215 @@
+{
+  "cluster_id": "cluster-031",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 23,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
+      "claim_id": "acg-uc2019-rec10",
+      "statement": "**Recommendation 10** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+      "claim_id": "acg-uc2019-rec11",
+      "statement": "**Recommendation 11** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r12-against-switching-5-asa-formulations",
+      "claim_id": "acg-uc2019-rec12",
+      "statement": "**Recommendation 12** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r13-low-dose--2-2-4-g--vs-high-dose-5-asa",
+      "claim_id": "acg-uc2019-rec13",
+      "statement": "**Recommendation 13** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+      "claim_id": "acg-uc2019-rec14",
+      "statement": "**Recommendation 14** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r15-once-daily-5-asa-dosing",
+      "claim_id": "acg-uc2019-rec15",
+      "statement": "**Recommendation 15** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r16-rectal-5-asa-maintenance-for-proctitis",
+      "claim_id": "acg-uc2019-rec16",
+      "statement": "**Recommendation 16** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r17-oral-5-asa-maintenance-for-left-sided-extensive",
+      "claim_id": "acg-uc2019-rec17",
+      "statement": "**Recommendation 17** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf",
+      "claim_id": "acg-uc2019-rec23",
+      "statement": "**Recommendation 23** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+      "claim_id": "acg-uc2019-rec30",
+      "statement": "**Recommendation 30** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r6-rectal-5-asa-1-g-d-for-proctitis-induction",
+      "claim_id": "acg-uc2019-rec6",
+      "statement": "**Recommendation 6** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r7-rectal-5-asa---rectal-steroids-for-left-sided",
+      "claim_id": "acg-uc2019-rec7",
+      "statement": "**Recommendation 7** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r8-combination-oral---rectal-5-asa-for-left-sided",
+      "claim_id": "acg-uc2019-rec8",
+      "statement": "**Recommendation 8** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+      "claim_id": "acg-uc2019-rec9",
+      "statement": "**Recommendation 9** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa",
+      "claim_id": "aga-uc2020-rec6",
+      "statement": "**Recommendation 6** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+      "claim_id": "aga-uc2020-rec7",
+      "statement": "**Recommendation 7** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+      "claim_id": "ecco-uc2022-rec1",
+      "statement": "**Recommendation 1** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r10-thiopurine-monotherapy-for-maintenance--steroid-de",
+      "claim_id": "ecco-uc2022-rec10",
+      "statement": "**Recommendation 10** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+      "claim_id": "ecco-uc2022-rec2",
+      "statement": "**Recommendation 2** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+      "claim_id": "ecco-uc2022-rec3",
+      "statement": "**Recommendation 3** (Weak, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+      "claim_id": "ecco-uc2022-rec5",
+      "statement": "**Recommendation 5** (Weak, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+      "claim_id": "ecco-uc2022-rec8",
+      "statement": "**Recommendation 8** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+      "claim_id": "ecco-uc2022-rec9",
+      "statement": "**Recommendation 9** (Weak, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**."
+    }
+  ]
+}

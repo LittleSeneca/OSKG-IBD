@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-029",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+      "claim_id": "acg-cd2018-rec30",
+      "statement": "**Recommendation 30** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+      "claim_id": "acg-cd2018-rec33",
+      "statement": "**Recommendation 33** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r34-infliximab-for-fulminant-cd",
+      "claim_id": "acg-cd2018-rec34",
+      "statement": "**Recommendation 34** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r35-infliximab-for-perianal-fistulas",
+      "claim_id": "acg-cd2018-rec35",
+      "statement": "**Recommendation 35** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul",
+      "claim_id": "acg-cd2018-rec36",
+      "statement": "**Recommendation 36** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r37-adalimumab-certolizumab-for-perianal-fistulas",
+      "claim_id": "acg-cd2018-rec37",
+      "statement": "**Recommendation 37** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+      "claim_id": "acg-cd2018-rec41",
+      "statement": "**Recommendation 41** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+      "claim_id": "acg-cd2018-rec42",
+      "statement": "**Recommendation 42** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+      "claim_id": "acg-cd2018-rec43",
+      "statement": "**Recommendation 43** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+      "claim_id": "acg-cd2018-rec49",
+      "statement": "**Recommendation 49** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients",
+      "claim_id": "acg-cd2018-rec58",
+      "statement": "**Recommendation 58** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    }
+  ]
+}

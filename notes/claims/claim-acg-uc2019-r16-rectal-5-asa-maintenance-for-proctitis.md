@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc|Both guidelines recommend topical 5-ASA for maintenance in distal UC, converging on the same therapeutic strategy.]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

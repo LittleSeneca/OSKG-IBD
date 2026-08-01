@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-theres-really-thing-good-bad-native-bacteria|Chutkan's recommendation to take probiotics during and after antibiotics is challenged by Pimentel's evidence that probi]]
+
+**Contradicts:**
 
 ## Assessment
 

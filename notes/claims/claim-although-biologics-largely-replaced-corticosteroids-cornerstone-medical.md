@@ -51,15 +51,18 @@ The claim that biologics haven't "significantly altered" the natural history of 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-steroids-used-many-decades-treatment-inflammatory-bowel|Yamada's observation that biologics replaced corticosteroids as cornerstone extends Steinhart's account of steroid domin]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

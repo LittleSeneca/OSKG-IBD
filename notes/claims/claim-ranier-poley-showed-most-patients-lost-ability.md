@@ -49,15 +49,18 @@ This provides the physiological basis for why disaccharide restriction helps: it
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate|Poley's finding that excessive mucus prevents enzyme-substrate contact directly supports the vicious cycle step where mu]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -53,15 +53,18 @@ FMT has been hyped as a cure-all for microbiome diseases. The IBS trial data str
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates|Pimentel's negative FMT trial data and probiotic skepticism challenge Chutkan's microbiome-restoration approach using di]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,18 @@ If 5-ASA is ineffective for CD, billions of dollars in drug expenditure are wast
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory|Yamada's Cochrane-backed finding that 5-ASA is ineffective for Crohn's maintenance corroborates Steinhart's caution that]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

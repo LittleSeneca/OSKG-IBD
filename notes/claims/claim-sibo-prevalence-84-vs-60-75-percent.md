@@ -49,15 +49,18 @@ The prevalence estimate determines the clinical relevance of SIBO. At 84%, nearl
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-sibo-prevalence-78-percent-ibs-sarna|Sarna's 78% prevalence figure represents an intermediate estimate between Pimentel's 2006 (84%) and 2022 (60-75%) figure]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

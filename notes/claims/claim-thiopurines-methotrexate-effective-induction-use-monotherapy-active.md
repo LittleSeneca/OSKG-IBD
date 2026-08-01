@@ -53,15 +53,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
+- [[claim-bsg-statement-3-5asa-induction-uc|BSG's strong 5-ASA induction recommendation for mild-to-moderate UC establishes why thiopurines are reserved for steroid]]
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

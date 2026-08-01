@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-combination-biologic-immunomodulator-therapy-recommended-over-either|The CD guideline restricts the UC guideline's broad combination therapy principle to the best-evidenced biologic, inflix]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

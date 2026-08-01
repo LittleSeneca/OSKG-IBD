@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-assessment-disease-activity-endoscopy-andor-imaging-necessary|ACG's four-domain severity framework extends ECCO's endoscopy/imaging requirement by adding patient-reported outcomes, i]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

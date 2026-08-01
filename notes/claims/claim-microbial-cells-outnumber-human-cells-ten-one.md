@@ -52,15 +52,18 @@ If the microbiome-as-organ thesis is correct, then medical practices that damage
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-core-thesis-sonnenburg-gut|Both Chutkan and Sonnenburg independently describe the gut microbiome as a second genome, with Chutkan emphasizing the m]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

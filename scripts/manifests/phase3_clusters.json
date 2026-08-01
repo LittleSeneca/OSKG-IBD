@@ -1,0 +1,1063 @@
+{
+  "version": "1.0",
+  "project": "OSKG-IBD",
+  "total_claims": 476,
+  "total_clusters": 36,
+  "total_candidate_pairs": 4351,
+  "cluster_stats": [
+    {
+      "id": "cluster-005",
+      "label": "breath-testing (diagnostic)",
+      "size": 34,
+      "candidate_pairs": 561
+    },
+    {
+      "id": "cluster-009",
+      "label": "anti-tnf (therapeutic)",
+      "size": 33,
+      "candidate_pairs": 528
+    },
+    {
+      "id": "cluster-016",
+      "label": "autoimmunity (therapeutic)",
+      "size": 29,
+      "candidate_pairs": 406
+    },
+    {
+      "id": "cluster-024",
+      "label": "crohns-disease (therapeutic)",
+      "size": 29,
+      "candidate_pairs": 406
+    },
+    {
+      "id": "cluster-017",
+      "label": "ibs (mechanistic)",
+      "size": 27,
+      "candidate_pairs": 351
+    },
+    {
+      "id": "cluster-030",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 27,
+      "candidate_pairs": 351
+    },
+    {
+      "id": "cluster-022",
+      "label": "elemental-diet (dietary)",
+      "size": 25,
+      "candidate_pairs": 300
+    },
+    {
+      "id": "cluster-031",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 23,
+      "candidate_pairs": 253
+    },
+    {
+      "id": "cluster-002",
+      "label": "surgery (therapeutic)",
+      "size": 20,
+      "candidate_pairs": 190
+    },
+    {
+      "id": "cluster-020",
+      "label": "scd (therapeutic)",
+      "size": 19,
+      "candidate_pairs": 171
+    },
+    {
+      "id": "cluster-001",
+      "label": "inflammation (diagnostic)",
+      "size": 15,
+      "candidate_pairs": 105
+    },
+    {
+      "id": "cluster-000",
+      "label": "pathogenesis (mechanistic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-008",
+      "label": "histology (diagnostic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-010",
+      "label": "mucosal-healing (therapeutic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-011",
+      "label": "5-asa (therapeutic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-013",
+      "label": "anti-il12-23 (therapeutic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-029",
+      "label": "crohns-disease (therapeutic)",
+      "size": 11,
+      "candidate_pairs": 55
+    },
+    {
+      "id": "cluster-018",
+      "label": "imo (therapeutic)",
+      "size": 10,
+      "candidate_pairs": 45
+    },
+    {
+      "id": "cluster-006",
+      "label": "surgery (therapeutic)",
+      "size": 9,
+      "candidate_pairs": 36
+    },
+    {
+      "id": "cluster-033",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 9,
+      "candidate_pairs": 36
+    },
+    {
+      "id": "cluster-034",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 9,
+      "candidate_pairs": 36
+    },
+    {
+      "id": "cluster-004",
+      "label": "immunomodulators (therapeutic)",
+      "size": 8,
+      "candidate_pairs": 28
+    },
+    {
+      "id": "cluster-007",
+      "label": "biomarkers (diagnostic)",
+      "size": 8,
+      "candidate_pairs": 28
+    },
+    {
+      "id": "cluster-019",
+      "label": "elemental-diet (therapeutic)",
+      "size": 7,
+      "candidate_pairs": 21
+    },
+    {
+      "id": "cluster-021",
+      "label": "carbohydrate-malabsorption (dietary)",
+      "size": 7,
+      "candidate_pairs": 21
+    },
+    {
+      "id": "cluster-026",
+      "label": "crohns-disease (therapeutic)",
+      "size": 7,
+      "candidate_pairs": 21
+    },
+    {
+      "id": "cluster-028",
+      "label": "crohns-disease (therapeutic)",
+      "size": 7,
+      "candidate_pairs": 21
+    },
+    {
+      "id": "cluster-035",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 7,
+      "candidate_pairs": 21
+    },
+    {
+      "id": "cluster-003",
+      "label": "5-asa (therapeutic)",
+      "size": 6,
+      "candidate_pairs": 15
+    },
+    {
+      "id": "cluster-012",
+      "label": "anti-integrin (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-014",
+      "label": "jak-inhibitors (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-015",
+      "label": "probiotics (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-023",
+      "label": "diet (dietary)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-025",
+      "label": "crohns-disease (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-027",
+      "label": "crohns-disease (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    },
+    {
+      "id": "cluster-032",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 5,
+      "candidate_pairs": 10
+    }
+  ],
+  "clusters": [
+    {
+      "id": "cluster-005",
+      "label": "breath-testing (diagnostic)",
+      "size": 34,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/breath-testing",
+      "candidate_pairs": 561,
+      "claim_slugs": [
+        "claim-aga-sibo2020-bpa-1",
+        "claim-aga-sibo2020-bpa-2-4",
+        "claim-aga-sibo2020-bpa-5-6",
+        "claim-aga-sibo2020-bpa-7-9",
+        "claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence",
+        "claim-anxiety-depression-screening-routine-care",
+        "claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based",
+        "claim-bsg-2019-unified-uc-cd-single-document",
+        "claim-bsg-gpr27-ibd-mdt-model",
+        "claim-chromoendoscopy-increases-dysplasia-detection-over-standard-definition-whi",
+        "claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy",
+        "claim-diagnosis-requires-endoscopic-confirmation-histology-exclusion-infectious",
+        "claim-early-biologic-therapy-without-immunomodulator-suggested-over",
+        "claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost",
+        "claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo",
+        "claim-graded-discussed-adjunctive-therapy-without-formal-recommendation",
+        "claim-graded-recommendation-discussed-reference-standard-significant-limitations",
+        "claim-intra-abdominal-abscess-requires-antibiotics-drainage-surgery-failure",
+        "claim-measure-drug-levels-antibodies-anti-tnf-loss-response",
+        "claim-methane-positive-breath-testing-ppm-indicates-intestinal-methanogen",
+        "claim-most-convincing-evidence-date-finding-functional-dyspepsia",
+        "claim-mri-most-accurate-modality-perianal-fistula-classification",
+        "claim-mri-preferred-over-small-bowel-imaging-ius",
+        "claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target",
+        "claim-perianal-requires-combined-clinical-endoscopic-imaging-evaluation",
+        "claim-prebiotics-synbiotics-theoretically-potential-treating-functional-gastroin",
+        "claim-pregnancy-ius-unenhanced-mri-safe-imaging-modalities",
+        "claim-progressive-disease-requiring-early-intensive-monitoring-individualized",
+        "claim-report-identifies-specific-methodological-conceptual-barriers-progress",
+        "claim-role-sibo-pathogenesis-ibs-controversial-because-breath",
+        "claim-screening-colonoscopy-starts-years-after-diagnosis-immediately",
+        "claim-sibo-defined-presence-excessive-numbers-bacteria-small",
+        "claim-summary-statement-symptoms-crohns-disease-correlate-well",
+        "claim-ultimate-goal-treatment-maintain-health-related-quality-life"
+      ]
+    },
+    {
+      "id": "cluster-009",
+      "label": "anti-tnf (therapeutic)",
+      "size": 33,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/anti-tnf",
+      "candidate_pairs": 528,
+      "claim_slugs": [
+        "claim-adjunctive-antibiotics-used-routinely-asuc-without-infection",
+        "claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina",
+        "claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy",
+        "claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination",
+        "claim-bsg-statement-11-tofacitinib-post-anti-tnf",
+        "claim-bsg-statement-126-mesalazine-crc-chemoprevention",
+        "claim-bsg-statement-128-anti-tnf-pregnancy",
+        "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+        "claim-bsg-statement-2-treatment-target-mucosal-healing",
+        "claim-bsg-statement-3-5asa-induction-uc",
+        "claim-bsg-statement-34-een-adult-cd",
+        "claim-bsg-statement-36-surgery-localized-ileocaecal-cd",
+        "claim-bsg-statement-42-mesalazine-not-for-cd",
+        "claim-bsg-statement-69-smoking-postoperative-cd",
+        "claim-bsg-statement-9-biologic-choice-moderate-severe-uc",
+        "claim-bsg-statement-91-biosimilar-infliximab-ct-p13",
+        "claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard",
+        "claim-controlled-ileal-release-budesonide-daily-first-line-mild-to-moderate",
+        "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+        "claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease",
+        "claim-infliximab-best-studied-agent-perianal-fistulas-combination-seton",
+        "claim-low-risk-patients-symptomatic-treatment-careful-observation-acceptable",
+        "claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan",
+        "claim-methotrexate-effective-steroid-dependent-r23",
+        "claim-nsaids-exacerbate-disease-avoided-smoking-cessation-critical",
+        "claim-report-provides-seven-general-clinical-recommendations-prioritize",
+        "claim-short-course-gut-specific-antibiotics-utility-patients-ibs",
+        "claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi",
+        "claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm",
+        "claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active",
+        "claim-thiopurines-methotrexate-started-after-corticosteroid-induced-remission-r4",
+        "claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate",
+        "claim-thiopurines-used-monotherapy-induction-they-too-slow"
+      ]
+    },
+    {
+      "id": "cluster-016",
+      "label": "autoimmunity (therapeutic)",
+      "size": 29,
+      "domain": "domain/microbiome",
+      "primary_topic": "topic/autoimmunity",
+      "candidate_pairs": 406,
+      "claim_slugs": [
+        "claim-bacteria-digest-fiber-short-chain-fatty-acids-butyrate",
+        "claim-based-validation-study-almost-3000-patients-proved",
+        "claim-cdtb-looks-similar-native-protein-our-body",
+        "claim-core-thesis-sonnenburg-gut",
+        "claim-developing-disease-after-infection-new-phenomenon-reported",
+        "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+        "claim-fewer-bacteria-our-gut-our-ancestors-because",
+        "claim-first-step-treating-sibo-understand-sibo-primary",
+        "claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates",
+        "claim-mark-pimentels-book-published-there-few-treatment",
+        "claim-microbial-cells-outnumber-human-cells-ten-one",
+        "claim-now-know-one-out-nine-people-experience",
+        "claim-our-research-found-about-three-quarters-patients-many",
+        "claim-prokinetic-optimization-erythromycin-prucalopride",
+        "claim-sarna-pimentel-alignment-differences",
+        "claim-sibo-core-principles-unchanged-2006-2022",
+        "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim-sibo-prevalence-84-vs-60-75-percent",
+        "claim-sibo-really-just-another-term-dysbiosis-occurs",
+        "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim-six-randomized-controlled-trials-fecal-transplant-ibs",
+        "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+        "claim-ten-things-taking-antibiotics-table-11-2-includes",
+        "claim-theres-really-thing-good-bad-native-bacteria",
+        "claim-three-gas-model-imo-terminology-evolution",
+        "claim-three-treatment-modalities-pharmaceutical-herbal-elemental",
+        "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim-treatment-expectation-refinement-2006-2022"
+      ]
+    },
+    {
+      "id": "cluster-024",
+      "label": "crohns-disease (therapeutic)",
+      "size": 29,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 406,
+      "claim_slugs": [
+        "claim-acg-cd2018-r1-fecal-calprotectin-to-differentiate-ibd-from-ibs",
+        "claim-acg-cd2018-r13-metronidazole-not-for-luminal-cd",
+        "claim-acg-cd2018-r14-ciprofloxacin-not-for-luminal-cd",
+        "claim-acg-cd2018-r15-antimycobacterial-therapy-not-for-cd",
+        "claim-acg-cd2018-r16-symptomatic-treatment---observation-for-low-risk",
+        "claim-acg-cd2018-r17-oral-corticosteroids-for-short-term-use",
+        "claim-acg-cd2018-r19-thiopurines-not-for-short-term-induction",
+        "claim-acg-cd2018-r2-chromoendoscopy-for-high-risk-patients",
+        "claim-acg-cd2018-r27-vedolizumab-for-induction",
+        "claim-acg-cd2018-r28-natalizumab-for-induction",
+        "claim-acg-cd2018-r29-natalizumab-only-if-jc-virus-negative",
+        "claim-acg-cd2018-r3-insufficient-evidence-for-universal-chromoendoscop",
+        "claim-acg-cd2018-r32-iv-corticosteroids-for-severe-fulminant",
+        "claim-acg-cd2018-r38-thiopurines-for-fistulizing-cd",
+        "claim-acg-cd2018-r4-narrow-band-imaging-should-not-be-used",
+        "claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu",
+        "claim-acg-cd2018-r5-targeted-biopsies-may-replace-random-biopsies-with",
+        "claim-acg-cd2018-r50-consider-combination-therapy-to-reduce-immunogenic",
+        "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+        "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+        "claim-acg-cd2018-r54-smoking-cessation",
+        "claim-acg-cd2018-r56-imidazole-antibiotics-to-prevent-recurrence",
+        "claim-acg-cd2018-r57-thiopurines-prevent-recurrence-but-not-severe-endo",
+        "claim-acg-cd2018-r6-avoid-nsaids",
+        "claim-acg-cd2018-r60-abscess--antibiotics---drainage",
+        "claim-acg-cd2018-r7-smoking-cessation",
+        "claim-acg-cd2018-r8-do-not-restrict-antibiotics-to-prevent-flares",
+        "claim-acg-cd2018-r9-assess-manage-stress--depression--anxiety",
+        "claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone"
+      ]
+    },
+    {
+      "id": "cluster-017",
+      "label": "ibs (mechanistic)",
+      "size": 27,
+      "domain": "domain/microbiome",
+      "primary_topic": "topic/ibs",
+      "candidate_pairs": 351,
+      "claim_slugs": [
+        "claim-anxiety-doesnt-give-you-ibs-ibs-gives",
+        "claim-average-take-four-six-years-you-receive",
+        "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+        "claim-because-food-poisoning-connection-now-know-more",
+        "claim-cdtb-vinculin-autoimmunity-discovery-2006-2022",
+        "claim-clinical-study-published-2002-found-ibs-sibo",
+        "claim-five-categories-rifaximin-response-one-done-mostly",
+        "claim-helpful-think-leaky-gut-more-mechanism-disease",
+        "claim-main-problem-rome-criteria-they-never-really",
+        "claim-notice-just-referred-ibs-disease-doesnt-ibs",
+        "claim-now-know-microbiome-20-foot-long-small-intestine-radically",
+        "claim-one-retrospective-study-suggested-nearly-half-ibs",
+        "claim-peppermint-appears-work-multiple-ways-calcium-channel",
+        "claim-percent-siboibs-patients-smearing-fecal-incontinence-stool",
+        "claim-performed-study-compared-erythromycin-another-serotonin-agonist",
+        "claim-pimentel-lists-five-natural-defenses-table-phase",
+        "claim-proton-pump-inhibitors-ppis-acid-suppressants-create",
+        "claim-recent-medium-sized-randomized-controlled-trial-found-5000",
+        "claim-remember-gut-two-modes-feeding-digestion-fasting",
+        "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim-sibo-occurs-there-greater-1000-bacteria-per",
+        "claim-similar-sibo-fungal-elements-overgrow-small-intestine",
+        "claim-structural-yamada-sibo58-1",
+        "claim-there-antidepressant-drug-antidepressantantipsychotic-property-approved-tr",
+        "claim-treatment-rifaximin-alone-another-antibiotic-neomycin-alone",
+        "claim-you-sibo-taking-prebiotic-actually-provide-food",
+        "claim-your-gut-millions-immune-cells-more-immune"
+      ]
+    },
+    {
+      "id": "cluster-030",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 27,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 351,
+      "claim_slugs": [
+        "claim-acg-uc2019-r1-stool-testing-for-c--diff-at-diagnosis",
+        "claim-acg-uc2019-r18-against-systemic-steroids-for-maintenance",
+        "claim-acg-uc2019-r2-against-serologic-testing-for-diagnosis",
+        "claim-acg-uc2019-r20-systemic-steroids-for-moderate-severe-induction",
+        "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim-acg-uc2019-r29-therapeutic-drug-monitoring-in-lor",
+        "claim-acg-uc2019-r3-against-serologic-testing-for-prognosis",
+        "claim-acg-uc2019-r31-against-steroids-for-maintenance",
+        "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+        "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim-acg-uc2019-r4-treat-to-mucosal-healing--mayo-0-1",
+        "claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc",
+        "claim-acg-uc2019-r41-against-tpn-bowel-rest-in-asuc",
+        "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+        "claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day",
+        "claim-acg-uc2019-r44-ifx-maintenance-after-ifx-rescue-in-asuc",
+        "claim-acg-uc2019-r47-screening-surveillance-colonoscopy-for-uc-beyond-r",
+        "claim-acg-uc2019-r48-dye-spray-chromoendoscopy-with-sd-colonoscopes",
+        "claim-acg-uc2019-r49-hd-wle---nbi-or-chromoendoscopy-with-hd-scopes",
+        "claim-acg-uc2019-r5-fc-as-surrogate-when-endoscopy-unavailable",
+        "claim-aga-uc2020-r8-iv-methylprednisolone-40-60-mg-day",
+        "claim-aga-uc2020-r9-against-adjunctive-antibiotics-in-asuc",
+        "claim-ecco-uc2022-r14-tofacitinib-for-induction-in-moderate-severe-uc",
+        "claim-ecco-uc2022-r20-tofacitinib-for-maintenance-after-tofacitinib-indu",
+        "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis"
+      ]
+    },
+    {
+      "id": "cluster-022",
+      "label": "elemental-diet (dietary)",
+      "size": 25,
+      "domain": "domain/nutrition",
+      "primary_topic": "topic/elemental-diet",
+      "candidate_pairs": 300,
+      "claim_slugs": [
+        "claim-after-elemental-diet-reintroduce-foods-four-progressive",
+        "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim-began-notice-other-unanticipated-benefits-patients-muscle",
+        "claim-cant-emphasize-enough-importance-keeping-gastrointestinal-tracts",
+        "claim-carbohydrates-must-digested-monosaccharides-before-absorption-starch",
+        "claim-citing-controlled-trial-amino-acid-feed-remission",
+        "claim-core-thesis-ballantyne-paleo",
+        "claim-core-thesis-myers-autoimmune",
+        "claim-diet-alone-wont-cure-sibo-even-you",
+        "claim-dietary-components-carbohydrate-major-influence-over-intestinal",
+        "claim-duration-guidelines-moderate-to-severe-bleeding-fistulas-weeks-months",
+        "claim-elemental-diet-therapy-effective-steroids-inducing-remission",
+        "claim-full-gaps-diet-adds-more-variety-meats",
+        "claim-initial-basic-diet-1-5-days-severe-diarrhea",
+        "claim-low-fermentation-eating-two-essential-rules-restrict-products",
+        "claim-mainstream-approach-sibo-usual-try-kill-microbes",
+        "claim-most-cases-begin-improve-within-three-weeks",
+        "claim-most-potent-probiotics-use-gaps-nutritional-protocol",
+        "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory",
+        "claim-one-oversimplification-elaine-gottschalls-book-avoids-notion",
+        "claim-ranier-poley-showed-most-patients-lost-ability",
+        "claim-space-your-meals-four-five-hours-apart",
+        "claim-starchy-foods-assumed-digested-completely-fact-incompletely",
+        "claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering",
+        "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate"
+      ]
+    },
+    {
+      "id": "cluster-031",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 23,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 253,
+      "claim_slugs": [
+        "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
+        "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+        "claim-acg-uc2019-r12-against-switching-5-asa-formulations",
+        "claim-acg-uc2019-r13-low-dose--2-2-4-g--vs-high-dose-5-asa",
+        "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+        "claim-acg-uc2019-r15-once-daily-5-asa-dosing",
+        "claim-acg-uc2019-r16-rectal-5-asa-maintenance-for-proctitis",
+        "claim-acg-uc2019-r17-oral-5-asa-maintenance-for-left-sided-extensive",
+        "claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf",
+        "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+        "claim-acg-uc2019-r6-rectal-5-asa-1-g-d-for-proctitis-induction",
+        "claim-acg-uc2019-r7-rectal-5-asa---rectal-steroids-for-left-sided",
+        "claim-acg-uc2019-r8-combination-oral---rectal-5-asa-for-left-sided",
+        "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+        "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa",
+        "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim-ecco-uc2022-r10-thiopurine-monotherapy-for-maintenance--steroid-de",
+        "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+        "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+        "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+        "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc"
+      ]
+    },
+    {
+      "id": "cluster-002",
+      "label": "surgery (therapeutic)",
+      "size": 20,
+      "domain": "domain/treatment",
+      "primary_topic": "topic/surgery",
+      "candidate_pairs": 190,
+      "claim_slugs": [
+        "claim-approach-often-used-manage-perianal-crohns-disease",
+        "claim-approximately-people-suffering-crohns-disease-approximately-people",
+        "claim-aside-coli-nissle-probiotic-there-evidence-probiotic",
+        "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim-conditions-right-laparoscopic-surgery-done-safely-without",
+        "claim-current-guidelines-therefore-recommend-drug-concentration-monitoring",
+        "claim-given-cured-surgery-short-bowel-syndrome-occur",
+        "claim-infliximab-produces-patients-responded-positively-active-crohns",
+        "claim-patients-ulcerative-colitis-major-advantage-over-patients",
+        "claim-pelvic-pouch-procedure-offered-most-patients-need",
+        "claim-rates-clinical-remission-endoscopic-improvement-significantly-higher",
+        "claim-section-lines-84908-covers-total-proctocolectomy-end",
+        "claim-strictureplasty-method-avoiding-removal-additional-segments-intestine",
+        "claim-there-move-toward-making-elimination-active-inflammation",
+        "claim-there-move-toward-using-more-potent-more",
+        "claim-tofacitinib-shown-effective-treating-ulcerative-colitis-properly",
+        "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+        "claim-vedolizumab-effective-induction-maintenance-agent-approved-use",
+        "claim-vedolizumab-gut-specific-appear-suppress-entire-bodys",
+        "claim-vedolizumab-suppresses-inflammation-gastrointestinal-tract-without-inducin"
+      ]
+    },
+    {
+      "id": "cluster-020",
+      "label": "scd (therapeutic)",
+      "size": 19,
+      "domain": "domain/nutrition",
+      "primary_topic": "topic/scd",
+      "candidate_pairs": 171,
+      "claim_slugs": [
+        "claim-1951-after-many-years-clinical-experience-drs",
+        "claim-bacterial-overgrowth-stomach-small-intestine-occur-various",
+        "claim-common-denominator-underlying-effectiveness-both-natural-specific",
+        "claim-doubt-autoimmunity-born-gut",
+        "claim-elemental-diet-provides-colon-rest-necessary-heal",
+        "claim-food-guide-developed-siebecker-based-her-clinical",
+        "claim-hoffman-states-scd-simply-presented-yet-sophisticated",
+        "claim-introduction-diet-works-three-mechanisms-providing-large",
+        "claim-lapine-synthesis-not-primary-source",
+        "claim-multi-diet-recipe-tagging-five-sibo-protocols",
+        "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim-pimentel-rezaie-survey-dietary-landscape-find-existing",
+        "claim-quoting-siebecker-youre-diet-thats-restricted-both",
+        "claim-scd-low-fodmap-intersection-dietary-framework",
+        "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+        "claim-simple-approach-minimizing-undesirable-activities-intestinal-microbes",
+        "claim-specific-carbohydrate-diet-most-often-corrects-malabsorption",
+        "claim-treat-sibo-patients-successfully-about-percent-them"
+      ]
+    },
+    {
+      "id": "cluster-001",
+      "label": "inflammation (diagnostic)",
+      "size": 15,
+      "domain": "domain/diagnosis",
+      "primary_topic": "topic/inflammation",
+      "candidate_pairs": 105,
+      "claim_slugs": [
+        "claim-5-15%-patients-isolated-colonic-involvement-possible-initially",
+        "claim-because-low-sensitivity-screening-ibd-general-population",
+        "claim-clinical-presentation-patients-diverse-heterogeneous-symptoms-range",
+        "claim-colonoscopy-ileal-intubation-generally-required-assessment-include",
+        "claim-cross-sectional-imaging-modalities-magnetic-resonance-imaging-enterography",
+        "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim-diagnostic-performance-serological-tests-suboptimal-they-used",
+        "claim-disease-presents-diffuse-continuous-inflammation-beginning-rectum",
+        "claim-fecal-calprotectin-shown-equally-effective-detection-inflammation",
+        "claim-metaanalysis-2499-patients-observed-pooled-sensitivity-specificity",
+        "claim-microbiological-testing-using-stool-cultures-bacterial-pathogens",
+        "claim-montreal-classification-includes-age-diagnosis-disease-location",
+        "claim-patients-ulcerative-colitis-two-aspects-vital-decision",
+        "claim-ulcerative-colitis-considered-patient-presents-rectal-bleeding",
+        "claim-while-there-pathognomonic-histological-criteria-diagnosis-ulcerative"
+      ]
+    },
+    {
+      "id": "cluster-000",
+      "label": "pathogenesis (mechanistic)",
+      "size": 11,
+      "domain": "domain/pathophysiology",
+      "primary_topic": "topic/pathogenesis",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-core-thesis-marya-inflamed",
+        "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim-large-international-collaborative-study-including-over-000",
+        "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+        "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+        "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim-th1-th17-cells-play-role-development-crohn's"
+      ]
+    },
+    {
+      "id": "cluster-008",
+      "label": "histology (diagnostic)",
+      "size": 11,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/histology",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-attempts-define-disease-severity-widely-used-setting",
+        "claim-budesonide-mmx-mgd-appropriate-5-asa-refractory-mild-moderate-maintenance",
+        "claim-cross-sectional-imaging-detect-small-bowel-strictures-technique",
+        "claim-fecal-calprotectin-most-sensitive-non-invasive-inflammatory-marker",
+        "claim-grade-guideline-pico-structured-questions-supported-first-formal",
+        "claim-ileocolonoscopy-biopsies-required-diagnosis-endoscopic-histological-featur",
+        "claim-insufficient-evidence-supports-proactive-reactive-tdm-immunomodulator",
+        "claim-possible-ibs-ibd-coexist-higher-expected-frequency",
+        "claim-single-reference-standard-exists-ibd-diagnosis-composite",
+        "claim-smoking-cessation-only-modifiable-risk-factor-risk",
+        "claim-summary-statements-24-35-grade-rated"
+      ]
+    },
+    {
+      "id": "cluster-010",
+      "label": "mucosal-healing (therapeutic)",
+      "size": 11,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/mucosal-healing",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended",
+        "claim-budesonide-mmx-preferred-over-systemic-steroids-5-asa-refractory",
+        "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+        "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+        "claim-oral-5-asa-topical-5-asa-distal-disease-strongly",
+        "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
+        "claim-oral-mesalamine-used-active-crohns-disease-sulfasalazine",
+        "claim-rectal-5-asa-first-line-proctitis-combined-oral-rectal",
+        "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to",
+        "claim-thiopurine-monotherapy-ineffective-induction-effective-maintenance-methotr",
+        "claim-vedolizumab-strongly-recommended-induction-low-quality-evidence-weak"
+      ]
+    },
+    {
+      "id": "cluster-011",
+      "label": "5-asa (therapeutic)",
+      "size": 11,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/5-asa",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-5-asa-corticosteroids-effective-maintenance-budesonide-used-beyond",
+        "claim-5-asa-ineffective-maintenance-thiopurines-effective-steroid-dependent-pati",
+        "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+        "claim-5-asa-sulfasalazine-ineffective-inducing-remission-budesonide-effective",
+        "claim-continue-agent-induced-remission-anti-tnf-vedolizumab-tofacitinib",
+        "claim-continue-agent-induced-remission-corticosteroids-methotrexate-5-asa",
+        "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+        "claim-mesalamine-minimally-effective-imidazole-antibiotics-short-term-benefit",
+        "claim-metronidazole-ciprofloxacin-antimycobacterial-therapy-used-primary-therapy",
+        "claim-once-daily-5-asa-dosing-effective-split-dosing-switching",
+        "claim-topical-5-asa-superior-topical-steroids-clinical-remission"
+      ]
+    },
+    {
+      "id": "cluster-013",
+      "label": "anti-il12-23 (therapeutic)",
+      "size": 11,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/anti-il12-23",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over",
+        "claim-combination-biologic-immunomodulator-therapy-recommended-over-either",
+        "claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment",
+        "claim-infliximab-best-evidence-perianal-fistula-closure-adalimumab",
+        "claim-infliximab-only-biologic-rct-level-evidence-fistula-healing",
+        "claim-infliximab-thiopurine-combination-suggested-adalimumab-thiopurine-suggeste",
+        "claim-there-insufficient-evidence-recommend-against-therapeutic-drug",
+        "claim-tofacitinib-strongly-recommended-induction-moderate-quality-evidence-guide",
+        "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+        "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+        "claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced"
+      ]
+    },
+    {
+      "id": "cluster-029",
+      "label": "crohns-disease (therapeutic)",
+      "size": 11,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 55,
+      "claim_slugs": [
+        "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+        "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+        "claim-acg-cd2018-r34-infliximab-for-fulminant-cd",
+        "claim-acg-cd2018-r35-infliximab-for-perianal-fistulas",
+        "claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul",
+        "claim-acg-cd2018-r37-adalimumab-certolizumab-for-perianal-fistulas",
+        "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+        "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+        "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+        "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+        "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients"
+      ]
+    },
+    {
+      "id": "cluster-018",
+      "label": "imo (therapeutic)",
+      "size": 10,
+      "domain": "domain/microbiome",
+      "primary_topic": "topic/imo",
+      "candidate_pairs": 45,
+      "claim_slugs": [
+        "claim-actually-dont-know-normal-microbiome-looks-like",
+        "claim-glucose-easy-humans-digest-body-designed-absorb",
+        "claim-ibs-now-poster-child-microbiome-diseases-ibs",
+        "claim-lovastatin-imo-learned-multiple-experiments-lovastatin-blocks",
+        "claim-methane-production-involves-methanobrevibacter-smithii-smithii-short",
+        "claim-microbiome-small-intestine-considered-eminently-more-important",
+        "claim-now-consider-ibs-d-ibs-m-one-type-ibs",
+        "claim-our-study-published-years-ago-14-day-elemental",
+        "claim-recent-publication-showed-two-main-weeds-sibo",
+        "claim-there-several-subpopulations-microorganisms-sibo-depending-gas"
+      ]
+    },
+    {
+      "id": "cluster-006",
+      "label": "surgery (therapeutic)",
+      "size": 9,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/surgery",
+      "candidate_pairs": 36,
+      "claim_slugs": [
+        "claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment",
+        "claim-graded-recommendation-definitional-scope-setting-moderate-severe-defined-c",
+        "claim-ileocolonoscopy-reference-standard-postoperative-recurrence-within-6-12",
+        "claim-infliximab-cyclosporine-equivalent-rescue-therapies-corticosteroid-refract",
+        "claim-key-concept-most-common-symptom-sibo-bloating",
+        "claim-methylprednisolone-40-60-mgday-sufficient-higher-doses-add",
+        "claim-sibo-almost-always-epiphenomenon-underlying-cause-motility",
+        "claim-summary-statements-6-8-grade-rated",
+        "claim-thiopurines-prevent-clinical-endoscopic-recurrence-severe-endoscopic"
+      ]
+    },
+    {
+      "id": "cluster-033",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 9,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 36,
+      "claim_slugs": [
+        "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+        "claim-acg-uc2019-r24-combination-ifx---thiopurine",
+        "claim-acg-uc2019-r33-against-methotrexate-for-maintenance",
+        "claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue",
+        "claim-aga-uc2020-r3a-against-thiopurine-induction",
+        "claim-aga-uc2020-r3b-thiopurine-maintenance",
+        "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+        "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+        "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction"
+      ]
+    },
+    {
+      "id": "cluster-034",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 9,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 36,
+      "claim_slugs": [
+        "claim-acg-uc2019-r22-anti-tnf-therapy-for-induction",
+        "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+        "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure",
+        "claim-acg-uc2019-r34-continue-anti-tnf-for-maintenance",
+        "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+        "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+        "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity"
+      ]
+    },
+    {
+      "id": "cluster-004",
+      "label": "immunomodulators (therapeutic)",
+      "size": 8,
+      "domain": "domain/treatment",
+      "primary_topic": "topic/immunomodulators",
+      "candidate_pairs": 28,
+      "claim_slugs": [
+        "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
+        "claim-azathioprine-6-mercaptopurine-useful-keeping-patients-remission-reducing",
+        "claim-concept-broad-based-pyramid-implies-majority-patients-mild",
+        "claim-infliximab-shown-effective-inducing-maintaining-clinical-remission",
+        "claim-measurement-drug-concentration-anti-drug-antibody-levels-shown",
+        "claim-methotrexate-effective-patients-ulcerative-colitis-monotherapy",
+        "claim-sonic-trial-patients-received-combined-regimen-superior",
+        "claim-steroids-used-many-decades-treatment-inflammatory-bowel"
+      ]
+    },
+    {
+      "id": "cluster-007",
+      "label": "biomarkers (diagnostic)",
+      "size": 8,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/biomarkers",
+      "candidate_pairs": 28,
+      "claim_slugs": [
+        "claim-assessment-disease-activity-endoscopy-andor-imaging-necessary",
+        "claim-disease-severity-must-incorporate-four-domains-patient-reported",
+        "claim-fecal-calprotectin-helpful-test-differentiate-ibd-ibs",
+        "claim-intensive-infliximab-dosing-asuc-guideline-punts",
+        "claim-methylprednisolone-mgd-hydrocortisone-100-tid-qid-3-5-days",
+        "claim-structured-fc-based-monitoring-strategy-detect-preclinical-relapse",
+        "claim-thiopurines-used-monotherapy-induction-their-role-steroid-sparing",
+        "claim-ustekinumab-strongly-recommended-induction-first-major-guideline"
+      ]
+    },
+    {
+      "id": "cluster-019",
+      "label": "elemental-diet (therapeutic)",
+      "size": 7,
+      "domain": "domain/microbiome",
+      "primary_topic": "topic/elemental-diet",
+      "candidate_pairs": 21,
+      "claim_slugs": [
+        "claim-almost-patients-see-practice-crohns-disease-ulcerative",
+        "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+        "claim-culturing-technique-considered-gold-standard-sibo-diagnosis",
+        "claim-doctors-prescribe-more-antibiotics-they-perceive-patient",
+        "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies",
+        "claim-modern-westerners-lost-roughly-third-their-microbial",
+        "claim-table-11-5-provides-detailed-sample-pregnancy-birth"
+      ]
+    },
+    {
+      "id": "cluster-021",
+      "label": "carbohydrate-malabsorption (dietary)",
+      "size": 7,
+      "domain": "domain/nutrition",
+      "primary_topic": "topic/carbohydrate-malabsorption",
+      "candidate_pairs": 21,
+      "claim_slugs": [
+        "claim-connection-between-crohns-disease-sugar-rich-diet-proved",
+        "claim-diets-work-same-reason-they-reduce-amount",
+        "claim-gottschall-presents-historical-through-line-aretaeus-300-treated",
+        "claim-inflammation-small-intestine-cause-malabsorption-nutrients-while",
+        "claim-most-people-chronic-intestinal-disorders-suffer-malabsorption",
+        "claim-one-basic-principle-diet-must-firmly-established",
+        "claim-week-most-restrictive-eliminate-many-carbohydrates-much"
+      ]
+    },
+    {
+      "id": "cluster-026",
+      "label": "crohns-disease (therapeutic)",
+      "size": 7,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 21,
+      "claim_slugs": [
+        "claim-acg-cd2018-r12-budesonide-9-mg-for-ileocecal-cd",
+        "claim-acg-cd2018-r20-thiopurines-for-steroid-sparing",
+        "claim-acg-cd2018-r23-methotrexate-for-steroid-dependent-cd",
+        "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+        "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+        "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+        "claim-acg-cd2018-r48-budesonide-not-for-maintenance-beyond-4-months"
+      ]
+    },
+    {
+      "id": "cluster-028",
+      "label": "crohns-disease (therapeutic)",
+      "size": 7,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 21,
+      "claim_slugs": [
+        "claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation",
+        "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd",
+        "claim-acg-cd2018-r26-combination-infliximab---immunomodulator",
+        "claim-acg-cd2018-r31-cyclosporine--mmf--tacrolimus-not-for-cd",
+        "claim-acg-cd2018-r39-tacrolimus-for-short-term-perianal-cutaneous-fistu",
+        "claim-acg-cd2018-r59-anti-tnf---immunomodulator-post-op",
+        "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy"
+      ]
+    },
+    {
+      "id": "cluster-035",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 7,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 21,
+      "claim_slugs": [
+        "claim-acg-uc2019-r25-vedolizumab-for-induction",
+        "claim-acg-uc2019-r35-continue-vedolizumab-for-maintenance",
+        "claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue",
+        "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+        "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu"
+      ]
+    },
+    {
+      "id": "cluster-003",
+      "label": "5-asa (therapeutic)",
+      "size": 6,
+      "domain": "domain/treatment",
+      "primary_topic": "topic/5-asa",
+      "candidate_pairs": 15,
+      "claim_slugs": [
+        "claim-based-network-metaanalysis-induction-trials-including-8020",
+        "claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory",
+        "claim-corticosteroids-shown-more-effective-placebo-sulfasalazine-elemental",
+        "claim-endoscopic-recurrence-rates-70-90-reported-early-year",
+        "claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission",
+        "claim-perhaps-best-way-reduce-risk-recurrence-crohns"
+      ]
+    },
+    {
+      "id": "cluster-012",
+      "label": "anti-integrin (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/anti-integrin",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence",
+        "claim-both-infliximab-cyclosporine-effective-rescue-therapies-similar",
+        "claim-colectomy-offered-early-refractory-disease-restorative-proctocolectomy",
+        "claim-methotrexate-parenterally-effective-maintenance-biologics-continued-mainta",
+        "claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk"
+      ]
+    },
+    {
+      "id": "cluster-014",
+      "label": "jak-inhibitors (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/jak-inhibitors",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance",
+        "claim-biologic-na\u00efve-patients-infliximab-vedolizumab-preferred-over-adalimumab",
+        "claim-early-biologics-suggested-over-gradual-step-up-after",
+        "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab",
+        "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat"
+      ]
+    },
+    {
+      "id": "cluster-015",
+      "label": "probiotics (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/probiotics",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-current-working-hypothesis-abnormal-microbiota-activate-mucosal",
+        "claim-majority-trials-probiotics-ibs-show-degree-efficacy",
+        "claim-most-microbial-diversity-human-tract-currently-represented",
+        "claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries",
+        "claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate"
+      ]
+    },
+    {
+      "id": "cluster-023",
+      "label": "diet (dietary)",
+      "size": 5,
+      "domain": "domain/nutrition",
+      "primary_topic": "topic/diet",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-having-ready-to-eat-items-available-takes-stress-out",
+        "claim-healing-foods-flare-ups-hotcold-cereals-including-oatmeal",
+        "claim-recommend-you-only-eliminate-one-food-food",
+        "claim-two-distinct-one-week-meal-plans-provided-meal",
+        "claim-you-really-need-take-time-off-workschool"
+      ]
+    },
+    {
+      "id": "cluster-025",
+      "label": "crohns-disease (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
+        "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+        "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+        "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim-aga-cd2021-r9-against-5-asa-sulfasalazine"
+      ]
+    },
+    {
+      "id": "cluster-027",
+      "label": "crohns-disease (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/crohns-disease",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa",
+        "claim-acg-cd2018-r21-thiopurines-for-maintenance",
+        "claim-acg-cd2018-r47-corticosteroids-not-for-maintenance",
+        "claim-acg-cd2018-r52-natalizumab-maintenance-only-if-jc-virus-negative",
+        "claim-aga-cd2021-r7-early-biologic---im-over-step-up"
+      ]
+    },
+    {
+      "id": "cluster-032",
+      "label": "ulcerative-colitis (therapeutic)",
+      "size": 5,
+      "domain": "domain/clinical-guidelines",
+      "primary_topic": "topic/ulcerative-colitis",
+      "candidate_pairs": 10,
+      "claim_slugs": [
+        "claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction",
+        "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+        "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim-ecco-uc2022-r11-oral-prednisolone-for-induction-in-moderate-severe",
+        "claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc"
+      ]
+    }
+  ]
+}

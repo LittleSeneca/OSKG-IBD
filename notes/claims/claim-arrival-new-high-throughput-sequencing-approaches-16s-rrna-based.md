@@ -64,15 +64,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-aga-sibo2020-bpa-5-6|Rome 2017 documents the technological progress in sequencing that AGA SIBO 2020 identifies as necessary for advancing un]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

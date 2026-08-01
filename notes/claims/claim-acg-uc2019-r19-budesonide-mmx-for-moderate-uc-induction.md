@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc|ECCO 2022 gives budesonide MMX only a weak recommendation for mild-moderate UC, challenging ACG 2019's strong recommenda]]
+
+**Contradicts:**
 
 ## Assessment
 

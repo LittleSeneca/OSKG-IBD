@@ -52,15 +52,18 @@ This is the most important mechanistic claim in SIBO research. If CdtB-vinculin 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential|Pimentel's CdtB-vinculin molecular mimicry mechanism provides the specific pathway by which Chutkan's generalized dysbio]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

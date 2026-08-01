@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-012",
+  "cluster_label": "anti-integrin (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence",
+      "claim_id": "acg-uc2019-9",
+      "statement": "Anti-TNF therapy (infliximab, adalimumab, golimumab) is high-quality evidence for induction; combination therapy with infliximab + thiopurine is superior to monotherapy",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "All three anti-TNF agents demonstrated superiority over placebo in registration trials (ACT-1/2 for infliximab, ULTRA-2 for adalimumab, PURSUIT for golimumab). Network meta-analyses show a non-significant trend toward higher remission with infliximab vs adalimumab or golimumab, but no head-to-head t..."
+    },
+    {
+      "slug": "claim-both-infliximab-cyclosporine-effective-rescue-therapies-similar",
+      "claim_id": "acg-uc2019-15",
+      "statement": "Both infliximab and cyclosporine are effective rescue therapies with similar outcomes; choice depends on provider experience and patient-specific factors",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The CYSIF trial (Laharie 2012, n=115): treatment failure at day 98 was 60% (cyclosporine) vs 54% (infliximab), non-significant difference. Long-term follow-up: 5-year colectomy-free survival 61.5% (cyclosporine) vs 65.1% (infliximab), P=0.97. CONSTRUCT trial (n=270): no differences in quality-adjust..."
+    },
+    {
+      "slug": "claim-colectomy-offered-early-refractory-disease-restorative-proctocolectomy",
+      "claim_id": "acg-uc2019-18",
+      "statement": "Colectomy should be offered early for refractory disease; restorative proctocolectomy with IPAA is standard; staged procedures reduce complications",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Indications for colectomy: ASUC refractory to medical therapy, chronic refractory UC, or dysplasia/carcinoma. Early postoperative complications: 9-65%. Late complications: 17-55%. Overall mortality: 1%. Preoperative corticosteroids increase infectious risk. Anti-TNF does not increase postoperative c..."
+    },
+    {
+      "slug": "claim-methotrexate-parenterally-effective-maintenance-biologics-continued-mainta",
+      "claim_id": "ecco-cd2020-8",
+      "statement": "Methotrexate parenterally is effective for maintenance; biologics should be continued to maintain their induced remissions (R2.4-R2.7)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**MTX maintenance:** One RCT (Feagan 2000): after 16-24 weeks of 25 mg/week IM induction, patients randomized to 15 mg/week IM MTX vs. placebo for 40 weeks. Remission maintained: 65% vs. 39% (RR 1.67; 95% CI 1.05-2.67). Nausea/vomiting more common with MTX (40% vs. 25%); no severe leukopenia."
+    },
+    {
+      "slug": "claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk",
+      "claim_id": "acg-cd2018-16",
+      "statement": "Vedolizumab and natalizumab are effective; natalizumab is restricted by PML risk (R27-R29)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Vedolizumab (gut-selective \u03b14\u03b27 integrin inhibitor): No cases of PML reported. May have slower onset than anti-TNF agents, particularly in anti-TNF-experienced patients. A network meta-analysis (Hazlewood 2015) suggested adalimumab or infliximab + azathioprine may be more effective than vedolizumab ..."
+    }
+  ]
+}

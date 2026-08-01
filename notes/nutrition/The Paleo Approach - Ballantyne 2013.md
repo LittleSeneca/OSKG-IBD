@@ -26,7 +26,8 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 1
-claims_files: ["claim-ballantyne-paleo-implicit-8"]
+claims_files:
+  "[[claim-core-thesis-ballantyne-paleo]]"
 
 
 # The Paleo Approach — Ballantyne (2013)

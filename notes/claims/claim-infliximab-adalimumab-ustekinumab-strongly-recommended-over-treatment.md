@@ -52,15 +52,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti|The ACG ustekinumab efficacy evidence directly supports the AGA strong recommendation for ustekinumab over no treatment.]]
+- [[claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive|ECCO's meta-analytic evidence for ustekinumab and vedolizumab induction efficacy supports AGA's strong recommendation fo]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,19 @@ This is the physiological mechanism that connects carbohydrate malabsorption to 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-elemental-diet-therapy-effective-steroids-inducing-remission|The principle that carbohydrate is the major dietary influence on intestinal microbes provides the mechanistic explanati]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-low-fermentation-eating-two-essential-rules-restrict-products|LFE's two rules (restrict indigestible carbs and space meals) are a modern clinical implementation of Gottschall's princ]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

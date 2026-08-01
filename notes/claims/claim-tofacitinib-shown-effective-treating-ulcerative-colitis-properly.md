@@ -51,15 +51,18 @@ JAK inhibitors are the first oral advanced therapy for IBD. For patients who pre
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-rates-clinical-remission-endoscopic-improvement-significantly-higher|Steinhart's summary claim of tofacitinib efficacy is substantiated by Yamada's detailed OCTAVE trial data showing signif]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

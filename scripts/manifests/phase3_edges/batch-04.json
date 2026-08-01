@@ -1,0 +1,152 @@
+[
+  {
+    "claim_a": "claim-ileocolonoscopy-reference-standard-postoperative-recurrence-within-6-12",
+    "claim_b": "claim-thiopurines-prevent-clinical-endoscopic-recurrence-severe-endoscopic",
+    "edge_type": "operationalizes",
+    "rationale": "Ileocolonoscopy as the reference standard for postoperative recurrence surveillance operationalizes the therapeutic goal of thiopurine prophylaxis by providing the monitoring endpoint."
+  },
+  {
+    "claim_a": "claim-sibo-almost-always-epiphenomenon-underlying-cause-motility",
+    "claim_b": "claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment",
+    "edge_type": "extends",
+    "rationale": "The SIBO epiphenomenon principle extends the CD antibiotics argument: both reject simple antimicrobial-only strategies in favor of addressing root causes."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+    "claim_b": "claim-aga-uc2020-r3a-against-thiopurine-induction",
+    "edge_type": "supports",
+    "rationale": "ACG UC 2019's strong recommendation against thiopurine monotherapy for induction supports AGA UC 2020's conditional recommendation against the same."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r33-against-methotrexate-for-maintenance",
+    "claim_b": "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+    "edge_type": "supports",
+    "rationale": "ACG's recommendation against methotrexate for UC maintenance supports AGA's broader recommendation against methotrexate for both induction and maintenance."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r24-combination-ifx---thiopurine",
+    "claim_b": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+    "edge_type": "supports",
+    "rationale": "ACG's strong recommendation for infliximab-thiopurine combination supports AGA's conditional recommendation for biologic plus thiopurine induction."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue",
+    "claim_b": "claim-aga-uc2020-r3b-thiopurine-maintenance",
+    "edge_type": "extends",
+    "rationale": "ACG specifies the post-cyclosporine rescue context, extending AGA's general thiopurine maintenance recommendation with a concrete clinical scenario."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "supports",
+    "rationale": "ACG's strong recommendation against thiopurine induction supports ECCO's weak recommendation against thiopurine monotherapy for induction."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r3a-against-thiopurine-induction",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "supports",
+    "rationale": "AGA's conditional recommendation against thiopurine induction supports ECCO's weak recommendation against thiopurine monotherapy for induction."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r3b-thiopurine-maintenance",
+    "claim_b": "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+    "edge_type": "extends",
+    "rationale": "AGA's affirmation of thiopurine maintenance extends ACG's induction rejection by clarifying that thiopurines retain a role in maintenance despite being unsuitable for induction."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r22-anti-tnf-therapy-for-induction",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "supports",
+    "rationale": "ACG's strong high-quality recommendation for anti-TNF induction supports ECCO's strong moderate-quality recommendation for the same indication."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r34-continue-anti-tnf-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "supports",
+    "rationale": "ACG's strong recommendation to continue anti-TNF for maintenance supports ECCO's strong recommendation for anti-TNF maintenance after induction."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
+    "claim_b": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "edge_type": "extends",
+    "rationale": "ECCO's VARSITY-based preference for vedolizumab over adalimumab extends AGA's ranking of infliximab/vedolizumab above adalimumab with head-to-head trial evidence."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "ACG's strong recommendation for vedolizumab in post-anti-TNF patients extends AGA's conditional recommendation ranking ustekinumab/tofacitinib above vedolizumab for TNF-exposed patients."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "ACG's strong recommendation for tofacitinib after anti-TNF failure extends AGA's broader conditional recommendation for the post-TNF class by confirming tofacitinib's specific role."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
+    "claim_b": "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+    "edge_type": "supports",
+    "rationale": "ECCO's VARSITY-based evidence that vedolizumab is superior to adalimumab supports ACG's strong recommendation for vedolizumab in the post-anti-TNF setting."
+  },
+  {
+    "claim_a": "claim-sonic-trial-patients-received-combined-regimen-superior",
+    "claim_b": "claim-azathioprine-6-mercaptopurine-useful-keeping-patients-remission-reducing",
+    "edge_type": "supports",
+    "rationale": "The SONIC trial's demonstration of combination therapy superiority provides direct evidence supporting the clinical utility of azathioprine for maintaining remission."
+  },
+  {
+    "claim_a": "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
+    "claim_b": "claim-steroids-used-many-decades-treatment-inflammatory-bowel",
+    "edge_type": "extends",
+    "rationale": "Yamada's observation that biologics replaced corticosteroids as cornerstone extends Steinhart's account of steroid dominance by describing the therapeutic paradigm shift."
+  },
+  {
+    "claim_a": "claim-concept-broad-based-pyramid-implies-majority-patients-mild",
+    "claim_b": "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
+    "edge_type": "supports",
+    "rationale": "The critique of the step-up pyramid supports the observation that biologics have not altered the high surgical rate, reinforcing the case for earlier aggressive therapy."
+  },
+  {
+    "claim_a": "claim-measurement-drug-concentration-anti-drug-antibody-levels-shown",
+    "claim_b": "claim-infliximab-shown-effective-inducing-maintaining-clinical-remission",
+    "edge_type": "operationalizes",
+    "rationale": "Therapeutic drug monitoring operationalizes anti-TNF therapy by optimizing drug levels to sustain the remission that infliximab has been proven to achieve."
+  },
+  {
+    "claim_a": "claim-structured-fc-based-monitoring-strategy-detect-preclinical-relapse",
+    "claim_b": "claim-fecal-calprotectin-helpful-test-differentiate-ibd-ibs",
+    "edge_type": "operationalizes",
+    "rationale": "ECCO's structured FC monitoring protocol operationalizes the diagnostic utility of fecal calprotectin by extending it from one-time IBS/IBD differentiation to longitudinal relapse surveillance."
+  },
+  {
+    "claim_a": "claim-disease-severity-must-incorporate-four-domains-patient-reported",
+    "claim_b": "claim-assessment-disease-activity-endoscopy-andor-imaging-necessary",
+    "edge_type": "extends",
+    "rationale": "ACG's four-domain severity framework extends ECCO's endoscopy/imaging requirement by adding patient-reported outcomes, inflammatory burden, and disease impact."
+  },
+  {
+    "claim_a": "claim-intensive-infliximab-dosing-asuc-guideline-punts",
+    "claim_b": "claim-methylprednisolone-mgd-hydrocortisone-100-tid-qid-3-5-days",
+    "edge_type": "extends",
+    "rationale": "The AGA guideline's discussion of intensive infliximab dosing extends ACG's standard IV steroid protocol by addressing rescue therapy when corticosteroids fail in ASUC."
+  },
+  {
+    "claim_a": "claim-almost-patients-see-practice-crohns-disease-ulcerative",
+    "claim_b": "claim-modern-westerners-lost-roughly-third-their-microbial",
+    "edge_type": "supports",
+    "rationale": "The clinical observation that most IBD patients have extensive antibiotic histories supports the broader claim that Western lifestyle factors drive microbial diversity loss linked to disease."
+  },
+  {
+    "claim_a": "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies",
+    "claim_b": "claim-modern-westerners-lost-roughly-third-their-microbial",
+    "edge_type": "supports",
+    "rationale": "Pimentel's description of emulsifiers disrupting mucous membranes provides a specific mechanistic pathway supporting Chutkan's claim about processed-food-driven microbial diversity loss."
+  },
+  {
+    "claim_a": "claim-almost-patients-see-practice-crohns-disease-ulcerative",
+    "claim_b": "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+    "edge_type": "extends",
+    "rationale": "The clinical antibiotic-IBD link extends the BioEssays craving-manipulation hypothesis by identifying antibiotic-driven dysbiosis as a trigger for bacterial manipulation of host eating behavior."
+  }
+]

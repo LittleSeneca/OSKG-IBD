@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy|AGA's finding that biologic monotherapy outperforms thiopurine monotherapy extends ACG's high-quality evidence for combi]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -30,7 +30,8 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 1
-claims_files: ["claim-yamada-sibo58-implicit-5"]
+claims_files:
+  "[[claim-structural-yamada-sibo58-1]]"
 
 
 # Yamada Ch58 — Bacterial Overgrowth: The Mainstream Gastroenterology Perspective
@@ -40,17 +41,7 @@ This is the canonical textbook chapter on SIBO from the most authoritative gastr
 ---
 
 ## Structural Claim: SIBO Has Two Distinct Clinical Presentations
-
-The chapter's most important conceptual move is to distinguish two SIBO presentations — a distinction Pimentel collapses:
-
-**1. Classic SIBO (with malabsorption):** "clinical and/or laboratory evidence of maldigestion/malabsorption related to qualitative and/or quantitative alterations in the small intestinal microbiota. This 'classic' SIBO is established by documentation of its presence and demonstration of a clinical response to its eradication." This is uncontroversial.
-
-**2. SIBO-associated symptoms without malabsorption (e.g., IBS):** "SIBO associated with symptoms or clinical entities in the absence of evidence of maldigestion/malabsorption (e.g., SIBO in association with irritable bowel syndrome) and where the pathophysiological linkage with SIBO is less clearly defined."
-
-The authors explicitly flag the controversy: "In the absence of biochemical and/or pathological findings that can be plausibly linked to SIBO, it has often been unclear whether SIBO is a cause, a consequence, or an epiphenomenon in relation to the putatively associated disorder."
-
-**Tension with Pimentel:** Pimentel treats all IBS-associated SIBO as causally linked (via the CdtB-vinculin-anti-MMC pathway). Yamada's authors are agnostic about causation in the absence of malabsorption evidence. This is the central epistemological gap between the SIBO-as-IBS-cause and the mainstream-GI perspectives.
-
+**Structural Claim —** SIBO Has Two Distinct Clinical Presentations → [[claim-structural-yamada-sibo58-1]] | claim-yamada-sibo58-implicit-5 | Confidence: unknown
 ---
 
 ## Key Divergences from Pimentel

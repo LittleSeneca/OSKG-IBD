@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-008",
+  "cluster_label": "histology (diagnostic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-attempts-define-disease-severity-widely-used-setting",
+      "claim_id": "ecco-uc2022-1",
+      "statement": "Attempts to define disease severity are widely used in setting clinical trial inclusion criteria and can be measured according to several different definitions. Trial populations will inevitably vary, and we reflect the continuum of disease severity by having the moderate disease category span both broad categories.",
+      "claim_type": "definitional",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "The guideline divides recommendations into two working groups: mildly-to-moderately active disease and moderately-to-severely active disease, with explicit acknowledgment that these divisions are \"somewhat arbitrary, partially overlapping, and inconsistently defined.\" Disease extent is classified us..."
+    },
+    {
+      "slug": "claim-budesonide-mmx-mgd-appropriate-5-asa-refractory-mild-moderate-maintenance",
+      "claim_id": "ecco-uc2022-5",
+      "statement": "Budesonide MMX 9 mg/d is appropriate for 5-ASA-refractory mild-moderate UC but has no maintenance role; is not recommended for extensive or severe disease",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Three RCTs (n=542), 8-week follow-up: budesonide MMX superior to placebo for clinical remission (RR 2.86; 1.62-5.04), clinical response (RR 1.46; 1.11-1.93), and endoscopic response (RR 1.43; 1.10-1.84). Pooled phase 3 analysis: combined clinical + endoscopic remission 17.7% vs 6.2% placebo (OR 3.3;..."
+    },
+    {
+      "slug": "claim-cross-sectional-imaging-detect-small-bowel-strictures-technique",
+      "claim_id": "ecco-diag2019-10",
+      "statement": "Cross-sectional imaging should detect small bowel strictures; no technique currently determines fibrosis vs. inflammation",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Accuracy:** IUS sensitivity 79%, specificity 92% (SICUS improves to 89%). CTE sensitivity 92%, specificity 100%. MRI sensitivity 89%, specificity 94%. CT and MRI comparable: 85% vs. 92% sensitivity, 100% vs. 90% specificity. **The fibrosis problem:** Strictures contain variable inflammatory and fi..."
+    },
+    {
+      "slug": "claim-fecal-calprotectin-most-sensitive-non-invasive-inflammatory-marker",
+      "claim_id": "ecco-diag2019-3",
+      "statement": "Fecal calprotectin is the most sensitive non-invasive inflammatory marker; all newly diagnosed CD patients require small bowel assessment via MRE, IUS, and/or capsule endoscopy",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**FC:** Most sensitive marker; good diagnostic accuracy at ~150 \u00b5g/g cut-off (meta-analysis, Lozoya Angulo 2017) but no exact IBD/IBS cut-off exists; lacks specificity to discriminate IBD from other intestinal inflammation. FC correlates well with endoscopic indices and is useful in initial diagnosi..."
+    },
+    {
+      "slug": "claim-grade-guideline-pico-structured-questions-supported-first-formal",
+      "claim_id": "aga-cd2021-1",
+      "statement": "This is a GRADE guideline with PICO-structured questions, supported by the first formal network meta-analysis in a CD guideline",
+      "claim_type": "definitional",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Scope:** Adult outpatients with moderate to severe luminal CD (CDAI \u2265220 or high-risk features per IOIBD criteria) and perianal fistulizing CD. Surgical management, TDM, and postoperative prophylaxis are excluded \u2014 the latter is a notable gap compared with ACG 2018."
+    },
+    {
+      "slug": "claim-ileocolonoscopy-biopsies-required-diagnosis-endoscopic-histological-featur",
+      "claim_id": "ecco-diag2019-2",
+      "statement": "Ileocolonoscopy with biopsies is required for diagnosis; endoscopic and histological features differ between CD and UC; the earliest UC histological feature is basal plasmacytosis",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Statement 1.6:** Ileocolonoscopy with biopsies from inflamed and uninflamed segments required [EL1]; sigmoidoscopy may suffice in acute severe colitis [EL3]. **Statement 1.7:** No single endoscopic feature is specific [EL2]; UC features = continuous, confluent colonic involvement with clear demarc..."
+    },
+    {
+      "slug": "claim-insufficient-evidence-supports-proactive-reactive-tdm-immunomodulator",
+      "claim_id": "ecco-cd2020-9",
+      "statement": "Insufficient evidence supports proactive or reactive TDM; immunomodulator withdrawal after achieving remission on combination therapy is suggested (R2.8-R2.9, R2.11-R2.13)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Proactive TDM (TAXIT, TAILORIX):** Two RCTs found no advantage of proactive TDM over clinically-based dosing. TAXIT (n=273): clinical remission at 1 year \u2014 66% clinically-based vs. 69% TDM-based (no significant difference), though TDM group had fewer relapses (7% vs. 17%; p=0.018). TAILORIX (n=122..."
+    },
+    {
+      "slug": "claim-possible-ibs-ibd-coexist-higher-expected-frequency",
+      "claim_id": "rome-sibo2017-8",
+      "statement": "It is possible that IBS and IBD coexist with a higher than expected frequency, or may exist on a continuum, with IBS and IBD at different ends of the inflammatory spectrum.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Non-celiac gluten sensitivity: some IBS patients lack celiac antibodies and histology yet respond to gluten-free diet (Verdu et al. 2009, Biesiekierski et al. 2011, Carroccio et al. 2012)\n- Mouse models: gluten induces innate immune activation, increased small intestinal permeability, neuromuscula..."
+    },
+    {
+      "slug": "claim-single-reference-standard-exists-ibd-diagnosis-composite",
+      "claim_id": "ecco-diag2019-1",
+      "statement": "No single reference standard exists for IBD diagnosis \u2014 composite assessment of clinical, biochemical, endoscopic, imaging, and histological findings is required",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "At minimum: biochemical assessment (FBC, CRP, electrolytes, LFTs), stool microbiology (including *C. difficile*), and ileocolonoscopy with biopsies. CRP broadly correlates with clinical severity in CD but less so in UC; laboratory markers may be normal in both. Loose stools >6 weeks discriminate IBD..."
+    },
+    {
+      "slug": "claim-smoking-cessation-only-modifiable-risk-factor-risk",
+      "claim_id": "acg-cd2018-25",
+      "statement": "Smoking cessation is the only modifiable risk factor; risk stratification guides prophylaxis intensity (R54)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Three greatest risk factors for postoperative recurrence: (1) active tobacco smoking (especially women and heavy smokers), (2) penetrating disease (fistulas, abscesses, perforation), (3) two or more prior surgeries. Other risk factors: shorter diagnosis-to-surgery interval (<10 years), ileocolonic l..."
+    },
+    {
+      "slug": "claim-summary-statements-24-35-grade-rated",
+      "claim_id": "acg-cd2018-4",
+      "statement": "Summary Statements 24-35. Not GRADE-rated.",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- **Ileocolonoscopy with biopsies** (Summary 24-25): Should be performed in all patients with suspected CD. Disease distribution and severity should be documented at diagnosis. Biopsies of uninvolved mucosa are recommended to identify extent of histologic disease. Granulomas are present in only a mi..."
+    }
+  ]
+}

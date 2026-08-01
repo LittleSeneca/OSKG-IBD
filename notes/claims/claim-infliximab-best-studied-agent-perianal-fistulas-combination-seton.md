@@ -60,15 +60,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination|ACG's positive recommendation for infliximab combination therapy for fistulas is reinforced by ECCO's evidence-based rej]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

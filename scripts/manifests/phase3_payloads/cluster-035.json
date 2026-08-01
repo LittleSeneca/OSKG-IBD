@@ -1,0 +1,71 @@
+{
+  "cluster_id": "cluster-035",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 7,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r25-vedolizumab-for-induction",
+      "claim_id": "acg-uc2019-rec25",
+      "statement": "**Recommendation 25** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r35-continue-vedolizumab-for-maintenance",
+      "claim_id": "acg-uc2019-rec35",
+      "statement": "**Recommendation 35** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue",
+      "claim_id": "acg-uc2019-rec46",
+      "statement": "**Recommendation 46** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+      "claim_id": "ecco-uc2022-rec13",
+      "statement": "**Recommendation 13** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+      "claim_id": "ecco-uc2022-rec15",
+      "statement": "**Recommendation 15** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+      "claim_id": "ecco-uc2022-rec18",
+      "statement": "**Recommendation 18** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+      "claim_id": "ecco-uc2022-rec21",
+      "statement": "**Recommendation 21** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

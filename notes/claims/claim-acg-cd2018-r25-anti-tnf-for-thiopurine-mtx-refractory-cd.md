@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy|ACG's strong recommendation to escalate to anti-TNF after thiopurine failure aligns with AGA's position that biologic mo]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

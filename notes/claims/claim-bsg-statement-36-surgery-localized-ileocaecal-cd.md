@@ -52,15 +52,18 @@ Challenges the 'biologics-first' paradigm. For a patient with a 5cm terminal ile
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-low-risk-patients-symptomatic-treatment-careful-observation-acceptable|BSG frames surgery as a primary treatment option for localized ileocecal CD, challenging ACG's conservative observation-]]
+
+**Contradicts:**
 
 ## Assessment
 

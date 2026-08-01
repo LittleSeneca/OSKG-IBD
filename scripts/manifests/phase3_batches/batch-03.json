@@ -1,0 +1,13 @@
+{
+  "batch_id": "batch-03",
+  "clusters": [
+    "cluster-008",
+    "cluster-010",
+    "cluster-011",
+    "cluster-013",
+    "cluster-029",
+    "cluster-018"
+  ],
+  "total_claims": 65,
+  "cluster_count": 6
+}

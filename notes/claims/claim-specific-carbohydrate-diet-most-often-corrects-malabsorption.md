@@ -51,15 +51,19 @@ If SCD truly replicates elemental diet effects through carbohydrate restriction 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-1951-after-many-years-clinical-experience-drs|The mechanism of correcting malabsorption through monosaccharide provision explains the historical observation that pati]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-pimentel-rezaie-survey-dietary-landscape-find-existing|Gottschall claims SCD corrects malabsorption universally; Pimentel's survey cites a clinical trial finding low-FODMAP su]]
+
+**Contradicts:**
 
 ## Assessment
 

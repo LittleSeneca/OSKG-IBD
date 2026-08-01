@@ -1,0 +1,143 @@
+{
+  "cluster_id": "cluster-001",
+  "cluster_label": "inflammation (diagnostic)",
+  "domain": "domain/diagnosis",
+  "size": 15,
+  "claims": [
+    {
+      "slug": "claim-5-15%-patients-isolated-colonic-involvement-possible-initially",
+      "claim_id": "yamada-cddx64-7",
+      "statement": "In 5-15% of patients with isolated colonic involvement, it may not be possible initially to distinguish between ulcerative colitis or CD; these patients are given a diagnosis of IBD-unclassified (IBDU). Before making an IBDU determination, evaluation of these patients should include careful clinical, radiographic, colonoscopic, and histological assessment for features more typical for CD.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Features favoring CD in indeterminate colitis: family history of CD, nonbloody diarrhea and weight loss at presentation, patchy inflammation or rectal sparing on endoscopy/histology, serological markers (ASCA+/pANCA-). Features favoring UC: continuous inflammation from rectum, bloody diarrhea, pANCA..."
+    },
+    {
+      "slug": "claim-because-low-sensitivity-screening-ibd-general-population",
+      "claim_id": "yamada-cddx64-5",
+      "statement": "Because of low sensitivity, screening for IBD in the general population is not appropriate... serological testing is insufficiently sensitive and specific to accurately diagnose IBD independent of clinical, endoscopic, and histological criteria.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "IBD-associated antibodies (ASCA IgA/IgG, anti-OmpC, anti-CBir1, anti-I2) have >90% specificity but low sensitivity for distinguishing IBD from non-IBD. Diagnostic accuracy improves when markers are combined. Small bowel CD is associated with higher ASCA, CBir1, OmpC, and I2 levels; colonic CD and UC..."
+    },
+    {
+      "slug": "claim-clinical-presentation-patients-diverse-heterogeneous-symptoms-range",
+      "claim_id": "yamada-cddx64-1",
+      "statement": "The clinical presentation of patients with CD is diverse and heterogeneous, with symptoms that can range from silent, insidious progression of mid-small bowel inflammation that might be misdiagnosed for years as 'irritable bowel syndrome' to a more acute presentation of diarrhea and/or weight loss, GI hemorrhage, perianal abscess/fistula, or intestinal obstruction.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Disease distribution: terminal ileum most common (60% have at least some ileal involvement); about half of ileal patients also have colonic involvement (usually right colon); ~20% isolated colonic involvement; ~30% confined to small bowel; ~5% upper tract (esophagus, stomach, duodenum, jejunum). Per..."
+    },
+    {
+      "slug": "claim-colonoscopy-ileal-intubation-generally-required-assessment-include",
+      "claim_id": "yamada-cddx64-3",
+      "statement": "Colonoscopy with ileal intubation is generally required for the assessment of CD and should include biopsies for histopathology assessment to exclude infection and lymphoma and corroborate the severity of inflammation... Noncaseating granulomata are considered pathognomonic for CD in this setting, although they are seen in only about 15% of patients with CD.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Endoscopic findings: erythema, erosions, ulcerations (classified as aphthous, linear, stellate, or serpiginous), strictures. Endoscopic scoring: CDEIS (Crohn's Disease Endoscopic Index of Severity) and SES-CD (Simple Endoscopic Score for CD) are validated for clinical trials. Postoperative recurrenc..."
+    },
+    {
+      "slug": "claim-cross-sectional-imaging-modalities-magnetic-resonance-imaging-enterography",
+      "claim_id": "yamada-cddx64-2",
+      "statement": "Cross-sectional imaging modalities (CT and magnetic resonance imaging) with enterography protocols have largely replaced small bowel follow-through for the routine evaluation of known and suspected CD. These modalities are first-line imaging techniques that can rapidly and accurately identify areas of mucosal inflammation, fibrostenotic and penetrating complications, and many EIMs of CD.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "CTE advantages: rapid image acquisition, lower cost, high accuracy for small bowel inflammation. MRE advantages: no ionizing radiation, superior soft tissue contrast, better for fistula and perianal disease characterization, validated scoring instrument (MRE global score) for serial quantitative ass..."
+    },
+    {
+      "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+      "claim_id": "yamada-ucdx63-1",
+      "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch..."
+    },
+    {
+      "slug": "claim-diagnostic-performance-serological-tests-suboptimal-they-used",
+      "claim_id": "yamada-ucdx63-8",
+      "statement": "The diagnostic performance of these serological tests is suboptimal and they should not used to screen for, or diagnose, ulcerative colitis (or Crohn's disease).",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "pANCA is present in 50-80% of UC patients but also in up to 31% of CD patients (especially colonic CD with UC-like endoscopic appearance). ASCA is present in 20% of UC patients. Antinuclear antibodies present in 40-50% of UC but also in healthy subjects and other autoimmune diseases. The combination..."
+    },
+    {
+      "slug": "claim-disease-presents-diffuse-continuous-inflammation-beginning-rectum",
+      "claim_id": "yamada-ucdx63-4",
+      "statement": "The disease presents as diffuse, continuous inflammation beginning in the rectum, with proximal extension that varies among individual patients. For initial evaluation, however, it is advisable to perform a full colonoscopy with ileal examination, to rule out Crohn's disease and to determine the proximal margin of disease.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Table 63.1 (adapted from Hogan et al. 1980) provides a specificity index for endoscopic features distinguishing UC from CD. Features favoring UC: contiguous distribution (+++), circumferential (+++), rectal involvement (+++), friability (+++), granularity (+++), overt colitis (+++). Features favorin..."
+    },
+    {
+      "slug": "claim-fecal-calprotectin-shown-equally-effective-detection-inflammation",
+      "claim_id": "yamada-cddx64-6",
+      "statement": "Fecal calprotectin has been shown to be equally effective for the detection of inflammation in both colonic and small bowel CD... Changes in stool calprotectin have been positively associated with variability in the disease course, and calprotectin has been shown to increase to more than normal values several months before clinical signs of a disease flare are apparent both in ulcerative colitis a",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Calprotectin correlates with serum CRP, endoscopic activity, and histological inflammation. It predicts postoperative recurrence after ileocecal resection. It rises months before clinical flare, suggesting a role in proactive monitoring. However, it is \"relatively nonspecific and can be elevated in ..."
+    },
+    {
+      "slug": "claim-metaanalysis-2499-patients-observed-pooled-sensitivity-specificity",
+      "claim_id": "yamada-ucdx63-3",
+      "statement": "A metaanalysis of 2499 patients observed a pooled sensitivity and specificity of 49% and 92% for C-reactive protein, and 88% and 73% for fecal calprotectin in IBD. Fecal calprotectin is a more sensitive biomarker of mucosal inflammation than C-reactive protein, and is more sensitive in ulcerative colitis compared to Crohn's disease.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "The 2,499-patient meta-analysis (Mosli et al. 2015) provides pooled test characteristics. Threshold optimization: sensitivity is maximized at <50 microg/g (rules out inflammation), specificity is maximized at >250 microg/g (rules in moderate-severe inflammation). In patients with normal stool freque..."
+    },
+    {
+      "slug": "claim-microbiological-testing-using-stool-cultures-bacterial-pathogens",
+      "claim_id": "yamada-ucdx63-2",
+      "statement": "Microbiological testing using stool cultures for bacterial pathogens, panel-based nucleic acid amplification tests for potential bacterial, viral, and parasitic pathogens and, most importantly, polymerase chain reaction for Clostridium difficile toxin are indicated in all patients with diarrhea with suspected ulcerative colitis.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Approximately 10-15% of UC patients with diarrhea test positive for C. difficile, and another 15-20% may test positive for other organisms. C. difficile infection in UC patients is associated with higher disease severity, hospitalization risk, colectomy risk, and mortality. Multiplex gastrointestina..."
+    },
+    {
+      "slug": "claim-montreal-classification-includes-age-diagnosis-disease-location",
+      "claim_id": "yamada-cddx64-4",
+      "statement": "The Montreal classification includes age at diagnosis, disease location, and the presence of perianal disease and is the most recognized CD classification in clinical research.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Montreal Classification components: Age (A1 <16, A2 17-40, A3 >40), Location (L1 ileal, L2 colonic, L3 ileocolonic, L4 isolated upper disease [modifier added to L1-L3]), Behavior (B1 non-stricturing non-penetrating, B2 stricturing, B3 penetrating), with \"p\" modifier for perianal disease. Example: A2..."
+    },
+    {
+      "slug": "claim-patients-ulcerative-colitis-two-aspects-vital-decision",
+      "claim_id": "yamada-ucdx63-6",
+      "statement": "For all patients with ulcerative colitis, two aspects are vital for decision making: disease activity assessment, which is the cross-sectional assessment of symptomatic and endoscopic activity at that time point, and disease severity assessment, which involves evaluating the longitudinal disease course and prognosticating patients as being at low or high risk of complications.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "The Mayo Clinic score is the most widely used activity index, incorporating stool frequency (0-3), rectal bleeding (0-3), physician global assessment (0-3), and endoscopic subscore (0-3). The PRO2 (patient-reported outcome) uses only stool frequency and rectal bleeding -- resolution of rectal bleedi..."
+    },
+    {
+      "slug": "claim-ulcerative-colitis-considered-patient-presents-rectal-bleeding",
+      "claim_id": "yamada-ucdx63-7",
+      "statement": "Ulcerative colitis should be considered in any patient who presents with rectal bleeding or chronic diarrhea... The most common problem in the differential diagnosis of an acute presentation of ulcerative colitis (including flare-ups of quiescent disease) is ruling out infectious colitis.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "The differential diagnosis organized by the chapter:\n- **Infectious colitis:** Shigella, amoeba, Giardia, E. coli O157:H7, Campylobacter. Endoscopic findings can be identical to UC. Key distinction: infectious diarrhea is typically days to weeks; UC is typically weeks to months. Amebiasis produces 5..."
+    },
+    {
+      "slug": "claim-while-there-pathognomonic-histological-criteria-diagnosis-ulcerative",
+      "claim_id": "yamada-ucdx63-5",
+      "statement": "While there are no pathognomonic histological criteria for the diagnosis of ulcerative colitis, a primary distinction between ulcerative colitis and acute self-limited (infectious) colitis is architectural distortion.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "In UC, the normal vertical (\"test tube\") alignment of glands is distorted, branched, and irregularly shaped. The lamina propria is expanded by lymphocytes, plasma cells, eosinophils, and neutrophils. Neutrophilic infiltration produces crypt abscesses -- characteristic but not pathognomonic (seen in ..."
+    }
+  ]
+}

@@ -52,15 +52,19 @@ This is the SCD's claim to a scientific mechanism rather than folk wisdom. If th
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-sensible-harmless-form-warfare-aberrant-population-intestinal|The observation that SCD and elemental diet share a monosaccharide common denominator validates the microbial warfare st]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-food-guide-developed-siebecker-based-her-clinical|Siebecker's food guide combines SCD and low-FODMAP into a single dietary framework, operationalizing Gottschall's recogn]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

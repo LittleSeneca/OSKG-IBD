@@ -57,15 +57,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard|ECCO Crohn's 2020 reinforces anti-TNF as the standard for moderate-to-severe disease where ACG 2018 established the evid]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-helpful-think-leaky-gut-more-mechanism-disease|Pimentel's L-glutamine trial tests a specific treatment for the increased intestinal permeability that Chutkan describes]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

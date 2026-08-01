@@ -26,7 +26,8 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 1
-claims_files: ["claim-myers-autoimmune-implicit-9"]
+claims_files:
+  "[[claim-core-thesis-myers-autoimmune]]"
 
 
 # The Autoimmune Solution — Myers (2015)

@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-acg-cd2018-r21-thiopurines-for-maintenance|AGA 2021's early biologic recommendation challenges ACG 2018's thiopurine maintenance paradigm by arguing that biologics]]
+
+**Contradicts:**
 
 ## Assessment
 

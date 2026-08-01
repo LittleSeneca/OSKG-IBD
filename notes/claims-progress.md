@@ -15,9 +15,12 @@ Tracks Phase 2 claim extraction from all Phase 1 reading notes. Each note below 
 - **Claims extracted:** 476 (target: 400-600 ✓)
 - **Notes with claims:** 47
 - **Notes pending:** 2 (Microbiome Science Context, Sleisenger Yamada SIBO Source Assessment)
-- **Intra-batch edges:** Pending
+- **Phase 3 cross-source edges:** COMPLETE — 174 edges across 267 claims (56.1% of graph)
+- **Edge types:** 86 supports, 46 extends, 18 operationalizes, 18 challenged_by, 5 depends_on, 1 contradicts
+- **Broken wikilinks:** 0
+- **Orphan claims (no edges):** 209 (43.9%) — mostly discrete GRADE drug recommendations
 - **Tag enrichment:** Partial (60 sparse claims enriched)
-- **Chapter note updates:** claims_status frontmatter added to all 49 notes; ### Claim N: block replacement deferred to t_c6076bcd
+- **Chapter note updates:** COMPLETE
 
 ## Claims by Domain
 
@@ -99,6 +102,24 @@ Tracks Phase 2 claim extraction from all Phase 1 reading notes. Each note below 
 - [x] `notes/history/Inflamed - Marya Patel 2021.md` — 1 claim
 
 ## Session Log
+
+### 2026-08-01 — Session 4 (Arron, Phase 3 — t_ec87d503)
+- Pass 1: Built topic-tag clusterer — 476 claims → 36 clusters, 4,351 candidate pairs (96.2% reduction from brute-force)
+- Pass 2: Dispatched 6 parallel edge detection batches; all validated via phase3_verify_edges.py
+- Pass 3: Applied 174 cross-source edges to 165 claim files; 0 broken wikilinks
+- QA: Audited 2 contradictions (1 genuine, 1 retyped to challenged_by); verified all 5 depends_on for correct direction
+- Key cross-domain edges: guideline-to-guideline contradictions (BSG vs ACG on mesalazine CRC chemoprevention), diet-to-microbiome operationalizes edges (Gottschall SCD → microbiome mechanisms), patient protocol-to-clinical guideline challenged_by edges
+- Scripts: phase3_cluster.py, phase3_prep_payloads.py, phase3_verify_edges.py, phase3_apply_edges.py
+- Artifacts: manifests/phase3_clusters.json, 6 batch edge files + combined.json, 36 cluster payloads
+
+### 2026-08-01 — Session 3 (Arron, t_c6076bcd)
+- Replaced ### Claim N: blocks with compact summaries on all 47 notes with explicit claim headings
+- Compact format: **Claim N —** Title → [[claim-slug]] | claim_id | Confidence: rating
+- Updated claims_files frontmatter to use [[wikilink]] format on all 47 notes
+- Fixed 5 notes with missing recommendation-level claims (ACG Crohn's +60, ACG UC +49, ECCO UC +20, AGA UC +11, AGA Crohn's +4)
+- All 476 claims_files wikilinks verified to resolve to real claim files in notes/claims/
+- Preserved all --- separators, H2 section headers, assessment tables, and cross-reference sections
+- Processing script: scripts/replace_claim_blocks.py
 
 ### 2026-08-01 — Session 2 (Arron, run 23)
 - Extracted 29 claims from 4 previously unextracted notes (BSG IBD 2019, Pimentel 2006 evolution, Sarna 2021 guide, LaPine 2021 cookbook)

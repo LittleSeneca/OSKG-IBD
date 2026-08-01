@@ -1,0 +1,89 @@
+{
+  "cluster_id": "cluster-033",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 9,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+      "claim_id": "acg-uc2019-rec21",
+      "statement": "**Recommendation 21** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r24-combination-ifx---thiopurine",
+      "claim_id": "acg-uc2019-rec24",
+      "statement": "**Recommendation 24** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r33-against-methotrexate-for-maintenance",
+      "claim_id": "acg-uc2019-rec33",
+      "statement": "**Recommendation 33** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue",
+      "claim_id": "acg-uc2019-rec45",
+      "statement": "**Recommendation 45** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r3a-against-thiopurine-induction",
+      "claim_id": "aga-uc2020-rec3a",
+      "statement": "**Recommendation 3a** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r3b-thiopurine-maintenance",
+      "claim_id": "aga-uc2020-rec3b",
+      "statement": "**Recommendation 3b** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+      "claim_id": "aga-uc2020-rec3c",
+      "statement": "**Recommendation 3c** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+      "claim_id": "aga-uc2020-rec4a",
+      "statement": "**Recommendation 4a** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+      "claim_id": "ecco-uc2022-rec7",
+      "statement": "**Recommendation 7** (Weak, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**."
+    }
+  ]
+}

@@ -57,15 +57,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure|ECCO's VARSITY-based evidence that vedolizumab is superior to adalimumab supports ACG's strong recommendation for vedoli]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab|ECCO's VARSITY-based preference for vedolizumab over adalimumab extends AGA's ranking of infliximab/vedolizumab above ad]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

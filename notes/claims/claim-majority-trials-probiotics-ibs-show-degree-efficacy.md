@@ -56,15 +56,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries|ACG SIBO 2020 challenges Rome Foundation's finding of probiotic efficacy in IBS by concluding evidence is insufficient f]]
+
+**Contradicts:**
 
 ## Assessment
 

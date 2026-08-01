@@ -51,15 +51,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-modern-westerners-lost-roughly-third-their-microbial|The clinical observation that most IBD patients have extensive antibiotic histories supports the broader claim that West]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-citing-bioessays-2014-hypothesis-gut-bacteria-release|The clinical antibiotic-IBD link extends the BioEssays craving-manipulation hypothesis by identifying antibiotic-driven ]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

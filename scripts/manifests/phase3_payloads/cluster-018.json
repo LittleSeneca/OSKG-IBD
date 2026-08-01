@@ -1,0 +1,98 @@
+{
+  "cluster_id": "cluster-018",
+  "cluster_label": "imo (therapeutic)",
+  "domain": "domain/microbiome",
+  "size": 10,
+  "claims": [
+    {
+      "slug": "claim-actually-dont-know-normal-microbiome-looks-like",
+      "claim_id": "pimentel-ch3-4",
+      "statement": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+      "confidence": "high",
+      "evidence_excerpt": "Diet-driven variation: \"If you live in Africa, your microbiome would be different because the African diet is different from the American diet.\" Age-related changes: \"methanogenic archaea increase by almost five-fold from childhood into the eighth decade of life.\" Even pets affect the microbiome. Th..."
+    },
+    {
+      "slug": "claim-glucose-easy-humans-digest-body-designed-absorb",
+      "claim_id": "pimentel-ch5-4",
+      "statement": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small intestine, but it's absorbed so fast that any bacteria below four feet in the small intestine won't receive any glucose. If you have bacterial overgrowth below those four feet of small intestine (which, remember, is 20 feet long), we won't be able to assess three-quarters of the s",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Physiological argument: glucose is absorbed in the proximal small intestine; lactulose is non-absorbable and therefore available to bacteria throughout the small intestine. The 90-minute cutoff for hydrogen rise: \"If your hydrogen levels rise by 20 parts per million (ppm) or more before or at 90 min..."
+    },
+    {
+      "slug": "claim-ibs-now-poster-child-microbiome-diseases-ibs",
+      "claim_id": "pimentel-ch3-3",
+      "statement": "IBS is now the poster child of microbiome diseases... IBS remains the only gastrointestinal disease of the intestines for which the FDA has approved a microbiome-modulating drug (rifaximin).",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+      "confidence": "high",
+      "evidence_excerpt": "Rifaximin's FDA approval for IBS-D (2015). The diagnostic triad now available: breath tests (identifying SIBO/IMO), blood tests (anti-vinculin and anti-CdtB antibodies), and treatments that modulate the microbiome (rifaximin, dietary changes). Pimentel contrasts IBS with other microbiome-associated ..."
+    },
+    {
+      "slug": "claim-lovastatin-imo-learned-multiple-experiments-lovastatin-blocks",
+      "claim_id": "pimentel-ch6-6",
+      "statement": "Lovastatin for IMO: \"we learned through multiple experiments that lovastatin... blocks an enzyme within the methane-producing microorganisms and reduces their methane production. So maybe we don't kill the bug, but rather block the enzyme it produces that helps produce methane.\" Bismuth for hydrogen sulfide: \"bismuth can inhibit hydrogen sulfide production. Knowing this, our approach in clinic as ",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Laboratory experiments on lovastatin's effect on methanogen enzymes. The lovastatin-red yeast rice evolutionary connection: \"Red rice yeast likely produces statins to suppress competing methane-producing microbes in nature.\" Clinical observation of bismuth's hydrogen sulfide inhibition."
+    },
+    {
+      "slug": "claim-methane-production-involves-methanobrevibacter-smithii-smithii-short",
+      "claim_id": "pimentel-ch5-5",
+      "statement": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea.\" The diagnostic criterion: \"If at any point over two hours your methane level exceeds 10 ppm, this is considered positive for methane and you are diagnosed with what is now called intestinal methanogen overgrowth (IMO).\"",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "The three-step pathway: sugar \u2192 hydrogen-producing bacteria (E. coli, Klebsiella) \u2192 hydrogen \u2192 methanogenic archaea (M. smithii) \u2192 methane. Methanogens are archaea, a distinct domain of life separate from bacteria. Despite the name change, the clinical presentation (constipation, bloating) and treat..."
+    },
+    {
+      "slug": "claim-microbiome-small-intestine-considered-eminently-more-important",
+      "claim_id": "pimentel-ch3-2",
+      "statement": "The microbiome in the small intestine may be considered eminently more important than the microbiome in the stool. The interaction between the microbiome and the large absorbing surface area of the small intestine may indicate how some people become diabetic or obese. More importantly, for the purposes of this book, SIBO and IBS-related symptoms are directly related to how your microbiome reacts i",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The small intestine's enormous surface area (\"if you stretched out the small intestine and its villi, it would cover the surface area of a tennis court\") and its role as the primary site of nutrient absorption and immune interaction. The methanogen-obesity hypothesis: methane slows transit, increasi..."
+    },
+    {
+      "slug": "claim-now-consider-ibs-d-ibs-m-one-type-ibs",
+      "claim_id": "pimentel-ch1-7",
+      "statement": "We now consider IBS-D and IBS-M as one type of IBS disease -- Non-constipation IBS -- and IBS-C is possibly a different disease, Constipation IBS.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "medium",
+      "evidence_excerpt": "IBS subtyping: IBS-C 35%, IBS-D 40%, IBS-M 23%. The rationale for splitting C from D/M appears to be based on differential SIBO prevalence and treatment response. The authors note that SIBO more commonly presents with diarrhea (IBS-D) or mixed symptoms, and that the constipation-predominant subtype ..."
+    },
+    {
+      "slug": "claim-our-study-published-years-ago-14-day-elemental",
+      "claim_id": "pimentel-ch6-4",
+      "statement": "In our study published 15 years ago, a 14-day elemental diet was more than 80 percent effective in treating hydrogen-type SIBO. This study predates the use of and availability of drugs like rifaximin. Fifteen years ago, if you were on an elemental diet for 14 days you would have been more likely to get SIBO relief than if you took the antibiotics available at that time.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Pimentel's 15-year-old elemental diet study (Vivonex Plus). Mechanism: elemental formulas contain pre-digested nutrients (amino acids, simple sugars, fatty acids) absorbed in the proximal small intestine, leaving no substrate for distal bacterial fermentation."
+    },
+    {
+      "slug": "claim-recent-publication-showed-two-main-weeds-sibo",
+      "claim_id": "pimentel-ch5-2",
+      "statement": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are referred to as 'disrupters.' When they increase in quantity, they bully the other bacteria to die off and they dominate the small intestine with their presence and their effects. And, by the way, they are hydrogen producers.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "REIMAGINE study data. The ecological model: \"Think of the small intestine as a lawn. If you don't mow the lawn (if there are no cleaning waves), the weeds (proteobacteria) that are always there outperform the grass (firmicutes, a type of gram-positive bacteria).\""
+    },
+    {
+      "slug": "claim-there-several-subpopulations-microorganisms-sibo-depending-gas",
+      "claim_id": "pimentel-ch5-3",
+      "statement": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another group produces hydrogen sulfide, which usually leads to diarrhea, pain, and an urgent need to run to the bathroom. A third group of microorganisms is not bacteria, but rather archaea: single-celled orga",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+      "confidence": "high",
+      "evidence_excerpt": "Breath test data showing distinct hydrogen, methane, and hydrogen sulfide patterns correlated with symptom profiles. The mechanism: hydrogen is produced first (by E. coli, Klebsiella), then scavenged by either methanogens (producing methane \u2192 constipation) or sulfate-reducing bacteria (producing hyd..."
+    }
+  ]
+}

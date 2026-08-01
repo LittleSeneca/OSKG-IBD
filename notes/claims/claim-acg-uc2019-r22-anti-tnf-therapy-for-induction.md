@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|ACG's strong high-quality recommendation for anti-TNF induction supports ECCO's strong moderate-quality recommendation f]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

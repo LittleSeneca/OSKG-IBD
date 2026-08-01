@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-011",
+  "cluster_label": "5-asa (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-5-asa-corticosteroids-effective-maintenance-budesonide-used-beyond",
+      "claim_id": "acg-cd2018-22",
+      "statement": "5-ASA and corticosteroids are NOT effective for maintenance; budesonide should not be used beyond 4 months (R46-R48)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Mesalamine: 11 placebo-controlled trials with mixed results \u2014 4 showed benefit, 7 did not. Five meta-analyses: therapeutic advantage <10%, NNT >15. The totality of evidence supports the negative recommendation. Corticosteroids: Meta-analysis of 403 patients showed no difference from placebo at 6, 12..."
+    },
+    {
+      "slug": "claim-5-asa-ineffective-maintenance-thiopurines-effective-steroid-dependent-pati",
+      "claim_id": "ecco-cd2020-7",
+      "statement": "5-ASA is ineffective for maintenance; thiopurines are effective for steroid-dependent patients but not for early disease (R2.1-R2.3)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**5-ASA maintenance:** 11 placebo-controlled trials (1-4 g/day, 4-36 months): no statistically significant benefit (RR 1.03; 95% CI 0.92-1.16). Safety data were very sparse."
+    },
+    {
+      "slug": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+      "claim_id": "acg-uc2019-8",
+      "statement": "5-ASA maintenance therapy works; corticosteroids are contraindicated for maintenance",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Meta-analysis of 11 trials: oral 5-ASA RR of relapse 0.65 (0.55-0.76) vs placebo. High-to-standard dose (\u22652 g/d) superior to low dose (<2 g/d): RR relapse 0.79 (0.64-0.97). Topical 5-ASA RR relapse 0.60 (0.49-0.73) vs placebo. Corticosteroids are ineffective for maintenance and carry significant cum..."
+    },
+    {
+      "slug": "claim-5-asa-sulfasalazine-ineffective-inducing-remission-budesonide-effective",
+      "claim_id": "ecco-cd2020-2",
+      "statement": "5-ASA and sulfasalazine are ineffective for inducing remission in CD; budesonide is effective for mild-to-moderate ileocecal disease (R1.1-R1.2)",
+      "claim_type": "definitional",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "A meta-analysis of 7 RCTs (5-ASA or sulfasalazine vs. placebo) found no significant effect for induction of clinical remission (RR 1.28; 95% CI 0.97-1.69). A Cochrane review confirmed this. Sulfasalazine showed a marginal effect of borderline significance (RR 1.38; 95% CI 1.00-1.89), limited to colo..."
+    },
+    {
+      "slug": "claim-continue-agent-induced-remission-anti-tnf-vedolizumab-tofacitinib",
+      "claim_id": "ecco-uc2022-13",
+      "statement": "Continue the agent that induced remission; anti-TNF, vedolizumab, tofacitinib, and ustekinumab all receive strong maintenance recommendations; there is no role for 5-ASA or methotrexate in maintenance after advanced therapy",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Anti-TNF maintenance meta-analysis (10 RCTs): clinical remission RR 1.98 (1.60-2.45), steroid-free clinical remission RR 2.86 (1.67-4.90), sustained clinical remission RR 2.76 (1.78-4.28), QoL improvement RR 1.71 (1.27-2.32). This is the only \"high-quality\" evidence rating for an advanced therapy in..."
+    },
+    {
+      "slug": "claim-continue-agent-induced-remission-corticosteroids-methotrexate-5-asa",
+      "claim_id": "acg-uc2019-12",
+      "statement": "Continue the agent that induced remission; corticosteroids, methotrexate, and 5-ASA have no maintenance role after advanced therapy induction",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The MERIT-UC trial (2018): parenteral methotrexate 25 mg/week not superior to placebo for maintenance after steroid induction (66% relapse vs 63%). Thiopurines: meta-analysis shows RR 0.6 (0.37-0.95) for preventing relapse after steroid induction; NNT=5. GEMINI 1 maintenance: vedolizumab every 8 wee..."
+    },
+    {
+      "slug": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+      "claim_id": "aga-cd2021-7",
+      "statement": "Corticosteroids are suggested for induction, strongly recommended against for maintenance; 5-ASA and sulfasalazine are recommended against (R8A-B, R9)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Recommendation 8A:** \"The AGA suggests corticosteroids over no treatment for induction of remission.\" **Conditional, moderate certainty.** Prednisone up to 60 mg/day: superior to placebo (RR 0.57, 0.45-0.73). Budesonide: superior to placebo (RR 0.74, 0.60-0.91), though 2 of 3 studies enrolled mild..."
+    },
+    {
+      "slug": "claim-mesalamine-minimally-effective-imidazole-antibiotics-short-term-benefit",
+      "claim_id": "acg-cd2018-26",
+      "statement": "Mesalamine is minimally effective; imidazole antibiotics have short-term benefit but poor tolerability (R55-R56)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Mesalamine: Cochrane analysis \u2014 reduced clinical recurrence (RR 0.76, NNT 12) and severe endoscopic recurrence (RR 0.50, NNT 8) vs. placebo. Meta-analysis of 11 RCTs (1,282 patients): reduced relapse (RR 0.86, NNT 13). Sulfasalazine specifically did not prevent relapse. Metronidazole (20 mg/kg/day):..."
+    },
+    {
+      "slug": "claim-metronidazole-ciprofloxacin-antimycobacterial-therapy-used-primary-therapy",
+      "claim_id": "acg-cd2018-10",
+      "statement": "Metronidazole, ciprofloxacin, and antimycobacterial therapy should NOT be used as primary therapy for luminal CD (R13-R15)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Despite the rationale of targeting bacterial triggers, antibiotics have not demonstrated consistent benefit for luminal CD. Metronidazole was not superior to placebo (Sutherland 1991). Ciprofloxacin was equivalent to mesalamine (which itself is no better than placebo \u2014 see R11). Antimycobacterial th..."
+    },
+    {
+      "slug": "claim-once-daily-5-asa-dosing-effective-split-dosing-switching",
+      "claim_id": "acg-uc2019-6",
+      "statement": "Once-daily 5-ASA dosing is as effective as split dosing; switching between 5-ASA formulations in nonresponders is futile",
+      "claim_type": "definitional",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Meta-analysis: low dose 2-2.4 g vs 4.8 g/d 5-ASA showed RR 0.91 (CI 0.85-0.98) -- the higher dose had a small but statistically significant advantage. Subgroup analysis suggested moderate-disease patients may benefit from 4.8 g/d. Once-daily vs split dosing: no efficacy difference (RR nonremission 0..."
+    },
+    {
+      "slug": "claim-topical-5-asa-superior-topical-steroids-clinical-remission",
+      "claim_id": "ecco-uc2022-4",
+      "statement": "Topical 5-ASA is superior to topical steroids for clinical remission; topical steroids remain an option with very low-quality evidence",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Topical steroids vs placebo meta-analysis of 5 RCTs: clinical remission RR 2.12 (1.48-3.06), clinical response RR 2.18 (1.58-3.01), endoscopic response RR 1.44 (1.21-1.70). Topical 5-ASA vs topical steroids (13 studies, n=1,395): clinical remission RR 1.36 (1.19-1.56) favoring 5-ASA, but clinical re..."
+    }
+  ]
+}

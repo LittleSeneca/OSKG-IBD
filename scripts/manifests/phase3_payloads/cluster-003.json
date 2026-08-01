@@ -1,0 +1,62 @@
+{
+  "cluster_id": "cluster-003",
+  "cluster_label": "5-asa (therapeutic)",
+  "domain": "domain/treatment",
+  "size": 6,
+  "claims": [
+    {
+      "slug": "claim-based-network-metaanalysis-induction-trials-including-8020",
+      "claim_id": "yamada-uc63-1",
+      "statement": "Based on a network metaanalysis of 48 induction trials including 8020 participants... combined oral and rectal 5-ASA and high-dose mesalamine (>3 g/day) were ranked most efficacious in inducing remission.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Network meta-analysis of 48 trials. The comparative efficacy data (Figure 63.16) shows combined oral+rectal 5-ASA with OR 0.21 (95% CI 0.11-0.40) vs placebo -- the strongest effect of any 5-ASA strategy. Standard-dose mesalamine (2-3 g/day) is the recommended starting point for most patients per AGA..."
+    },
+    {
+      "slug": "claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory",
+      "claim_id": "steinhart-drug-3",
+      "statement": "The controlled-release 5-ASA medications are useful in milder flares of inflammatory bowel disease, particularly ulcerative colitis... When the 5-ASA drugs were first developed, it was hoped that they would provide a safe and effective alternative to steroid medications in patients with Crohn's disease. Unfortunately, they have not been found to be as effective in Crohn's disease as had been hoped",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical experience and trial data. Steinhart notes that 5-ASA drugs may benefit Crohn's patients with colonic involvement or mild disease, but \"only a small minority of patients will respond.\" He also notes their potential role in post-surgical recurrence prevention in Crohn's, where \"they are part..."
+    },
+    {
+      "slug": "claim-corticosteroids-shown-more-effective-placebo-sulfasalazine-elemental",
+      "claim_id": "yamada-cd64-3",
+      "statement": "Corticosteroids have been shown to be more effective than placebo, sulfasalazine, and elemental diets for the induction of clinical remission.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Multiple studies comparing corticosteroids to placebo, sulfasalazine, and elemental diets. Population-based data showing \"about a third of patients with CD treated with corticosteroids for a disease flare will be steroid dependent over the following year.\" Budesonide (ileal-release, 9 mg daily) is m..."
+    },
+    {
+      "slug": "claim-endoscopic-recurrence-rates-70-90-reported-early-year",
+      "claim_id": "yamada-cd64-7",
+      "statement": "Endoscopic recurrence rates of 70-90% have been reported as early as 1 year after surgery.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Rutgeerts' prospective study (n=89). Anti-TNF for postoperative prevention: infliximab reduced endoscopic recurrence from 85% to 9% (p<0.001) in one RCT; the PREVENT trial showed infliximab associated with significantly less endoscopic recurrence at 76 weeks; the POCER study found adalimumab superio..."
+    },
+    {
+      "slug": "claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission",
+      "claim_id": "yamada-cd64-2",
+      "statement": "Neither sulfasalazine nor mesalamine was effective at maintaining remission in an intention-to-treat analysis.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Cochrane systematic review and meta-analysis. Sulfasalazine: RR of 0.85 for induction in colonic disease. Mesalamine: per-protocol analysis modestly reduced relapse risk (RR 0.79, 95% CI 0.66-0.95) but intention-to-treat was negative. ACG and ECCO guidelines hold 5-ASA is \"probably not much better t..."
+    },
+    {
+      "slug": "claim-perhaps-best-way-reduce-risk-recurrence-crohns",
+      "claim_id": "steinhart-surg-6",
+      "statement": "Perhaps the best way to reduce the risk of recurrence of Crohn's disease after surgery is not to smoke cigarettes. Although it has not been proven that for smokers who quit after surgery the risk of recurrent disease is lower, it has been shown that smokers tend to have earlier and more severe recurrences after surgery.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+      "confidence": "high",
+      "evidence_excerpt": "Observational data. Steinhart lists the medication options for post-operative prevention: 5-ASA (reduces recurrence by \"about 10% to 12%\"), antibiotics (\"not clear whether the beneficial effect... extends past 1 year after surgery\"), thiopurines (\"evidence supporting their use is not entirely clear\"..."
+    }
+  ]
+}

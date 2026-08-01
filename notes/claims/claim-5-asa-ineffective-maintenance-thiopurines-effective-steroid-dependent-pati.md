@@ -62,15 +62,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan|ECCO and AGA guidelines converge on the same conclusion: 5-ASA is ineffective for CD maintenance across multiple evidenc]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc|ECCO CD confirms 5-ASA is ineffective for CD maintenance while ACG UC affirms efficacy for UC, establishing a clear dise]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

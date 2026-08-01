@@ -57,15 +57,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence|ACG SIBO 2020 provides the specific rifaximin efficacy data (61-78%) that Rome 2017 said was needed to establish antibio]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-015",
+  "cluster_label": "probiotics (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-current-working-hypothesis-abnormal-microbiota-activate-mucosal",
+      "claim_id": "rome-sibo2017-7",
+      "statement": "The current working hypothesis is that abnormal microbiota activate mucosal innate immune responses which increase epithelial permeability, activate nociceptive sensory pathways and dysregulate the enteric nervous system.",
+      "claim_type": "methodological",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Increased colonic mucosal expression of Toll-like receptor-4 (TLR4, recognizes bacterial lipopolysaccharides) in IBS (Brint et al. 2011)\n- Increased titres of circulating anti-flagellin antibodies in IBS (Schoepfer et al. 2008) -- evidence of systemic immune response to luminal microbial antigens\n..."
+    },
+    {
+      "slug": "claim-majority-trials-probiotics-ibs-show-degree-efficacy",
+      "claim_id": "rome-sibo2017-10",
+      "statement": "The majority of trials of probiotics in IBS show some degree of efficacy although some of the early studies were of very poor quality.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- ~75% of published trials were positive\n- Bifidobacterium infantis 35624: positive in two trials (O'Mahony et al. 2005, Whorwell et al. 2006) -- the largest and best-designed studies\n- Bifidobacterium lactis DN-173010: positive for digestive discomfort (Guyonnet et al. 2007) and for maximum distens..."
+    },
+    {
+      "slug": "claim-most-microbial-diversity-human-tract-currently-represented",
+      "claim_id": "rome-sibo2017-2",
+      "statement": "Most of the microbial diversity in the human GI tract is not currently represented by available cultured species.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "high",
+      "evidence_excerpt": "- The human gut contains ~10^14 microbial cells, outnumbering human cells 10:1, with a gradient from 10^1-10^3 bacteria/g in stomach/duodenum to 10^11-10^12 cells/g in colon\n- Three phyla predominate in the colon: Firmicutes, Bacteroidetes, Actinobacteria; over 50 bacterial phyla described, of which..."
+    },
+    {
+      "slug": "claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries",
+      "claim_id": "acg-sibo2020-9",
+      "statement": "Probiotics have insufficient evidence for SIBO treatment; FMT carries risks and should not be used outside trials",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "A meta-analysis (reference 112) found probiotics reduced hydrogen production (OR 1.61, CI 1.19-2.17) but studies were small and of poor quality. A controlled study (reference 23) suggested probiotics may CAUSE SIBO and D-lactic acidosis in some patients. For FMT: one study found recipients of stool ..."
+    },
+    {
+      "slug": "claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate",
+      "claim_id": "rome-sibo2017-6",
+      "statement": "Results from 16S rRNA-based microbiota profiling approaches demonstrate both quantitative and qualitative changes of mucosal and faecal gut microbiota, particularly in IBS.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Culture studies: decreased lactobacilli and bifidobacteria, increased facultative bacteria (Streptococcus, E. coli), higher anaerobes (Clostridium)\n- Molecular studies: Proteobacteria and specific Firmicutes increased in multiple studies; other Firmicutes, Bacteroidetes, and bifidobacteria decreas..."
+    }
+  ]
+}

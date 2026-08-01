@@ -54,15 +54,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia|Both ECCO UC 2022 and ACG Crohn's 2018 endorse corticosteroids for severe disease despite acknowledging limitations in t]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

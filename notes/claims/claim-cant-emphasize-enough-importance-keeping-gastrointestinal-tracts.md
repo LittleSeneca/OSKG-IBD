@@ -52,15 +52,18 @@ Meal spacing is a zero-cost, zero-side-effect intervention that should be part o
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-space-your-meals-four-five-hours-apart|Sarna's meal spacing recommendation explicitly restates Pimentel's MMC cleaning wave theory as its physiological rationa]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc|Both AGA UC 2020 and ACG UC 2019 recommend against routine broad-spectrum antibiotics in ASUC without confirmed infectio]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

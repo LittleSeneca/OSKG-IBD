@@ -55,15 +55,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
+- [[claim-oral-5-asa-induces-remission-low-quality-evidence-strong|The budesonide MMX recommendation for 5-ASA-refractory patients logically presupposes 5-ASA first-line therapy has been ]]
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

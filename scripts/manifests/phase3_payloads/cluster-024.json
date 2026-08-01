@@ -1,0 +1,269 @@
+{
+  "cluster_id": "cluster-024",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 29,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r1-fecal-calprotectin-to-differentiate-ibd-from-ibs",
+      "claim_id": "acg-cd2018-rec1",
+      "statement": "**Recommendation 1** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r13-metronidazole-not-for-luminal-cd",
+      "claim_id": "acg-cd2018-rec13",
+      "statement": "**Recommendation 13** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r14-ciprofloxacin-not-for-luminal-cd",
+      "claim_id": "acg-cd2018-rec14",
+      "statement": "**Recommendation 14** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r15-antimycobacterial-therapy-not-for-cd",
+      "claim_id": "acg-cd2018-rec15",
+      "statement": "**Recommendation 15** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r16-symptomatic-treatment---observation-for-low-risk",
+      "claim_id": "acg-cd2018-rec16",
+      "statement": "**Recommendation 16** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r17-oral-corticosteroids-for-short-term-use",
+      "claim_id": "acg-cd2018-rec17",
+      "statement": "**Recommendation 17** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r19-thiopurines-not-for-short-term-induction",
+      "claim_id": "acg-cd2018-rec19",
+      "statement": "**Recommendation 19** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r2-chromoendoscopy-for-high-risk-patients",
+      "claim_id": "acg-cd2018-rec2",
+      "statement": "**Recommendation 2** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r27-vedolizumab-for-induction",
+      "claim_id": "acg-cd2018-rec27",
+      "statement": "**Recommendation 27** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r28-natalizumab-for-induction",
+      "claim_id": "acg-cd2018-rec28",
+      "statement": "**Recommendation 28** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r29-natalizumab-only-if-jc-virus-negative",
+      "claim_id": "acg-cd2018-rec29",
+      "statement": "**Recommendation 29** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r3-insufficient-evidence-for-universal-chromoendoscop",
+      "claim_id": "acg-cd2018-rec3",
+      "statement": "**Recommendation 3** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r32-iv-corticosteroids-for-severe-fulminant",
+      "claim_id": "acg-cd2018-rec32",
+      "statement": "**Recommendation 32** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r38-thiopurines-for-fistulizing-cd",
+      "claim_id": "acg-cd2018-rec38",
+      "statement": "**Recommendation 38** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r4-narrow-band-imaging-should-not-be-used",
+      "claim_id": "acg-cd2018-rec4",
+      "statement": "**Recommendation 4** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu",
+      "claim_id": "acg-cd2018-rec40",
+      "statement": "**Recommendation 40** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r5-targeted-biopsies-may-replace-random-biopsies-with",
+      "claim_id": "acg-cd2018-rec5",
+      "statement": "**Recommendation 5** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r50-consider-combination-therapy-to-reduce-immunogenic",
+      "claim_id": "acg-cd2018-rec50",
+      "statement": "**Recommendation 50** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+      "claim_id": "acg-cd2018-rec51",
+      "statement": "**Recommendation 51** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+      "claim_id": "acg-cd2018-rec53",
+      "statement": "**Recommendation 53** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r54-smoking-cessation",
+      "claim_id": "acg-cd2018-rec54",
+      "statement": "**Recommendation 54** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r56-imidazole-antibiotics-to-prevent-recurrence",
+      "claim_id": "acg-cd2018-rec56",
+      "statement": "**Recommendation 56** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r57-thiopurines-prevent-recurrence-but-not-severe-endo",
+      "claim_id": "acg-cd2018-rec57",
+      "statement": "**Recommendation 57** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r6-avoid-nsaids",
+      "claim_id": "acg-cd2018-rec6",
+      "statement": "**Recommendation 6** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r60-abscess--antibiotics---drainage",
+      "claim_id": "acg-cd2018-rec60",
+      "statement": "**Recommendation 60** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r7-smoking-cessation",
+      "claim_id": "acg-cd2018-rec7",
+      "statement": "**Recommendation 7** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r8-do-not-restrict-antibiotics-to-prevent-flares",
+      "claim_id": "acg-cd2018-rec8",
+      "statement": "**Recommendation 8** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r9-assess-manage-stress--depression--anxiety",
+      "claim_id": "acg-cd2018-rec9",
+      "statement": "**Recommendation 9** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone",
+      "claim_id": "aga-cd2021-rec11",
+      "statement": "**Recommendation 11** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

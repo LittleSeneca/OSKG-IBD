@@ -52,15 +52,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan|The AGA CD 2021 guideline independently confirms the ACG CD 2018 finding that 5-ASA and corticosteroids lack maintenance]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc|The ACG CD negative recommendation and ACG UC positive recommendation together reveal that 5-ASA maintenance efficacy is]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -65,15 +65,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk|ECCO's evidence for parenteral methotrexate as effective CD maintenance extends ACG's anti-integrin recommendation by co]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

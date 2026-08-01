@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-summary-statements-24-35-grade-rated|The AGA 2021 GRADE approach with formal network meta-analysis represents methodological advancement over the non-GRADE-r]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

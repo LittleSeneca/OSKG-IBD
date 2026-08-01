@@ -52,15 +52,18 @@ The $250M vs. $10M funding disparity is the single most damning statistic in the
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|The SIBO mechanism discovered through food poisoning research in IBS extends to explain persistent symptoms in over 50% ]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

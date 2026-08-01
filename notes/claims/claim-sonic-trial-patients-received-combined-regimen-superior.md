@@ -50,15 +50,18 @@ Combination therapy improves efficacy but increases immunosuppressive burden (in
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-azathioprine-6-mercaptopurine-useful-keeping-patients-remission-reducing|The SONIC trial's demonstration of combination therapy superiority provides direct evidence supporting the clinical util]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,19 @@ If treat-to-target is correct, then monitoring with biomarkers and endoscopy is 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-there-move-toward-using-more-potent-more|Yamada establishes deep remission as the goal; Steinhart extends this by arguing that early use of potent therapies is t]]
+
+**Operationalizes:**
+- [[claim-approach-often-used-manage-perianal-crohns-disease|The combined surgical-medical approach for perianal CD is a concrete implementation of Yamada's multimodal deep remissio]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

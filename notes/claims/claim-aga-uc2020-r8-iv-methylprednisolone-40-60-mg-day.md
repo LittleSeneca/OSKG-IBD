@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid|Both AGA UC 2020 and ACG UC 2019 recommend IV methylprednisolone at comparable doses (40-60 mg/day) for hospitalized ASU]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

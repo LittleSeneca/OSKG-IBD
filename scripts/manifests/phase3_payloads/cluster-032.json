@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-032",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction",
+      "claim_id": "acg-uc2019-rec19",
+      "statement": "**Recommendation 19** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+      "claim_id": "acg-uc2019-rec32",
+      "statement": "**Recommendation 32** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+      "claim_id": "aga-uc2020-rec10",
+      "statement": "**Recommendation 10** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r11-oral-prednisolone-for-induction-in-moderate-severe",
+      "claim_id": "ecco-uc2022-rec11",
+      "statement": "**Recommendation 11** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc",
+      "claim_id": "ecco-uc2022-rec6",
+      "statement": "**Recommendation 6** (Weak, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Weak**."
+    }
+  ]
+}

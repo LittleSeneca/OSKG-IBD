@@ -1,0 +1,314 @@
+{
+  "cluster_id": "cluster-005",
+  "cluster_label": "breath-testing (diagnostic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 34,
+  "claims": [
+    {
+      "slug": "claim-aga-sibo2020-bpa-1",
+      "claim_id": "aga-sibo2020-implicit-1",
+      "statement": "BPA 1: The definition of SIBO lacks precision and consistency",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA SIBO 2020 - Quigley]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-aga-sibo2020-bpa-2-4",
+      "claim_id": "aga-sibo2020-implicit-2",
+      "statement": "BPA 2-4: \"Symptoms traditionally linked to SIBO include bloating, diarrhea and abdominal pain/discomfort. Steatorrhea may be seen in more severe cases.\"",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA SIBO 2020 - Quigley]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-aga-sibo2020-bpa-5-6",
+      "claim_id": "aga-sibo2020-implicit-3",
+      "statement": "BPA 5-6: \"A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations -- progress in sampling technology and techniques to enumerate bacterial populations and their metabolic products should provide much needed clarity.\"",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA SIBO 2020 - Quigley]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-aga-sibo2020-bpa-7-9",
+      "claim_id": "aga-sibo2020-implicit-4",
+      "statement": "BPA 7-9: \"Management should focus on the identification and correction (where possible) of underlying causes, correction of nutritional deficiencies and the administration of antibiotics. This is especially important for patients with significant maldigestion and malabsorption.\"",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA SIBO 2020 - Quigley]]",
+      "confidence": "medium",
+      "evidence_excerpt": "See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section."
+    },
+    {
+      "slug": "claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence",
+      "claim_id": "acg-sibo2020-7",
+      "statement": "Antibiotics are the cornerstone of SIBO treatment; rifaximin has the best evidence with 61-78% efficacy",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The meta-analysis of 32 clinical trials (reference 91, Gatta & Scarpignato 2017) on rifaximin: 7 RCTs, 24 cohort studies, 1 crossover trial, 1,331 patients total. Overall intention-to-treat success rate: 70.8% (CI 61.4-78.2). Adverse reactions: 4.6%. Doses ranged from 600-1600 mg/day, duration 5-28 ..."
+    },
+    {
+      "slug": "claim-anxiety-depression-screening-routine-care",
+      "claim_id": "acg-uc2019-4",
+      "statement": "Anxiety and depression screening should be routine in UC care",
+      "claim_type": "definitional",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Active UC is associated with higher rates of anxiety, depression, and impaired social/career function. The guideline cites Regueiro et al. (2017) on the bidirectional relationship between psychosocial comorbidities and IBD outcomes, but does not make a graded recommendation. This is appropriately le..."
+    },
+    {
+      "slug": "claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based",
+      "claim_id": "rome-sibo2017-3",
+      "statement": "The arrival of new high-throughput sequencing approaches and 16S rRNA-based microarraying has further accelerated the supply of data... Although culturing may bias against bacteria that are hard to grow in the laboratory, PCR amplification biases against certain groups of gut bacteria.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Table 1 provides a comprehensive comparison of detection methods:\n- Cultivation: accurate species identification, but not representative (most gut bacteria unculturable)\n- 16S rRNA cloning/Sanger sequencing: complete gene sequences, but cloning bias\n- High-throughput sequencing: massive data generat..."
+    },
+    {
+      "slug": "claim-bsg-2019-unified-uc-cd-single-document",
+      "claim_id": "bsg-ibd2019-1",
+      "statement": "The BSG 2019 guideline is the first major international IBD guideline to cover both ulcerative colitis and Crohn's disease in a single unified document, with 168 recommendations (135 GRADE statements + 33 Good Practice Recommendations) developed through a modified eDelphi consensus involving 81 clinicians and patients, informed by systematic review of 88,247 publications.",
+      "claim_type": "definitional",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "The guideline explicitly states it was commissioned to replace the 2011 BSG IBD guidelines. The methodology section details: 54 thematic questions producing 414 clinical questions structured by PICO/PEO; systematic searches of Medline and EMBASE (March 2017, updated March 2018, with top-up searches ..."
+    },
+    {
+      "slug": "claim-bsg-gpr27-ibd-mdt-model",
+      "claim_id": "bsg-ibd2019-11",
+      "statement": "GPR 27: The IBD MDT should include a core membership of gastroenterologist, colorectal surgeon, IBD specialist nurse, radiologist, dietitian, histopathologist, and pharmacist \u2014 all with IBD expertise. The MDT is organized as a concentric-circle model: inner circle (present at all meetings), middle circle (attend when possible), outer circle (contribute through combined clinics or shared protocols)",
+      "claim_type": "definitional",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "confidence": "medium",
+      "evidence_excerpt": "97.9% agreement. The guideline provides a concentric-circle MDT model (Figure 7). The inner circle consists of gastroenterologist, surgeon, IBD nurse, radiologist, dietitian, histopathologist, and pharmacist. The middle circle includes professionals who attend when possible. The outer circle contrib..."
+    },
+    {
+      "slug": "claim-chromoendoscopy-increases-dysplasia-detection-over-standard-definition-whi",
+      "claim_id": "acg-cd2018-5",
+      "statement": "Chromoendoscopy increases dysplasia detection over standard-definition white light, but may not be superior to high-definition white light (R2-R5)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "A 2017 systematic review (10 RCTs, 1,500 patients) found chromoendoscopy significantly associated with higher dysplasia detection vs. other techniques (RR 1.37), but this was only significant vs. standard-definition white light (RR 2.12) \u2014 not vs. high-definition white light (RR 1.42, 95% CI 0.80-2...."
+    },
+    {
+      "slug": "claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy",
+      "claim_id": "ecco-diag2019-12",
+      "statement": "CRC surveillance begins at 8 years with screening colonoscopy; chromoendoscopy with targeted biopsies; risk-stratified surveillance intervals",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Statement 3.6.1:** Screening colonoscopy offered 8 years after symptom onset to reassess extent and exclude dysplasia [EL5]. **Statement 3.6.2:** Proctitis-only patients need not enter regular surveillance [EL2]. **Statement 3.6.3:** PSC patients \u2014 annual surveillance from PSC diagnosis regardless..."
+    },
+    {
+      "slug": "claim-diagnosis-requires-endoscopic-confirmation-histology-exclusion-infectious",
+      "claim_id": "acg-uc2019-1",
+      "statement": "UC diagnosis requires endoscopic confirmation with histology and exclusion of infectious mimics -- C. difficile testing is mandatory, serologic antibody testing is useless",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The prevalence of CDI among newly diagnosed or relapsing IBD ranges from 5% to 47%, with a 4-fold increase in mortality when CDI complicates UC. PCR and ELISA testing are standard. Comprehensive PCR-based multiplex pathogen panels are increasingly used, but C. diff remains the predominant infectious..."
+    },
+    {
+      "slug": "claim-early-biologic-therapy-without-immunomodulator-suggested-over",
+      "claim_id": "aga-cd2021-6",
+      "statement": "Early biologic therapy with or without an immunomodulator is suggested over step-up therapy (R7)",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Three key trials:\n- **D'Haens et al. (2008):** Early combination therapy (infliximab + azathioprine) vs. conventional step-up (corticosteroids \u2192 azathioprine \u2192 infliximab). At 52 weeks, 61.5% in early combination arm achieved corticosteroid- and surgery-free remission vs. 42.2% in step-up (RR for fa..."
+    },
+    {
+      "slug": "claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost",
+      "claim_id": "rome-sibo2017-1",
+      "statement": "Functional gastrointestinal disorders (FGIDs) are defined by symptom-based diagnostic criteria that combine chronic or recurrent symptoms attributable to the GI tract in the absence of other pathologically-based disorders.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The Rome III diagnostic criteria (Drossman 2006). The report emphasizes that FGIDs affect 10-20% of the population and are associated with poor health-related quality of life and substantial societal costs."
+    },
+    {
+      "slug": "claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo",
+      "claim_id": "acg-sibo2020-3",
+      "statement": "Glucose or lactulose hydrogen breath testing is suggested for SIBO diagnosis in IBS, suspected motility disorders, and post-surgical patients",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Breath testing is inexpensive, noninvasive, and widely available. Sensitivity and specificity vs small bowel aspirate culture: lactulose sensitivity 31-68%, specificity 44-100%; glucose sensitivity 20-93%, specificity 30-86% (Khoshini et al. systematic review). The guideline acknowledges these wide ..."
+    },
+    {
+      "slug": "claim-graded-discussed-adjunctive-therapy-without-formal-recommendation",
+      "claim_id": "acg-sibo2020-8",
+      "statement": "Not graded. Discussed as adjunctive therapy without formal recommendation.",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The dominant theme is reduction of fermentable products: low fiber, avoid alcohol sugars and fermentable sweeteners (sucralose), avoid prebiotics (inulin). The guideline cites a meta-analysis (reference 106) that found \"very low quality evidence\" for low FODMAP diets in IBS. However, it also cites m..."
+    },
+    {
+      "slug": "claim-graded-recommendation-discussed-reference-standard-significant-limitations",
+      "claim_id": "acg-sibo2020-4",
+      "statement": "Not a graded recommendation. Discussed as the reference standard with significant limitations.",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Standardized techniques for aseptic collection are lacking. Requires upper endoscopy with deep duodenal intubation, sterile collection into 3rd/4th portion of duodenum, immediate transfer to microbiology for aerobic/anaerobic culture with precise colony counts (not just \"positive/negative\"). Diagnos..."
+    },
+    {
+      "slug": "claim-intra-abdominal-abscess-requires-antibiotics-drainage-surgery-failure",
+      "claim_id": "acg-cd2018-28",
+      "statement": "Intra-abdominal abscess requires antibiotics and drainage; surgery is not a failure of medical therapy (R60)",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Intra-abdominal abscess typically results from a sinus tract or fistula, often with an associated stricture. Most CD abscesses are accessible to US- or CT-guided percutaneous drainage. After drainage, most patients benefit from delayed surgical resection (avoiding emergent surgery with diverting ost..."
+    },
+    {
+      "slug": "claim-measure-drug-levels-antibodies-anti-tnf-loss-response",
+      "claim_id": "acg-uc2019-13",
+      "statement": "Measure drug levels and antibodies in anti-TNF loss of response; primary nonresponders with adequate drug levels should switch mechanism, not cycle within class",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Up to 20% of patients are primary nonresponders to anti-TNF; an additional 10-15% lose response annually. Causes include: inadequate drug levels (increased clearance from high inflammatory burden, fecal drug loss, neutralizing antibodies), concurrent infection, or mechanistic failure. The approach i..."
+    },
+    {
+      "slug": "claim-methane-positive-breath-testing-ppm-indicates-intestinal-methanogen",
+      "claim_id": "acg-sibo2020-5",
+      "statement": "Methane-positive breath testing (>=10 ppm) indicates intestinal methanogen overgrowth (IMO), not bacterial SIBO -- a nomenclature distinction with clinical implications",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Methanogens (primarily Methanobrevibacter smithii) are archaea, not bacteria. They use hydrogen as substrate to produce methane. They can overgrow in the colon as well as the small intestine -- the location is not determined by breath testing. The North American Consensus established >=10 ppm methan..."
+    },
+    {
+      "slug": "claim-most-convincing-evidence-date-finding-functional-dyspepsia",
+      "claim_id": "rome-sibo2017-5",
+      "statement": "The most convincing evidence to date is the finding that functional dyspepsia and irritable bowel syndrome may develop in predisposed individuals following a bout of infectious gastroenteritis.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Incidence of infective gastroenteritis: 19/100 person-years in the UK\n- Bacterial causes: Campylobacter (10%), Salmonella (3%); viral (Norovirus/Rotavirus) account for ~1/3\n- Onset of new IBS after gastroenteritis: 6-17% of IBS patients report this; an internet survey found 18%, with ~40% beginnin..."
+    },
+    {
+      "slug": "claim-mri-most-accurate-modality-perianal-fistula-classification",
+      "claim_id": "ecco-diag2019-11",
+      "statement": "MRI is the most accurate modality for perianal fistula classification; combining any two of MRI/TRUS/EUA achieves 100% accuracy",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "MRI diagnostic accuracy: 80-100%. TRUS: 50-100% (variable \u2014 limited by discomfort, anal stenosis, smaller field of view). Schwartz et al. (2001): EUA 91%, MRI 87%, TRUS 91% accuracy individually; 100% when any two combined. Buchanan et al. (2004): digital rectal exam 33%, TRUS 75%, MRI 85% sensitivi..."
+    },
+    {
+      "slug": "claim-mri-preferred-over-small-bowel-imaging-ius",
+      "claim_id": "ecco-diag2019-4",
+      "statement": "MRI is preferred over CT for small bowel imaging; IUS has comparable diagnostic accuracy and is radiation-free",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "CT and MRI have comparable high sensitivity/specificity for small intestinal lesions. Direct comparison: IUS sensitivity 94%, specificity 97% vs. MRE 96%, 94% (Castiglione 2013, 234 patients). IUS less accurate for disease extent (r=0.69) but high concordance for location (\u03ba=0.81). **METRIC trial** ..."
+    },
+    {
+      "slug": "claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target",
+      "claim_id": "acg-uc2019-3",
+      "statement": "Mucosal healing (Mayo endoscopic subscore 0 or 1) is the treatment target -- but histologic healing is not yet a validated endpoint",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The STRIDE consensus (2015) established composite endpoints (resolution of rectal bleeding + normalization of bowel habits + Mayo 0-1) as treatment targets. Endoscopic improvement (Mayo 0 or 1) rather than complete healing (Mayo 0) may be sufficient. FC pooled sensitivity for endoscopic inflammation..."
+    },
+    {
+      "slug": "claim-perianal-requires-combined-clinical-endoscopic-imaging-evaluation",
+      "claim_id": "ecco-diag2019-5",
+      "statement": "Perianal CD requires combined clinical, endoscopic, and imaging evaluation; MRI is first-line for fistula classification",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Statement 1.13:** Unexplained perianal abscesses or complex fistulae should be investigated for CD [EL4]. Perianal fistulas/abscesses occur in 21-54% of CD patients, more frequently with colonic involvement (41%) than isolated ileal disease (12%). A perianal abscess may be the first CD presentatio..."
+    },
+    {
+      "slug": "claim-prebiotics-synbiotics-theoretically-potential-treating-functional-gastroin",
+      "claim_id": "rome-sibo2017-11",
+      "statement": "Prebiotics and synbiotics should theoretically have the potential in treating functional gastrointestinal disorders but there are as yet no reliable data to support this view.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Only ONE double-blind placebo-controlled trial of a prebiotic in IBS: a trans-galactooligosaccharide mixture that reduced symptoms and stimulated bifidobacteria (Silk et al. 2009) -- \"clearly more research is required\"\n- Inulin and lactulose (prebiotics) increase flatulence, \"making it unlikely th..."
+    },
+    {
+      "slug": "claim-pregnancy-ius-unenhanced-mri-safe-imaging-modalities",
+      "claim_id": "ecco-diag2019-13",
+      "statement": "In pregnancy, IUS and unenhanced MRI are safe imaging modalities; endoscopy only for strong indications; gadolinium is contraindicated",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Ray et al. (2016, 1,424,105 deliveries, Ontario): first-trimester MRI (n=1,737) \u2014 no increased risk of congenital anomalies, neoplasms, or vision/hearing loss. **Gadolinium during pregnancy:** increased risk of rheumatological/inflammatory/infiltrative skin conditions (adjusted HR 1.36) and stillbir..."
+    },
+    {
+      "slug": "claim-progressive-disease-requiring-early-intensive-monitoring-individualized",
+      "claim_id": "ecco-cd2020-1",
+      "statement": "CD is a progressive disease requiring early intensive monitoring and individualized risk-stratified therapy",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The guideline opens with an explicit statement of the modern CD treatment paradigm: chronic untreated inflammation results in progressive bowel damage, even when asymptomatic. This is the foundational premise driving early intervention and tight control. The guideline emphasizes stratifying patients..."
+    },
+    {
+      "slug": "claim-report-identifies-specific-methodological-conceptual-barriers-progress",
+      "claim_id": "rome-sibo2017-13",
+      "statement": "The report identifies specific methodological and conceptual barriers to progress and outlines a research agenda that anticipates much of what followed in the subsequent decade",
+      "claim_type": "therapeutic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "1. **Validation:** \"The SIBO hypothesis in IBS remains a matter of debate because the breath tests and the small bowel culture techniques have not been validated.\" \u2192 Partially addressed by Rezaie North American Consensus (2017), but full validation remains incomplete."
+    },
+    {
+      "slug": "claim-role-sibo-pathogenesis-ibs-controversial-because-breath",
+      "claim_id": "rome-sibo2017-4",
+      "statement": "The role of SIBO in the pathogenesis of IBS is very controversial because the breath tests employed to establish this role have not been validated. Even the validity of the 'gold standard', jejunal cultures >10^5 cfu/ml with colonic-type bacteria, has been challenged, largely because this cut-off was established from samples following surgical diversion.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Rome Foundation SIBO Report 2017]]",
+      "confidence": "medium",
+      "evidence_excerpt": "- Drasar & Shiner (1969): 13 diarrhea patients, jejunal capsule -- \"no difference from controls\"\n- Posserud et al. (2007): 162 IBS vs 42 controls, jejunal aspirate -- 4% of IBS >10^5 CFU/mL (same as controls). But subanalysis using >5x10^3: 43% IBS vs 12% controls\n- Kerckhoffs et al. (2009): 8 IBS, ..."
+    },
+    {
+      "slug": "claim-screening-colonoscopy-starts-years-after-diagnosis-immediately",
+      "claim_id": "acg-uc2019-16",
+      "statement": "Screening colonoscopy starts at 8 years after diagnosis (immediately if PSC); surveillance intervals 1-3 years based on risk factors; high-definition white-light or chromoendoscopy are both acceptable",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Cumulative CRC risk in UC: 1% at 10 years, 2% at 20 years, 5% beyond 20 years. St. Mark's surveillance program: CRC incidence 4.7 per 1,000 patient-years. Risk declining over time. CRC risk factors: disease duration, inflammatory activity, young age at diagnosis, extensive colitis, PSC, family histo..."
+    },
+    {
+      "slug": "claim-sibo-defined-presence-excessive-numbers-bacteria-small",
+      "claim_id": "acg-sibo2020-1",
+      "statement": "SIBO is defined as \"the presence of excessive numbers of bacteria in the small bowel causing gastrointestinal symptoms.\" The guideline emphasizes that the definition implies BOTH measurable bacterial overgrowth AND resultant symptoms. Pathologic fermentation of nutrients that would ordinarily be completely absorbed in the small intestine leads to excess gas and bloating.",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**GRADE rating:** Not graded (definitional). However, the guideline cites the North American Consensus (Rezaie et al., 2017) establishing >=10^3 CFU/mL on duodenal/jejunal aspirate as the culture threshold, and a rise in hydrogen >=20 ppm above baseline within 90 minutes of 75g glucose or 10g lactul..."
+    },
+    {
+      "slug": "claim-summary-statement-symptoms-crohns-disease-correlate-well",
+      "claim_id": "acg-cd2018-2",
+      "statement": "Summary Statement 9. \"Symptoms of Crohn's disease do not correlate well with the presence of active inflammation, and therefore should not be the sole guide for therapy.\"",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The guideline explicitly cautions against treating symptoms alone. Objective evaluation by endoscopy or cross-sectional imaging should be undertaken periodically. This principle underlies the modern \"treat-to-target\" approach: mucosal healing (absence of ulceration on endoscopy) is a goal of therapy..."
+    },
+    {
+      "slug": "claim-ultimate-goal-treatment-maintain-health-related-quality-life",
+      "claim_id": "ecco-uc2022-2",
+      "statement": "The ultimate goal of treatment in UC is to maintain health-related quality of life [QoL] and avoid disability. To achieve this, it is important to not only provide rapid relief of clinical symptoms, but also achieve endoscopic healing where possible, as this is associated with improved long-term outcomes.",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The endorsement of STRIDE-II (Turner et al., 2021) is notable \u2014 this is the 2021 update that elevated histologic healing from \"not a target\" to \"an adjunctive measure of remission,\" a significant evolution from STRIDE-I (2015) which the ACG 2019 guideline cited. The panel selected endoscopic and cli..."
+    }
+  ]
+}

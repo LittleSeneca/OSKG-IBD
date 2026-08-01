@@ -1,0 +1,320 @@
+[
+  {
+    "claim_a": "claim-role-sibo-pathogenesis-ibs-controversial-because-breath",
+    "claim_b": "claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo",
+    "edge_type": "challenged_by",
+    "rationale": "Rome 2017 report challenges the validity of breath testing that ACG SIBO 2020 suggests for SIBO diagnosis, noting breath tests have not been validated against the gold standard."
+  },
+  {
+    "claim_a": "claim-role-sibo-pathogenesis-ibs-controversial-because-breath",
+    "claim_b": "claim-graded-recommendation-discussed-reference-standard-significant-limitations",
+    "edge_type": "supports",
+    "rationale": "Both Rome 2017 and ACG SIBO 2020 identify significant limitations of jejunal aspirate culture as a gold standard for SIBO diagnosis."
+  },
+  {
+    "claim_a": "claim-aga-sibo2020-bpa-1",
+    "claim_b": "claim-sibo-defined-presence-excessive-numbers-bacteria-small",
+    "edge_type": "challenged_by",
+    "rationale": "AGA SIBO 2020 identifies the definitional imprecision and lack of consistency that ACG SIBO 2020's clinical definition attempts to resolve."
+  },
+  {
+    "claim_a": "claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based",
+    "claim_b": "claim-aga-sibo2020-bpa-5-6",
+    "edge_type": "supports",
+    "rationale": "Rome 2017 documents the technological progress in sequencing that AGA SIBO 2020 identifies as necessary for advancing understanding of small intestinal microbial populations."
+  },
+  {
+    "claim_a": "claim-chromoendoscopy-increases-dysplasia-detection-over-standard-definition-whi",
+    "claim_b": "claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy",
+    "edge_type": "operationalizes",
+    "rationale": "ECCO Diagnostic 2019 operationalizes the chromoendoscopy evidence from ACG Crohn's 2018 into a specific risk-stratified CRC surveillance protocol."
+  },
+  {
+    "claim_a": "claim-screening-colonoscopy-starts-years-after-diagnosis-immediately",
+    "claim_b": "claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy",
+    "edge_type": "supports",
+    "rationale": "Both ACG UC 2019 and ECCO Diagnostic 2019 converge on the 8-year CRC surveillance initiation point, aligning North American and European guidelines."
+  },
+  {
+    "claim_a": "claim-summary-statement-symptoms-crohns-disease-correlate-well",
+    "claim_b": "claim-progressive-disease-requiring-early-intensive-monitoring-individualized",
+    "edge_type": "supports",
+    "rationale": "ACG Crohn's 2018 finding that symptoms do not correlate with inflammation provides the rationale for ECCO 2020's recommendation of early intensive monitoring."
+  },
+  {
+    "claim_a": "claim-prebiotics-synbiotics-theoretically-potential-treating-functional-gastroin",
+    "claim_b": "claim-graded-discussed-adjunctive-therapy-without-formal-recommendation",
+    "edge_type": "supports",
+    "rationale": "Both Rome 2017 and ACG SIBO 2020 find insufficient evidence for dietary and prebiotic interventions in SIBO, converging on the need for more research."
+  },
+  {
+    "claim_a": "claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target",
+    "claim_b": "claim-ultimate-goal-treatment-maintain-health-related-quality-life",
+    "edge_type": "extends",
+    "rationale": "ECCO UC 2022 broadens ACG UC 2019's endoscopic healing target to include health-related quality of life as the ultimate treatment goal."
+  },
+  {
+    "claim_a": "claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost",
+    "claim_b": "claim-sibo-defined-presence-excessive-numbers-bacteria-small",
+    "edge_type": "challenged_by",
+    "rationale": "The SIBO paradigm challenges the symptom-based FGID framework by identifying an organic bacterial cause for symptoms previously classified as functional."
+  },
+  {
+    "claim_a": "claim-report-identifies-specific-methodological-conceptual-barriers-progress",
+    "claim_b": "claim-methane-positive-breath-testing-ppm-indicates-intestinal-methanogen",
+    "edge_type": "extends",
+    "rationale": "The IMO nomenclature distinction for methane-positive breath testing fulfills one of the methodological refinements the Rome 2017 report anticipated."
+  },
+  {
+    "claim_a": "claim-short-course-gut-specific-antibiotics-utility-patients-ibs",
+    "claim_b": "claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence",
+    "edge_type": "extends",
+    "rationale": "ACG SIBO 2020 provides the specific rifaximin efficacy data (61-78%) that Rome 2017 said was needed to establish antibiotic utility in IBS/SIBO."
+  },
+  {
+    "claim_a": "claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina",
+    "claim_b": "claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard",
+    "edge_type": "supports",
+    "rationale": "ECCO Crohn's 2020 reinforces anti-TNF as the standard for moderate-to-severe disease where ACG 2018 established the evidence for combination superiority."
+  },
+  {
+    "claim_a": "claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm",
+    "claim_b": "claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active",
+    "edge_type": "supports",
+    "rationale": "Both ACG Crohn's 2018 and ACG UC 2019 agree that thiopurines are ineffective for acute induction across CD and UC, limiting their role to maintenance."
+  },
+  {
+    "claim_a": "claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate",
+    "claim_b": "claim-thiopurines-used-monotherapy-induction-they-too-slow",
+    "edge_type": "supports",
+    "rationale": "AGA Crohn's 2021 and ECCO UC 2022 independently converge on thiopurines' unsuitability for induction monotherapy due to slow onset."
+  },
+  {
+    "claim_a": "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+    "claim_b": "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+    "edge_type": "operationalizes",
+    "rationale": "BSG IBD 2019 formalizes the rescue therapy pathway with a specific day-3 assessment point, operationalizing ACG Crohn's 2018 principle of anti-TNF for severe disease."
+  },
+  {
+    "claim_a": "claim-bsg-statement-126-mesalazine-crc-chemoprevention",
+    "claim_b": "claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan",
+    "edge_type": "contradicts",
+    "rationale": "BSG makes a strong chemoprevention recommendation for mesalazine that ACG UC 2019 explicitly rejects based on inconsistent and confounded evidence."
+  },
+  {
+    "claim_a": "claim-infliximab-best-studied-agent-perianal-fistulas-combination-seton",
+    "claim_b": "claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination",
+    "edge_type": "supports",
+    "rationale": "ACG's positive recommendation for infliximab combination therapy for fistulas is reinforced by ECCO's evidence-based rejection of antibiotic/thiopurine monotherapy."
+  },
+  {
+    "claim_a": "claim-bsg-statement-69-smoking-postoperative-cd",
+    "claim_b": "claim-nsaids-exacerbate-disease-avoided-smoking-cessation-critical",
+    "edge_type": "supports",
+    "rationale": "Both BSG 2019 and ACG Crohn's 2018 strongly emphasize smoking cessation, with BSG quantifying the OR for postoperative recurrence."
+  },
+  {
+    "claim_a": "claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy",
+    "claim_b": "claim-bsg-statement-91-biosimilar-infliximab-ct-p13",
+    "edge_type": "extends",
+    "rationale": "BSG confirms that biosimilar infliximab extends the anti-TNF maintenance strategy without clinically meaningful differences in efficacy or immunogenicity."
+  },
+  {
+    "claim_a": "claim-bsg-statement-36-surgery-localized-ileocaecal-cd",
+    "claim_b": "claim-low-risk-patients-symptomatic-treatment-careful-observation-acceptable",
+    "edge_type": "challenged_by",
+    "rationale": "BSG frames surgery as a primary treatment option for localized ileocecal CD, challenging ACG's conservative observation-first approach for low-risk patients."
+  },
+  {
+    "claim_a": "claim-methotrexate-effective-steroid-dependent-r23",
+    "claim_b": "claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate",
+    "edge_type": "supports",
+    "rationale": "AGA Crohn's 2021 confirms ACG 2018's MTX efficacy finding while adding the critical specification that parenteral (SC/IM) rather than oral route is required."
+  },
+  {
+    "claim_a": "claim-bsg-statement-34-een-adult-cd",
+    "claim_b": "claim-controlled-ileal-release-budesonide-daily-first-line-mild-to-moderate",
+    "edge_type": "challenged_by",
+    "rationale": "BSG offers exclusive enteral nutrition as a corticosteroid alternative for inducing remission, challenging ACG's positioning of budesonide as first-line."
+  },
+  {
+    "claim_a": "claim-adjunctive-antibiotics-used-routinely-asuc-without-infection",
+    "claim_b": "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+    "edge_type": "supports",
+    "rationale": "AGA UC 2020's recommendation against routine adjunctive antibiotics in ASUC supports BSG's focus on infliximab or ciclosporin as the preferred rescue strategy."
+  },
+  {
+    "claim_a": "claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi",
+    "claim_b": "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+    "edge_type": "supports",
+    "rationale": "Both ECCO UC 2022 and ACG Crohn's 2018 endorse corticosteroids for severe disease despite acknowledging limitations in the underlying evidence base."
+  },
+  {
+    "claim_a": "claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease",
+    "claim_b": "claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard",
+    "edge_type": "supports",
+    "rationale": "ACG's strong negative recommendation against cyclosporine in CD reinforces ECCO's positioning of anti-TNF agents as the preferred standard for moderate-to-severe disease."
+  },
+  {
+    "claim_a": "claim-bsg-statement-3-5asa-induction-uc",
+    "claim_b": "claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active",
+    "edge_type": "depends_on",
+    "rationale": "BSG's strong 5-ASA induction recommendation for mild-to-moderate UC establishes why thiopurines are reserved for steroid-sparing maintenance rather than induction."
+  },
+  {
+    "claim_a": "claim-microbial-cells-outnumber-human-cells-ten-one",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "supports",
+    "rationale": "Both Chutkan and Sonnenburg independently describe the gut microbiome as a second genome, with Chutkan emphasizing the microbial cell ratio and Sonnenburg detailing the gene count."
+  },
+  {
+    "claim_a": "claim-bacteria-digest-fiber-short-chain-fatty-acids-butyrate",
+    "claim_b": "claim-theres-really-thing-good-bad-native-bacteria",
+    "edge_type": "challenged_by",
+    "rationale": "Chutkan's framing of beneficial bacterial functions (SCFA production, immune training) contrasts with Pimentel's rejection of the good-versus-bad bacterial taxonomy."
+  },
+  {
+    "claim_a": "claim-fewer-bacteria-our-gut-our-ancestors-because",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "supports",
+    "rationale": "Both Chutkan and Sonnenburg identify modern hygiene practices and Western lifestyle as the primary drivers of gut microbiome diversity loss."
+  },
+  {
+    "claim_a": "claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates",
+    "claim_b": "claim-theres-really-thing-good-bad-native-bacteria",
+    "edge_type": "challenged_by",
+    "rationale": "SCOPE CORRECTION: Chutkan reports clinical success with high-dose probiotics for IBD, while Pimentel concludes probiotics are ineffective for SIBO \u2014 different conditions, both can be contextually true."
+  },
+  {
+    "claim_a": "claim-sibo-prevalence-84-vs-60-75-percent",
+    "claim_b": "claim-sibo-prevalence-78-percent-ibs-sarna",
+    "edge_type": "extends",
+    "rationale": "Sarna's 78% prevalence figure represents an intermediate estimate between Pimentel's 2006 (84%) and 2022 (60-75%) figures, reflecting the evolving consensus."
+  },
+  {
+    "claim_a": "claim-prokinetic-optimization-erythromycin-prucalopride",
+    "claim_b": "claim-sibo-medicine-cabinet-symptom-remedies",
+    "edge_type": "extends",
+    "rationale": "Sarna adds naturopathic prokinetic options (Iberogast, ginger) and OTC symptom remedies to Pimentel's pharmaceutical prokinetic framework."
+  },
+  {
+    "claim_a": "claim-three-treatment-modalities-pharmaceutical-herbal-elemental",
+    "claim_b": "claim-treatment-efficacy-modest-improvement-2006-2022",
+    "edge_type": "supports",
+    "rationale": "Pimentel's finding of only modest absolute efficacy improvement from 2006-2022 explains why Sarna presents pharmaceutical, herbal, and elemental modalities as co-equal options."
+  },
+  {
+    "claim_a": "claim-first-step-treating-sibo-understand-sibo-primary",
+    "claim_b": "claim-sibo-relapse-management-multiple-treatment-rounds",
+    "edge_type": "operationalizes",
+    "rationale": "Sarna's relapse management protocol with retesting and prokinetic maintenance operationalizes Pimentel's core principle that SIBO is a secondary phenomenon requiring ongoing management."
+  },
+  {
+    "claim_a": "claim-cdtb-looks-similar-native-protein-our-body",
+    "claim_b": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+    "edge_type": "extends",
+    "rationale": "Pimentel's CdtB-vinculin molecular mimicry mechanism provides the specific pathway by which Chutkan's generalized dysbiosis concept leads to autoimmunity and impaired gut function."
+  },
+  {
+    "claim_a": "claim-six-randomized-controlled-trials-fecal-transplant-ibs",
+    "claim_b": "claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates",
+    "edge_type": "challenged_by",
+    "rationale": "Pimentel's negative FMT trial data and probiotic skepticism challenge Chutkan's microbiome-restoration approach using diet and high-dose probiotics for IBD."
+  },
+  {
+    "claim_a": "claim-ten-things-taking-antibiotics-table-11-2-includes",
+    "claim_b": "claim-theres-really-thing-good-bad-native-bacteria",
+    "edge_type": "challenged_by",
+    "rationale": "Chutkan's recommendation to take probiotics during and after antibiotics is challenged by Pimentel's evidence that probiotics do not protect against antibiotic-associated complications."
+  },
+  {
+    "claim_a": "claim-remember-gut-two-modes-feeding-digestion-fasting",
+    "claim_b": "claim-cdtb-vinculin-autoimmunity-discovery-2006-2022",
+    "edge_type": "depends_on",
+    "rationale": "The CdtB-vinculin autoimmunity mechanism explains why MMC housekeeper waves are reduced in IBS/SIBO: anti-vinculin antibodies damage the MMC that Pimentel describes as the central protective mechanism."
+  },
+  {
+    "claim_a": "claim-proton-pump-inhibitors-ppis-acid-suppressants-create",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "supports",
+    "rationale": "Chutkan's specific warning about PPIs removing the stomach's acid barrier validates Pimentel's listing of stomach acid as the fourth of five key natural defenses against bacterial overgrowth."
+  },
+  {
+    "claim_a": "claim-main-problem-rome-criteria-they-never-really",
+    "claim_b": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+    "edge_type": "extends",
+    "rationale": "The quantitative SIBO definition (>10^3 CFU/mL) provides the organic diagnostic basis that exposes the Rome Criteria's limitation as an exclusion-only diagnostic framework."
+  },
+  {
+    "claim_a": "claim-recent-medium-sized-randomized-controlled-trial-found-5000",
+    "claim_b": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+    "edge_type": "operationalizes",
+    "rationale": "Pimentel's L-glutamine trial tests a specific treatment for the increased intestinal permeability that Chutkan describes as a precondition for autoimmune disease."
+  },
+  {
+    "claim_a": "claim-there-antidepressant-drug-antidepressantantipsychotic-property-approved-tr",
+    "claim_b": "claim-notice-just-referred-ibs-disease-doesnt-ibs",
+    "edge_type": "supports",
+    "rationale": "The absence of FDA-approved antidepressants for IBS supports Pimentel's argument that IBS should be reclassified from a functional syndrome to an organic disease."
+  },
+  {
+    "claim_a": "claim-now-know-microbiome-20-foot-long-small-intestine-radically",
+    "claim_b": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+    "edge_type": "supports",
+    "rationale": "The REIMAGINE study's finding that small intestine microbiome fundamentally differs from stool supports the need for site-specific SIBO diagnostic thresholds rather than stool-based inference."
+  },
+  {
+    "claim_a": "claim-because-food-poisoning-connection-now-know-more",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "The SIBO mechanism discovered through food poisoning research in IBS extends to explain persistent symptoms in over 50% of IBD patients with controlled inflammation."
+  },
+  {
+    "claim_a": "claim-you-sibo-taking-prebiotic-actually-provide-food",
+    "claim_b": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+    "edge_type": "extends",
+    "rationale": "Pimentel's prebiotic warning for SIBO patients refines Chutkan's general dysbiosis framework with a specific clinical caveat about feeding unwanted bacterial overgrowth."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone",
+    "claim_b": "claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu",
+    "edge_type": "extends",
+    "rationale": "AGA Crohn's 2021 extends ACG Crohn's 2018 antibiotic recommendation for perianal fistulas by specifying that antibiotics should be combined with biologics rather than used alone."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r9-assess-manage-stress--depression--anxiety",
+    "claim_b": "claim-anxiety-depression-screening-routine-care",
+    "edge_type": "supports",
+    "rationale": "ACG Crohn's 2018 recommendation to assess and manage stress, depression, and anxiety in CD aligns with ACG UC 2019 recommendation for routine anxiety and depression screening in UC."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r8-iv-methylprednisolone-40-60-mg-day",
+    "claim_b": "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+    "edge_type": "supports",
+    "rationale": "Both AGA UC 2020 and ACG UC 2019 recommend IV methylprednisolone at comparable doses (40-60 mg/day) for hospitalized ASUC patients."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r9-against-adjunctive-antibiotics-in-asuc",
+    "claim_b": "claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc",
+    "edge_type": "supports",
+    "rationale": "Both AGA UC 2020 and ACG UC 2019 recommend against routine broad-spectrum antibiotics in ASUC without confirmed infection."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r14-tofacitinib-for-induction-in-moderate-severe-uc",
+    "claim_b": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+    "edge_type": "supports",
+    "rationale": "ECCO UC 2022 and ACG UC 2019 both make strong, moderate-quality recommendations for tofacitinib as induction therapy in moderate-to-severe UC."
+  },
+  {
+    "claim_a": "claim-ecco-uc2022-r20-tofacitinib-for-maintenance-after-tofacitinib-indu",
+    "claim_b": "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+    "edge_type": "supports",
+    "rationale": "Both ECCO UC 2022 and ACG UC 2019 recommend continuing tofacitinib for maintenance of remission following successful induction."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day",
+    "claim_b": "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+    "edge_type": "supports",
+    "rationale": "Both ACG UC 2019 and BSG IBD 2019 recommend infliximab or cyclosporine as rescue therapy for steroid-refractory ASUC, with BSG providing additional specificity from the CYSIF and CONSTRUCT trials."
+  }
+]

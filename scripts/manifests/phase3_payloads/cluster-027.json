@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-027",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa",
+      "claim_id": "acg-cd2018-rec18",
+      "statement": "**Recommendation 18** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r21-thiopurines-for-maintenance",
+      "claim_id": "acg-cd2018-rec21",
+      "statement": "**Recommendation 21** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r47-corticosteroids-not-for-maintenance",
+      "claim_id": "acg-cd2018-rec47",
+      "statement": "**Recommendation 47** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r52-natalizumab-maintenance-only-if-jc-virus-negative",
+      "claim_id": "acg-cd2018-rec52",
+      "statement": "**Recommendation 52** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+      "claim_id": "aga-cd2021-rec7",
+      "statement": "**Recommendation 7** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    }
+  ]
+}

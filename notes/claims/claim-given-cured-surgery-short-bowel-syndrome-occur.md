@@ -50,15 +50,19 @@ Strictureplasty is the primary surgical strategy for preventing short bowel synd
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-approximately-people-suffering-crohns-disease-approximately-people|The 70-80% lifetime surgical rate for CD patients demonstrates that surgery is not curative, supporting Yamada's stateme]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-strictureplasty-method-avoiding-removal-additional-segments-intestine|Strictureplasty is the bowel-sparing surgical technique specifically developed to address the risk of short bowel syndro]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

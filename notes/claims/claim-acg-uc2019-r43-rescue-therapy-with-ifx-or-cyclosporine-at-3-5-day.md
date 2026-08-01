@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin|Both ACG UC 2019 and BSG IBD 2019 recommend infliximab or cyclosporine as rescue therapy for steroid-refractory ASUC, wi]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

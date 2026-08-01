@@ -51,15 +51,18 @@ The CdtB-vinculin mechanism transformed SIBO from a clinical observation to a mo
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
+- [[claim-remember-gut-two-modes-feeding-digestion-fasting|The CdtB-vinculin autoimmunity mechanism explains why MMC housekeeper waves are reduced in IBS/SIBO: anti-vinculin antib]]
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

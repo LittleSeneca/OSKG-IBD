@@ -51,15 +51,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-theres-really-thing-good-bad-native-bacteria|SCOPE CORRECTION: Chutkan reports clinical success with high-dose probiotics for IBD, while Pimentel concludes probiotic]]
+- [[claim-six-randomized-controlled-trials-fecal-transplant-ibs|Pimentel's negative FMT trial data and probiotic skepticism challenge Chutkan's microbiome-restoration approach using di]]
+
+**Contradicts:**
 
 ## Assessment
 

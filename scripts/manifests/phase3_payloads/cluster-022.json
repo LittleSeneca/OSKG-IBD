@@ -1,0 +1,233 @@
+{
+  "cluster_id": "cluster-022",
+  "cluster_label": "elemental-diet (dietary)",
+  "domain": "domain/nutrition",
+  "size": 25,
+  "claims": [
+    {
+      "slug": "claim-after-elemental-diet-reintroduce-foods-four-progressive",
+      "claim_id": "thompson-een-6",
+      "statement": "After the elemental diet, reintroduce foods in four progressive phases: Phase 1 = easiest-to-digest foods (cooked, pureed vegetables, bone broth, well-cooked fruits); Phase 4 = common allergens (wheat, dairy, corn, potatoes). Test one new food per day (or one every 3 days for rigorous testing). At the end of each week, stay on just those 7 foods for another week to confirm.",
+      "claim_type": "dietary",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "One clinical trial on food reintroduction triggers. Thompson's personal experience and reader feedback. The phase structure is based on general digestibility principles."
+    },
+    {
+      "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+      "claim_id": "thompson-een-7",
+      "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+      "claim_type": "dietary",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "low",
+      "evidence_excerpt": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers."
+    },
+    {
+      "slug": "claim-began-notice-other-unanticipated-benefits-patients-muscle",
+      "claim_id": "gottschall-fw-3",
+      "statement": "I began to notice other unanticipated benefits. Patients with muscle aches, stiff joints, and even full-blown arthritis, chronic skin rashes, psoriasis, generalized fatigue and 'spaciness' were alleviated. Elaine Gottschall's diet had probably reduced intestinal toxicity.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Foreword]]",
+      "confidence": "low",
+      "evidence_excerpt": "Clinical observation only. No controlled data, no systematic tracking."
+    },
+    {
+      "slug": "claim-cant-emphasize-enough-importance-keeping-gastrointestinal-tracts",
+      "claim_id": "pimentel-lfe-4",
+      "statement": "We can't emphasize enough the importance of keeping the gastrointestinal tract's cleaning waves intact on a regular basis. These cleaning waves... don't occur until you are fasting... We recommend waiting four to five hours between each meal... Snacking between meals is a no-no. If you eat every two hours, you won't allow the small intestine to clear properly... Just one bite of food can impair yo",
+      "claim_type": "dietary",
+      "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+      "confidence": "high",
+      "evidence_excerpt": "Pimentel's MMC research (published in multiple papers). The physiological mechanism: MMC phase III (cleaning waves) occurs only during fasting state; feeding suppresses MMC activity; bacterial clearance depends on MMC function; SIBO patients have reduced MMC activity (possibly due to anti-vinculin a..."
+    },
+    {
+      "slug": "claim-carbohydrates-must-digested-monosaccharides-before-absorption-starch",
+      "claim_id": "gottschall-ch35-6",
+      "statement": "Carbohydrates must be digested to monosaccharides before absorption. Starch is broken down by salivary and pancreatic amylases to disaccharides (maltose, isomaltose). Disaccharides (lactose, sucrose, maltose, isomaltose) must be split by disaccharidase enzymes (lactase, sucrase, maltase, isomaltase) embedded in the microvilli membranes of intestinal absorptive cells. \"The structure of the intestin",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "Diagram of healthy vs. injured microvilli. Listing of conditions associated with disaccharidase deficiencies: celiac disease, malnutrition, tropical sprue, cholera, gastroenteritis, infant diarrhea, pellagra, irritable colon, post-gastrectomy, soy protein intolerance, cow's milk protein intolerance,..."
+    },
+    {
+      "slug": "claim-citing-controlled-trial-amino-acid-feed-remission",
+      "claim_id": "thompson-een-2",
+      "statement": "Citing a controlled trial: amino acid feed = 69% remission in 3 weeks; whole protein feed = 72% remission. When groups were switched, 43% of those switched to amino acids relapsed, but NONE switched to whole protein relapsed. Thompson argues Absorb Plus (whey isolate-based) is at least as effective as free-form amino acid formulas and better for weight gain.",
+      "claim_type": "dietary",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "One controlled trial. Additional reference to Silk et al. (1985) on protein digestion showing di-peptide bonds are needed for muscle synthesis."
+    },
+    {
+      "slug": "claim-core-thesis-ballantyne-paleo",
+      "claim_id": "ballantyne-paleo-implicit-8",
+      "statement": "Autoimmune disease is caused by a combination of genetic predisposition, intestinal permeability (leaky gut), and environmental triggers. The standard Paleo diet eliminates some inflammatory foods, but for autoimmune patients, a more restrictive protocol is needed \u2014 one that also removes foods that stimulate the immune system, irritate the gut lining, or act as molecular mimics for self-tissue. Th",
+      "claim_type": "dietary",
+      "source_note": "[[The Paleo Approach - Ballantyne 2013]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Autoimmune disease is caused by a combination of genetic predisposition, intestinal permeability (leaky gut), and environmental triggers. The standard Paleo diet eliminates some inflammatory foods, but for autoimmune patients, a more restrictive protocol is needed \u2014 one that also removes foods that ..."
+    },
+    {
+      "slug": "claim-core-thesis-myers-autoimmune",
+      "claim_id": "myers-autoimmune-implicit-9",
+      "statement": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reverse autoimmune conditions, not merely manage symptoms with drugs. Leaky gut is the necessary precond",
+      "claim_type": "dietary",
+      "source_note": "[[The Autoimmune Solution - Myers 2015]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reve..."
+    },
+    {
+      "slug": "claim-diet-alone-wont-cure-sibo-even-you",
+      "claim_id": "pimentel-lfe-5",
+      "statement": "Diet alone won't cure SIBO. Even if you strictly follow low-fermentation eating, diet alone is not going to get rid of bacterial overgrowth... Low-fermentation eating alone won't fix your SIBO, but it will give you clarification and guidelines on how to handle SIBO.",
+      "claim_type": "dietary",
+      "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical experience. The rationale: dietary carbohydrate restriction reduces fermentable substrate and thus symptoms, but does not eliminate the bacterial overgrowth or address the underlying motility/immune defect."
+    },
+    {
+      "slug": "claim-dietary-components-carbohydrate-major-influence-over-intestinal",
+      "claim_id": "gottschall-ch35-4",
+      "statement": "Of all dietary components, carbohydrate has the major influence over intestinal microbes. Through a process of fermentation of available carbohydrates remaining in the intestinal tract, microbes obtain energy for continued maintenance and growth.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "high",
+      "evidence_excerpt": "The lactose example: lactose in one ounce of milk, if undigested, produces about 50 ml of gas in normal people; under abnormal conditions with small intestinal microbes, hydrogen gas production may increase over one hundred-fold. Reference to lactic acid causing \"abnormal brain function and behavior..."
+    },
+    {
+      "slug": "claim-duration-guidelines-moderate-to-severe-bleeding-fistulas-weeks-months",
+      "claim_id": "thompson-een-4",
+      "statement": "Duration guidelines: moderate-to-severe bleeding or fistulas = 6+ weeks (up to 3 months for fistulas); sporadic bleeding = 4-6 weeks; minor symptoms (bloating, gas, pain, diarrhea) = 3-4 weeks; food allergy testing = 10-14 days. \"Stay on it for at least one to two more weeks after ALL symptoms have cleared.\" Thompson's gastroenterologist advised: 3 or 6 weeks as standard; if 3 weeks fails, full 6 ",
+      "claim_type": "therapeutic",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "low",
+      "evidence_excerpt": "Clinical experience and Thompson's gastroenterologist's protocol. No controlled data on optimal EEN duration. The 6-week standard maps to corticosteroid tapering timelines in IBD."
+    },
+    {
+      "slug": "claim-elemental-diet-therapy-effective-steroids-inducing-remission",
+      "claim_id": "thompson-een-1",
+      "statement": "Elemental diet therapy is as effective as steroids in inducing remission, whilst avoiding steroid side effects.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "Two pediatric trials from England and Italy. Thompson quotes Dr. Robert Canani: \"In children with active Crohn's disease, exclusive nutritional therapy shows a more rapid effect than steroids in inducing clinical remission and is markedly more effective than steroids in producing healing of mucosal ..."
+    },
+    {
+      "slug": "claim-full-gaps-diet-adds-more-variety-meats",
+      "claim_id": "campbell-gaps-3",
+      "statement": "The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initially only well-cooked, later raw), fermented foods, nuts/seeds (properly prepared), and limited fruit. It excludes all grains, starchy vegetables (potatoes, sweet potatoes, yams, parsnips), sugar, and processed foods. The diet should be followed for \"about two years\" before attempting reintroduction, though \"at least two",
+      "claim_type": "dietary",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Author's claim:** The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initially only well-cooked, later raw), fermented foods, nuts/seeds (properly prepared), and limited fruit. It excludes all grains, starchy vegetables (potatoes, sweet potatoes, yams, parsnips), sugar, and p..."
+    },
+    {
+      "slug": "claim-initial-basic-diet-1-5-days-severe-diarrhea",
+      "claim_id": "gottschall-ch910-2",
+      "statement": "The initial basic diet for 1-5 days during severe diarrhea and cramping consists of: dry curd cottage cheese with homemade yoghurt, eggs, diluted apple cider or grape juice, homemade gelatin, homemade chicken soup with pureed carrots, broiled beef patty or fish, and cheese cake (custard consistency, no lemon). As diarrhea subsides: add cooked peeled fruits, ripe banana, additional vegetables (not ",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical experience. The staging is based on tolerability testing: fruits and raw vegetables are laxative and should be avoided during active diarrhea; cabbage family vegetables are gas-producing; legumes require soaking and partial digestion."
+    },
+    {
+      "slug": "claim-low-fermentation-eating-two-essential-rules-restrict-products",
+      "claim_id": "pimentel-lfe-3",
+      "statement": "Low-fermentation eating has two essential rules: (1) Restrict products that contain high levels of carbohydrates or ingredients in food that humans can't digest, and therefore are digested by bacteria. (2) Space meals four to five hours apart.",
+      "claim_type": "dietary",
+      "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical experience over \"almost 20 years\" of prescribing LFE at Cedars-Sinai. \"Eighty to ninety percent of our patients see some improvement with low-fermentation eating. Patients who have minimal or no improvement may have other accompanying problems to consider.\" Estimated improvement range: 10% ..."
+    },
+    {
+      "slug": "claim-mainstream-approach-sibo-usual-try-kill-microbes",
+      "claim_id": "campbell-gaps-4",
+      "statement": "The mainstream approach to SIBO (as usual) is to try and kill the microbes, so antibiotics are prescribed. Alternative practitioners try to replace antibiotics with natural antimicrobial substances, essentially following the same idea. But the key is to improve stomach acid production and provide healing for the gut lining.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical reasoning: low stomach acid \u2192 failure of the gastric acid barrier \u2192 bacterial overgrowth in the stomach and small intestine \u2192 SIBO. Restoring stomach acid and healing the gut lining addresses the cause rather than repeatedly treating the symptom. She cites the association between chronic PP..."
+    },
+    {
+      "slug": "claim-most-cases-begin-improve-within-three-weeks",
+      "claim_id": "gottschall-ch910-3",
+      "statement": "Most cases begin to improve within three weeks after the dietary regimen has been started and improvement usually continues... Crohn's disease and ulcerative colitis take much longer with the minimum time of two years on the diet. A rule of thumb is to stay on the diet for at least one year after the last symptom has disappeared.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+      "confidence": "low",
+      "evidence_excerpt": "Personal experience with her daughter (7 years on diet, 2 years to symptom resolution) and clinical observation. No controlled data on optimal duration."
+    },
+    {
+      "slug": "claim-most-potent-probiotics-use-gaps-nutritional-protocol",
+      "claim_id": "campbell-gaps-6",
+      "statement": "The most potent probiotics we use in the GAPS Nutritional Protocol come in the form of homemade fermented foods.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Author's claim:** \"The most potent probiotics we use in the GAPS Nutritional Protocol come in the form of homemade fermented foods.\" Fermented vegetables (sauerkraut, vegetable medley), dairy ferments (yogurt, kefir, sour cream, whey), fermented fish, and fermented beverages provide a diversity of..."
+    },
+    {
+      "slug": "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory",
+      "claim_id": "foote-cookbook-3",
+      "statement": "One of the best ways to fight inflammation is to adopt an anti-inflammatory diet.",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "General nutritional science consensus. No specific trials cited for this food list. The anti-inflammatory framing draws on Mediterranean diet research and individual food component studies (curcumin in turmeric, omega-3s in fatty fish, polyphenols in berries)."
+    },
+    {
+      "slug": "claim-one-oversimplification-elaine-gottschalls-book-avoids-notion",
+      "claim_id": "gottschall-fw-2",
+      "statement": "One oversimplification Elaine Gottschall's book avoids is the notion that food allergy is the source of many gastrointestinal complaints... The more sophisticated belief that it is not individual foods themselves but the byproducts of ingestion of certain foods that cause intestinal problems is fast replacing the concept of food allergy.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Foreword]]",
+      "confidence": "high",
+      "evidence_excerpt": "Hoffman references Dr. J.O. Hunter's 1991 Lancet article (not directly cited, but referenced as \"landmark\") and \"another recent Lancet article\" on intolerances to corn, wheat, milk, potatoes, and rye."
+    },
+    {
+      "slug": "claim-ranier-poley-showed-most-patients-lost-ability",
+      "claim_id": "gottschall-ch12-5",
+      "statement": "Dr. J. Ranier Poley showed \"most patients have lost the ability to digest disaccharides because of excessive mucus production by intestinal cells. An abnormally thick layer of surface mucus appears to be preventing contact between the disaccharides and the digestive enzymes of the absorptive cells.\"",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "confidence": "high",
+      "evidence_excerpt": "Poley's microscopic examination of intestinal surfaces in patients with celiac disease, soy-protein intolerance, cow's milk protein intolerance, intractable diarrhea of infancy, chronic diarrhea in children, Giardia, cystic fibrosis, and Crohn's disease. Gottschall notes that lactase is the first en..."
+    },
+    {
+      "slug": "claim-space-your-meals-four-five-hours-apart",
+      "claim_id": "sarna-sibo-diet-4",
+      "statement": "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion before you send more down the tube.",
+      "claim_type": "dietary",
+      "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "This is Pimentel's MMC theory, presented without citation in Sarna's voice."
+    },
+    {
+      "slug": "claim-starchy-foods-assumed-digested-completely-fact-incompletely",
+      "claim_id": "gottschall-ch35-7",
+      "statement": "Some starchy foods which were assumed to be digested completely are, in fact, incompletely digested by most people. In those people with intestinal disorders, the digestibility of starch is even further affected.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "high",
+      "evidence_excerpt": "References to incomplete starch digestion in healthy people, genetic variation in starch types (rice, corn strains), and the amylose/amylopectin distinction. Notes that some intestinal bacteria are \"made more virulent by the presence of undigested cornstarch in the intestine.\""
+    },
+    {
+      "slug": "claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering",
+      "claim_id": "gottschall-ch910-1",
+      "statement": "The strictness of this diet cannot be overemphasized nor should the difficulty of adhering to it be minimized... It is surprising how many parents will decide, despite all warnings, that 'just a taste' of ice cream, cookie, or candy will do no harm. Such infringements will seriously delay recovery and it is unwise to undertake this regimen unless you are willing to follow it with fanatical adheren",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical observation from Gottschall's practice. No controlled data on the dose-response of dietary infractions. The claim is based on the model: any fermentable carbohydrate reaching the microbes restarts the vicious cycle."
+    },
+    {
+      "slug": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+      "claim_id": "gottschall-ch35-5",
+      "statement": "The vicious cycle (Figure 5 in the text) proceeds as follows: carbohydrate malabsorption \u2192 increased fermentation \u2192 production of acids, gas, and microbial toxins \u2192 injury to intestinal surface (enzyme destruction, microvilli damage) \u2192 excessive mucus production as defense \u2192 mucus barrier prevents enzyme-substrate contact \u2192 further carbohydrate malabsorption \u2192 continued diarrhea \u2192 water drawn into",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "confidence": "high",
+      "evidence_excerpt": "References to bacterial fermentation changing E. coli characteristics (Science paper on grain feeding and acid-resistant E. coli in cattle -- suggesting acid environment from starch fermentation could cause harmless bacteria to mutate to harmful forms). Gottschall speculates: \"Is the fermentation of..."
+    }
+  ]
+}

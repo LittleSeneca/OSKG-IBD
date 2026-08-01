@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin|AGA UC 2020's recommendation against routine adjunctive antibiotics in ASUC supports BSG's focus on infliximab or ciclos]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

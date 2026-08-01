@@ -51,15 +51,18 @@ If the association is causal, sugar restriction should be a first-line intervent
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-diets-work-same-reason-they-reduce-amount|Gottschall's epidemiological evidence linking sugar-rich diets to Crohn's provides the empirical foundation for Sarna's ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

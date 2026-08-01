@@ -50,15 +50,18 @@ Committing to 2+ years of strict dietary restriction is a major life decision fo
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-after-elemental-diet-reintroduce-foods-four-progressive|Thompson provides a structured four-phase reintroduction protocol that builds on Gottschall's observation that dietary i]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

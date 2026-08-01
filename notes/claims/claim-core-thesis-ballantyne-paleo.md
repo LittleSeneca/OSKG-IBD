@@ -49,15 +49,20 @@ See source note.
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory|Foote's recommendation of an anti-inflammatory diet for Crohn's disease aligns with Ballantyne's thesis that dietary eli]]
+- [[claim-began-notice-other-unanticipated-benefits-patients-muscle|Gottschall's observation that dietary therapy resolved extra-intestinal symptoms (arthritis, skin rashes, fatigue) suppo]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-core-thesis-myers-autoimmune|Myers builds on Ballantyne's framework by quantifying the genetic-vs-environmental risk split (25/75) and arguing that a]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

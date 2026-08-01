@@ -1,0 +1,269 @@
+{
+  "cluster_id": "cluster-016",
+  "cluster_label": "autoimmunity (therapeutic)",
+  "domain": "domain/microbiome",
+  "size": 29,
+  "claims": [
+    {
+      "slug": "claim-bacteria-digest-fiber-short-chain-fatty-acids-butyrate",
+      "claim_id": "chutkan-found-3",
+      "statement": "Bacteria digest fiber into short-chain fatty acids (butyrate, propionate, acetate) that feed colonocytes, regulate immune function, and signal the brain. They synthesize vitamins (K, B12, biotin), metabolize drugs, detoxify carcinogens, and train the immune system to distinguish self from non-self. They influence mood, appetite, and behavior through the gut-brain axis.",
+      "claim_type": "mechanistic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Standard microbiome physiology, consistent across sources."
+    },
+    {
+      "slug": "claim-based-validation-study-almost-3000-patients-proved",
+      "claim_id": "pimentel-ch4-3",
+      "statement": "Based on a validation study of almost 3000 patients, we proved that we can diagnose IBS with greater than 90 percent certainty over other diarrheal diseases... an improved test that can diagnose IBS with 98 percent post-test probability, if both markers are positive.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+      "confidence": "high",
+      "evidence_excerpt": "The 3000-patient validation study. The antibody kinetics: anti-CdtB appears first (marker of recent CdtB toxin exposure), anti-vinculin develops later (marker of established autoimmunity). The test's limitations: \"It's not useful in identifying patients who have IBS with constipation. In addition, a..."
+    },
+    {
+      "slug": "claim-cdtb-looks-similar-native-protein-our-body",
+      "claim_id": "pimentel-ch4-2",
+      "statement": "CdtB looks similar to a native protein in our body called vinculin. This 'molecular mimicry' can fool our body to produce anti-vinculin antibodies... Vinculin is an important protein in our body that ultimately helps the muscles of our gut contract efficiently. If there are antibodies attacking the vinculin in our body, gut function is impaired and ultimately leads to abnormal movements of gut, in",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+      "confidence": "high",
+      "evidence_excerpt": "Animal model: rats infected with Campylobacter jejuni developed IBS-like bowel patterns, increased white blood cells, bacterial overgrowth, and nerve damage to gut cleaning waves three months after infection cleared. The toxin identification: \"We looked for a toxin common to these bacteria and found..."
+    },
+    {
+      "slug": "claim-core-thesis-sonnenburg-gut",
+      "claim_id": "sonnenburg-gut-implicit-6",
+      "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+      "claim_type": "mechanistic",
+      "source_note": "[[The Good Gut - Sonnenburg 2015]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri..."
+    },
+    {
+      "slug": "claim-developing-disease-after-infection-new-phenomenon-reported",
+      "claim_id": "pimentel-ch4-4",
+      "statement": "Developing a disease after an infection is not a new phenomenon and has been reported for decades in conditions other than IBS.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+      "confidence": "high",
+      "evidence_excerpt": "These are all well-established post-infectious conditions with known molecular mechanisms. Reactive arthritis: Campylobacter, Salmonella, Shigella, Yersinia, Chlamydia \u2192 joint inflammation persisting after infection clearance. Guillain-Barr\u00e9: Campylobacter \u2192 molecular mimicry between bacterial antig..."
+    },
+    {
+      "slug": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+      "claim_id": "chutkan-dysbiosis-1",
+      "statement": "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to flourish \u2014 in essence, it is a microbial imbalance in or on your body.",
+      "claim_type": "diagnostic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical observation from Chutkan's Georgetown gastroenterology practice. She describes the shift from seeing well-defined diseases (ulcers, colitis, cancer) to seeing symptom complexes without visible pathology. She notes that standard diagnostic tools (endoscopy, colonoscopy, capsule endoscopy, im..."
+    },
+    {
+      "slug": "claim-fewer-bacteria-our-gut-our-ancestors-because",
+      "claim_id": "chutkan-found-4",
+      "statement": "We have fewer bacteria in our gut than our ancestors because we live in an environment that's too clean, and our overly robust hygiene practices, along with the widespread use of antibiotics, have left us with a legacy of smaller, less diverse microbiomes that are less resistant and resilient.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Cites the inverse relationship between infectious disease burden and autoimmune disease prevalence. Notes that children raised on farms, with pets, and in larger families have lower rates of asthma, allergy, and autoimmune disease. Discusses the Old Friends hypothesis."
+    },
+    {
+      "slug": "claim-first-step-treating-sibo-understand-sibo-primary",
+      "claim_id": "pimentel-ch6-1",
+      "statement": "The first step in treating SIBO is to understand that SIBO is not a primary disease; in fact, SIBO is a secondary phenomenon that's caused by other diseases... Understanding the basic principle that SIBO is a phenomenon from a separate root cause will help you answer questions like 'Why is my SIBO coming back so soon?' and 'Why did the doctor give me a prokinetic?'",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical experience at Cedars-Sinai. Modifiable causes: narcotic use, diabetes, active inflammation (Crohn's, celiac), pancreatic insufficiency. Non-modifiable causes: gastric bypass surgery, small bowel diverticulum, scleroderma. The anti-vinculin antibody levels predict treatment needs: \"elevated ..."
+    },
+    {
+      "slug": "claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates",
+      "claim_id": "chutkan-dysbiosis-4",
+      "statement": "In my gastroenterology practice, a plant-based diet low in processed carbohydrates and refined sugar, in combination with high-dose prescription-strength probiotics, has been extraordinarily successful for getting IBD into remission and reducing or eliminating the need for toxic medications.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Cites studies showing IBD patients have distinct stool bacterial profiles from healthy controls and that different Crohn's subtypes have different microbial changes. Notes that antibiotics, Western diet, and insufficient childhood microbial exposure are risk factors for IBD. The treatment claim is b..."
+    },
+    {
+      "slug": "claim-mark-pimentels-book-published-there-few-treatment",
+      "claim_id": "pimentel-ch1-3",
+      "statement": "When Dr. Mark Pimentel's book was published, there were few treatment options for IBS or SIBO; in fact, 10 years ago there were only a few drugs approved by the Food and Drug Administration (FDA) to treat IBS. Today there are eight drugs for IBS on the market: five drugs to treat IBS with constipation and three drugs to treat IBS with diarrhea.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "high",
+      "evidence_excerpt": "The eight FDA-approved IBS drugs, including rifaximin (the antibiotic that \"can eliminate or lessen bacteria in the gut\") and motility-modifying agents. The authors also note the evolution of dietary approaches: from \"avoid fiber and legumes\" to gluten-free and low-FODMAP to their own Low-Fermentati..."
+    },
+    {
+      "slug": "claim-microbial-cells-outnumber-human-cells-ten-one",
+      "claim_id": "chutkan-found-1",
+      "statement": "Microbial cells outnumber human cells ten to one. The genes in our microbiome (the collective DNA of our gut bacteria) outnumber human genes by more than 100 to 1. This \"second genome\" influences digestion, immunity, metabolism, mood, and behavior. The book's title captures the thesis: \"Live Dirty\" (increase microbial exposure from soil, animals, fermented foods) and \"Eat Clean\" (eliminate process",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]",
+      "confidence": "high",
+      "evidence_excerpt": "Chutkan draws on her two decades of clinical gastroenterology practice and the emerging microbiome literature. She describes the shift in her patient population from well-defined diseases (ulcers, gallstones, colitis) to symptom complexes without clear pathology."
+    },
+    {
+      "slug": "claim-now-know-one-out-nine-people-experience",
+      "claim_id": "pimentel-ch4-1",
+      "statement": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+      "confidence": "high",
+      "evidence_excerpt": "Mayo Clinic meta-analysis of 45 published food poisoning outbreaks (2017). Pimentel's CDC data-modeling study. European studies of Salmonella outbreaks showing persistent IBS-like bowel dysfunction. The historical context: Sir Arthur Hearst first described post-infectious IBS in 1918 in Medical Dise..."
+    },
+    {
+      "slug": "claim-our-research-found-about-three-quarters-patients-many",
+      "claim_id": "pimentel-ch1-1",
+      "statement": "Through our research, we have found that about three-quarters of patients -- as many as 30 million Americans -- who have met the diagnostic criteria for IBS have taken a breath test that suggests they have SIBO.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+      "confidence": "high",
+      "evidence_excerpt": "The authors cite their own research at Cedars-Sinai over 20 years. They reference their first book (Pimentel 2006) and note \"many new discoveries about the bacterial composition of the small intestine, the autoimmune cause of SIBO, and the treatment for SIBO\" since then. Specific supporting data: th..."
+    },
+    {
+      "slug": "claim-prokinetic-optimization-erythromycin-prucalopride",
+      "claim_id": "pimentel-evol-4",
+      "statement": "Prokinetic therapy evolved from erythromycin or tegaserod for 3 months (2006) to prucalopride as the preferred agent with a drug holiday strategy (2022). Serotonin agonists (prucalopride, tegaserod) prevent SIBO recurrence for 200+ days vs erythromycin's 'few months.' The rationale for nighttime dosing (targeting fasting MMC, not feeding motility) was established.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "medium-high",
+      "evidence_excerpt": "2006 protocol: erythromycin 50mg or tegaserod 2-6mg at bedtime for 3 months. 2022 protocol: prucalopride preferred; erythromycin, tegaserod, pyridostigmine, low-dose naltrexone as alternatives. Comparative study: serotonin agonists prevent SIBO for 200+ days vs erythromycin's few months. Drug holida..."
+    },
+    {
+      "slug": "claim-sarna-pimentel-alignment-differences",
+      "claim_id": "sarna-guide-4",
+      "statement": "Sarna's SIBO education (definition, three-gas model, MMC mechanism, food poisoning etiology, IBS-SIBO connection) is consistent with Pimentel's framework. Key differences: Sarna enthusiastically recommends herbal antimicrobials (Pimentel is cautiously open), adds naturopathic prokinetic options (Iberogast, ginger, magnesium), does not mention the IBS blood test, and de-emphasizes the autoimmunity ",
+      "claim_type": "definitional",
+      "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+      "confidence": "high",
+      "evidence_excerpt": "Sarna's Ch1-2 SIBO education is sourced from Pimentel, Siebecker, and the SIBO SOS Summit expert network. The autoimmunity mechanism (CdtB-vinculin) is mentioned but not emphasized \u2014 a notable omission for a 2021 book, given that the mechanism had been published and the blood test was commercially a..."
+    },
+    {
+      "slug": "claim-sibo-core-principles-unchanged-2006-2022",
+      "claim_id": "pimentel-evol-6",
+      "statement": "Several core elements of Pimentel's SIBO framework remained unchanged between 2006 and 2022: (a) the MMC housekeeper wave as the central protective mechanism, (b) lactulose breath testing preferred over glucose, (c) elemental diet >80% effective, (d) the H. pylori/peptic ulcer analogy, (e) SIBO as a secondary phenomenon requiring treatment of the underlying cause, (f) IBS as organic not psychologi",
+      "claim_type": "mechanistic",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "Both books present these elements consistently. The MMC mechanism, lactulose preference, elemental diet efficacy (>80% in both), the H. pylori analogy, the secondary-phenomenon framing, the anti-stigma argument, and the food poisoning etiology are present in 2006 and reaffirmed in 2022. The stabilit..."
+    },
+    {
+      "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+      "claim_id": "sarna-guide-3",
+      "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+      "claim_type": "therapeutic",
+      "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by..."
+    },
+    {
+      "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+      "claim_id": "sarna-guide-5",
+      "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+      "claim_type": "epidemiological",
+      "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva..."
+    },
+    {
+      "slug": "claim-sibo-prevalence-84-vs-60-75-percent",
+      "claim_id": "pimentel-evol-1",
+      "statement": "Pimentel's estimated SIBO prevalence in IBS decreased from 84% (2006, based on a 2003 double-blind study of 200+ patients at a tertiary referral center) to 60-75% (2022, incorporating broader epidemiological data). The initial estimate from a referral center was refined downward by population-level data.",
+      "claim_type": "epidemiological",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "high",
+      "evidence_excerpt": "2006 book: 'In published studies, indirect measures of small bowel bacteria suggest that 84 percent of IBS sufferers have excessive quantities of bacteria typically found in the colon.' Cites Pimentel's 2003 double-blind study of 200+ subjects. 2022 book: presents 60-75% range, acknowledging that th..."
+    },
+    {
+      "slug": "claim-sibo-really-just-another-term-dysbiosis-occurs",
+      "claim_id": "chutkan-dysbiosis-3",
+      "statement": "SIBO is really just another term for dysbiosis that occurs when large amounts of not-so-good bacteria take up residence in the small intestine.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Chutkan presents a case study of a dermatologist's husband who developed SIBO after unnecessary antibiotics for Salmonella, in the setting of chronic PPI use. The resolution required stopping the PPI, adding probiotics, and dietary changes \u2014 not more antibiotics."
+    },
+    {
+      "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+      "claim_id": "sarna-guide-2",
+      "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+      "claim_type": "therapeutic",
+      "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ..."
+    },
+    {
+      "slug": "claim-six-randomized-controlled-trials-fecal-transplant-ibs",
+      "claim_id": "pimentel-ch10-2",
+      "statement": "In six randomized controlled trials of fecal transplant in IBS, one trial was positive, one was barely positive, one was neutral, one was negative, and two were strongly negative (the placebo worked better than the transplant). The two largest, most robust trials were conducted in Denmark and the US and they were both negative.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch10-11 Probiotics FMT and Myths]]",
+      "confidence": "high",
+      "evidence_excerpt": "Danish trial (placebo capsules superior to FMT capsules for IBS symptoms). US trial (stopped early due to placebo superiority). Harvard study (antibiotics + FMT showed no difference from antibiotics alone). Safety concern: FDA reported two deaths from multidrug-resistant bacteria during FMT in immun..."
+    },
+    {
+      "slug": "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+      "claim_id": "chutkan-rewild-3",
+      "statement": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroids, birth control pills, hormone replacement therapy, and NSAIDs including aspirin.",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Reiterates and organizes the evidence from Ch 4-5. Specific tapering guidance for PPIs (rebound acid hypersecretion) and steroids (adrenal suppression)."
+    },
+    {
+      "slug": "claim-ten-things-taking-antibiotics-table-11-2-includes",
+      "claim_id": "chutkan-rewild-2",
+      "statement": "The \"Ten Things to Do When Taking Antibiotics\" (Table 11-2) includes: (1) take a probiotic during and for at least one month after antibiotics, staggered from antibiotic doses; (2) request narrow-spectrum rather than broad-spectrum antibiotics when culture results permit; (3) eat prebiotic foods high in fiber and resistant starch; (4) eliminate sugary/starchy foods that feed yeast overgrowth; (5) ",
+      "claim_type": "therapeutic",
+      "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+      "confidence": "medium",
+      "evidence_excerpt": "For probiotics: cited studies showing reduction in antibiotic-associated diarrhea and C. difficile risk. For narrow-spectrum antibiotics: culture-directed therapy is standard infectious disease practice. For dietary recommendations: mechanistic reasoning based on prebiotic/anti-yeast principles."
+    },
+    {
+      "slug": "claim-theres-really-thing-good-bad-native-bacteria",
+      "claim_id": "pimentel-ch10-1",
+      "statement": "There's really is no such thing as 'good' and 'bad' native bacteria in the gastrointestinal tract. Actually, when it comes to the gastrointestinal tract, the concept of 'good' bacteria is a misnomer... The concept of 'good' bacteria has been largely promoted by the companies that manufacture probiotics.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2022 - Ch10-11 Probiotics FMT and Myths]]",
+      "confidence": "high",
+      "evidence_excerpt": "Multiple RCTs and meta-analyses. The Lancet 2013 study: 3000 patients taking probiotics post-antibiotics showed \"exactly the same\" rates of C. difficile infection and diarrhea as placebo; probiotics caused more bloating and flatulence. Two NEJM studies: \"probiotics don't protect against viral gastro..."
+    },
+    {
+      "slug": "claim-three-gas-model-imo-terminology-evolution",
+      "claim_id": "pimentel-evol-3",
+      "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+      "claim_type": "definitional",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "high",
+      "evidence_excerpt": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO..."
+    },
+    {
+      "slug": "claim-three-treatment-modalities-pharmaceutical-herbal-elemental",
+      "claim_id": "sarna-guide-1",
+      "statement": "Sarna presents three SIBO treatment modalities as co-equal options: pharmaceutical antibiotics (rifaximin \u00b1 neomycin, 10-14 day courses, gas-type-specific), herbal antimicrobials (oil of oregano, berberine, neem, allicin, 30-day courses, ~50% efficacy per retrospective study), and elemental diet (Vivonex or alternatives, 14 days, 80%+ efficacy for hydrogen SIBO).",
+      "claim_type": "therapeutic",
+      "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Sarna Ch6 presents the three modalities. Herbal antimicrobial data is from a single retrospective study (cited but not named). Elemental diet >80% efficacy is consistent with Pimentel's data. The herbal antimicrobial efficacy claim (~50%) is based on clinical experience and one retrospective study \u2014..."
+    },
+    {
+      "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+      "claim_id": "pimentel-evol-7",
+      "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "high",
+      "evidence_excerpt": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea..."
+    },
+    {
+      "slug": "claim-treatment-expectation-refinement-2006-2022",
+      "claim_id": "pimentel-evol-5",
+      "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+      "claim_type": "therapeutic",
+      "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+      "confidence": "high",
+      "evidence_excerpt": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The..."
+    }
+  ]
+}

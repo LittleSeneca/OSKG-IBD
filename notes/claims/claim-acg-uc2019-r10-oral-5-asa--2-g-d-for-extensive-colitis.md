@@ -57,15 +57,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u|Both guidelines converge on oral 5-ASA ≥2g/d as first-line induction therapy, with ECCO independently corroborating the ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa|ACG recommends 5-ASA as first-line therapy, while AGA suggests early biologic use over step-up therapy for moderate-seve]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,18 @@ Network meta-analysis of 48 trials. The comparative efficacy data (Figure 63.16)
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory|Yamada's network meta-analysis quantifying combined oral-rectal 5-ASA as the most efficacious induction strategy refines]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

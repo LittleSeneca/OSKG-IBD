@@ -51,15 +51,18 @@ HCl supplementation is commonly recommended by naturopaths and functional medici
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-helpful-think-leaky-gut-more-mechanism-disease|Pimentel's prebiotic warning for SIBO patients refines Chutkan's general dysbiosis framework with a specific clinical ca]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

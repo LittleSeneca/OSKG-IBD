@@ -49,15 +49,18 @@ If strict adherence is truly required, SCD has a high compliance burden that may
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-diet-alone-wont-cure-sibo-even-you|Gottschall asserts that fanatical dietary adherence leads to recovery; Pimentel counters that diet alone is insufficient]]
+
+**Contradicts:**
 
 ## Assessment
 

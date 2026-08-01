@@ -55,15 +55,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-ultimate-goal-treatment-maintain-health-related-quality-life|ECCO UC 2022 broadens ACG UC 2019's endoscopic healing target to include health-related quality of life as the ultimate ]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

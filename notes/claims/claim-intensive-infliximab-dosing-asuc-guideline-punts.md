@@ -52,15 +52,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-methylprednisolone-mgd-hydrocortisone-100-tid-qid-3-5-days|The AGA guideline's discussion of intensive infliximab dosing extends ACG's standard IV steroid protocol by addressing r]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

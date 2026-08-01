@@ -50,15 +50,18 @@ The food lists ARE the SCD. The theory may be elegant, but the practical diet is
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-week-most-restrictive-eliminate-many-carbohydrates-much|Sarna's phased elimination protocol operationalizes Gottschall's SCD principle that only monosaccharide carbohydrate sou]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

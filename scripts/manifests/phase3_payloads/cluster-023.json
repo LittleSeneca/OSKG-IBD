@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-023",
+  "cluster_label": "diet (dietary)",
+  "domain": "domain/nutrition",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-having-ready-to-eat-items-available-takes-stress-out",
+      "claim_id": "foote-cookbook-7",
+      "statement": "Having ready-to-eat items available takes the stress out of having to prepare something if you are not feeling well or are in a time crunch.",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Practical experience, not research."
+    },
+    {
+      "slug": "claim-healing-foods-flare-ups-hotcold-cereals-including-oatmeal",
+      "claim_id": "foote-cookbook-4",
+      "statement": "The 10 healing foods for flare-ups: hot/cold cereals (including oatmeal), white pasta, white rice, white bread, potatoes, bananas, avocado, poultry, fish, well-cooked skinless vegetables. The 10 foods to avoid during flares: whole nuts/seeds, popcorn, high-fiber foods (whole grains, brown rice, raw fruits/vegetables with skins), dairy, spicy foods, high-fat/fried foods, gas-causing foods (beans, l",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "high",
+      "evidence_excerpt": "Clinical dietetics consensus. The low-residue/low-fiber approach during acute IBD flares is standard practice. The \"10 healing foods\" list overlaps substantially with the traditional \"BRAT\" diet (bananas, rice, applesauce, toast) expanded for nutritional adequacy."
+    },
+    {
+      "slug": "claim-recommend-you-only-eliminate-one-food-food",
+      "claim_id": "foote-cookbook-5",
+      "statement": "I recommend that you only eliminate one food (or a food grouping, like dairy or wheat) at a time. Eliminating multiple foods at a time makes it difficult to determine which food is bothering you.",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Clinical dietetics practice standard. No trials comparing elimination strategies for Crohn's."
+    },
+    {
+      "slug": "claim-two-distinct-one-week-meal-plans-provided-meal",
+      "claim_id": "foote-cookbook-6",
+      "statement": "Two distinct one-week meal plans are provided: a \"Meal Plan for Flare-Ups\" (low-fiber, dairy-free, gentle foods) and a \"Meal Plan for Remission\" (more variety, more fiber, more protein sources). The flare plan emphasizes: oatmeal, white rice, white pasta, potatoes, poultry, fish, melon, banana, avocado, well-cooked vegetables. The remission plan adds: berries, peanut butter, eggs, pork, beef, tofu",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "high",
+      "evidence_excerpt": "Practical dietetics. No comparative trial data on meal planning vs. ad hoc eating in IBD."
+    },
+    {
+      "slug": "claim-you-really-need-take-time-off-workschool",
+      "claim_id": "thompson-een-5",
+      "statement": "You really need to take time off work/school during this period and treat the process like a healing vacation... The IBD Remission Diet is an intensive healing program and it takes a lot of energy for your body to heal itself... you have to rest and conserve your energy for healing work -- not other work.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+      "confidence": "low",
+      "evidence_excerpt": "Anecdotal: a patient who worked full-time while on the diet showed minimal improvement. Thompson attributes this to energy diversion from healing to work."
+    }
+  ]
+}

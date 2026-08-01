@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-014",
+  "cluster_label": "jak-inhibitors (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance",
+      "claim_id": "aga-uc2020-2",
+      "statement": "All approved biologics and tofacitinib are superior to placebo for induction and maintenance \u2014 this is the guideline's only strong recommendation",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "16 RCTs pooled. Induction (6-8 weeks) RR vs. placebo: infliximab 2.85 (2.11-3.86), adalimumab 1.62 (1.15-2.29), golimumab 2.49 (1.58-3.93), vedolizumab 2.22 (1.36-3.64), tofacitinib 3.22 (2.03-5.08), ustekinumab 2.91 (1.72-4.94). Maintenance (30-54 weeks) RR vs. placebo: infliximab 2.25 (1.67-3.05),..."
+    },
+    {
+      "slug": "claim-biologic-na\u00efve-patients-infliximab-vedolizumab-preferred-over-adalimumab",
+      "claim_id": "aga-uc2020-3",
+      "statement": "In biologic-na\u00efve patients, infliximab or vedolizumab are preferred over adalimumab \u2014 based on network meta-analysis and the VARSITY head-to-head trial",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "VARSITY trial (vedolizumab vs. adalimumab head-to-head): clinical remission at week 52 \u2014 34.2% vedolizumab vs. 24.3% adalimumab (RR 1.41; 1.10-1.81) among biologic-na\u00efve patients. Network meta-analysis of 15 RCTs (3747 biologic-na\u00efve patients): infliximab superior to adalimumab (OR 2.10; 1.16-3.79)...."
+    },
+    {
+      "slug": "claim-early-biologics-suggested-over-gradual-step-up-after",
+      "claim_id": "aga-uc2020-7",
+      "statement": "Early biologics are suggested over gradual step-up after 5-ASA failure in high-risk patients \u2014 but the evidence is entirely indirect",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "No studies directly compared early biologics vs. step-up therapy. Three studies compared thiopurines vs. 5-ASA in corticosteroid-exposed patients; thiopurines achieved higher corticosteroid-free remission rates. Extrapolating from PICOs 3 and 4: biologics > thiopurines > 5-ASA. The guideline reasons..."
+    },
+    {
+      "slug": "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab",
+      "claim_id": "aga-uc2020-4",
+      "statement": "In infliximab-exposed patients (especially primary non-responders), ustekinumab or tofacitinib are preferred over vedolizumab or adalimumab",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Separate NMA of 7 RCTs in 1580 patients with prior TNF exposure (infliximab and golimumab excluded \u2014 they only studied biologic-na\u00efve). Tofacitinib vs. adalimumab: OR 11.05 (1.79-68.41). Ustekinumab vs. adalimumab: OR 10.71 (2.01-57.20). Tofacitinib vs. vedolizumab: OR 6.18 (1.00-38.00). Ustekinumab..."
+    },
+    {
+      "slug": "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
+      "claim_id": "acg-uc2019-11",
+      "statement": "Vedolizumab and tofacitinib are effective for induction, including in anti-TNF-exposed patients; both earn strong recommendations",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GEMINI 1: vedolizumab week 6 clinical remission 16.9% vs 5.4% placebo (P=0.001); mucosal healing 40.9% vs 24.8%. Post-hoc analysis confirmed efficacy in anti-TNF failures. OCTAVE 1 and 2: tofacitinib 10 mg BID week 8 remission 18.5% and 16.6% vs 8.2% and 3.6% placebo. Half of OCTAVE patients had pri..."
+    }
+  ]
+}

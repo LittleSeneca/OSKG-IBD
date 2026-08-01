@@ -57,15 +57,20 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd|AGA 2021 independently confirms ACG 2018's strong recommendation against mesalamine for active Crohn's disease, with bot]]
+- [[claim-acg-cd2018-r46-5-asa-not-for-maintenance|AGA 2021 corroborates ACG 2018's strong recommendation against 5-ASA for maintenance of Crohn's disease, reinforcing tha]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd|AGA 2021's strong recommendation against 5-ASA and sulfasalazine challenges ACG 2018's conditional endorsement of sulfas]]
+
+**Contradicts:**
 
 ## Assessment
 

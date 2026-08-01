@@ -1,0 +1,86 @@
+[
+  {
+    "claim_a": "claim-connection-between-crohns-disease-sugar-rich-diet-proved",
+    "claim_b": "claim-diets-work-same-reason-they-reduce-amount",
+    "edge_type": "supports",
+    "rationale": "Gottschall's epidemiological evidence linking sugar-rich diets to Crohn's provides the empirical foundation for Sarna's mechanism that dietary intervention works by reducing fermentable carbohydrates."
+  },
+  {
+    "claim_a": "claim-gottschall-presents-historical-through-line-aretaeus-300-treated",
+    "claim_b": "claim-diets-work-same-reason-they-reduce-amount",
+    "edge_type": "supports",
+    "rationale": "Gottschall's centuries-spanning historical evidence of carbohydrate intolerance in intestinal disease reinforces Sarna's unifying explanation that all effective diets converge on fermentable carbohydrate restriction."
+  },
+  {
+    "claim_a": "claim-one-basic-principle-diet-must-firmly-established",
+    "claim_b": "claim-week-most-restrictive-eliminate-many-carbohydrates-much",
+    "edge_type": "operationalizes",
+    "rationale": "Sarna's phased elimination protocol operationalizes Gottschall's SCD principle that only monosaccharide carbohydrate sources should be ingested, translating abstract dietary theory into a concrete week-by-week plan."
+  },
+  {
+    "claim_a": "claim-most-people-chronic-intestinal-disorders-suffer-malabsorption",
+    "claim_b": "claim-inflammation-small-intestine-cause-malabsorption-nutrients-while",
+    "edge_type": "supports",
+    "rationale": "Foote's pathophysiological explanation that intestinal inflammation directly causes malabsorption provides the mechanistic basis for Gottschall's clinical observation that most chronic intestinal disorder patients are malnourished."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd",
+    "claim_b": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "edge_type": "supports",
+    "rationale": "ACG's strong recommendation to escalate to anti-TNF after thiopurine failure aligns with AGA's position that biologic monotherapy is superior to thiopurine monotherapy for Crohn's disease."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r26-combination-infliximab---immunomodulator",
+    "claim_b": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "edge_type": "extends",
+    "rationale": "AGA's finding that biologic monotherapy outperforms thiopurine monotherapy extends ACG's high-quality evidence for combination therapy by establishing the independent efficacy of biologics even without an immunomodulator."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation",
+    "claim_b": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "edge_type": "extends",
+    "rationale": "AGA's preference for biologics over thiopurines extends the clinical relevance of ACG's TPMT testing recommendation by reducing the patient population for whom thiopurine initiation and its prerequisite testing would be indicated."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r25-vedolizumab-for-induction",
+    "claim_b": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "supports",
+    "rationale": "Both ACG and ECCO independently issue strong recommendations for vedolizumab as induction therapy in moderate-to-severe ulcerative colitis, with converging evidence across guideline bodies."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r35-continue-vedolizumab-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+    "edge_type": "supports",
+    "rationale": "ACG and ECCO both strongly recommend continuing vedolizumab for maintenance after successful induction, demonstrating cross-guideline consensus on vedolizumab's maintenance role in UC."
+  },
+  {
+    "claim_a": "claim-based-network-metaanalysis-induction-trials-including-8020",
+    "claim_b": "claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory",
+    "edge_type": "extends",
+    "rationale": "Yamada's network meta-analysis quantifying combined oral-rectal 5-ASA as the most efficacious induction strategy refines Steinhart's general observation that 5-ASA medications are useful for milder IBD flares."
+  },
+  {
+    "claim_a": "claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission",
+    "claim_b": "claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory",
+    "edge_type": "supports",
+    "rationale": "Yamada's Cochrane-backed finding that 5-ASA is ineffective for Crohn's maintenance corroborates Steinhart's caution that 5-ASA drugs have not been as effective in Crohn's disease as initially hoped."
+  },
+  {
+    "claim_a": "claim-endoscopic-recurrence-rates-70-90-reported-early-year",
+    "claim_b": "claim-perhaps-best-way-reduce-risk-recurrence-crohns",
+    "edge_type": "extends",
+    "rationale": "Yamada's quantification of 70-90% endoscopic recurrence within one year of surgery provides the epidemiological urgency that motivates Steinhart's emphasis on smoking cessation as the best post-operative prevention strategy."
+  },
+  {
+    "claim_a": "claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence",
+    "claim_b": "claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk",
+    "edge_type": "extends",
+    "rationale": "ACG UC's high-quality evidence for anti-TNF therapy in ulcerative colitis extends to ACG CD's recommendation for anti-integrin agents, together establishing a broader biologic treatment landscape across IBD subtypes and mechanisms."
+  },
+  {
+    "claim_a": "claim-methotrexate-parenterally-effective-maintenance-biologics-continued-mainta",
+    "claim_b": "claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk",
+    "edge_type": "extends",
+    "rationale": "ECCO's evidence for parenteral methotrexate as effective CD maintenance extends ACG's anti-integrin recommendation by confirming that non-biologic immunomodulators remain a valid alternative alongside biologic options."
+  }
+]

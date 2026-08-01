@@ -1,0 +1,71 @@
+{
+  "cluster_id": "cluster-028",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 7,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation",
+      "claim_id": "acg-cd2018-rec22",
+      "statement": "**Recommendation 22** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd",
+      "claim_id": "acg-cd2018-rec25",
+      "statement": "**Recommendation 25** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r26-combination-infliximab---immunomodulator",
+      "claim_id": "acg-cd2018-rec26",
+      "statement": "**Recommendation 26** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r31-cyclosporine--mmf--tacrolimus-not-for-cd",
+      "claim_id": "acg-cd2018-rec31",
+      "statement": "**Recommendation 31** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r39-tacrolimus-for-short-term-perianal-cutaneous-fistu",
+      "claim_id": "acg-cd2018-rec39",
+      "statement": "**Recommendation 39** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r59-anti-tnf---immunomodulator-post-op",
+      "claim_id": "acg-cd2018-rec59",
+      "statement": "**Recommendation 59** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+      "claim_id": "aga-cd2021-rec4",
+      "statement": "**Recommendation 4** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

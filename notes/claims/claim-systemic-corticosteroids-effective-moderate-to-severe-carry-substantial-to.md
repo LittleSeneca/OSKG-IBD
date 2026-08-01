@@ -55,15 +55,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-mucosal-healing-important-therapeutic-goal-both-validated|The bridge-not-destination framing of corticosteroids supports mucosal healing as the genuine treatment endpoint.]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

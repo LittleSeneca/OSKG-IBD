@@ -28,7 +28,10 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 3
-claims_files: ["claim-lapine-cookbook-1", "claim-lapine-cookbook-2", "claim-lapine-cookbook-3"]
+claims_files:
+  "[[claim-multi-diet-recipe-tagging-five-sibo-protocols]]",
+  "[[claim-scd-low-fodmap-intersection-dietary-framework]]",
+  "[[claim-lapine-synthesis-not-primary-source]]"
 
 
 # LaPine 2021 — SIBO Made Simple: SCD + Low-FODMAP Integration for the Home Cook

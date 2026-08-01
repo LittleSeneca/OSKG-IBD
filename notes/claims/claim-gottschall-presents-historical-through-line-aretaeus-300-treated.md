@@ -51,15 +51,18 @@ If clinicians for centuries observed carbohydrate intolerance in intestinal dise
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-diets-work-same-reason-they-reduce-amount|Gottschall's centuries-spanning historical evidence of carbohydrate intolerance in intestinal disease reinforces Sarna's]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

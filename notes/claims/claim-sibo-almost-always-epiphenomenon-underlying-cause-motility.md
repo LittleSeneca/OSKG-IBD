@@ -54,15 +54,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment|The SIBO epiphenomenon principle extends the CD antibiotics argument: both reject simple antimicrobial-only strategies i]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

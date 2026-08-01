@@ -59,15 +59,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-oral-5-asa-topical-5-asa-distal-disease-strongly|The ECCO guideline operationalizes the AGA thiopurine maintenance evidence by specifying steroid-dependent and 5-ASA-int]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

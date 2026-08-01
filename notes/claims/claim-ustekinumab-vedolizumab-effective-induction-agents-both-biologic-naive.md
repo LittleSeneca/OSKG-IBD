@@ -60,15 +60,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti|ECCO extends the ACG ustekinumab efficacy claim by adding vedolizumab and specifying efficacy across both biologic-naive]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,18 @@ The distinction between UC and CD is surgically critical. Misclassifying Crohn's
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-pelvic-pouch-procedure-offered-most-patients-need|Steinhart's >90% satisfaction rate for the pelvic pouch validates Yamada's description of IPAA as the restorative proced]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

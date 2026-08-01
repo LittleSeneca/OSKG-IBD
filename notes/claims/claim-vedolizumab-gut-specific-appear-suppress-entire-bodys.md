@@ -50,15 +50,18 @@ These drugs expanded the biologic options beyond anti-TNF. For patients who fail
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-vedolizumab-suppresses-inflammation-gastrointestinal-tract-without-inducin|Steinhart's accessible description of vedolizumab as gut-specific aligns with Yamada's more technical explanation of alp]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

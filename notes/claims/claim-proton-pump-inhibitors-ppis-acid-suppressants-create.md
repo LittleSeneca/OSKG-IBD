@@ -49,15 +49,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|Chutkan's specific warning about PPIs removing the stomach's acid barrier validates Pimentel's listing of stomach acid a]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

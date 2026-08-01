@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
+- [[claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure|Thiopurine maintenance therapy is positioned after steroid induction for 5-ASA failures, making the steroid recommendati]]
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

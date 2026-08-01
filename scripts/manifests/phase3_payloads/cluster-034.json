@@ -1,0 +1,89 @@
+{
+  "cluster_id": "cluster-034",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 9,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r22-anti-tnf-therapy-for-induction",
+      "claim_id": "acg-uc2019-rec22",
+      "statement": "**Recommendation 22** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+      "claim_id": "acg-uc2019-rec26",
+      "statement": "**Recommendation 26** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure",
+      "claim_id": "acg-uc2019-rec28",
+      "statement": "**Recommendation 28** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r34-continue-anti-tnf-for-maintenance",
+      "claim_id": "acg-uc2019-rec34",
+      "statement": "**Recommendation 34** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+      "claim_id": "aga-uc2020-rec2a",
+      "statement": "**Recommendation 2a** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+      "claim_id": "aga-uc2020-rec2c",
+      "statement": "**Recommendation 2c** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+      "claim_id": "ecco-uc2022-rec12",
+      "statement": "**Recommendation 12** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+      "claim_id": "ecco-uc2022-rec16",
+      "statement": "**Recommendation 16** (Strong, quality: High)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "very-high",
+      "evidence_excerpt": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
+      "claim_id": "ecco-uc2022-rec19",
+      "statement": "**Recommendation 19** (Weak, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Weak**."
+    }
+  ]
+}

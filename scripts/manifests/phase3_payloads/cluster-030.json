@@ -1,0 +1,251 @@
+{
+  "cluster_id": "cluster-030",
+  "cluster_label": "ulcerative-colitis (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 27,
+  "claims": [
+    {
+      "slug": "claim-acg-uc2019-r1-stool-testing-for-c--diff-at-diagnosis",
+      "claim_id": "acg-uc2019-rec1",
+      "statement": "**Recommendation 1** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r18-against-systemic-steroids-for-maintenance",
+      "claim_id": "acg-uc2019-rec18",
+      "statement": "**Recommendation 18** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r2-against-serologic-testing-for-diagnosis",
+      "claim_id": "acg-uc2019-rec2",
+      "statement": "**Recommendation 2** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r20-systemic-steroids-for-moderate-severe-induction",
+      "claim_id": "acg-uc2019-rec20",
+      "statement": "**Recommendation 20** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+      "claim_id": "acg-uc2019-rec27",
+      "statement": "**Recommendation 27** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r29-therapeutic-drug-monitoring-in-lor",
+      "claim_id": "acg-uc2019-rec29",
+      "statement": "**Recommendation 29** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r3-against-serologic-testing-for-prognosis",
+      "claim_id": "acg-uc2019-rec3",
+      "statement": "**Recommendation 3** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r31-against-steroids-for-maintenance",
+      "claim_id": "acg-uc2019-rec31",
+      "statement": "**Recommendation 31** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+      "claim_id": "acg-uc2019-rec36",
+      "statement": "**Recommendation 36** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+      "claim_id": "acg-uc2019-rec37",
+      "statement": "**Recommendation 37** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+      "claim_id": "acg-uc2019-rec38",
+      "statement": "**Recommendation 38** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+      "claim_id": "acg-uc2019-rec39",
+      "statement": "**Recommendation 39** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r4-treat-to-mucosal-healing--mayo-0-1",
+      "claim_id": "acg-uc2019-rec4",
+      "statement": "**Recommendation 4** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc",
+      "claim_id": "acg-uc2019-rec40",
+      "statement": "**Recommendation 40** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r41-against-tpn-bowel-rest-in-asuc",
+      "claim_id": "acg-uc2019-rec41",
+      "statement": "**Recommendation 41** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+      "claim_id": "acg-uc2019-rec42",
+      "statement": "**Recommendation 42** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day",
+      "claim_id": "acg-uc2019-rec43",
+      "statement": "**Recommendation 43** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r44-ifx-maintenance-after-ifx-rescue-in-asuc",
+      "claim_id": "acg-uc2019-rec44",
+      "statement": "**Recommendation 44** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r47-screening-surveillance-colonoscopy-for-uc-beyond-r",
+      "claim_id": "acg-uc2019-rec47",
+      "statement": "**Recommendation 47** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r48-dye-spray-chromoendoscopy-with-sd-colonoscopes",
+      "claim_id": "acg-uc2019-rec48",
+      "statement": "**Recommendation 48** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r49-hd-wle---nbi-or-chromoendoscopy-with-hd-scopes",
+      "claim_id": "acg-uc2019-rec49",
+      "statement": "**Recommendation 49** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-uc2019-r5-fc-as-surrogate-when-endoscopy-unavailable",
+      "claim_id": "acg-uc2019-rec5",
+      "statement": "**Recommendation 5** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r8-iv-methylprednisolone-40-60-mg-day",
+      "claim_id": "aga-uc2020-rec8",
+      "statement": "**Recommendation 8** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-uc2020-r9-against-adjunctive-antibiotics-in-asuc",
+      "claim_id": "aga-uc2020-rec9",
+      "statement": "**Recommendation 9** (Conditional, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r14-tofacitinib-for-induction-in-moderate-severe-uc",
+      "claim_id": "ecco-uc2022-rec14",
+      "statement": "**Recommendation 14** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r20-tofacitinib-for-maintenance-after-tofacitinib-indu",
+      "claim_id": "ecco-uc2022-rec20",
+      "statement": "**Recommendation 20** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+      "claim_id": "ecco-uc2022-rec4",
+      "statement": "**Recommendation 4** (Strong, quality: Very low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "low-medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

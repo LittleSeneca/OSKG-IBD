@@ -50,15 +50,20 @@ This is the therapeutic rationale for ALL fermentable-carbohydrate-restricted di
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-elemental-diet-provides-colon-rest-necessary-heal|Thompson's description of EEN starving bacteria by eliminating fermentable substrate directly parallels Gottschall's mic]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-most-potent-probiotics-use-gaps-nutritional-protocol|GAPS implements Gottschall's microbial warfare strategy not just by carbohydrate restriction but by actively repopulatin]]
+- [[claim-introduction-diet-works-three-mechanisms-providing-large|GAPS Introduction Diet implements Gottschall's microbial warfare through three concrete mechanisms: providing gut-healin]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

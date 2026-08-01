@@ -50,15 +50,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-modern-westerners-lost-roughly-third-their-microbial|Pimentel's description of emulsifiers disrupting mucous membranes provides a specific mechanistic pathway supporting Chu]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -69,7 +69,21 @@ related:
 claims_status: extracted
 claims_extracted_date: 2026-08-01
 claims_count: 14
-claims_files: ["claim-bsg-ibd2019-1", "claim-bsg-ibd2019-2", "claim-bsg-ibd2019-3", "claim-bsg-ibd2019-4", "claim-bsg-ibd2019-5", "claim-bsg-ibd2019-6", "claim-bsg-ibd2019-7", "claim-bsg-ibd2019-8", "claim-bsg-ibd2019-9", "claim-bsg-ibd2019-10", "claim-bsg-ibd2019-11", "claim-bsg-ibd2019-12", "claim-bsg-ibd2019-13", "claim-bsg-ibd2019-14"]
+claims_files:
+  "[[claim-bsg-2019-unified-uc-cd-single-document]]",
+  "[[claim-bsg-statement-2-treatment-target-mucosal-healing]]",
+  "[[claim-bsg-statement-3-5asa-induction-uc]]",
+  "[[claim-bsg-statement-11-tofacitinib-post-anti-tnf]]",
+  "[[claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin]]",
+  "[[claim-bsg-statement-36-surgery-localized-ileocaecal-cd]]",
+  "[[claim-bsg-statement-42-mesalazine-not-for-cd]]",
+  "[[claim-bsg-statement-126-mesalazine-crc-chemoprevention]]",
+  "[[claim-bsg-statement-34-een-adult-cd]]",
+  "[[claim-bsg-statement-91-biosimilar-infliximab-ct-p13]]",
+  "[[claim-bsg-gpr27-ibd-mdt-model]]",
+  "[[claim-bsg-statement-69-smoking-postoperative-cd]]",
+  "[[claim-bsg-statement-128-anti-tnf-pregnancy]]",
+  "[[claim-bsg-statement-9-biologic-choice-moderate-severe-uc]]"
 
 
 # BSG Consensus Guidelines on the Management of Inflammatory Bowel Disease in Adults (Lamb et al., 2019)

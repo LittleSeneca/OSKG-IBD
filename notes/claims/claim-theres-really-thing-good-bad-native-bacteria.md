@@ -53,15 +53,20 @@ Probiotics are a multi-billion-dollar industry. If they don't work for IBS/SIBO,
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-bacteria-digest-fiber-short-chain-fatty-acids-butyrate|Chutkan's framing of beneficial bacterial functions (SCFA production, immune training) contrasts with Pimentel's rejecti]]
+- [[claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates|SCOPE CORRECTION: Chutkan reports clinical success with high-dose probiotics for IBD, while Pimentel concludes probiotic]]
+- [[claim-ten-things-taking-antibiotics-table-11-2-includes|Chutkan's recommendation to take probiotics during and after antibiotics is challenged by Pimentel's evidence that probi]]
+
+**Contradicts:**
 
 ## Assessment
 

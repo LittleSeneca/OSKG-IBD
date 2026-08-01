@@ -51,15 +51,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-possible-ibs-ibd-coexist-higher-expected-frequency|The continuum concept challenges the discrete diagnostic categories that ileocolonoscopy aims to establish between CD an]]
+
+**Contradicts:**
 
 ## Assessment
 

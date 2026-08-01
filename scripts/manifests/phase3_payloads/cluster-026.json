@@ -1,0 +1,71 @@
+{
+  "cluster_id": "cluster-026",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 7,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r12-budesonide-9-mg-for-ileocecal-cd",
+      "claim_id": "acg-cd2018-rec12",
+      "statement": "**Recommendation 12** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r20-thiopurines-for-steroid-sparing",
+      "claim_id": "acg-cd2018-rec20",
+      "statement": "**Recommendation 20** (Strong, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r23-methotrexate-for-steroid-dependent-cd",
+      "claim_id": "acg-cd2018-rec23",
+      "statement": "**Recommendation 23** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+      "claim_id": "acg-cd2018-rec24",
+      "statement": "**Recommendation 24** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+      "claim_id": "acg-cd2018-rec44",
+      "statement": "**Recommendation 44** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+      "claim_id": "acg-cd2018-rec45",
+      "statement": "**Recommendation 45** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r48-budesonide-not-for-maintenance-beyond-4-months",
+      "claim_id": "acg-cd2018-rec48",
+      "statement": "**Recommendation 48** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

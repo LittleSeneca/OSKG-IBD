@@ -1,0 +1,107 @@
+{
+  "cluster_id": "cluster-010",
+  "cluster_label": "mucosal-healing (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 11,
+  "claims": [
+    {
+      "slug": "claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended",
+      "claim_id": "ecco-uc2022-9",
+      "statement": "Anti-TNF agents (infliximab, adalimumab, golimumab) are strongly recommended for induction; network meta-analyses suggest infliximab superiority, and combination therapy with thiopurines improves outcomes with infliximab",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Nine RCTs pooled: clinical remission RR 2.23 (1.81-2.76), clinical response RR 1.56 (1.38-1.76), mucosal healing RR 1.49 (1.32-1.68). Safety data from large cohort studies were reassuring. No head-to-head anti-TNF trials exist. Network meta-analyses (Bonovas 2018, Singh 2020): infliximab superior to..."
+    },
+    {
+      "slug": "claim-budesonide-mmx-preferred-over-systemic-steroids-5-asa-refractory",
+      "claim_id": "acg-uc2019-7",
+      "statement": "Budesonide MMX is preferred over systemic steroids for 5-ASA-refractory mild-moderate UC; systemic steroids are reserved for failure or severe disease",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "CORE I trial: budesonide MMX 9 mg achieved combined clinical + endoscopic remission in 17.9% vs 7.4% placebo (P=0.0143). In 5-ASA-refractory patients: budesonide MMX + 5-ASA superior to 5-ASA + placebo (P=0.049). Systemic corticosteroids: meta-analysis RR failure to remit 0.65 (0.45-0.93) vs placebo..."
+    },
+    {
+      "slug": "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+      "claim_id": "ecco-diag2019-6",
+      "statement": "Mucosal healing is an important therapeutic goal in both UC and CD; FC is a validated surrogate marker; transmural healing (assessed by MRE/IUS) is an emerging endpoint",
+      "claim_type": "definitional",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**Statement 2.1.1:** Response to treatment in active UC determined by combination of clinical parameters, endoscopy, and laboratory markers (CRP, FC) [EL1]. **Statement 2.1.2:** MH should be determined endoscopically or by FC ~3-6 months after treatment initiation [EL5]. **Statement 2.1.4:** Clinica..."
+    },
+    {
+      "slug": "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+      "claim_id": "ecco-uc2022-3",
+      "statement": "Oral 5-ASA \u22652 g/d induces remission with low-quality evidence but strong recommendation; topical 5-ASA \u22651 g/d is strongly recommended for distal colitis; combined oral + rectal is weakly recommended over oral monotherapy",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Meta-analysis of 11 RCTs (n=2,156): oral 5-ASA RR 1.56 (95% CI 1.24-1.97) for clinical remission, RR 1.58 (1.35-1.86) for clinical response. Endoscopic response in 4 RCTs (n=416): RR 1.73 (1.0-3.0). SAEs: 6.1% vs 9% placebo. For topical 5-ASA, meta-analysis of 8 studies (\u22651 g/d for 2-8 weeks): clini..."
+    },
+    {
+      "slug": "claim-oral-5-asa-topical-5-asa-distal-disease-strongly",
+      "claim_id": "ecco-uc2022-7",
+      "statement": "Oral 5-ASA \u22652 g/d and topical 5-ASA for distal disease are strongly recommended for maintenance despite very low-quality evidence; thiopurines are strongly recommended for steroid-dependent or 5-ASA-intolerant patients",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Oral 5-ASA maintenance: 2 RCTs (n=306), 48-52 weeks. Clinical remission RR 1.54 (1.11-2.14). Endoscopic remission RR 1.20 (1.00-1.44) \u2014 trend but not significant. SAEs RR 0.41 (0.23-0.71) favoring 5-ASA. Topical 5-ASA maintenance: 4 RCTs, doses 1 g three times weekly to 1 g daily, 12-24 months. Clin..."
+    },
+    {
+      "slug": "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
+      "claim_id": "acg-cd2018-12",
+      "statement": "Oral corticosteroids are effective for short-term symptom relief but do not consistently achieve mucosal healing (R17-R18)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Prednisone equivalent doses of 40-60 mg/day (or 1 mg/kg/day) are effective for inducing symptomatic response. Typical taper: maintain initial dose 1-2 weeks, then taper by 5 mg weekly until 20 mg, then 2.5-5 mg weekly; total taper should not exceed 3 months. Despite symptomatic efficacy: ~20% of pat..."
+    },
+    {
+      "slug": "claim-oral-mesalamine-used-active-crohns-disease-sulfasalazine",
+      "claim_id": "acg-cd2018-8",
+      "statement": "Oral mesalamine should NOT be used for active Crohn's disease; sulfasalazine is effective only for colonic disease (R10-R11)",
+      "claim_type": "methodological",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The negative recommendation against mesalamine is one of the strongest in the guideline. Despite widespread use, multiple meta-analyses show no consistent benefit of mesalamine over placebo for induction or mucosal healing. Sulfasalazine is effective only in colonic/ileocolonic disease due to its co..."
+    },
+    {
+      "slug": "claim-rectal-5-asa-first-line-proctitis-combined-oral-rectal",
+      "claim_id": "acg-uc2019-5",
+      "statement": "Rectal 5-ASA (1 g/d) is first-line for proctitis; combined oral + rectal 5-ASA is superior to oral alone for left-sided disease",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Meta-analysis of 11 RCTs: 5-ASA superior to placebo for induction (RR failure to remit 0.79; NNT=6). For proctitis/left-sided: rectal 5-ASA pooled OR 8.30 for symptomatic remission, 5.31 for endoscopic remission vs placebo. Rectal 5-ASA superior to rectal steroids (OR 1.65). Combination oral + recta..."
+    },
+    {
+      "slug": "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to",
+      "claim_id": "ecco-cd2020-3",
+      "statement": "Systemic corticosteroids are effective for moderate-to-severe CD but carry substantial toxicity; they are a bridge, not a destination (R1.3)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Pooled data from two RCTs (n=267): corticosteroids were twice as effective as placebo for clinical remission (RR 1.99; 95% CI 1.51-2.64). Clinical response with methylprednisolone was 93.6% vs. 53.4% for placebo (RR 1.75). However, adverse events were 5-fold higher (31.8% vs. 6.5%; RR 4.89). Steroid..."
+    },
+    {
+      "slug": "claim-thiopurine-monotherapy-ineffective-induction-effective-maintenance-methotr",
+      "claim_id": "aga-uc2020-5",
+      "statement": "Thiopurine monotherapy is ineffective for induction but effective for maintenance; methotrexate monotherapy is ineffective for both",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Thiopurine induction: 5 trials (3 vs. placebo, 2 vs. 5-ASA). Most patients were corticosteroid-dependent. RR for corticosteroid-free remission 1.25 (1.01-1.56) but evidence rated very low due to serious risk of bias, imprecision, indirectness (variable outcome definitions, 4-52 weeks, unclear if rem..."
+    },
+    {
+      "slug": "claim-vedolizumab-strongly-recommended-induction-low-quality-evidence-weak",
+      "claim_id": "ecco-uc2022-10",
+      "statement": "Vedolizumab is strongly recommended for induction with low-quality evidence; the weak recommendation favoring vedolizumab over adalimumab (from the VARSITY trial) is the guideline's most distinctive feature",
+      "claim_type": "therapeutic",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Two placebo-controlled RCTs (n=620): clinical remission RR 2.14 (1.03-4.43), clinical response RR 1.51 (0.99-2.29) \u2014 not significant. GEMINI I: week 6 endoscopic remission 40.9% vs 24.8% (p=0.001). Heterogeneity between the two RCTs drove inconsistency ratings down. SAEs: RR 0.71 (0.39-1.30), favora..."
+    }
+  ]
+}

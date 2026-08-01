@@ -52,15 +52,18 @@ This directly supports Pimentel's argument that IBS needs a positive biomarker (
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-sibo-occurs-there-greater-1000-bacteria-per|The quantitative SIBO definition (>10^3 CFU/mL) provides the organic diagnostic basis that exposes the Rome Criteria's l]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

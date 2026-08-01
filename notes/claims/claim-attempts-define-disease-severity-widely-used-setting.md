@@ -51,15 +51,18 @@ Treatment decisions based on rigid severity definitions can undertreat high-risk
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-single-reference-standard-exists-ibd-diagnosis-composite|The difficulty defining disease severity for trial populations parallels the absence of a single diagnostic reference st]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

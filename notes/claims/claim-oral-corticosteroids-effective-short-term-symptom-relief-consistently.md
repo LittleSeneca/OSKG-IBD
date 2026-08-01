@@ -57,15 +57,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-mucosal-healing-important-therapeutic-goal-both-validated|The finding that corticosteroids fail to consistently achieve mucosal healing reinforces mucosal healing as the true the]]
+- [[claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to|Both ACG and ECCO independently conclude that corticosteroids provide symptomatic relief without reliably achieving muco]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

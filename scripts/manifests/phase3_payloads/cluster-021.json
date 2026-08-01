@@ -1,0 +1,71 @@
+{
+  "cluster_id": "cluster-021",
+  "cluster_label": "carbohydrate-malabsorption (dietary)",
+  "domain": "domain/nutrition",
+  "size": 7,
+  "claims": [
+    {
+      "slug": "claim-connection-between-crohns-disease-sugar-rich-diet-proved",
+      "claim_id": "gottschall-ch12-4",
+      "statement": "The connection between Crohn's disease and a sugar-rich diet is proved beyond reasonable doubt. Apart from smoking, this is the strongest clue to an environmental etiology of the disease.",
+      "claim_type": "diagnostic",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "confidence": "high",
+      "evidence_excerpt": "Seventeen studies on eating patterns of Crohn's patients prior to diagnosis, conducted across multiple countries and methods. All studies found sucrose intake higher in Crohn's patients than controls, varying from 20% to 220% more. Two of three studies on ulcerative colitis found high consumption of..."
+    },
+    {
+      "slug": "claim-diets-work-same-reason-they-reduce-amount",
+      "claim_id": "sarna-sibo-diet-1",
+      "statement": "All of these diets work for the same reason: They reduce the amount of fermentable carbohydrates you're eating, which, in turn, gives the overgrown bacteria in your gut less to eat!",
+      "claim_type": "dietary",
+      "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+      "confidence": "high",
+      "evidence_excerpt": "Overview of five dietary approaches for SIBO, all converging on fermentable carbohydrate restriction. Sarna observes that \"food doesn't cause SIBO\" -- dietary triggers are about symptom management, not etiology."
+    },
+    {
+      "slug": "claim-gottschall-presents-historical-through-line-aretaeus-300-treated",
+      "claim_id": "gottschall-ch12-3",
+      "statement": "Gottschall presents a historical through-line: Aretaeus (300 AD) treated celiac-type diarrhea with fasting and plantain juice; Prince Charles (1745) cured ulcerative colitis with a milk-free diet; Dr. Christian Herter (early 1900s) observed that \"proteins were well tolerated, fats were handled moderately well but carbohydrates (sugars and starches) were badly tolerated\" and that carbohydrate inges",
+      "claim_type": "therapeutic",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Historical case reports and clinical observations spanning centuries. The Herter and Gee observations are particularly specific about carbohydrate intolerance."
+    },
+    {
+      "slug": "claim-inflammation-small-intestine-cause-malabsorption-nutrients-while",
+      "claim_id": "foote-cookbook-2",
+      "statement": "Inflammation in the small intestine can cause malabsorption of nutrients, while inflammation in the large intestine can inhibit the absorption of water and electrolytes.",
+      "claim_type": "dietary",
+      "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+      "confidence": "high",
+      "evidence_excerpt": "Standard nutritional physiology. Signs of malnutrition listed: fatigue, light-headedness, paleness, numbness, tingling, bruising, bone/muscle pain, hair loss, muscle cramping, appetite loss, taste/smell changes."
+    },
+    {
+      "slug": "claim-most-people-chronic-intestinal-disorders-suffer-malabsorption",
+      "claim_id": "gottschall-ch910-4",
+      "statement": "Most people with chronic intestinal disorders also suffer from malabsorption and, consequently, are malnourished.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+      "confidence": "high",
+      "evidence_excerpt": "General knowledge about malabsorption in intestinal disease. The folate-B12 warning reflects the clinical pearl that high folate can mask B12 deficiency hematologically while neurological damage progresses."
+    },
+    {
+      "slug": "claim-one-basic-principle-diet-must-firmly-established",
+      "claim_id": "gottschall-ch910-5",
+      "statement": "One basic principle of the diet must be firmly established: no food should be ingested that contains carbohydrates other than those found in fruits, honey, properly-prepared yoghurt, and those vegetables and nuts listed.",
+      "claim_type": "dietary",
+      "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+      "confidence": "low",
+      "evidence_excerpt": "The complete food lists (summarized below). The classification logic is: monosaccharide sources (honey, fruit, properly fermented dairy) = allowed; disaccharide sources (milk, table sugar, most processed foods) = forbidden; polysaccharide sources (grains, potatoes, corn, rice) = forbidden, with exce..."
+    },
+    {
+      "slug": "claim-week-most-restrictive-eliminate-many-carbohydrates-much",
+      "claim_id": "sarna-sibo-diet-3",
+      "statement": "Week 1 is the most restrictive (\"eliminate as many carbohydrates, as much fiber, and as many triggering foods as you possibly can. Steam and/or saut\u00e9 all your fruits and veggies... Your food needs to be predigested as much as possible\"). Week 2 begins cautious reintroduction (\"one at a time, much as you would do on an allergy elimination diet\"). Week 3 is habituation (\"you know what to eat, it is ",
+      "claim_type": "dietary",
+      "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+      "confidence": "low",
+      "evidence_excerpt": "Sarna's personal experience and reader feedback. No trial data."
+    }
+  ]
+}

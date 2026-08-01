@@ -51,15 +51,18 @@ The tiered approach represents an important evolution beyond SCD's rigidity. By 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-multi-diet-recipe-tagging-five-sibo-protocols|LaPine's systematic recipe tagging across five SIBO dietary protocols is the practical implementation of Siebecker's mul]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

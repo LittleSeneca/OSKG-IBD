@@ -52,15 +52,18 @@ EEN offers a non-immunosuppressive induction option for adults who wish to avoid
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-controlled-ileal-release-budesonide-daily-first-line-mild-to-moderate|BSG offers exclusive enteral nutrition as a corticosteroid alternative for inducing remission, challenging ACG's positio]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -57,15 +57,19 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-continue-agent-induced-remission-corticosteroids-methotrexate-5-asa|Near-identical recommendations from ECCO and ACG agree that the inducing agent should be continued and that 5-ASA has no]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc|The ECCO claim restricts the ACG general 5-ASA maintenance assertion by specifying that 5-ASA has no role after advanced]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

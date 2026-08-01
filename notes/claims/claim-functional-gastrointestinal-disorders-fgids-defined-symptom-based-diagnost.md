@@ -50,15 +50,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-sibo-defined-presence-excessive-numbers-bacteria-small|The SIBO paradigm challenges the symptom-based FGID framework by identifying an organic bacterial cause for symptoms pre]]
+
+**Contradicts:**
 
 ## Assessment
 

@@ -50,15 +50,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-bsg-statement-36-surgery-localized-ileocaecal-cd|BSG frames surgery as a primary treatment option for localized ileocecal CD, challenging ACG's conservative observation-]]
+
+**Contradicts:**
 
 ## Assessment
 

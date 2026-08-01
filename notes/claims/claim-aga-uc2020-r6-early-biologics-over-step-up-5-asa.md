@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis|ACG recommends 5-ASA as first-line therapy, while AGA suggests early biologic use over step-up therapy for moderate-seve]]
+
+**Contradicts:**
 
 ## Assessment
 

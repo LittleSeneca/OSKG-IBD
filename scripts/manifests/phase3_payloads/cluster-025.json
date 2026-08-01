@@ -1,0 +1,53 @@
+{
+  "cluster_id": "cluster-025",
+  "cluster_label": "crohns-disease (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 5,
+  "claims": [
+    {
+      "slug": "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
+      "claim_id": "acg-cd2018-rec10",
+      "statement": "**Recommendation 10** (Conditional, quality: Low)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+      "claim_id": "acg-cd2018-rec11",
+      "statement": "**Recommendation 11** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+      "claim_id": "acg-cd2018-rec46",
+      "statement": "**Recommendation 46** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    },
+    {
+      "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+      "claim_id": "acg-cd2018-rec55",
+      "statement": "**Recommendation 55** (Conditional, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**."
+    },
+    {
+      "slug": "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+      "claim_id": "aga-cd2021-rec9",
+      "statement": "**Recommendation 9** (Strong, quality: Moderate)",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "confidence": "high",
+      "evidence_excerpt": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**."
+    }
+  ]
+}

@@ -53,15 +53,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active|Both ACG Crohn's 2018 and ACG UC 2019 agree that thiopurines are ineffective for acute induction across CD and UC, limit]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

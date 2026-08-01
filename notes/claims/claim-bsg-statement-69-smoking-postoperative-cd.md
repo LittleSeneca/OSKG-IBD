@@ -52,15 +52,18 @@ Smoking cessation is more effective than any pharmacologic prophylaxis for posto
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-nsaids-exacerbate-disease-avoided-smoking-cessation-critical|Both BSG 2019 and ACG Crohn's 2018 strongly emphasize smoking cessation, with BSG quantifying the OR for postoperative r]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

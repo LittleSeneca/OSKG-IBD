@@ -49,15 +49,18 @@ Recommending 3-6 weeks off work makes the protocol inaccessible to many patients
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-two-distinct-one-week-meal-plans-provided-meal|Thompson's healing vacation concept extends Foote's structured meal-plan approach by adding the critical dimension of re]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

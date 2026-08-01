@@ -1,0 +1,80 @@
+{
+  "cluster_id": "cluster-004",
+  "cluster_label": "immunomodulators (therapeutic)",
+  "domain": "domain/treatment",
+  "size": 8,
+  "claims": [
+    {
+      "slug": "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
+      "claim_id": "yamada-surg65-1",
+      "statement": "Although biologics have largely replaced corticosteroids as the cornerstone of medical therapy, the natural history of the disease has not been significantly altered, with up to 80% of patients still requiring surgical intervention at some point in their disease course because of primary and secondary loss of response to biologic medication.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch65 Surgical Treatment of IBD]]",
+      "confidence": "high",
+      "evidence_excerpt": "Cited references [1,2] for the 80% surgical rate. Reference [19] for the RCT on early laparoscopic resection vs biologic escalation. The authors note that 90% of CD patients have endoscopic recurrence within 1 year of surgery and up to 35% require repeat resection by 10 years."
+    },
+    {
+      "slug": "claim-azathioprine-6-mercaptopurine-useful-keeping-patients-remission-reducing",
+      "claim_id": "steinhart-drug-5",
+      "statement": "Azathioprine and 6-mercaptopurine... are useful for keeping patients in remission and reducing the need, over time, for other medications, such as steroids.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Decades of clinical use since the 1960s-70s. The SONIC trial (combination therapy superiority). Side effect data: pancreatitis in ~3%, allergic reactions, bone marrow suppression, liver enzyme abnormalities. Cancer risk: \"the risk of lymphoma... is extremely small. It has been calculated that azathi..."
+    },
+    {
+      "slug": "claim-concept-broad-based-pyramid-implies-majority-patients-mild",
+      "claim_id": "yamada-cd64-8",
+      "statement": "The concept of a broad-based pyramid implies that the majority of patients have mild, uncomplicated, and nonprogressive disease. Although many patients will have mild disease 5 years after diagnosis, the long-term clinical course suggests gradual progression toward fibrostenotic and penetrating complications for the majority of patients over time.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Natural history studies showing progressive complications. The TREAT safety registry: concomitant corticosteroid or narcotic use were each associated with increased mortality -- challenging the assumption that \"lower\" therapies on the pyramid are safer. The treatment algorithm (Figure 64.15) stratif..."
+    },
+    {
+      "slug": "claim-infliximab-shown-effective-inducing-maintaining-clinical-remission",
+      "claim_id": "yamada-uc63-3",
+      "statement": "Infliximab was shown to be effective in inducing and maintaining clinical remission of ulcerative colitis in the ACT-1 and ACT-2 trials.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "ACT-1 and ACT-2 (each n=364, placebo vs infliximab 5 or 10 mg/kg at weeks 0, 2, 6, then every 8 weeks). Clinical response at week 8: 69.4% (ACT-1) and 64.5% (ACT-2) with 5 mg/kg vs 37.2% and 29.3% with placebo. The UC-SUCCESS trial demonstrated combination therapy (infliximab + azathioprine) superio..."
+    },
+    {
+      "slug": "claim-measurement-drug-concentration-anti-drug-antibody-levels-shown",
+      "claim_id": "yamada-cd64-6",
+      "statement": "Measurement of drug concentration and anti-drug antibody levels has been shown to be a cost-effective strategy given the ability to optimize treatment and potentially prevent CD-associated complications.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Trough level thresholds: infliximab >=5 ug/mL, adalimumab >=7.5 ug/mL, certolizumab >=20 ug/mL for clinical remission. Loss of response: 13% risk per year for infliximab, 24% per year for adalimumab. Addition of immunomodulator reduces antibody formation. HLA-DQA1*05 allele associated with immunogen..."
+    },
+    {
+      "slug": "claim-methotrexate-effective-patients-ulcerative-colitis-monotherapy",
+      "claim_id": "yamada-uc63-2",
+      "statement": "Methotrexate is not effective in patients with ulcerative colitis as monotherapy.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "Two well-designed RCTs (METEOR and MERIT-UC). The authors explicitly state that \"clinical guidelines recommend against the use of methotrexate monotherapy for induction of maintenance in patients with ulcerative colitis.\""
+    },
+    {
+      "slug": "claim-sonic-trial-patients-received-combined-regimen-superior",
+      "claim_id": "yamada-cd64-4",
+      "statement": "In the SONIC trial, \"patients who received the combined regimen had superior rates of corticosteroid-free clinical remission at 6 months relative to patients treated with AZA or infliximab alone (57% vs 44% vs 30%).\" Furthermore, \"patients treated with combination therapy were more likely to achieve mucosal healing.\" The concomitant use of AZA is \"the only clinically modifiable factor definitively",
+      "claim_type": "therapeutic",
+      "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+      "confidence": "high",
+      "evidence_excerpt": "SONIC trial (n > 500, infliximab + AZA vs infliximab vs AZA). Combotherapy patients had lower anti-infliximab antibodies and higher infliximab drug levels. The COMMIT trial (methotrexate + infliximab vs infliximab monotherapy) did not show superiority for the primary endpoint (treatment failure) but..."
+    },
+    {
+      "slug": "claim-steroids-used-many-decades-treatment-inflammatory-bowel",
+      "claim_id": "steinhart-drug-4",
+      "statement": "Steroids have been used for many decades in the treatment of inflammatory bowel disease. For most of this time, they have been the most consistently effective class of medications... they generally work very quickly.",
+      "claim_type": "therapeutic",
+      "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+      "confidence": "high",
+      "evidence_excerpt": "Steinhart provides an unusually detailed side effect catalogue, distinguishing common/reversible effects (moon face, acne, weight gain, insomnia, mood swings) from uncommon/possibly irreversible effects (osteoporosis, cataracts, diabetes, hypertension, avascular necrosis). He estimates that \"approxi..."
+    }
+  ]
+}

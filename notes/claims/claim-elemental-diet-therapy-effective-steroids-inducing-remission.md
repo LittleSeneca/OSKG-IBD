@@ -51,15 +51,18 @@ If elemental diet is as effective as steroids with better mucosal healing and fe
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate|EEN's steroid-equivalent clinical efficacy validates the vicious cycle model that removing fermentable carbohydrates int]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

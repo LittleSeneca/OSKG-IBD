@@ -52,15 +52,18 @@ LFE is positioned as the most livable SIBO diet. Its two-rule simplicity contras
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+- [[claim-mainstream-approach-sibo-usual-try-kill-microbes|Campbell-McBride argues that killing microbes misses the root cause (low stomach acid, damaged gut lining), whereas Pime]]
+
+**Contradicts:**
 
 ## Assessment
 

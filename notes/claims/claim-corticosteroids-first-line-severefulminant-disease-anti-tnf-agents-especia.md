@@ -50,15 +50,18 @@ See source note.
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
+- [[claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin|BSG IBD 2019 formalizes the rescue therapy pathway with a specific day-3 assessment point, operationalizing ACG Crohn's ]]
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

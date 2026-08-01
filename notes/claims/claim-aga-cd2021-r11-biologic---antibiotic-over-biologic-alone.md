@@ -57,15 +57,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 
 ## Edges
 
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
 
-**Contradicts:**
+**Extends:**
+- [[claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu|AGA Crohn's 2021 extends ACG Crohn's 2018 antibiotic recommendation for perianal fistulas by specifying that antibiotics]]
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

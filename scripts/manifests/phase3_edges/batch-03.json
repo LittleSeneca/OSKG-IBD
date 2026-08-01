@@ -1,0 +1,176 @@
+[
+  {
+    "claim_a": "claim-possible-ibs-ibd-coexist-higher-expected-frequency",
+    "claim_b": "claim-single-reference-standard-exists-ibd-diagnosis-composite",
+    "edge_type": "extends",
+    "rationale": "The IBS-IBD continuum concept provides biological rationale for why no single diagnostic reference standard exists for IBD."
+  },
+  {
+    "claim_a": "claim-possible-ibs-ibd-coexist-higher-expected-frequency",
+    "claim_b": "claim-ileocolonoscopy-biopsies-required-diagnosis-endoscopic-histological-featur",
+    "edge_type": "challenged_by",
+    "rationale": "The continuum concept challenges the discrete diagnostic categories that ileocolonoscopy aims to establish between CD and UC."
+  },
+  {
+    "claim_a": "claim-attempts-define-disease-severity-widely-used-setting",
+    "claim_b": "claim-single-reference-standard-exists-ibd-diagnosis-composite",
+    "edge_type": "extends",
+    "rationale": "The difficulty defining disease severity for trial populations parallels the absence of a single diagnostic reference standard."
+  },
+  {
+    "claim_a": "claim-grade-guideline-pico-structured-questions-supported-first-formal",
+    "claim_b": "claim-summary-statements-24-35-grade-rated",
+    "edge_type": "extends",
+    "rationale": "The AGA 2021 GRADE approach with formal network meta-analysis represents methodological advancement over the non-GRADE-rated ACG 2018 statements."
+  },
+  {
+    "claim_a": "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
+    "claim_b": "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+    "edge_type": "supports",
+    "rationale": "The finding that corticosteroids fail to consistently achieve mucosal healing reinforces mucosal healing as the true therapeutic goal."
+  },
+  {
+    "claim_a": "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to",
+    "claim_b": "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+    "edge_type": "supports",
+    "rationale": "The bridge-not-destination framing of corticosteroids supports mucosal healing as the genuine treatment endpoint."
+  },
+  {
+    "claim_a": "claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended",
+    "claim_b": "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+    "edge_type": "operationalizes",
+    "rationale": "Anti-TNF agents achieve mucosal healing, operationalizing the abstract therapeutic goal with a concrete class of agents."
+  },
+  {
+    "claim_a": "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+    "claim_b": "claim-oral-mesalamine-used-active-crohns-disease-sulfasalazine",
+    "edge_type": "extends",
+    "rationale": "The ACG CD negative recommendation limits 5-ASA efficacy to UC only, clarifying the disease-specific scope of the ECCO UC induction claim."
+  },
+  {
+    "claim_a": "claim-rectal-5-asa-first-line-proctitis-combined-oral-rectal",
+    "claim_b": "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+    "edge_type": "extends",
+    "rationale": "The ACG UC claim refines the general oral 5-ASA induction claim by specifying proctitis first-line therapy and combination superiority."
+  },
+  {
+    "claim_a": "claim-oral-5-asa-topical-5-asa-distal-disease-strongly",
+    "claim_b": "claim-rectal-5-asa-first-line-proctitis-combined-oral-rectal",
+    "edge_type": "extends",
+    "rationale": "The ECCO maintenance recommendation extends the ACG induction and location-specific claims into the maintenance setting."
+  },
+  {
+    "claim_a": "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
+    "claim_b": "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to",
+    "edge_type": "supports",
+    "rationale": "Both ACG and ECCO independently conclude that corticosteroids provide symptomatic relief without reliably achieving mucosal healing."
+  },
+  {
+    "claim_a": "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+    "claim_b": "claim-budesonide-mmx-preferred-over-systemic-steroids-5-asa-refractory",
+    "edge_type": "depends_on",
+    "rationale": "The budesonide MMX recommendation for 5-ASA-refractory patients logically presupposes 5-ASA first-line therapy has been attempted."
+  },
+  {
+    "claim_a": "claim-thiopurine-monotherapy-ineffective-induction-effective-maintenance-methotr",
+    "claim_b": "claim-oral-5-asa-topical-5-asa-distal-disease-strongly",
+    "edge_type": "operationalizes",
+    "rationale": "The ECCO guideline operationalizes the AGA thiopurine maintenance evidence by specifying steroid-dependent and 5-ASA-intolerant patient populations."
+  },
+  {
+    "claim_a": "claim-5-asa-corticosteroids-effective-maintenance-budesonide-used-beyond",
+    "claim_b": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+    "edge_type": "extends",
+    "rationale": "The ACG CD negative recommendation and ACG UC positive recommendation together reveal that 5-ASA maintenance efficacy is disease-specific."
+  },
+  {
+    "claim_a": "claim-5-asa-ineffective-maintenance-thiopurines-effective-steroid-dependent-pati",
+    "claim_b": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+    "edge_type": "extends",
+    "rationale": "ECCO CD confirms 5-ASA is ineffective for CD maintenance while ACG UC affirms efficacy for UC, establishing a clear disease-divergent efficacy pattern."
+  },
+  {
+    "claim_a": "claim-continue-agent-induced-remission-anti-tnf-vedolizumab-tofacitinib",
+    "claim_b": "claim-continue-agent-induced-remission-corticosteroids-methotrexate-5-asa",
+    "edge_type": "supports",
+    "rationale": "Near-identical recommendations from ECCO and ACG agree that the inducing agent should be continued and that 5-ASA has no post-advanced-therapy maintenance role."
+  },
+  {
+    "claim_a": "claim-continue-agent-induced-remission-anti-tnf-vedolizumab-tofacitinib",
+    "claim_b": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+    "edge_type": "extends",
+    "rationale": "The ECCO claim restricts the ACG general 5-ASA maintenance assertion by specifying that 5-ASA has no role after advanced therapy initiation."
+  },
+  {
+    "claim_a": "claim-5-asa-corticosteroids-effective-maintenance-budesonide-used-beyond",
+    "claim_b": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+    "edge_type": "supports",
+    "rationale": "The AGA CD 2021 guideline independently confirms the ACG CD 2018 finding that 5-ASA and corticosteroids lack maintenance efficacy."
+  },
+  {
+    "claim_a": "claim-5-asa-ineffective-maintenance-thiopurines-effective-steroid-dependent-pati",
+    "claim_b": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+    "edge_type": "supports",
+    "rationale": "ECCO and AGA guidelines converge on the same conclusion: 5-ASA is ineffective for CD maintenance across multiple evidence reviews."
+  },
+  {
+    "claim_a": "claim-5-asa-sulfasalazine-ineffective-inducing-remission-budesonide-effective",
+    "claim_b": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+    "edge_type": "supports",
+    "rationale": "Both ECCO and AGA independently recommend against 5-ASA and sulfasalazine for inducing remission in CD."
+  },
+  {
+    "claim_a": "claim-topical-5-asa-superior-topical-steroids-clinical-remission",
+    "claim_b": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+    "edge_type": "extends",
+    "rationale": "The ECCO topical 5-ASA superiority finding extends the ACG general maintenance claim by specifying the comparative advantage over topical steroids."
+  },
+  {
+    "claim_a": "claim-continue-agent-induced-remission-corticosteroids-methotrexate-5-asa",
+    "claim_b": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+    "edge_type": "supports",
+    "rationale": "ACG UC and AGA CD independently agree that corticosteroids have no maintenance role, reinforcing this principle across both diseases."
+  },
+  {
+    "claim_a": "claim-infliximab-only-biologic-rct-level-evidence-fistula-healing",
+    "claim_b": "claim-infliximab-best-evidence-perianal-fistula-closure-adalimumab",
+    "edge_type": "extends",
+    "rationale": "ECCO sharpens the AGA claim from infliximab having the best evidence to being the only biologic with RCT-level fistula healing evidence."
+  },
+  {
+    "claim_a": "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+    "claim_b": "claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over",
+    "edge_type": "operationalizes",
+    "rationale": "The ACG ustekinumab efficacy data across biologic-naive and anti-TNF-failure populations provides the evidence base for AGA's preference recommendation."
+  },
+  {
+    "claim_a": "claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment",
+    "claim_b": "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+    "edge_type": "supports",
+    "rationale": "The ACG ustekinumab efficacy evidence directly supports the AGA strong recommendation for ustekinumab over no treatment."
+  },
+  {
+    "claim_a": "claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment",
+    "claim_b": "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+    "edge_type": "supports",
+    "rationale": "ECCO's meta-analytic evidence for ustekinumab and vedolizumab induction efficacy supports AGA's strong recommendation for these biologics."
+  },
+  {
+    "claim_a": "claim-infliximab-thiopurine-combination-suggested-adalimumab-thiopurine-suggeste",
+    "claim_b": "claim-combination-biologic-immunomodulator-therapy-recommended-over-either",
+    "edge_type": "extends",
+    "rationale": "The CD guideline restricts the UC guideline's broad combination therapy principle to the best-evidenced biologic, infliximab, with lower certainty for adalimumab."
+  },
+  {
+    "claim_a": "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+    "claim_b": "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+    "edge_type": "extends",
+    "rationale": "ECCO extends the ACG ustekinumab efficacy claim by adding vedolizumab and specifying efficacy across both biologic-naive and anti-TNF-experienced populations."
+  },
+  {
+    "claim_a": "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+    "claim_b": "claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced",
+    "edge_type": "depends_on",
+    "rationale": "The ACG maintenance claim for vedolizumab and ustekinumab logically depends on the ECCO evidence that these agents are effective for induction."
+  }
+]

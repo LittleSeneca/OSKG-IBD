@@ -51,15 +51,18 @@ If bacterial overgrowth is the initiating event in the vicious cycle, then SCD w
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-doubt-autoimmunity-born-gut|Gottschall's catalog of causes for bacterial overgrowth (antacids, aging, malnutrition, antibiotics) provides mechanisti]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

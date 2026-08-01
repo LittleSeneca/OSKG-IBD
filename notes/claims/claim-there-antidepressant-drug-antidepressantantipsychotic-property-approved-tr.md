@@ -51,15 +51,18 @@ The antidepressant-for-IBS practice reinforces the psychological framing of IBS 
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-notice-just-referred-ibs-disease-doesnt-ibs|The absence of FDA-approved antidepressants for IBS supports Pimentel's argument that IBS should be reclassified from a ]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

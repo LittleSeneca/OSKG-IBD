@@ -1,0 +1,89 @@
+{
+  "cluster_id": "cluster-006",
+  "cluster_label": "surgery (therapeutic)",
+  "domain": "domain/clinical-guidelines",
+  "size": 9,
+  "claims": [
+    {
+      "slug": "claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment",
+      "claim_id": "acg-cd2018-7",
+      "statement": "Antibiotics should not be restricted solely to prevent CD flares; stress/depression assessment is part of comprehensive care (R8-R9)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Paradoxically, a case-crossover study from the General Practice Research Database found antibiotic exposure within 60 days was associated with *reduced* risk of flare. However, antibiotic-associated dysbiosis increases *C. difficile* risk, and IBD patients have higher carriage rates of toxigenic *C...."
+    },
+    {
+      "slug": "claim-graded-recommendation-definitional-scope-setting-moderate-severe-defined-c",
+      "claim_id": "aga-uc2020-1",
+      "statement": "Not a graded recommendation (definitional, scope-setting). Moderate-severe UC is defined by: (a) corticosteroid dependence or refractoriness, (b) severe endoscopic disease (presence of ulcers), or (c) high risk of colectomy. Mayo Clinic score 6-12 with endoscopic subscore \u22652. ASUC is defined as hospitalized patients with \u22656 bloody bowel movements/day AND at least one marker of systemic toxicity (H",
+      "claim_type": "diagnostic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**GRADE rating:** Not graded (scope-setting)."
+    },
+    {
+      "slug": "claim-ileocolonoscopy-reference-standard-postoperative-recurrence-within-6-12",
+      "claim_id": "ecco-diag2019-9",
+      "statement": "Ileocolonoscopy is the reference standard for postoperative recurrence within 6-12 months; FC, IUS, and MRE are non-invasive alternatives with excellent accuracy",
+      "claim_type": "diagnostic",
+      "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Without treatment, postoperative endoscopic recurrence: 65-90% within 12 months, 80-100% within 3 years. Rutgeerts score is used for description. After total proctocolectomy + ileostomy: 5-year/10-year median cumulative clinical recurrence 23.5%. **FC:** Meta-analysis (Qiu 2015, 10 studies): sensiti..."
+    },
+    {
+      "slug": "claim-infliximab-cyclosporine-equivalent-rescue-therapies-corticosteroid-refract",
+      "claim_id": "aga-uc2020-10",
+      "statement": "Infliximab and cyclosporine are equivalent rescue therapies for corticosteroid-refractory ASUC",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Infliximab vs. placebo: single RCT (n=45), single 5 mg/kg dose, RR for 90-day colectomy 0.44 (0.22-0.87). Cyclosporine vs. placebo: single small RCT, RR 0.61 (0.18-2.01) \u2014 trend favoring cyclosporine but not statistically significant. Cyclosporine 2 mg/kg/day comparable to 4 mg/kg/day with better sa..."
+    },
+    {
+      "slug": "claim-key-concept-most-common-symptom-sibo-bloating",
+      "claim_id": "acg-sibo2020-2",
+      "statement": "Key Concept 1. \"The most common symptom of SIBO is bloating.\" Key Concept 2: \"Vitamin deficiencies in SIBO are not common and are usually seen in patients with an iatrogenic or structural abnormality of the bowel such as blind loop syndrome.\" Note: folate may be ELEVATED in SIBO as bacteria produce folate.",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "**GRADE rating:** Key concept (expert consensus, not GRADEable)."
+    },
+    {
+      "slug": "claim-methylprednisolone-40-60-mgday-sufficient-higher-doses-add",
+      "claim_id": "aga-uc2020-8",
+      "statement": "IV methylprednisolone 40-60 mg/day is sufficient; higher doses add toxicity without efficacy",
+      "claim_type": "therapeutic",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "No head-to-head trials of different corticosteroid doses. Turner et al. systematic review: mean dose across studies was 68 mg/day (range 40-100 mg); on meta-regression controlling for baseline severity, no correlation between dose and colectomy risk (R\u00b2<0.01). Different regimens (once daily vs. divi..."
+    },
+    {
+      "slug": "claim-sibo-almost-always-epiphenomenon-underlying-cause-motility",
+      "claim_id": "acg-sibo2020-6",
+      "statement": "SIBO is almost always an epiphenomenon -- the underlying cause (motility disorder, structural abnormality, medication) must be identified to prevent recurrence",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The guideline lists protective mechanisms: gastric acid barrier, bile acids, antegrade peristalsis, the migrating motor complex (MMC) -- particularly phase III, which sweeps bacteria from the small bowel toward the colon, and the ileocecal valve preventing colonic reflux. Breakdown in any of these c..."
+    },
+    {
+      "slug": "claim-summary-statements-6-8-grade-rated",
+      "claim_id": "acg-cd2018-1",
+      "statement": "Summary Statements 4, 6-8. Not GRADE-rated.",
+      "claim_type": "diagnostic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "The majority of patients (70-80%) will develop intestinal complications (stricture, fistula, abscess) or require surgery. At diagnosis, 56-81% have inflammatory (B1) disease behavior; 5-25% present with stricturing (B2) or penetrating (B3) disease. Among those with initial B1 behavior, cumulative ri..."
+    },
+    {
+      "slug": "claim-thiopurines-prevent-clinical-endoscopic-recurrence-severe-endoscopic",
+      "claim_id": "acg-cd2018-27",
+      "statement": "Thiopurines prevent clinical and endoscopic recurrence but not severe endoscopic recurrence; anti-TNF agents are the most effective prophylaxis for high-risk patients (R57-R59)",
+      "claim_type": "therapeutic",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "confidence": "medium",
+      "evidence_excerpt": "Thiopurines: Cochrane analysis \u2014 reduced clinical recurrence (RR 0.59, NNT 7) and severe endoscopic recurrence (RR 0.64, NNT 4) vs. placebo, superior to mesalamine. However, one meta-analysis found no significant reduction in clinical recurrence (RR 0.88, p=0.53 at year 1). Adverse events leading to..."
+    }
+  ]
+}

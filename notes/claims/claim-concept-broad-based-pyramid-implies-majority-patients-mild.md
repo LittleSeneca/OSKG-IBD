@@ -50,15 +50,18 @@ If the pyramid is wrong, then "step-up" therapy (starting with safest/weakest dr
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical|The critique of the step-up pyramid supports the observation that biologics have not altered the high surgical rate, rei]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 

@@ -49,15 +49,18 @@ This reframes dietary therapy from "avoid what you're allergic to" to "avoid wha
 
 ## Edges
 
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
 
 **Supports:**
+- [[claim-starchy-foods-assumed-digested-completely-fact-incompletely|The foreword's argument that fermentation byproducts, not food allergy per se, cause GI symptoms aligns with the claim t]]
 
-**Contradicts:**
+**Extends:**
+
+**Operationalizes:**
 
 **Challenged by:**
+
+**Contradicts:**
 
 ## Assessment
 
