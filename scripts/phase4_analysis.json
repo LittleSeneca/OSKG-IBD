@@ -1,0 +1,3529 @@
+{
+  "project": "OSKG-IBD",
+  "phase": 4,
+  "summary": {
+    "total_claims": 476,
+    "total_edges": 174,
+    "claims_with_edges": 267,
+    "orphans": 209,
+    "components": 307,
+    "giant_component_size": 0
+  },
+  "hinges": [
+    {
+      "slug": "claim-sensible-harmless-form-warfare-aberrant-population-intestinal",
+      "claim_id": "gottschall-ch35-3",
+      "statement": "A sensible and harmless form of warfare on the aberrant population of intestinal microbes is to manipulate their energy (food) supply through diet. Mo",
+      "score": 0.0004,
+      "degree": 4,
+      "betweenness": 0.000107,
+      "confidence": "high",
+      "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+      "topics": [
+        "topic/diet",
+        "topic/microbiome",
+        "topic/scd",
+        "topic/carbohydrate-malabsorption"
+      ],
+      "direct_dependents": 1
+    },
+    {
+      "slug": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+      "claim_id": "acg-uc2019-8",
+      "statement": "5-ASA maintenance therapy works; corticosteroids are contraindicated for maintenance",
+      "score": 0.0003,
+      "degree": 4,
+      "betweenness": 7.6e-05,
+      "confidence": "medium",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "topics": [
+        "topic/5-asa",
+        "topic/corticosteroids",
+        "topic/treatment"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+      "claim_id": "aga-cd2021-7",
+      "statement": "Corticosteroids are suggested for induction, strongly recommended against for maintenance; 5-ASA and sulfasalazine are recommended against (R8A-B, R9)",
+      "score": 0.0003,
+      "degree": 4,
+      "betweenness": 7.6e-05,
+      "confidence": "medium",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "topics": [
+        "topic/5-asa",
+        "topic/corticosteroids",
+        "topic/imaging"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-oral-5-asa-induces-remission-low-quality-evidence-strong",
+      "claim_id": "ecco-uc2022-3",
+      "statement": "Oral 5-ASA ≥2 g/d induces remission with low-quality evidence but strong recommendation; topical 5-ASA ≥1 g/d is strongly recommended for distal colit",
+      "score": 0.0002,
+      "degree": 3,
+      "betweenness": 6.2e-05,
+      "confidence": "medium",
+      "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+      "topics": [
+        "topic/endoscopy",
+        "topic/5-asa",
+        "topic/corticosteroids",
+        "topic/mucosal-healing",
+        "topic/grade"
+      ],
+      "direct_dependents": 2
+    },
+    {
+      "slug": "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+      "claim_id": "acg-uc2019-rec21",
+      "statement": "Against thiopurine/MTX monotherapy induction",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 3.6e-05,
+      "confidence": "medium",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "topics": [
+        "topic/ulcerative-colitis",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 2
+    },
+    {
+      "slug": "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+      "claim_id": "acg-uc2019-rec26",
+      "statement": "Vedolizumab after anti-TNF failure",
+      "score": 0.0001,
+      "degree": 2,
+      "betweenness": 3.6e-05,
+      "confidence": "high",
+      "source_note": "[[ACG UC 2019 - Rubin]]",
+      "topics": [
+        "topic/ulcerative-colitis",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 1
+    },
+    {
+      "slug": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+      "claim_id": "aga-cd2021-rec4",
+      "statement": "Biologic monotherapy over thiopurine monotherapy",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 2.7e-05,
+      "confidence": "high",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "topics": [
+        "topic/crohns-disease",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+      "claim_id": "aga-cd2021-rec7",
+      "statement": "Early biologic ± IM over step-up",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 2.7e-05,
+      "confidence": "medium",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "topics": [
+        "topic/crohns-disease",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+      "claim_id": "aga-cd2021-rec9",
+      "statement": "AGAINST 5-ASA/sulfasalazine",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 2.7e-05,
+      "confidence": "high",
+      "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+      "topics": [
+        "topic/crohns-disease",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 2
+    },
+    {
+      "slug": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+      "claim_id": "aga-uc2020-rec2c",
+      "statement": "TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab",
+      "score": 0.0001,
+      "degree": 2,
+      "betweenness": 2.7e-05,
+      "confidence": "medium",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "topics": [
+        "topic/ulcerative-colitis",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-aga-uc2020-r3b-thiopurine-maintenance",
+      "claim_id": "aga-uc2020-rec3b",
+      "statement": "Thiopurine maintenance",
+      "score": 0.0001,
+      "degree": 2,
+      "betweenness": 2.7e-05,
+      "confidence": "medium",
+      "source_note": "[[AGA UC 2020 - Feuerstein]]",
+      "topics": [
+        "topic/ulcerative-colitis",
+        "topic/grade",
+        "topic/treatment"
+      ],
+      "direct_dependents": 1
+    },
+    {
+      "slug": "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+      "claim_id": "bsg-ibd2019-5",
+      "statement": "Statement 18 (strong, high): Patients failing IV steroids by day 3 for ASUC should receive rescue therapy with IV infliximab or ciclosporin (for patie",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 4.4e-05,
+      "confidence": "very-high",
+      "source_note": "[[BSG IBD 2019 - Lamb]]",
+      "topics": [
+        "topic/asuc",
+        "topic/infliximab",
+        "topic/ciclosporin",
+        "topic/rescue-therapy",
+        "topic/colectomy"
+      ],
+      "direct_dependents": 0
+    },
+    {
+      "slug": "claim-common-denominator-underlying-effectiveness-both-natural-specific",
+      "claim_id": "gottschall-ch12-2",
+      "statement": "The common denominator underlying the effectiveness of both the natural Specific Carbohydrate Diet and the synthetic Elemental Diet is the type of car",
+      "score": 0.0001,
+      "degree": 2,
+      "betweenness": 7.1e-05,
+      "confidence": "high",
+      "source_note": "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]",
+      "topics": [
+        "topic/diet",
+        "topic/crohns-disease",
+        "topic/scd",
+        "topic/elemental-diet",
+        "topic/carbohydrate-malabsorption"
+      ],
+      "direct_dependents": 1
+    },
+    {
+      "slug": "claim-core-thesis-ballantyne-paleo",
+      "claim_id": "ballantyne-paleo-implicit-8",
+      "statement": "Autoimmune disease is caused by a combination of genetic predisposition, intestinal permeability (leaky gut), and environmental triggers. The standard",
+      "score": 0.0001,
+      "degree": 3,
+      "betweenness": 2.7e-05,
+      "confidence": "medium",
+      "source_note": "[[The Paleo Approach - Ballantyne 2013]]",
+      "topics": [
+        "topic/diet",
+        "topic/paleo",
+        "topic/autoimmunity"
+      ],
+      "direct_dependents": 3
+    },
+    {
+      "slug": "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+      "claim_id": "acg-cd2018-19",
+      "statement": "IV corticosteroids are first-line for severe/fulminant disease; anti-TNF agents (especially infliximab) may be effective (R32-R34)",
+      "score": 0.0001,
+      "degree": 2,
+      "betweenness": 2.7e-05,
+      "confidence": "medium",
+      "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+      "topics": [
+        "topic/corticosteroids",
+        "topic/biologics",
+        "topic/anti-tnf"
+      ],
+      "direct_dependents": 0
+    }
+  ],
+  "convergence_points": [
+    {
+      "slug": "claim-5-asa-maintenance-therapy-works-corticosteroids-contraindicated-maintenanc",
+      "claim_id": "acg-uc2019-8",
+      "statement": "5-ASA maintenance therapy works; corticosteroids are contraindicated for maintenance",
+      "confidence": "medium",
+      "unique_sources": 3,
+      "total_supporters": 4,
+      "contradiction_count": 0,
+      "source_list": [
+        "ACG Crohn's 2018 - Lichtenstein",
+        "ECCO Crohn's Medical 2020 - Torres",
+        "ECCO UC Therapeutics 2022 - Raine"
+      ]
+    },
+    {
+      "slug": "claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan",
+      "claim_id": "aga-cd2021-7",
+      "statement": "Corticosteroids are suggested for induction, strongly recommended against for maintenance; 5-ASA and sulfasalazine are recommended against (R8A-B, R9)",
+      "confidence": "medium",
+      "unique_sources": 3,
+      "total_supporters": 4,
+      "contradiction_count": 0,
+      "source_list": [
+        "ACG Crohn's 2018 - Lichtenstein",
+        "ACG UC 2019 - Rubin",
+        "ECCO Crohn's Medical 2020 - Torres"
+      ]
+    }
+  ],
+  "contradiction_clusters": [
+    {
+      "claim_a": "claim-bsg-statement-126-mesalazine-crc-chemoprevention",
+      "claim_b": "claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan",
+      "statement_a": "Statement 126 (strong, moderate): UC/IBD-U patients with left-sided or more extensive disease should take mesalazine ≥2 ...",
+      "statement_b": "No medication has proven chemopreventive efficacy to replace colonoscopic surveillance; 5-ASA and thiopurine chemopreven...",
+      "camp_a_size": 0,
+      "camp_b_size": 0,
+      "shared_sources": 0,
+      "shared_names": [],
+      "sources_a": [],
+      "sources_b": [],
+      "assessment": "structurally isolated -- likely an edge-case disagreement"
+    }
+  ],
+  "structural_gaps": {
+    "orphans": [
+      {
+        "slug": "claim-5-15%-patients-isolated-colonic-involvement-possible-initially",
+        "claim_id": "yamada-cddx64-7",
+        "statement": "In 5-15% of patients with isolated colonic involvement, it may not be possible initially to distinguish between ulcerati",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/inflammation",
+          "topic/endoscopy"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r1-fecal-calprotectin-to-differentiate-ibd-from-ibs",
+        "claim_id": "acg-cd2018-rec1",
+        "statement": "Fecal calprotectin to differentiate IBD from IBS",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r12-budesonide-9-mg-for-ileocecal-cd",
+        "claim_id": "acg-cd2018-rec12",
+        "statement": "Budesonide 9 mg for ileocecal CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r13-metronidazole-not-for-luminal-cd",
+        "claim_id": "acg-cd2018-rec13",
+        "statement": "Metronidazole NOT for luminal CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r14-ciprofloxacin-not-for-luminal-cd",
+        "claim_id": "acg-cd2018-rec14",
+        "statement": "Ciprofloxacin NOT for luminal CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r15-antimycobacterial-therapy-not-for-cd",
+        "claim_id": "acg-cd2018-rec15",
+        "statement": "Antimycobacterial therapy NOT for CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r16-symptomatic-treatment---observation-for-low-risk",
+        "claim_id": "acg-cd2018-rec16",
+        "statement": "Symptomatic treatment + observation for low-risk",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r17-oral-corticosteroids-for-short-term-use",
+        "claim_id": "acg-cd2018-rec17",
+        "statement": "Oral corticosteroids for short-term use",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r19-thiopurines-not-for-short-term-induction",
+        "claim_id": "acg-cd2018-rec19",
+        "statement": "Thiopurines NOT for short-term induction",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r2-chromoendoscopy-for-high-risk-patients",
+        "claim_id": "acg-cd2018-rec2",
+        "statement": "Chromoendoscopy for high-risk patients",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r20-thiopurines-for-steroid-sparing",
+        "claim_id": "acg-cd2018-rec20",
+        "statement": "Thiopurines for steroid-sparing",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r23-methotrexate-for-steroid-dependent-cd",
+        "claim_id": "acg-cd2018-rec23",
+        "statement": "Methotrexate for steroid-dependent CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+        "claim_id": "acg-cd2018-rec24",
+        "statement": "Anti-TNF for steroid-refractory CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r27-vedolizumab-for-induction",
+        "claim_id": "acg-cd2018-rec27",
+        "statement": "Vedolizumab for induction",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r28-natalizumab-for-induction",
+        "claim_id": "acg-cd2018-rec28",
+        "statement": "Natalizumab for induction",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r29-natalizumab-only-if-jc-virus-negative",
+        "claim_id": "acg-cd2018-rec29",
+        "statement": "Natalizumab only if JC virus negative",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r3-insufficient-evidence-for-universal-chromoendoscop",
+        "claim_id": "acg-cd2018-rec3",
+        "statement": "Insufficient evidence for universal chromoendoscopy if HD-WLE available",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+        "claim_id": "acg-cd2018-rec30",
+        "statement": "Ustekinumab for mod-severe CD (anti-TNF failures and naive)",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r31-cyclosporine--mmf--tacrolimus-not-for-cd",
+        "claim_id": "acg-cd2018-rec31",
+        "statement": "Cyclosporine, MMF, tacrolimus NOT for CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r32-iv-corticosteroids-for-severe-fulminant",
+        "claim_id": "acg-cd2018-rec32",
+        "statement": "IV corticosteroids for severe/fulminant",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+        "claim_id": "acg-cd2018-rec33",
+        "statement": "Anti-TNF for severely active CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r34-infliximab-for-fulminant-cd",
+        "claim_id": "acg-cd2018-rec34",
+        "statement": "Infliximab for fulminant CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r35-infliximab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec35",
+        "statement": "Infliximab for perianal fistulas",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul",
+        "claim_id": "acg-cd2018-rec36",
+        "statement": "Infliximab for enterocutaneous/rectovaginal fistulas",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r37-adalimumab-certolizumab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec37",
+        "statement": "Adalimumab/certolizumab for perianal fistulas",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r38-thiopurines-for-fistulizing-cd",
+        "claim_id": "acg-cd2018-rec38",
+        "statement": "Thiopurines for fistulizing CD",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r39-tacrolimus-for-short-term-perianal-cutaneous-fistu",
+        "claim_id": "acg-cd2018-rec39",
+        "statement": "Tacrolimus for short-term perianal/cutaneous fistulas",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r4-narrow-band-imaging-should-not-be-used",
+        "claim_id": "acg-cd2018-rec4",
+        "statement": "Narrow-band imaging should NOT be used",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec41",
+        "statement": "Antibiotics + infliximab for perianal fistulas",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+        "claim_id": "acg-cd2018-rec42",
+        "statement": "Drain abscesses before anti-TNF",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+        "claim_id": "acg-cd2018-rec43",
+        "statement": "Setons increase infliximab efficacy",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+        "claim_id": "acg-cd2018-rec44",
+        "statement": "Thiopurine or MTX after steroid-induced remission",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+        "claim_id": "acg-cd2018-rec45",
+        "statement": "Thiopurine/MTX ± anti-TNF for steroid-dependent patients",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r48-budesonide-not-for-maintenance-beyond-4-months",
+        "claim_id": "acg-cd2018-rec48",
+        "statement": "Budesonide NOT for maintenance beyond 4 months",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+        "claim_id": "acg-cd2018-rec49",
+        "statement": "Anti-TNF for anti-TNF-induced remission maintenance",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r5-targeted-biopsies-may-replace-random-biopsies-with",
+        "claim_id": "acg-cd2018-rec5",
+        "statement": "Targeted biopsies may replace random biopsies with chromoendoscopy",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r50-consider-combination-therapy-to-reduce-immunogenic",
+        "claim_id": "acg-cd2018-rec50",
+        "statement": "Consider combination therapy to reduce immunogenicity",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+        "claim_id": "acg-cd2018-rec51",
+        "statement": "Vedolizumab for vedolizumab-induced remission maintenance",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r52-natalizumab-maintenance-only-if-jc-virus-negative",
+        "claim_id": "acg-cd2018-rec52",
+        "statement": "Natalizumab maintenance only if JC virus negative",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+        "claim_id": "acg-cd2018-rec53",
+        "statement": "Ustekinumab for ustekinumab-induced response maintenance",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r54-smoking-cessation",
+        "claim_id": "acg-cd2018-rec54",
+        "statement": "Smoking cessation",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine — limited benefit, option for low-risk",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r56-imidazole-antibiotics-to-prevent-recurrence",
+        "claim_id": "acg-cd2018-rec56",
+        "statement": "Imidazole antibiotics to prevent recurrence",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r57-thiopurines-prevent-recurrence-but-not-severe-endo",
+        "claim_id": "acg-cd2018-rec57",
+        "statement": "Thiopurines prevent recurrence but NOT severe endoscopic recurrence",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients",
+        "claim_id": "acg-cd2018-rec58",
+        "statement": "Anti-TNF within 4 weeks for high-risk patients",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r59-anti-tnf---immunomodulator-post-op",
+        "claim_id": "acg-cd2018-rec59",
+        "statement": "Anti-TNF + immunomodulator post-op",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r6-avoid-nsaids",
+        "claim_id": "acg-cd2018-rec6",
+        "statement": "Avoid NSAIDs",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r60-abscess--antibiotics---drainage",
+        "claim_id": "acg-cd2018-rec60",
+        "statement": "Abscess: antibiotics + drainage",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r7-smoking-cessation",
+        "claim_id": "acg-cd2018-rec7",
+        "statement": "Smoking cessation",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-cd2018-r8-do-not-restrict-antibiotics-to-prevent-flares",
+        "claim_id": "acg-cd2018-rec8",
+        "statement": "Do not restrict antibiotics to prevent flares",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r1-stool-testing-for-c--diff-at-diagnosis",
+        "claim_id": "acg-uc2019-rec1",
+        "statement": "Stool testing for C. diff at diagnosis",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r12-against-switching-5-asa-formulations",
+        "claim_id": "acg-uc2019-rec12",
+        "statement": "Against switching 5-ASA formulations",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r13-low-dose--2-2-4-g--vs-high-dose-5-asa",
+        "claim_id": "acg-uc2019-rec13",
+        "statement": "Low-dose (2-2.4 g) vs high-dose 5-ASA",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+        "claim_id": "acg-uc2019-rec14",
+        "statement": "Add budesonide MMX in 5-ASA partial response",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r15-once-daily-5-asa-dosing",
+        "claim_id": "acg-uc2019-rec15",
+        "statement": "Once-daily 5-ASA dosing",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r18-against-systemic-steroids-for-maintenance",
+        "claim_id": "acg-uc2019-rec18",
+        "statement": "Against systemic steroids for maintenance",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r2-against-serologic-testing-for-diagnosis",
+        "claim_id": "acg-uc2019-rec2",
+        "statement": "Against serologic testing for diagnosis",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r20-systemic-steroids-for-moderate-severe-induction",
+        "claim_id": "acg-uc2019-rec20",
+        "statement": "Systemic steroids for moderate-severe induction",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r29-therapeutic-drug-monitoring-in-lor",
+        "claim_id": "acg-uc2019-rec29",
+        "statement": "Therapeutic drug monitoring in LOR",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r3-against-serologic-testing-for-prognosis",
+        "claim_id": "acg-uc2019-rec3",
+        "statement": "Against serologic testing for prognosis",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+        "claim_id": "acg-uc2019-rec30",
+        "statement": "Against 5-ASA with anti-TNF maintenance",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r31-against-steroids-for-maintenance",
+        "claim_id": "acg-uc2019-rec31",
+        "statement": "Against steroids for maintenance",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+        "claim_id": "acg-uc2019-rec32",
+        "statement": "Thiopurines for steroid-induced remission maintenance",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r4-treat-to-mucosal-healing--mayo-0-1",
+        "claim_id": "acg-uc2019-rec4",
+        "statement": "Treat to mucosal healing (Mayo 0-1)",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r41-against-tpn-bowel-rest-in-asuc",
+        "claim_id": "acg-uc2019-rec41",
+        "statement": "Against TPN/bowel rest in ASUC",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r44-ifx-maintenance-after-ifx-rescue-in-asuc",
+        "claim_id": "acg-uc2019-rec44",
+        "statement": "IFX maintenance after IFX rescue in ASUC",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue",
+        "claim_id": "acg-uc2019-rec46",
+        "statement": "Vedolizumab maintenance after cyclosporine rescue",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r47-screening-surveillance-colonoscopy-for-uc-beyond-r",
+        "claim_id": "acg-uc2019-rec47",
+        "statement": "Screening/surveillance colonoscopy for UC beyond rectum",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r48-dye-spray-chromoendoscopy-with-sd-colonoscopes",
+        "claim_id": "acg-uc2019-rec48",
+        "statement": "Dye spray chromoendoscopy with SD colonoscopes",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r49-hd-wle---nbi-or-chromoendoscopy-with-hd-scopes",
+        "claim_id": "acg-uc2019-rec49",
+        "statement": "HD-WLE + NBI or chromoendoscopy with HD scopes",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r5-fc-as-surrogate-when-endoscopy-unavailable",
+        "claim_id": "acg-uc2019-rec5",
+        "statement": "FC as surrogate when endoscopy unavailable",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+        "claim_id": "acg-uc2019-rec9",
+        "statement": "Budesonide MMX for 5-ASA-refractory left-sided",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-actually-dont-know-normal-microbiome-looks-like",
+        "claim_id": "pimentel-ch3-4",
+        "statement": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magi",
+        "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/imo",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-aga-sibo2020-bpa-2-4",
+        "claim_id": "aga-sibo2020-implicit-2",
+        "statement": "BPA 2-4: \"Symptoms traditionally linked to SIBO include bloating, diarrhea and abdominal pain/discomfort. Steatorrhea ma",
+        "source_note": "[[AGA SIBO 2020 - Quigley]]",
+        "topics": [
+          "topic/sibo",
+          "topic/diagnosis",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-aga-sibo2020-bpa-7-9",
+        "claim_id": "aga-sibo2020-implicit-4",
+        "statement": "BPA 7-9: \"Management should focus on the identification and correction (where possible) of underlying causes, correction",
+        "source_note": "[[AGA SIBO 2020 - Quigley]]",
+        "topics": [
+          "topic/sibo",
+          "topic/diagnosis",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim_id": "aga-uc2020-rec10",
+        "statement": "Infliximab or cyclosporine in steroid-refractory ASUC",
+        "source_note": "[[AGA UC 2020 - Feuerstein]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-anxiety-doesnt-give-you-ibs-ibs-gives",
+        "claim_id": "pimentel-ch1-6",
+        "statement": "Anxiety Doesn't Give You IBS -- IBS Gives You Anxiety.",
+        "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/sibo",
+          "topic/antibiotics"
+        ]
+      },
+      {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a singl",
+        "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/diagnosis",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-aside-coli-nissle-probiotic-there-evidence-probiotic",
+        "claim_id": "steinhart-drug-10",
+        "statement": "Aside from the E. coli Nissle probiotic, there is no evidence that any probiotic, including VSL#3, is effective in impro",
+        "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/5-asa",
+          "topic/probiotics"
+        ]
+      },
+      {
+        "slug": "claim-average-take-four-six-years-you-receive",
+        "claim_id": "pimentel-ch1-4",
+        "statement": "On average, it might take four to six years for you to receive a diagnosis of IBS, usually after undergoing a variety of",
+        "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/diagnosis"
+        ]
+      },
+      {
+        "slug": "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+        "claim_id": "pimentel-ch2-5",
+        "statement": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which",
+        "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-based-validation-study-almost-3000-patients-proved",
+        "claim_id": "pimentel-ch4-3",
+        "statement": "Based on a validation study of almost 3000 patients, we proved that we can diagnose IBS with greater than 90 percent cer",
+        "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/autoimmunity",
+          "topic/diagnosis"
+        ]
+      },
+      {
+        "slug": "claim-because-low-sensitivity-screening-ibd-general-population",
+        "claim_id": "yamada-cddx64-5",
+        "statement": "Because of low sensitivity, screening for IBD in the general population is not appropriate... serological testing is ins",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/immune-dysregulation",
+          "topic/biomarkers",
+          "topic/histology"
+        ]
+      },
+      {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Croh",
+        "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/biologics",
+          "topic/crohns-disease"
+        ]
+      },
+      {
+        "slug": "claim-both-infliximab-cyclosporine-effective-rescue-therapies-similar",
+        "claim_id": "acg-uc2019-15",
+        "statement": "Both infliximab and cyclosporine are effective rescue therapies with similar outcomes; choice depends on provider experi",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/biologics",
+          "topic/anti-integrin",
+          "topic/surgery"
+        ]
+      },
+      {
+        "slug": "claim-bsg-2019-unified-uc-cd-single-document",
+        "claim_id": "bsg-ibd2019-1",
+        "statement": "The BSG 2019 guideline is the first major international IBD guideline to cover both ulcerative colitis and Crohn's disea",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/ibd",
+          "topic/treatment",
+          "topic/guideline-recommendation"
+        ]
+      },
+      {
+        "slug": "claim-bsg-gpr27-ibd-mdt-model",
+        "claim_id": "bsg-ibd2019-11",
+        "statement": "GPR 27: The IBD MDT should include a core membership of gastroenterologist, colorectal surgeon, IBD specialist nurse, ra",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/service-delivery",
+          "topic/mdt",
+          "topic/ibd-nurse",
+          "topic/nhs"
+        ]
+      },
+      {
+        "slug": "claim-bsg-statement-11-tofacitinib-post-anti-tnf",
+        "claim_id": "bsg-ibd2019-4",
+        "statement": "Statement 11 (strong, high): Tofacitinib can be used in induction and maintenance of UC in patients where anti-TNF treat",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/tofacitinib",
+          "topic/jak-inhibitor",
+          "topic/biologic-sequencing",
+          "topic/contradiction"
+        ]
+      },
+      {
+        "slug": "claim-bsg-statement-128-anti-tnf-pregnancy",
+        "claim_id": "bsg-ibd2019-13",
+        "statement": "Statement 128 (weak, very low): IBD patients receiving anti-TNF therapy should be counselled about risks and benefits of",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/pregnancy",
+          "topic/anti-tnf",
+          "topic/biologics",
+          "topic/breastfeeding"
+        ]
+      },
+      {
+        "slug": "claim-bsg-statement-2-treatment-target-mucosal-healing",
+        "claim_id": "bsg-ibd2019-2",
+        "statement": "Statement 2 (weak, very low): Symptomatic remission combined with mucosal healing should be the treatment target in UC. ",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/treatment-target",
+          "topic/mucosal-healing",
+          "topic/endoscopy",
+          "topic/stride"
+        ]
+      },
+      {
+        "slug": "claim-bsg-statement-42-mesalazine-not-for-cd",
+        "claim_id": "bsg-ibd2019-7",
+        "statement": "Statement 42 (strong, moderate): Mesalazine should NOT be used for induction or maintenance of remission in Crohn's dise",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/mesalazine",
+          "topic/5-asa",
+          "topic/crohns-disease",
+          "topic/maintenance-therapy",
+          "topic/negative-recommendation"
+        ]
+      },
+      {
+        "slug": "claim-bsg-statement-9-biologic-choice-moderate-severe-uc",
+        "claim_id": "bsg-ibd2019-14",
+        "statement": "Statement 9 (strong, high/moderate): Patients requiring ≥2 corticosteroid courses in the past year, or who become cortic",
+        "source_note": "[[BSG IBD 2019 - Lamb]]",
+        "topics": [
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/vedolizumab",
+          "topic/tofacitinib",
+          "topic/corticosteroid-sparing"
+        ]
+      },
+      {
+        "slug": "claim-budesonide-mmx-mgd-appropriate-5-asa-refractory-mild-moderate-maintenance",
+        "claim_id": "ecco-uc2022-5",
+        "statement": "Budesonide MMX 9 mg/d is appropriate for 5-ASA-refractory mild-moderate UC but has no maintenance role; is not recommend",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/histology",
+          "topic/5-asa",
+          "topic/corticosteroids",
+          "topic/mucosal-healing",
+          "topic/grade"
+        ]
+      },
+      {
+        "slug": "claim-carbohydrates-must-digested-monosaccharides-before-absorption-starch",
+        "claim_id": "gottschall-ch35-6",
+        "statement": "Carbohydrates must be digested to monosaccharides before absorption. Starch is broken down by salivary and pancreatic am",
+        "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+        "topics": [
+          "topic/diet",
+          "topic/crohns-disease",
+          "topic/ulcerative-colitis",
+          "topic/autoimmunity",
+          "topic/carbohydrate-malabsorption"
+        ]
+      },
+      {
+        "slug": "claim-citing-controlled-trial-amino-acid-feed-remission",
+        "claim_id": "thompson-een-2",
+        "statement": "Citing a controlled trial: amino acid feed = 69% remission in 3 weeks; whole protein feed = 72% remission. When groups w",
+        "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/elemental-diet",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-clinical-presentation-patients-diverse-heterogeneous-symptoms-range",
+        "claim_id": "yamada-cddx64-1",
+        "statement": "The clinical presentation of patients with CD is diverse and heterogeneous, with symptoms that can range from silent, in",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/crohns-disease",
+          "topic/inflammation",
+          "topic/histology"
+        ]
+      },
+      {
+        "slug": "claim-clinical-study-published-2002-found-ibs-sibo",
+        "claim_id": "pimentel-ch2-2",
+        "statement": "In a clinical study published in 2002, we found that IBS and SIBO patients had 60 percent fewer housekeeping waves compa",
+        "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/ibs"
+        ]
+      },
+      {
+        "slug": "claim-colectomy-offered-early-refractory-disease-restorative-proctocolectomy",
+        "claim_id": "acg-uc2019-18",
+        "statement": "Colectomy should be offered early for refractory disease; restorative proctocolectomy with IPAA is standard; staged proc",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/anti-integrin",
+          "topic/surgery"
+        ]
+      },
+      {
+        "slug": "claim-colonoscopy-ileal-intubation-generally-required-assessment-include",
+        "claim_id": "yamada-cddx64-3",
+        "statement": "Colonoscopy with ileal intubation is generally required for the assessment of CD and should include biopsies for histopa",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/crohns-disease",
+          "topic/inflammation",
+          "topic/endoscopy"
+        ]
+      },
+      {
+        "slug": "claim-conditions-right-laparoscopic-surgery-done-safely-without",
+        "claim_id": "steinhart-surg-7",
+        "statement": "When the conditions are right, laparoscopic surgery can be done safely and without an increase in complications over the",
+        "source_note": "[[Steinhart 2018 - Ch8 Surgical Treatment]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/surgery"
+        ]
+      },
+      {
+        "slug": "claim-core-thesis-marya-inflamed",
+        "claim_id": "marya-inflamed-implicit-7",
+        "statement": "Inflammation is the body's response to damage. The damage is not just bacterial, viral, or dietary — it is also social, ",
+        "source_note": "[[Inflamed - Marya Patel 2021]]",
+        "topics": [
+          "topic/ibd",
+          "topic/inflammation",
+          "topic/social-determinants",
+          "topic/epidemiology"
+        ]
+      },
+      {
+        "slug": "claim-corticosteroids-shown-more-effective-placebo-sulfasalazine-elemental",
+        "claim_id": "yamada-cd64-3",
+        "statement": "Corticosteroids have been shown to be more effective than placebo, sulfasalazine, and elemental diets for the induction ",
+        "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/5-asa",
+          "topic/corticosteroids"
+        ]
+      },
+      {
+        "slug": "claim-cross-sectional-imaging-detect-small-bowel-strictures-technique",
+        "claim_id": "ecco-diag2019-10",
+        "statement": "Cross-sectional imaging should detect small bowel strictures; no technique currently determines fibrosis vs. inflammatio",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/ibd",
+          "topic/imaging",
+          "topic/histology",
+          "topic/surgery"
+        ]
+      },
+      {
+        "slug": "claim-cross-sectional-imaging-modalities-magnetic-resonance-imaging-enterography",
+        "claim_id": "yamada-cddx64-2",
+        "statement": "Cross-sectional imaging modalities (CT and magnetic resonance imaging) with enterography protocols have largely replaced",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/inflammation",
+          "topic/endoscopy",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-culturing-technique-considered-gold-standard-sibo-diagnosis",
+        "claim_id": "pimentel-ch5-6",
+        "statement": "This culturing technique... has been considered the gold standard of SIBO diagnosis. That said, it can't really be the u",
+        "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/elemental-diet",
+          "topic/diagnosis",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-current-guidelines-therefore-recommend-drug-concentration-monitoring",
+        "claim_id": "yamada-uc63-6",
+        "statement": "Current guidelines therefore recommend that drug concentration monitoring only be done reactively when a patient is obse",
+        "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/therapeutic-drug-monitoring",
+          "topic/crohns-disease"
+        ]
+      },
+      {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with sub",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/epidemiology"
+        ]
+      },
+      {
+        "slug": "claim-current-working-hypothesis-abnormal-microbiota-activate-mucosal",
+        "claim_id": "rome-sibo2017-7",
+        "statement": "The current working hypothesis is that abnormal microbiota activate mucosal innate immune responses which increase epith",
+        "source_note": "[[Rome Foundation SIBO Report 2017]]",
+        "topics": [
+          "topic/imaging",
+          "topic/grade",
+          "topic/probiotics",
+          "topic/sibo"
+        ]
+      },
+      {
+        "slug": "claim-developing-disease-after-infection-new-phenomenon-reported",
+        "claim_id": "pimentel-ch4-4",
+        "statement": "Developing a disease after an infection is not a new phenomenon and has been reported for decades in conditions other th",
+        "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/inflammation",
+          "topic/autoimmunity",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-diagnosis-requires-endoscopic-confirmation-histology-exclusion-infectious",
+        "claim_id": "acg-uc2019-1",
+        "statement": "UC diagnosis requires endoscopic confirmation with histology and exclusion of infectious mimics -- C. difficile testing ",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/ibd",
+          "topic/biomarkers",
+          "topic/histology",
+          "topic/grade",
+          "topic/epidemiology"
+        ]
+      },
+      {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms ",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/inflammation",
+          "topic/endoscopy"
+        ]
+      },
+      {
+        "slug": "claim-diagnostic-performance-serological-tests-suboptimal-they-used",
+        "claim_id": "yamada-ucdx63-8",
+        "statement": "The diagnostic performance of these serological tests is suboptimal and they should not used to screen for, or diagnose,",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/crohns-disease",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-disease-presents-diffuse-continuous-inflammation-beginning-rectum",
+        "claim_id": "yamada-ucdx63-4",
+        "statement": "The disease presents as diffuse, continuous inflammation beginning in the rectum, with proximal extension that varies am",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/crohns-disease",
+          "topic/inflammation",
+          "topic/endoscopy"
+        ]
+      },
+      {
+        "slug": "claim-doctors-prescribe-more-antibiotics-they-perceive-patient",
+        "claim_id": "chutkan-rewild-1",
+        "statement": "Doctors prescribe more antibiotics when they perceive the patient wants one. A structured set of 10 questions (Table 11-",
+        "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/antibiotics",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-duration-guidelines-moderate-to-severe-bleeding-fistulas-weeks-months",
+        "claim_id": "thompson-een-4",
+        "statement": "Duration guidelines: moderate-to-severe bleeding or fistulas = 6+ weeks (up to 3 months for fistulas); sporadic bleeding",
+        "source_note": "[[Thompson 2013 - Elemental Diet Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/ibd",
+          "topic/elemental-diet",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-early-biologic-therapy-without-immunomodulator-suggested-over",
+        "claim_id": "aga-cd2021-6",
+        "statement": "Early biologic therapy with or without an immunomodulator is suggested over step-up therapy (R7)",
+        "source_note": "[[AGA Crohn's 2021 - Feuerstein]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/biologics",
+          "topic/surgery",
+          "topic/step-up-vs-top-down"
+        ]
+      },
+      {
+        "slug": "claim-early-biologics-suggested-over-gradual-step-up-after",
+        "claim_id": "aga-uc2020-7",
+        "statement": "Early biologics are suggested over gradual step-up after 5-ASA failure in high-risk patients — but the evidence is entir",
+        "source_note": "[[AGA UC 2020 - Feuerstein]]",
+        "topics": [
+          "topic/5-asa",
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/biologics",
+          "topic/jak-inhibitors"
+        ]
+      },
+      {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the fi",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+        "claim_id": "ecco-uc2022-rec21",
+        "statement": "Ustekinumab for maintenance after ustekinumab induction",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+        "claim_id": "ecco-uc2022-rec4",
+        "statement": "Topical steroids for induction in distal colitis",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/grade",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-fecal-calprotectin-most-sensitive-non-invasive-inflammatory-marker",
+        "claim_id": "ecco-diag2019-3",
+        "statement": "Fecal calprotectin is the most sensitive non-invasive inflammatory marker; all newly diagnosed CD patients require small",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/crohns-disease",
+          "topic/endoscopy",
+          "topic/imaging",
+          "topic/biomarkers",
+          "topic/histology"
+        ]
+      },
+      {
+        "slug": "claim-fecal-calprotectin-shown-equally-effective-detection-inflammation",
+        "claim_id": "yamada-cddx64-6",
+        "statement": "Fecal calprotectin has been shown to be equally effective for the detection of inflammation in both colonic and small bo",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/inflammation",
+          "topic/biomarkers"
+        ]
+      },
+      {
+        "slug": "claim-five-categories-rifaximin-response-one-done-mostly",
+        "claim_id": "pimentel-ch6-2",
+        "statement": "Five categories of rifaximin response: (1) \"One and done\" -- mostly symptom-free for months or years; (2) \"One and bette",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/ibs",
+          "topic/breath-testing",
+          "topic/antibiotics"
+        ]
+      },
+      {
+        "slug": "claim-full-gaps-diet-adds-more-variety-meats",
+        "claim_id": "campbell-gaps-3",
+        "statement": "The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initially only well-cooked, later raw), ferment",
+        "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/gaps",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-glucose-easy-humans-digest-body-designed-absorb",
+        "claim_id": "pimentel-ch5-4",
+        "statement": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small i",
+        "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/breath-testing",
+          "topic/diagnosis",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-graded-recommendation-definitional-scope-setting-moderate-severe-defined-c",
+        "claim_id": "aga-uc2020-1",
+        "statement": "Not a graded recommendation (definitional, scope-setting). Moderate-severe UC is defined by: (a) corticosteroid dependen",
+        "source_note": "[[AGA UC 2020 - Feuerstein]]",
+        "topics": [
+          "topic/ulcerative-colitis",
+          "topic/corticosteroids",
+          "topic/surgery",
+          "topic/grade"
+        ]
+      },
+      {
+        "slug": "claim-having-ready-to-eat-items-available-takes-stress-out",
+        "claim_id": "foote-cookbook-7",
+        "statement": "Having ready-to-eat items available takes the stress out of having to prepare something if you are not feeling well or a",
+        "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+        "topics": [
+          "topic/diet",
+          "topic/treatment",
+          "topic/crohns-disease"
+        ]
+      },
+      {
+        "slug": "claim-healing-foods-flare-ups-hotcold-cereals-including-oatmeal",
+        "claim_id": "foote-cookbook-4",
+        "statement": "The 10 healing foods for flare-ups: hot/cold cereals (including oatmeal), white pasta, white rice, white bread, potatoes",
+        "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+        "topics": [
+          "topic/diet",
+          "topic/ibd",
+          "topic/treatment",
+          "topic/microbiome"
+        ]
+      },
+      {
+        "slug": "claim-hoffman-states-scd-simply-presented-yet-sophisticated",
+        "claim_id": "gottschall-fw-1",
+        "statement": "Hoffman states the SCD is \"simply presented, yet sophisticated in its conception\" and \"transcends several oversimplifica",
+        "source_note": "[[Gottschall 1994 - Foreword]]",
+        "topics": [
+          "topic/diet",
+          "topic/ibs",
+          "topic/inflammation",
+          "topic/antibiotics",
+          "topic/scd"
+        ]
+      },
+      {
+        "slug": "claim-ibs-now-poster-child-microbiome-diseases-ibs",
+        "claim_id": "pimentel-ch3-3",
+        "statement": "IBS is now the poster child of microbiome diseases... IBS remains the only gastrointestinal disease of the intestines fo",
+        "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/imo",
+          "topic/ibs",
+          "topic/ibd"
+        ]
+      },
+      {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysr",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-infliximab-cyclosporine-equivalent-rescue-therapies-corticosteroid-refract",
+        "claim_id": "aga-uc2020-10",
+        "statement": "Infliximab and cyclosporine are equivalent rescue therapies for corticosteroid-refractory ASUC",
+        "source_note": "[[AGA UC 2020 - Feuerstein]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/biologics",
+          "topic/surgery"
+        ]
+      },
+      {
+        "slug": "claim-infliximab-produces-patients-responded-positively-active-crohns",
+        "claim_id": "steinhart-drug-6",
+        "statement": "Infliximab produces \"60% to 80% of patients responded positively\" in active Crohn's. \"Repeated dosing of infliximab can ",
+        "source_note": "[[Steinhart 2018 - Ch7 Drug Therapy]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/biologics",
+          "topic/anti-tnf"
+        ]
+      },
+      {
+        "slug": "claim-initial-basic-diet-1-5-days-severe-diarrhea",
+        "claim_id": "gottschall-ch910-2",
+        "statement": "The initial basic diet for 1-5 days during severe diarrhea and cramping consists of: dry curd cottage cheese with homema",
+        "source_note": "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]",
+        "topics": [
+          "topic/diet",
+          "topic/imaging",
+          "topic/elemental-diet",
+          "topic/crohns-disease"
+        ]
+      },
+      {
+        "slug": "claim-insufficient-evidence-supports-proactive-reactive-tdm-immunomodulator",
+        "claim_id": "ecco-cd2020-9",
+        "statement": "Insufficient evidence supports proactive or reactive TDM; immunomodulator withdrawal after achieving remission on combin",
+        "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+        "topics": [
+          "topic/endoscopy",
+          "topic/imaging",
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/biologics"
+        ]
+      },
+      {
+        "slug": "claim-intra-abdominal-abscess-requires-antibiotics-drainage-surgery-failure",
+        "claim_id": "acg-cd2018-28",
+        "statement": "Intra-abdominal abscess requires antibiotics and drainage; surgery is not a failure of medical therapy (R60)",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/antibiotics",
+          "topic/surgery",
+          "topic/fistula"
+        ]
+      },
+      {
+        "slug": "claim-key-concept-most-common-symptom-sibo-bloating",
+        "claim_id": "acg-sibo2020-2",
+        "statement": "Key Concept 1. \"The most common symptom of SIBO is bloating.\" Key Concept 2: \"Vitamin deficiencies in SIBO are not commo",
+        "source_note": "[[ACG SIBO 2020 - Pimentel]]",
+        "topics": [
+          "topic/sibo",
+          "topic/imaging",
+          "topic/surgery",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-lapine-synthesis-not-primary-source",
+        "claim_id": "lapine-cookbook-3",
+        "statement": "LaPine's book is a synthesis of expert sources (Pimentel, Siebecker, Jacobi, Bulsiewicz, Sarna, Ruscio) rather than a so",
+        "source_note": "[[LaPine 2021 - SIBO Made Simple Cookbook]]",
+        "topics": [
+          "topic/sibo",
+          "topic/diet",
+          "topic/low-fodmap",
+          "topic/scd"
+        ]
+      },
+      {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, an",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-lovastatin-imo-learned-multiple-experiments-lovastatin-blocks",
+        "claim_id": "pimentel-ch6-6",
+        "statement": "Lovastatin for IMO: \"we learned through multiple experiments that lovastatin... blocks an enzyme within the methane-prod",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/imo",
+          "topic/breath-testing",
+          "topic/antibiotics"
+        ]
+      },
+      {
+        "slug": "claim-mark-pimentels-book-published-there-few-treatment",
+        "claim_id": "pimentel-ch1-3",
+        "statement": "When Dr. Mark Pimentel's book was published, there were few treatment options for IBS or SIBO; in fact, 10 years ago the",
+        "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/ibs",
+          "topic/antibiotics",
+          "topic/low-fodmap"
+        ]
+      },
+      {
+        "slug": "claim-measure-drug-levels-antibodies-anti-tnf-loss-response",
+        "claim_id": "acg-uc2019-13",
+        "statement": "Measure drug levels and antibodies in anti-TNF loss of response; primary nonresponders with adequate drug levels should ",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/endoscopy",
+          "topic/biomarkers",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/therapeutic-drug-monitoring"
+        ]
+      },
+      {
+        "slug": "claim-mesalamine-minimally-effective-imidazole-antibiotics-short-term-benefit",
+        "claim_id": "acg-cd2018-26",
+        "statement": "Mesalamine is minimally effective; imidazole antibiotics have short-term benefit but poor tolerability (R55-R56)",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/5-asa",
+          "topic/immunomodulators",
+          "topic/antibiotics"
+        ]
+      },
+      {
+        "slug": "claim-metaanalysis-2499-patients-observed-pooled-sensitivity-specificity",
+        "claim_id": "yamada-ucdx63-3",
+        "statement": "A metaanalysis of 2499 patients observed a pooled sensitivity and specificity of 49% and 92% for C-reactive protein, and",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/crohns-disease",
+          "topic/inflammation"
+        ]
+      },
+      {
+        "slug": "claim-methane-production-involves-methanobrevibacter-smithii-smithii-short",
+        "claim_id": "pimentel-ch5-5",
+        "statement": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea",
+        "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/imo",
+          "topic/breath-testing",
+          "topic/diagnosis",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-methotrexate-effective-patients-ulcerative-colitis-monotherapy",
+        "claim_id": "yamada-uc63-2",
+        "statement": "Methotrexate is not effective in patients with ulcerative colitis as monotherapy.",
+        "source_note": "[[Yamada 7E - Ch63 UC Clinical Manifestations and Management]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/immunomodulators",
+          "topic/ulcerative-colitis"
+        ]
+      },
+      {
+        "slug": "claim-methylprednisolone-40-60-mgday-sufficient-higher-doses-add",
+        "claim_id": "aga-uc2020-8",
+        "statement": "IV methylprednisolone 40-60 mg/day is sufficient; higher doses add toxicity without efficacy",
+        "source_note": "[[AGA UC 2020 - Feuerstein]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/surgery",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-metronidazole-ciprofloxacin-antimycobacterial-therapy-used-primary-therapy",
+        "claim_id": "acg-cd2018-10",
+        "statement": "Metronidazole, ciprofloxacin, and antimycobacterial therapy should NOT be used as primary therapy for luminal CD (R13-R1",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/imaging",
+          "topic/5-asa",
+          "topic/antibiotics"
+        ]
+      },
+      {
+        "slug": "claim-microbiological-testing-using-stool-cultures-bacterial-pathogens",
+        "claim_id": "yamada-ucdx63-2",
+        "statement": "Microbiological testing using stool cultures for bacterial pathogens, panel-based nucleic acid amplification tests for p",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/imaging",
+          "topic/differential-diagnosis"
+        ]
+      },
+      {
+        "slug": "claim-microbiome-small-intestine-considered-eminently-more-important",
+        "claim_id": "pimentel-ch3-2",
+        "statement": "The microbiome in the small intestine may be considered eminently more important than the microbiome in the stool. The i",
+        "source_note": "[[Pimentel 2022 - Ch3 Gut Microbiome]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/imo",
+          "topic/ibs",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-montreal-classification-includes-age-diagnosis-disease-location",
+        "claim_id": "yamada-cddx64-4",
+        "statement": "The Montreal classification includes age at diagnosis, disease location, and the presence of perianal disease and is the",
+        "source_note": "[[Yamada 2022 - Ch64 Crohns Disease Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/inflammation",
+          "topic/fistula"
+        ]
+      },
+      {
+        "slug": "claim-most-convincing-evidence-date-finding-functional-dyspepsia",
+        "claim_id": "rome-sibo2017-5",
+        "statement": "The most convincing evidence to date is the finding that functional dyspepsia and irritable bowel syndrome may develop i",
+        "source_note": "[[Rome Foundation SIBO Report 2017]]",
+        "topics": [
+          "topic/imaging",
+          "topic/antibiotics",
+          "topic/epidemiology"
+        ]
+      },
+      {
+        "slug": "claim-mri-most-accurate-modality-perianal-fistula-classification",
+        "claim_id": "ecco-diag2019-11",
+        "statement": "MRI is the most accurate modality for perianal fistula classification; combining any two of MRI/TRUS/EUA achieves 100% a",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/endoscopy",
+          "topic/imaging",
+          "topic/fistula"
+        ]
+      },
+      {
+        "slug": "claim-mri-preferred-over-small-bowel-imaging-ius",
+        "claim_id": "ecco-diag2019-4",
+        "statement": "MRI is preferred over CT for small bowel imaging; IUS has comparable diagnostic accuracy and is radiation-free",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/imaging",
+          "topic/diagnosis",
+          "topic/sibo",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant ass",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-now-consider-ibs-d-ibs-m-one-type-ibs",
+        "claim_id": "pimentel-ch1-7",
+        "statement": "We now consider IBS-D and IBS-M as one type of IBS disease -- Non-constipation IBS -- and IBS-C is possibly a different ",
+        "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/imo",
+          "topic/ibs",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-now-know-one-out-nine-people-experience",
+        "claim_id": "pimentel-ch4-1",
+        "statement": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "source_note": "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/autoimmunity"
+        ]
+      },
+      {
+        "slug": "claim-once-daily-5-asa-dosing-effective-split-dosing-switching",
+        "claim_id": "acg-uc2019-6",
+        "statement": "Once-daily 5-ASA dosing is as effective as split dosing; switching between 5-ASA formulations in nonresponders is futile",
+        "source_note": "[[ACG UC 2019 - Rubin]]",
+        "topics": [
+          "topic/5-asa",
+          "topic/grade",
+          "topic/imaging",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorga",
+        "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+        "topics": [
+          "topic/diet",
+          "topic/crohns-disease",
+          "topic/inflammation",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-one-retrospective-study-suggested-nearly-half-ibs",
+        "claim_id": "pimentel-ch6-7",
+        "statement": "One retrospective study suggested nearly half of IBS patients responded to these natural products [oil of oregano, neem,",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/antibiotics",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+        "claim_id": "yamada-ibd62-6",
+        "statement": "Not only patients with inflammatory bowel disease but also their first-degree relatives demonstrate an alteration in int",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/epithelial-barrier"
+        ]
+      },
+      {
+        "slug": "claim-our-research-found-about-three-quarters-patients-many",
+        "claim_id": "pimentel-ch1-1",
+        "statement": "Through our research, we have found that about three-quarters of patients -- as many as 30 million Americans -- who have",
+        "source_note": "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/ibs",
+          "topic/autoimmunity",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-our-study-published-years-ago-14-day-elemental",
+        "claim_id": "pimentel-ch6-4",
+        "statement": "In our study published 15 years ago, a 14-day elemental diet was more than 80 percent effective in treating hydrogen-typ",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/breath-testing",
+          "topic/antibiotics",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to los",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/immune-dysregulation",
+          "topic/microbiome"
+        ]
+      },
+      {
+        "slug": "claim-patients-ulcerative-colitis-two-aspects-vital-decision",
+        "claim_id": "yamada-ucdx63-6",
+        "statement": "For all patients with ulcerative colitis, two aspects are vital for decision making: disease activity assessment, which ",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/endoscopy",
+          "topic/biomarkers"
+        ]
+      },
+      {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, ",
+        "source_note": "[[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/imo",
+          "topic/crohns-disease",
+          "topic/ulcerative-colitis",
+          "topic/ibd"
+        ]
+      },
+      {
+        "slug": "claim-peppermint-appears-work-multiple-ways-calcium-channel",
+        "claim_id": "pimentel-ch9-1",
+        "statement": "Peppermint appears to work in multiple ways. It is a calcium channel blocker... It blocks calcium channels in the smooth",
+        "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/elemental-diet"
+        ]
+      },
+      {
+        "slug": "claim-percent-siboibs-patients-smearing-fecal-incontinence-stool",
+        "claim_id": "pimentel-ch2-6",
+        "statement": "Up to 30 percent of SIBO/IBS patients have smearing or fecal incontinence... The stool is more like peanut butter, and i",
+        "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/ibs",
+          "topic/carbohydrate-malabsorption",
+          "topic/microbial-fermentation"
+        ]
+      },
+      {
+        "slug": "claim-performed-study-compared-erythromycin-another-serotonin-agonist",
+        "claim_id": "pimentel-ch6-5",
+        "statement": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod).",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-perianal-requires-combined-clinical-endoscopic-imaging-evaluation",
+        "claim_id": "ecco-diag2019-5",
+        "statement": "Perianal CD requires combined clinical, endoscopic, and imaging evaluation; MRI is first-line for fistula classification",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/imaging",
+          "topic/endoscopy",
+          "topic/fistula"
+        ]
+      },
+      {
+        "slug": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+        "claim_id": "yamada-ibd62-4",
+        "statement": "Polymorphisms in several loci involved in autophagy, including ATG16L1, LRRK2, and IRGM, appear to play important roles ",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-pregnancy-ius-unenhanced-mri-safe-imaging-modalities",
+        "claim_id": "ecco-diag2019-13",
+        "statement": "In pregnancy, IUS and unenhanced MRI are safe imaging modalities; endoscopy only for strong indications; gadolinium is c",
+        "source_note": "[[ECCO Diagnostic 2019 - Maaser]]",
+        "topics": [
+          "topic/endoscopy",
+          "topic/imaging",
+          "topic/pregnancy"
+        ]
+      },
+      {
+        "slug": "claim-quoting-siebecker-youre-diet-thats-restricted-both",
+        "claim_id": "sarna-sibo-diet-5",
+        "statement": "Quoting Siebecker: \"When you're on a diet that's so restricted both in scope and in portion size, it could trigger an ea",
+        "source_note": "[[Sarna 2021 - Healing SIBO Dietary Protocol]]",
+        "topics": [
+          "topic/diet",
+          "topic/sibo",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-recent-publication-showed-two-main-weeds-sibo",
+        "claim_id": "pimentel-ch5-2",
+        "statement": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are refe",
+        "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-recommend-you-only-eliminate-one-food-food",
+        "claim_id": "foote-cookbook-5",
+        "statement": "I recommend that you only eliminate one food (or a food grouping, like dairy or wheat) at a time. Eliminating multiple f",
+        "source_note": "[[Foote 2020 - Crohn's Disease Cookbook]]",
+        "topics": [
+          "topic/diet",
+          "topic/crohns-disease",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-report-provides-seven-general-clinical-recommendations-prioritize",
+        "claim_id": "rome-sibo2017-12",
+        "statement": "The report provides seven general clinical recommendations that prioritize dietary evaluation, probiotic trials, and cau",
+        "source_note": "[[Rome Foundation SIBO Report 2017]]",
+        "topics": [
+          "topic/sibo",
+          "topic/antibiotics",
+          "topic/grade"
+        ]
+      },
+      {
+        "slug": "claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate",
+        "claim_id": "rome-sibo2017-6",
+        "statement": "Results from 16S rRNA-based microbiota profiling approaches demonstrate both quantitative and qualitative changes of muc",
+        "source_note": "[[Rome Foundation SIBO Report 2017]]",
+        "topics": [
+          "topic/ibd",
+          "topic/imaging",
+          "topic/probiotics"
+        ]
+      },
+      {
+        "slug": "claim-sarna-pimentel-alignment-differences",
+        "claim_id": "sarna-guide-4",
+        "statement": "Sarna's SIBO education (definition, three-gas model, MMC mechanism, food poisoning etiology, IBS-SIBO connection) is con",
+        "source_note": "[[Sarna 2021 - Healing SIBO Patient Guide]]",
+        "topics": [
+          "topic/patient-education",
+          "topic/practitioner-comparison",
+          "topic/diagnosis",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-scd-low-fodmap-intersection-dietary-framework",
+        "claim_id": "lapine-cookbook-2",
+        "statement": "LaPine's approach combines SCD and low-FODMAP by finding their intersection: foods that are both SCD-legal (monosacchari",
+        "source_note": "[[LaPine 2021 - SIBO Made Simple Cookbook]]",
+        "topics": [
+          "topic/sibo",
+          "topic/diet",
+          "topic/low-fodmap",
+          "topic/scd"
+        ]
+      },
+      {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial ",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/microbiome"
+        ]
+      },
+      {
+        "slug": "claim-sibo-core-principles-unchanged-2006-2022",
+        "claim_id": "pimentel-evol-6",
+        "statement": "Several core elements of Pimentel's SIBO framework remained unchanged between 2006 and 2022: (a) the MMC housekeeper wav",
+        "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+        "topics": [
+          "topic/sibo",
+          "topic/ibs",
+          "topic/autoimmunity"
+        ]
+      },
+      {
+        "slug": "claim-sibo-really-just-another-term-dysbiosis-occurs",
+        "claim_id": "chutkan-dysbiosis-3",
+        "statement": "SIBO is really just another term for dysbiosis that occurs when large amounts of not-so-good bacteria take up residence ",
+        "source_note": "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/dysbiosis",
+          "topic/autoimmunity",
+          "topic/probiotics"
+        ]
+      },
+      {
+        "slug": "claim-similar-sibo-fungal-elements-overgrow-small-intestine",
+        "claim_id": "pimentel-ch9-4",
+        "statement": "Similar to SIBO, fungal elements can overgrow in the small intestine and cause symptoms. The only way to diagnose small ",
+        "source_note": "[[Pimentel 2022 - Ch9 Refractory SIBO]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/diagnosis",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-simple-approach-minimizing-undesirable-activities-intestinal-microbes",
+        "claim_id": "gottschall-ch35-2",
+        "statement": "A simple approach to minimizing the undesirable activities of intestinal microbes would seem to be through the use of an",
+        "source_note": "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]",
+        "topics": [
+          "topic/diet",
+          "topic/microbiome",
+          "topic/antibiotics",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-smoking-cessation-only-modifiable-risk-factor-risk",
+        "claim_id": "acg-cd2018-25",
+        "statement": "Smoking cessation is the only modifiable risk factor; risk stratification guides prophylaxis intensity (R54)",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/endoscopy",
+          "topic/imaging",
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/biologics"
+        ]
+      },
+      {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "source_note": "[[Yamada Ch58 - Bacterial Overgrowth Textbook]]",
+        "topics": [
+          "topic/sibo",
+          "topic/microbiome",
+          "topic/diagnosis"
+        ]
+      },
+      {
+        "slug": "claim-summary-statements-6-8-grade-rated",
+        "claim_id": "acg-cd2018-1",
+        "statement": "Summary Statements 4, 6-8. Not GRADE-rated.",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/biologics",
+          "topic/surgery",
+          "topic/grade"
+        ]
+      },
+      {
+        "slug": "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+        "claim_id": "chutkan-rewild-3",
+        "statement": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical form",
+        "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/antibiotics",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medicat",
+        "source_note": "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/antibiotics",
+          "topic/elemental-diet",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-th1-th17-cells-play-role-development-crohn's",
+        "claim_id": "yamada-ibd62-5",
+        "statement": "Th1 and Th17 cells play a role in the development of Crohn's disease. The intestinal mucosa of patients with Crohn's dis",
+        "source_note": "[[Yamada 2022 - Ch62 IBD Pathogenesis]]",
+        "topics": [
+          "topic/ibd",
+          "topic/pathogenesis",
+          "topic/genetics",
+          "topic/immune-dysregulation"
+        ]
+      },
+      {
+        "slug": "claim-there-insufficient-evidence-recommend-against-therapeutic-drug",
+        "claim_id": "ecco-uc2022-14",
+        "statement": "There is insufficient evidence to recommend for or against therapeutic drug monitoring to improve clinical outcomes — EC",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/imaging",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/anti-integrin",
+          "topic/anti-il12-23"
+        ]
+      },
+      {
+        "slug": "claim-there-several-subpopulations-microorganisms-sibo-depending-gas",
+        "claim_id": "pimentel-ch5-3",
+        "statement": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food.",
+        "source_note": "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/sibo",
+          "topic/imo",
+          "topic/breath-testing"
+        ]
+      },
+      {
+        "slug": "claim-thiopurines-methotrexate-started-after-corticosteroid-induced-remission-r4",
+        "claim_id": "acg-cd2018-21",
+        "statement": "Thiopurines or methotrexate should be started after corticosteroid-induced remission (R44-R45)",
+        "source_note": "[[ACG Crohn's 2018 - Lichtenstein]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/biologics",
+          "topic/anti-tnf"
+        ]
+      },
+      {
+        "slug": "claim-thiopurines-used-monotherapy-induction-their-role-steroid-sparing",
+        "claim_id": "ecco-cd2020-4",
+        "statement": "Thiopurines should NOT be used as monotherapy for induction; their role is in steroid-sparing maintenance (R1.4)",
+        "source_note": "[[ECCO Crohn's Medical 2020 - Torres]]",
+        "topics": [
+          "topic/biomarkers",
+          "topic/corticosteroids",
+          "topic/immunomodulators",
+          "topic/grade"
+        ]
+      },
+      {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predomi",
+        "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+        "topics": [
+          "topic/breath-testing",
+          "topic/methane",
+          "topic/hydrogen-sulfide",
+          "topic/imo"
+        ]
+      },
+      {
+        "slug": "claim-tofacitinib-strongly-recommended-induction-moderate-quality-evidence-guide",
+        "claim_id": "ecco-uc2022-11",
+        "statement": "Tofacitinib is strongly recommended for induction with moderate-quality evidence; the guideline explicitly addresses eme",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/anti-integrin",
+          "topic/anti-il12-23"
+        ]
+      },
+      {
+        "slug": "claim-treat-sibo-patients-successfully-about-percent-them",
+        "claim_id": "pimentel-lfe-2",
+        "statement": "When we treat SIBO patients successfully, about 30 to 40 percent of them who initially had a positive lactose intoleranc",
+        "source_note": "[[Pimentel 2022 - Low-Fermentation Eating]]",
+        "topics": [
+          "topic/diet",
+          "topic/sibo",
+          "topic/breath-testing",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response cat",
+        "source_note": "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]",
+        "topics": [
+          "topic/treatment-outcomes",
+          "topic/rifaximin",
+          "topic/relapse"
+        ]
+      },
+      {
+        "slug": "claim-treatment-rifaximin-alone-another-antibiotic-neomycin-alone",
+        "claim_id": "pimentel-ch6-3",
+        "statement": "Treatment with rifaximin alone or with another antibiotic (neomycin) alone did not work well. However, in the laboratory",
+        "source_note": "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/ibs",
+          "topic/breath-testing",
+          "topic/antibiotics",
+          "topic/treatment"
+        ]
+      },
+      {
+        "slug": "claim-ulcerative-colitis-considered-patient-presents-rectal-bleeding",
+        "claim_id": "yamada-ucdx63-7",
+        "statement": "Ulcerative colitis should be considered in any patient who presents with rectal bleeding or chronic diarrhea... The most",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/immune-dysregulation",
+          "topic/inflammation"
+        ]
+      },
+      {
+        "slug": "claim-ustekinumab-strongly-recommended-induction-first-major-guideline",
+        "claim_id": "ecco-uc2022-12",
+        "statement": "Ustekinumab is strongly recommended for induction — the first major UC guideline to incorporate it, with efficacy in bot",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/ibd",
+          "topic/biomarkers",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/anti-integrin"
+        ]
+      },
+      {
+        "slug": "claim-vedolizumab-effective-induction-maintenance-agent-approved-use",
+        "claim_id": "yamada-cd64-5",
+        "statement": "Vedolizumab \"is an effective induction and maintenance agent approved for use in CD,\" with \"up to 89% of patients in rem",
+        "source_note": "[[Yamada 7E - Ch64 Crohn's Disease Management]]",
+        "topics": [
+          "topic/treatment",
+          "topic/ibd",
+          "topic/biologics",
+          "topic/anti-tnf"
+        ]
+      },
+      {
+        "slug": "claim-vedolizumab-strongly-recommended-induction-low-quality-evidence-weak",
+        "claim_id": "ecco-uc2022-10",
+        "statement": "Vedolizumab is strongly recommended for induction with low-quality evidence; the weak recommendation favoring vedolizuma",
+        "source_note": "[[ECCO UC Therapeutics 2022 - Raine]]",
+        "topics": [
+          "topic/corticosteroids",
+          "topic/biologics",
+          "topic/anti-tnf",
+          "topic/anti-integrin",
+          "topic/mucosal-healing"
+        ]
+      },
+      {
+        "slug": "claim-while-there-pathognomonic-histological-criteria-diagnosis-ulcerative",
+        "claim_id": "yamada-ucdx63-5",
+        "statement": "While there are no pathognomonic histological criteria for the diagnosis of ulcerative colitis, a primary distinction be",
+        "source_note": "[[Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis]]",
+        "topics": [
+          "topic/diagnosis",
+          "topic/ulcerative-colitis",
+          "topic/inflammation",
+          "topic/imaging"
+        ]
+      },
+      {
+        "slug": "claim-your-gut-millions-immune-cells-more-immune",
+        "claim_id": "pimentel-ch2-4",
+        "statement": "Your gut has millions of immune cells -- more immune cells than anywhere else in your body. The intestinal immune system",
+        "source_note": "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]",
+        "topics": [
+          "topic/microbiome",
+          "topic/elemental-diet",
+          "topic/immune-dysregulation",
+          "topic/epithelial-barrier"
+        ]
+      }
+    ],
+    "orphan_count": 209,
+    "components": {
+      "total": 307,
+      "giant_size": 0,
+      "small_clusters": [
+        {
+          "size": 3,
+          "members": [
+            "claim-1951-after-many-years-clinical-experience-drs",
+            "claim-specific-carbohydrate-diet-most-often-corrects-malabsorption",
+            "claim-pimentel-rezaie-survey-dietary-landscape-find-existing"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
+            "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
+            "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+            "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa",
+            "claim-aga-cd2021-r7-early-biologic---im-over-step-up",
+            "claim-acg-cd2018-r47-corticosteroids-not-for-maintenance",
+            "claim-acg-cd2018-r21-thiopurines-for-maintenance"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation",
+            "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+            "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd",
+            "claim-acg-cd2018-r26-combination-infliximab---immunomodulator"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu",
+            "claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-cd2018-r9-assess-manage-stress--depression--anxiety",
+            "claim-anxiety-depression-screening-routine-care"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
+            "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+            "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+            "claim-ecco-uc2022-r10-thiopurine-monotherapy-for-maintenance--steroid-de"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r16-rectal-5-asa-maintenance-for-proctitis",
+            "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r17-oral-5-asa-maintenance-for-left-sided-extensive",
+            "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction",
+            "claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc",
+            "claim-ecco-uc2022-r11-oral-prednisolone-for-induction-in-moderate-severe"
+          ]
+        },
+        {
+          "size": 5,
+          "members": [
+            "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
+            "claim-aga-uc2020-r3a-against-thiopurine-induction",
+            "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+            "claim-aga-uc2020-r3b-thiopurine-maintenance",
+            "claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r22-anti-tnf-therapy-for-induction",
+            "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf",
+            "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r24-combination-ifx---thiopurine",
+            "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r25-vedolizumab-for-induction",
+            "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc"
+          ]
+        },
+        {
+          "size": 5,
+          "members": [
+            "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
+            "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
+            "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+            "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+            "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r27-tofacitinib-for-induction",
+            "claim-ecco-uc2022-r14-tofacitinib-for-induction-in-moderate-severe-uc"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r33-against-methotrexate-for-maintenance",
+            "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r34-continue-anti-tnf-for-maintenance",
+            "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r35-continue-vedolizumab-for-maintenance",
+            "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+            "claim-ecco-uc2022-r20-tofacitinib-for-maintenance-after-tofacitinib-indu"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc",
+            "claim-aga-uc2020-r9-against-adjunctive-antibiotics-in-asuc"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+            "claim-aga-uc2020-r8-iv-methylprednisolone-40-60-mg-day"
+          ]
+        },
+        {
+          "size": 5,
+          "members": [
+            "claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day",
+            "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
+            "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
+            "claim-adjunctive-antibiotics-used-routinely-asuc-without-infection",
+            "claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r6-rectal-5-asa-1-g-d-for-proctitis-induction",
+            "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r7-rectal-5-asa---rectal-steroids-for-left-sided",
+            "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-acg-uc2019-r8-combination-oral---rectal-5-asa-for-left-sided",
+            "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-after-elemental-diet-reintroduce-foods-four-progressive",
+            "claim-most-cases-begin-improve-within-three-weeks"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-aga-sibo2020-bpa-1",
+            "claim-sibo-defined-presence-excessive-numbers-bacteria-small",
+            "claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-aga-sibo2020-bpa-5-6",
+            "claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-almost-patients-see-practice-crohns-disease-ulcerative",
+            "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+            "claim-modern-westerners-lost-roughly-third-their-microbial",
+            "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
+            "claim-steroids-used-many-decades-treatment-inflammatory-bowel",
+            "claim-concept-broad-based-pyramid-implies-majority-patients-mild"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina",
+            "claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard",
+            "claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended",
+            "claim-mucosal-healing-important-therapeutic-goal-both-validated",
+            "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
+            "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy",
+            "claim-bsg-statement-91-biosimilar-infliximab-ct-p13"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence",
+            "claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk",
+            "claim-methotrexate-parenterally-effective-maintenance-biologics-continued-mainta"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence",
+            "claim-short-course-gut-specific-antibiotics-utility-patients-ibs"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment",
+            "claim-sibo-almost-always-epiphenomenon-underlying-cause-motility"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination",
+            "claim-infliximab-best-studied-agent-perianal-fistulas-combination-seton"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-approach-often-used-manage-perianal-crohns-disease",
+            "claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve",
+            "claim-there-move-toward-using-more-potent-more",
+            "claim-there-move-toward-making-elimination-active-inflammation"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance",
+            "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
+            "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab",
+            "claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-approximately-people-suffering-crohns-disease-approximately-people",
+            "claim-given-cured-surgery-short-bowel-syndrome-occur",
+            "claim-strictureplasty-method-avoiding-removal-additional-segments-intestine"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-assessment-disease-activity-endoscopy-andor-imaging-necessary",
+            "claim-disease-severity-must-incorporate-four-domains-patient-reported"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-attempts-define-disease-severity-widely-used-setting",
+            "claim-single-reference-standard-exists-ibd-diagnosis-composite",
+            "claim-possible-ibs-ibd-coexist-higher-expected-frequency",
+            "claim-ileocolonoscopy-biopsies-required-diagnosis-endoscopic-histological-featur"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-azathioprine-6-mercaptopurine-useful-keeping-patients-remission-reducing",
+            "claim-sonic-trial-patients-received-combined-regimen-superior"
+          ]
+        },
+        {
+          "size": 5,
+          "members": [
+            "claim-bacteria-digest-fiber-short-chain-fatty-acids-butyrate",
+            "claim-theres-really-thing-good-bad-native-bacteria",
+            "claim-gastroenterology-practice-plant-based-diet-low-processed-carbohydrates",
+            "claim-ten-things-taking-antibiotics-table-11-2-includes",
+            "claim-six-randomized-controlled-trials-fecal-transplant-ibs"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-bacterial-overgrowth-stomach-small-intestine-occur-various",
+            "claim-doubt-autoimmunity-born-gut"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-based-network-metaanalysis-induction-trials-including-8020",
+            "claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory",
+            "claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-because-food-poisoning-connection-now-know-more",
+            "claim-shown-more-percent-patients-ibd-controlled-inflammation"
+          ]
+        },
+        {
+          "size": 4,
+          "members": [
+            "claim-began-notice-other-unanticipated-benefits-patients-muscle",
+            "claim-core-thesis-ballantyne-paleo",
+            "claim-core-thesis-myers-autoimmune",
+            "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory"
+          ]
+        },
+        {
+          "size": 5,
+          "members": [
+            "claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over",
+            "claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti",
+            "claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive",
+            "claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment",
+            "claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-bsg-statement-126-mesalazine-crc-chemoprevention",
+            "claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-bsg-statement-3-5asa-induction-uc",
+            "claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active",
+            "claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-bsg-statement-34-een-adult-cd",
+            "claim-controlled-ileal-release-budesonide-daily-first-line-mild-to-moderate"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-bsg-statement-36-surgery-localized-ileocaecal-cd",
+            "claim-low-risk-patients-symptomatic-treatment-careful-observation-acceptable"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-bsg-statement-69-smoking-postoperative-cd",
+            "claim-nsaids-exacerbate-disease-avoided-smoking-cessation-critical"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-cant-emphasize-enough-importance-keeping-gastrointestinal-tracts",
+            "claim-space-your-meals-four-five-hours-apart"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-cdtb-looks-similar-native-protein-our-body",
+            "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-cdtb-vinculin-autoimmunity-discovery-2006-2022",
+            "claim-remember-gut-two-modes-feeding-digestion-fasting"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-chromoendoscopy-increases-dysplasia-detection-over-standard-definition-whi",
+            "claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy",
+            "claim-screening-colonoscopy-starts-years-after-diagnosis-immediately"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-combination-biologic-immunomodulator-therapy-recommended-over-either",
+            "claim-infliximab-thiopurine-combination-suggested-adalimumab-thiopurine-suggeste"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-connection-between-crohns-disease-sugar-rich-diet-proved",
+            "claim-diets-work-same-reason-they-reduce-amount",
+            "claim-gottschall-presents-historical-through-line-aretaeus-300-treated"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-core-thesis-sonnenburg-gut",
+            "claim-fewer-bacteria-our-gut-our-ancestors-because",
+            "claim-microbial-cells-outnumber-human-cells-ten-one"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-diet-alone-wont-cure-sibo-even-you",
+            "claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-endoscopic-recurrence-rates-70-90-reported-early-year",
+            "claim-perhaps-best-way-reduce-risk-recurrence-crohns"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-fecal-calprotectin-helpful-test-differentiate-ibd-ibs",
+            "claim-structured-fc-based-monitoring-strategy-detect-preclinical-relapse"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-first-step-treating-sibo-understand-sibo-primary",
+            "claim-sibo-relapse-management-multiple-treatment-rounds"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo",
+            "claim-role-sibo-pathogenesis-ibs-controversial-because-breath",
+            "claim-graded-recommendation-discussed-reference-standard-significant-limitations"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-grade-guideline-pico-structured-questions-supported-first-formal",
+            "claim-summary-statements-24-35-grade-rated"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-graded-discussed-adjunctive-therapy-without-formal-recommendation",
+            "claim-prebiotics-synbiotics-theoretically-potential-treating-functional-gastroin"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-helpful-think-leaky-gut-more-mechanism-disease",
+            "claim-you-sibo-taking-prebiotic-actually-provide-food",
+            "claim-recent-medium-sized-randomized-controlled-trial-found-5000"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-ileocolonoscopy-reference-standard-postoperative-recurrence-within-6-12",
+            "claim-thiopurines-prevent-clinical-endoscopic-recurrence-severe-endoscopic"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-inflammation-small-intestine-cause-malabsorption-nutrients-while",
+            "claim-most-people-chronic-intestinal-disorders-suffer-malabsorption"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-infliximab-best-evidence-perianal-fistula-closure-adalimumab",
+            "claim-infliximab-only-biologic-rct-level-evidence-fistula-healing"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-infliximab-shown-effective-inducing-maintaining-clinical-remission",
+            "claim-measurement-drug-concentration-anti-drug-antibody-levels-shown"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-intensive-infliximab-dosing-asuc-guideline-punts",
+            "claim-methylprednisolone-mgd-hydrocortisone-100-tid-qid-3-5-days"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-main-problem-rome-criteria-they-never-really",
+            "claim-sibo-occurs-there-greater-1000-bacteria-per",
+            "claim-now-know-microbiome-20-foot-long-small-intestine-radically"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-majority-trials-probiotics-ibs-show-degree-efficacy",
+            "claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries",
+            "claim-most-microbial-diversity-human-tract-currently-represented"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-methane-positive-breath-testing-ppm-indicates-intestinal-methanogen",
+            "claim-report-identifies-specific-methodological-conceptual-barriers-progress"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-methotrexate-effective-steroid-dependent-r23",
+            "claim-thiopurines-recommended-induction-suggested-maintenance-scim-methotrexate",
+            "claim-thiopurines-used-monotherapy-induction-they-too-slow"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target",
+            "claim-ultimate-goal-treatment-maintain-health-related-quality-life"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-notice-just-referred-ibs-disease-doesnt-ibs",
+            "claim-there-antidepressant-drug-antidepressantantipsychotic-property-approved-tr"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-one-basic-principle-diet-must-firmly-established",
+            "claim-week-most-restrictive-eliminate-many-carbohydrates-much"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-one-oversimplification-elaine-gottschalls-book-avoids-notion",
+            "claim-starchy-foods-assumed-digested-completely-fact-incompletely"
+          ]
+        },
+        {
+          "size": 3,
+          "members": [
+            "claim-patients-ulcerative-colitis-major-advantage-over-patients",
+            "claim-section-lines-84908-covers-total-proctocolectomy-end",
+            "claim-pelvic-pouch-procedure-offered-most-patients-need"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-pimentel-lists-five-natural-defenses-table-phase",
+            "claim-proton-pump-inhibitors-ppis-acid-suppressants-create"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-progressive-disease-requiring-early-intensive-monitoring-individualized",
+            "claim-summary-statement-symptoms-crohns-disease-correlate-well"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-prokinetic-optimization-erythromycin-prucalopride",
+            "claim-sibo-medicine-cabinet-symptom-remedies"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-rates-clinical-remission-endoscopic-improvement-significantly-higher",
+            "claim-tofacitinib-shown-effective-treating-ulcerative-colitis-properly"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-sibo-prevalence-78-percent-ibs-sarna",
+            "claim-sibo-prevalence-84-vs-60-75-percent"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-three-treatment-modalities-pharmaceutical-herbal-elemental",
+            "claim-treatment-efficacy-modest-improvement-2006-2022"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-two-distinct-one-week-meal-plans-provided-meal",
+            "claim-you-really-need-take-time-off-workschool"
+          ]
+        },
+        {
+          "size": 2,
+          "members": [
+            "claim-vedolizumab-gut-specific-appear-suppress-entire-bodys",
+            "claim-vedolizumab-suppresses-inflammation-gastrointestinal-tract-without-inducin"
+          ]
+        }
+      ]
+    },
+    "articulation_points": [],
+    "topic_sparsity": [
+      {
+        "topic": "topic/pathogenesis",
+        "claims": 10,
+        "avg_edges": 0.0
+      },
+      {
+        "topic": "topic/fistula",
+        "claims": 4,
+        "avg_edges": 0.0
+      },
+      {
+        "topic": "topic/imo",
+        "claims": 10,
+        "avg_edges": 0.1
+      },
+      {
+        "topic": "topic/genetics",
+        "claims": 10,
+        "avg_edges": 0.3
+      },
+      {
+        "topic": "topic/inflammation",
+        "claims": 21,
+        "avg_edges": 0.33
+      },
+      {
+        "topic": "topic/epidemiology",
+        "claims": 6,
+        "avg_edges": 0.33
+      },
+      {
+        "topic": "topic/immune-dysregulation",
+        "claims": 17,
+        "avg_edges": 0.35
+      },
+      {
+        "topic": "topic/ibs",
+        "claims": 29,
+        "avg_edges": 0.38
+      },
+      {
+        "topic": "topic/crohns-disease",
+        "claims": 104,
+        "avg_edges": 0.48
+      },
+      {
+        "topic": "topic/diagnosis",
+        "claims": 49,
+        "avg_edges": 0.49
+      },
+      {
+        "topic": "topic/low-fodmap",
+        "claims": 5,
+        "avg_edges": 0.6
+      },
+      {
+        "topic": "topic/sibo",
+        "claims": 63,
+        "avg_edges": 0.63
+      },
+      {
+        "topic": "topic/grade",
+        "claims": 176,
+        "avg_edges": 0.64
+      },
+      {
+        "topic": "topic/treatment",
+        "claims": 211,
+        "avg_edges": 0.64
+      },
+      {
+        "topic": "topic/biomarkers",
+        "claims": 17,
+        "avg_edges": 0.65
+      }
+    ]
+  }
+}
