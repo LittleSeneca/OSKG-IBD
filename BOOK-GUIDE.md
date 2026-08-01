@@ -135,7 +135,7 @@ Influential researchers and clinicians without standalone books (or whose contri
 
 | # | Title | Method | Status | Date | Notes |
 |---|-------|--------|--------|------|-------|
-| 1 | Sleisenger and Fordtran, 11E | libgen | Partial | 2026-08-01 | Main textbook (289 MB) failed 4 CDN attempts. Review Companion (Qayed/Shahnavaz, 2020, 7 MB) acquired as stopgap. Retry 11E later. |
+| 1 | Sleisenger and Fordtran, 11E | libgen | Partial | 2026-08-01 | Main textbook (289 MB) failed 6 CDN attempts. Handbook (Qayed/Shahnavaz, 2020, 50 MB) + Review Companion (7 MB) acquired. Retry task: t_7333e45b. |
 | 2 | Yamada's Textbook, 7E | libgen | Acquired | 2026-08-01 | 156 MB PDF. Extracted to 19.3 MB text. |
 | 3 | The Microbiome Connection | libgen | Acquired | 2026-08-01 | 3.2 MB EPUB. Extracted to 0.3 MB text. |
 | 4 | A New IBS Solution | libgen | Acquired | 2026-08-01 | 2.9 MB PDF. Extracted to 0.3 MB text. |

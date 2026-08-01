@@ -14,7 +14,7 @@ Full chapter-by-chapter extraction. The graph cannot function without these.
 
 | # | Title | Author(s) | Year | Status |
 |---|-------|-----------|------|--------|
-| 1 | Sleisenger and Fordtran's Gastrointestinal and Liver Disease, 11th Ed | Feldman, Friedman, Brandt | 2021 | Partial (review companion only; main text CDN-failed) |
+| 1 | Sleisenger and Fordtran's Gastrointestinal and Liver Disease, 11th Ed | Feldman, Friedman, Brandt | 2021 | Partial (handbook + review companion; main text CDN-failed, see t_7333e45b) |
 | 2 | Yamada's Textbook of Gastroenterology, 7th Ed | Podolsky, Camilleri, et al. | 2022 | Acquired (PDF + text) |
 | 3 | The Microbiome Connection: Your Guide to IBS, SIBO, and Low-Fermentation Eating | Pimentel, Rezaie | 2022 | Acquired (EPUB + text) |
 | 4 | Crohn's and Colitis: Understanding and Managing IBD | Steinhart | 2018 | Acquired (EPUB + text) |
