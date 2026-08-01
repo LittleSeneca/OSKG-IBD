@@ -12,7 +12,11 @@ Pharmacological, biologic, surgical, and antimicrobial interventions for IBD and
 
 | Source | Chapters | Status |
 |--------|----------|--------|
-| — | — | — |
+| Steinhart 2018 | [[Steinhart 2018 - Ch7 Drug Therapy\|Ch7 Drug Therapy]] | Complete |
+| Steinhart 2018 | [[Steinhart 2018 - Ch8 Surgical Treatment\|Ch8 Surgical Treatment]] | Complete |
+| Yamada 7E | [[Yamada 7E - Ch63 UC Clinical Manifestations and Management\|Ch63 UC Management]] | Complete |
+| Yamada 7E | [[Yamada 7E - Ch64 Crohn's Disease Management\|Ch64 Crohn's Management]] | Complete |
+| Yamada 7E | [[Yamada 7E - Ch65 Surgical Treatment of IBD\|Ch65 Surgical Treatment]] | Complete |
 
 ## Key Questions
 
