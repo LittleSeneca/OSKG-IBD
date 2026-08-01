@@ -5,7 +5,8 @@ tags:
   - source/campbell-mcbride-gaps
   - nutrition
   - microbiome
-  - book-notes
+  - source/book-notes
+  - type/reading-note
 created: 2026-08-01
 updated: 2026-08-01
 note_type: combined

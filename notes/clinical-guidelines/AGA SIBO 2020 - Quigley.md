@@ -13,6 +13,8 @@ tags:
   - scholars/pimentel
   - society/aga
   - tier-3
+  - type/reading-note
+  - source/aga-sibo-2020
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

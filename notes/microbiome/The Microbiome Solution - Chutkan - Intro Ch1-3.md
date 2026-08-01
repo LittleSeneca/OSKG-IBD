@@ -4,7 +4,8 @@ tags:
   - tier-2
   - source/chutkan-microbiome-solution
   - microbiome
-  - book-notes
+  - source/book-notes
+  - type/reading-note
 created: 2026-08-01
 updated: 2026-08-01
 note_type: combined

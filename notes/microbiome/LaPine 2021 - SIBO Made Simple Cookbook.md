@@ -8,6 +8,8 @@ tags:
   - diet/scd
   - scholars/lapine
   - tier-2
+  - type/reading-note
+  - source/lapine-sibo-cookbook
 created: 2026-08-01
 updated: 2026-08-01
 note_type: whole-book

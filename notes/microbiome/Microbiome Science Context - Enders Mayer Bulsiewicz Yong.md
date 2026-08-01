@@ -8,6 +8,8 @@ tags:
   - mechanism/microbiome
   - concept/framework
   - tier-2
+  - type/reading-note
+  - source/microbiome-context
 created: 2026-08-01
 updated: 2026-08-01
 note_type: combined

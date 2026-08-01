@@ -12,6 +12,8 @@ tags:
   - patient-perspective
   - scholars/steinhart
   - tier-1
+  - type/reading-note
+  - source/steinhart-ibd-textbook
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

@@ -8,6 +8,8 @@ tags:
   - supplementation/probiotics
   - scholars/thompson
   - tier-2
+  - type/reading-note
+  - source/thompson-elemental-diet
 created: 2026-08-01
 updated: 2026-08-01
 confidence: medium

@@ -14,6 +14,8 @@ tags:
   - scholars/rao
   - society/acg
   - tier-3
+  - type/reading-note
+  - source/acg-sibo-2020
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

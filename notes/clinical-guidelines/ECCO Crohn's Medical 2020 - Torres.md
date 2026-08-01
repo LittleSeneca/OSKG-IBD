@@ -22,6 +22,8 @@ tags:
   - society/ecco
   - tier-3
   - source/guideline
+  - type/reading-note
+  - source/ecco-crohns-2020
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

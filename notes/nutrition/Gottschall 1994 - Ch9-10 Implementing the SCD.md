@@ -8,6 +8,8 @@ tags:
   - implementation/reintroduction
   - scholars/gottschall
   - tier-2
+  - type/reading-note
+  - source/gottschall-breaking-vicious-cycle
 created: 2026-08-01
 updated: 2026-08-01
 confidence: medium

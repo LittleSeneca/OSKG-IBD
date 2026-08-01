@@ -9,6 +9,8 @@ tags:
   - society/rome-foundation
   - tier-3
   - source/report
+  - type/reading-note
+  - source/rome-sibo-2017
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

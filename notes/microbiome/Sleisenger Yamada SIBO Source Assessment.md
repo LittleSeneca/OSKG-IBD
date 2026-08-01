@@ -7,6 +7,9 @@ tags:
   - scholars/sleisenger
   - scholars/yamada
   - scholars/quigley
+  - type/reading-note
+  - source/sleisenger-textbook-11e
+  - source/yamada-textbook-7e
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

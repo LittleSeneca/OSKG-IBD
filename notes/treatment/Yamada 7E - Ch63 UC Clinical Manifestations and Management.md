@@ -13,6 +13,8 @@ tags:
   - treat-to-target
   - scholars/yamada
   - tier-1
+  - type/reading-note
+  - source/yamada-textbook-7e
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

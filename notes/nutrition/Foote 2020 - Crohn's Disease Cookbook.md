@@ -9,6 +9,8 @@ tags:
   - implementation/food-lists
   - scholars/foote
   - tier-2
+  - type/reading-note
+  - source/foote-crohns-cookbook
 created: 2026-08-01
 updated: 2026-08-01
 confidence: medium

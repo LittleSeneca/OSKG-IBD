@@ -39,6 +39,8 @@ tags:
   - service-delivery/mdt
   - service-delivery/ibd-nurse
   - service-delivery/primary-care
+  - type/reading-note
+  - source/bsg-ibd-2019
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high

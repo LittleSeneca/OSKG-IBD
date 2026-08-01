@@ -10,6 +10,8 @@ tags:
   - scholars/sarna
   - scholars/siebecker
   - tier-2
+  - type/reading-note
+  - source/sarna-healing-sibo
 created: 2026-08-01
 updated: 2026-08-01
 note_type: whole-book

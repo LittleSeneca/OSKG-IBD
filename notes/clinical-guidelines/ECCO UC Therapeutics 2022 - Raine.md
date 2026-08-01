@@ -20,6 +20,8 @@ tags:
   - scholars/burisch
   - society/ecco
   - tier-3
+  - type/reading-note
+  - source/ecco-uc-2022
 created: 2026-08-01
 updated: 2026-08-01
 confidence: high
