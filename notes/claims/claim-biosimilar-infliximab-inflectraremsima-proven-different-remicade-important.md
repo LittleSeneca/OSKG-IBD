@@ -50,17 +50,19 @@ Biosimilars have reduced the cost of biologic therapy by 30-50% or more in many 
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-acg-cd2018-r35-infliximab-for-perianal-fistulas|The biosimilar infliximab equivalence evidence directly extends the infliximab recommendation for perianal fistulas by e]]
+- [[claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul|The biosimilar infliximab equivalence evidence extends the infliximab recommendation for enterocutaneous and rectovagina]]
+- [[claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas|The biosimilar infliximab equivalence evidence extends the antibiotics-plus-infliximab combination recommendation by con]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Steinhart's balanced treatment acknowledges both the cost imperative and the patient's legitimate preference for stability. The biosimilar section has aged well -- the predicted cost reductions and safety profile have materialized.

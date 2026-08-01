@@ -56,17 +56,21 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation|Both ACG UC 2019 and AGA UC 2020 recommend against continuing 5-ASA after initiating biologic therapy for UC maintenance]]
 
-**Contradicts:**
+**Extends:**
+
+- [[claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance|The ACG UC 2019 claim extends the general oral 5-ASA maintenance recommendation (ECCO 2022) by specifying a clinical sce]]
+- [[claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc|The ACG UC 2019 claim extends the topical 5-ASA maintenance recommendation for distal UC (ECCO 2022) by specifying that ]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|The ACG UC 2019 recommendation against concurrent 5-ASA extends the ECCO 2022 anti-TNF maintenance strategy by clarifyin]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

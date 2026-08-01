@@ -56,17 +56,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance|Methotrexate's role in steroid-sparing maintenance differs by disease: it is recommended for CD (ACG 2018) but recommend]]
+- [[claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena|CD guideline's broader recommendation (thiopurine or MTX after steroid-induced remission) extends the UC-specific thiopu]]
+- [[claim-aga-uc2020-r4a-biologic---thiopurine-for-induction|Thiopurine's role in IBD differs by disease phase and subtype: it is endorsed for CD maintenance after steroid-induced r]]
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|The steroid treatment algorithm branches into two complementary pathways: maintenance therapy after steroid-induced remi]]
+- [[claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction|Thiopurine's role in IBD is phase- and disease-dependent: endorsed for CD maintenance after steroid-induced remission (A]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+- [[claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy|Newer AGA CD 2021 guideline favors biologic monotherapy over thiopurine monotherapy, partially challenging the 2018 ACG ]]
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

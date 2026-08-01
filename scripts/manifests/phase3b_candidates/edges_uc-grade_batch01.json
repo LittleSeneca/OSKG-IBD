@@ -1,0 +1,26 @@
+[
+  {
+    "claim_a": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "AGA-2a addresses anti-TNF agent selection for induction in na\u00efve patients; ECCO-16 defines the maintenance continuation pathway after successful anti-TNF induction \u2014 sequential phases of the same treatment algorithm."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "extends",
+    "rationale": "ECCO-12 establishes anti-TNF as first-line biologic induction; AGA-2c defines biologic selection after anti-TNF failure \u2014 complementary branches of the anti-TNF treatment algorithm (success \u2192 maintenance vs. failure \u2192 switch)."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "ECCO-16 defines the maintenance path when anti-TNF induction succeeds; AGA-2c defines the switch path when anti-TNF fails or is no longer effective \u2014 complementary branches of the post-anti-TNF-induction treatment algorithm."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r13-low-dose--2-2-4-g--vs-high-dose-5-asa",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "supports",
+    "rationale": "ACG-13 evaluates low-dose (2-2.4 g) versus high-dose oral 5-ASA for induction; ECCO-8 specifies \u22652 g/day as the minimum effective oral 5-ASA dose for maintenance \u2014 together they define dose-response evidence and the maintenance dosing threshold."
+  }
+]

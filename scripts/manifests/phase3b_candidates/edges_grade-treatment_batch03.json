@@ -1,0 +1,92 @@
+[
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+    "edge_type": "extends",
+    "rationale": "Thiopurine's role in IBD differs by disease phase and subtype: it is endorsed for CD maintenance after steroid-induced remission (ACG 2018) but ranked below biologics for UC induction (AGA 2020), reflecting disease-specific evidence for thiopurine efficacy."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "The steroid treatment algorithm branches into two complementary pathways: maintenance therapy after steroid-induced remission (thiopurine/MTX in CD, ACG 2018) and rescue therapy for steroid-refractory disease (infliximab/cyclosporine in UC, AGA 2020), defining the 'next step' after steroid therapy for both outcomes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+    "edge_type": "extends",
+    "rationale": "Thiopurine's positioning differs by disease: it is an option for steroid-dependent CD maintenance (ACG 2018, with or without anti-TNF) but biologics are ranked above thiopurines for UC induction (AGA 2020), reflecting UC-specific preference for biologics over immunomodulators."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r48-budesonide-not-for-maintenance-beyond-4-months",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Both claims define the boundaries of steroid therapy in IBD: budesonide should not be used beyond 4 months for CD maintenance (ACG 2018), and when systemic steroids fail in ASUC, escalation to infliximab or cyclosporine is indicated (AGA 2020). Together they establish steroid stewardship as a shared IBD principle."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Vedolizumab's established role for maintenance after vedolizumab-induced remission in CD (ACG 2018) is contextualized by its lower relative preference in TNF-exposed UC (AGA 2020), where ustekinumab and tofacitinib are ranked above vedolizumab and adalimumab, highlighting exposure-dependent positioning."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Ustekinumab's maintenance efficacy in CD (ACG 2018) extends to its preferred positioning for TNF-exposed UC patients (AGA 2020), where ustekinumab is ranked alongside tofacitinib above vedolizumab and adalimumab, demonstrating ustekinumab's consistent efficacy across IBD subtypes and exposure scenarios."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "supports",
+    "rationale": "Both claims converge on limiting 5-ASA use in higher-acuity IBD settings: mesalamine has minimal benefit post-op in CD and is only an option for low-risk patients (ACG 2018), and 5-ASA should be discontinued after biologic escalation in UC (AGA 2020), reinforcing the principle that 5-ASA's role diminishes as disease severity increases."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy for time-sensitive, high-acuity IBD extends across disease subtypes: early post-operative anti-TNF for high-risk CD patients (ACG 2018) and infliximab for steroid-refractory ASUC (AGA 2020), demonstrating anti-TNF's role in urgent IBD scenarios where rapid disease control is critical."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "claim_b": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+    "edge_type": "extends",
+    "rationale": "5-ASA efficacy is disease-specific: mesalamine has no role in active CD (ACG 2018, strong recommendation) yet combined oral plus topical 5-ASA is recommended for UC induction in rectosigmoid and more extensive disease (ECCO 2022), highlighting the fundamental difference in 5-ASA responsiveness between CD and UC."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "claim_b": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+    "edge_type": "extends",
+    "rationale": "5-ASA utility is restricted to UC: while mesalamine is not recommended for active CD (ACG 2018), topical 5-ASA is preferred over topical steroids for distal UC colitis (ECCO 2022), underscoring that 5-ASA's established role in UC does not translate to CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "extends",
+    "rationale": "5-ASA's maintenance role is disease-specific: it is recommended against in CD (ACG 2018) but strongly recommended at ≥2 g/day for UC maintenance (ECCO 2022), reflecting the divergent evidence base for 5-ASA efficacy across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "extends",
+    "rationale": "Topical 5-ASA for distal UC maintenance (ECCO 2022) contrasts with the lack of any 5-ASA role in CD (ACG 2018), reinforcing that 5-ASA's mucosal anti-inflammatory effect is clinically meaningful only in UC, not CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy spans the induction-to-maintenance continuum: begun for steroid-refractory CD induction (ACG 2018) and continued for maintenance after successful induction in UC (ECCO 2022), establishing anti-TNF as a longitudinal treatment strategy across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "Biologic sequencing logic extends across IBD: ustekinumab is positioned for CD patients who have failed anti-TNF (ACG 2018), while anti-TNF agents are continued for maintenance after successful induction in UC (ECCO 2022), together mapping the biologic treatment sequence from anti-TNF use through subsequent options."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+    "claim_b": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+    "edge_type": "extends",
+    "rationale": "Ustekinumab's efficacy extends across IBD subtypes and treatment phases: it is recommended for induction in mod-severe CD including anti-TNF failures (ACG 2018) and for maintenance after ustekinumab induction in UC (ECCO 2022), establishing ustekinumab as effective across the full IBD treatment spectrum."
+  }
+]

@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction|Both AGA UC 2020 and ECCO UC 2022 recommend against thiopurine monotherapy for induction in UC, with AGA ranking biologi]]
 
-**Contradicts:**
+**Extends:**
+
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

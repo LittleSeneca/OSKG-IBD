@@ -52,17 +52,25 @@ If specific microbial taxa (F. prausnitzii) are protective and others (AIEC, R. 
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-recent-publication-showed-two-main-weeds-sibo|Both Yamada and Pimentel independently identify E. coli as a clinically significant pathobiont in gut disease: Yamada no]]
+- [[claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential|Yamada's specific IBD taxonomic patterns are a concrete clinical instantiation of Chutkan's general dysbiosis definition]]
+**Extends:**
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|Yamada's observation that IBD patients lose Firmicutes and Bacteroidetes while gaining Proteobacteria can be contextuali]]
+- [[claim-actually-dont-know-normal-microbiome-looks-like|Yamada documents specific microbial diversity loss patterns in IBD (reduced Firmicutes/Bacteroidetes, increased Proteoba]]
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada's microbial diversity loss patterns in IBD are extended by Pimentel's finding that >50% of quiescent IBD patients]]
+- [[claim-modern-westerners-lost-roughly-third-their-microbial|Yamada's IBD-specific diversity loss patterns can be understood as an extreme clinical manifestation of the broader West]]
+- [[claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate|Yamada documents specific microbial diversity loss in IBD (reduced Firmicutes/Bacteroidetes, loss of F. prausnitzii); Go]]
+- [[claim-one-known-cause-crohns-disease-overactive-immune|Yamada documents the specific microbial ecology of IBD — loss of beneficial anaerobes like F. prausnitzii; Foote identif]]
+- [[claim-core-thesis-sonnenburg-gut|Yamada documents the specific microbial diversity loss in IBD; Sonnenburg provides the ecological framework — the gut mi]]
 
-**Contradicts:**
+**Operationalizes:**
+- [[claim-elemental-diet-provides-colon-rest-necessary-heal|Yamada documents the dysbiotic microbial ecology in IBD; Thompson's elemental diet directly targets this by providing pr]]
+- [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux|Yamada documents the microbial dysbiosis central to IBD; Campbell-McBride's GAPS Introduction Diet operationalizes this ]]
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 This is probably not an either/or. The evidence supports bidirectionality: genetic defects (NOD2, ATG16L1) alter microbial handling, producing dysbiosis; dysbiosis then amplifies inflammation through reduced SCFA production, increased pathogen-associated molecular patterns, and mucus degradation. The question is whether correcting dysbiosis alone (without addressing genetics or immunity) can induce and maintain remission. The FMT trials in UC (Paramsothy et al. 2017) suggest partial efficacy, supporting a causal role for the microbiome.

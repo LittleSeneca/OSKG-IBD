@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation|Both guidelines converge on limiting 5-ASA — no role in active CD and discontinue after biologic escalation in UC, refle]]
+**Extends:**
+- [[claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for|5-ASA efficacy is disease-specific: mesalamine has no role in active CD (ACG 2018, strong recommendation) yet combined o]]
+- [[claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col|5-ASA utility is restricted to UC: while mesalamine is not recommended for active CD (ACG 2018), topical 5-ASA is prefer]]
+- [[claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance|5-ASA's maintenance role is disease-specific: it is recommended against in CD (ACG 2018) but strongly recommended at ≥2 ]]
+- [[claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc|Topical 5-ASA for distal UC maintenance (ECCO 2022) contrasts with the lack of any 5-ASA role in CD (ACG 2018), reinforc]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

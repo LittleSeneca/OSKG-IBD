@@ -56,17 +56,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance|Methotrexate's role in steroid-dependent IBD differs by disease: it is an option for steroid-dependent CD (ACG 2018, wit]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|Anti-TNF maintenance therapy extends from steroid-dependent CD (ACG 2018, with or without immunomodulators) to post-indu]]
+- [[claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena|CD guideline's recommendation for thiopurine-based strategies in steroid-dependent patients extends to UC thiopurine mai]]
+- [[claim-aga-uc2020-r4a-biologic---thiopurine-for-induction|Thiopurine's positioning differs by disease: it is an option for steroid-dependent CD maintenance (ACG 2018, with or wit]]
+- [[claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction|Thiopurine positioning differs by clinical context: it is an option for steroid-dependent CD maintenance with or without]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+- [[claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy|Newer CD guideline elevates biologic monotherapy over thiopurine monotherapy, refining the 2018 combined thiopurine/MTX ]]
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

@@ -51,17 +51,19 @@ If barrier dysfunction is primary and genetically programmed, then therapies tha
 **Alternative reading:** Barrier dysfunction is necessary but not sufficient -- it allows microbial antigens access to the immune system, but whether inflammation develops depends on the individual's immune response genetics and microbial composition. The barrier defect may be the "first hit" in some patients but not others.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada's finding that first-degree relatives of IBD patients already have increased intestinal permeability (mediated by]]
+- [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux|Yamada's permeability claim establishes that IBD involves genetically-driven epithelial barrier defects (CDH1, HNF4A, GN]]
+- [[claim-core-thesis-sonnenburg-gut|Yamada's intestinal permeability evidence provides the anatomical portal through which Sonnenburg's depleted 'second gen]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The barrier genetics are compelling and underappreciated in clinical practice. Gastroenterologists think about immune suppression; they don't think about barrier restoration. The MUC1/MUC4 persistence data is particularly significant because it suggests that even in endoscopic remission, the mucosal barrier may not be fully intact -- which could explain the high rate of relapse after treatment de-escalation.

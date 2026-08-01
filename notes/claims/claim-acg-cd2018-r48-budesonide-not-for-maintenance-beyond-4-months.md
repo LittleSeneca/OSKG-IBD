@@ -56,17 +56,15 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena|Budesonide's limitation as a maintenance agent reinforces the rationale for thiopurine-based steroid-induced remission m]]
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|Both claims define the boundaries of steroid therapy in IBD: budesonide should not be used beyond 4 months for CD mainte]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

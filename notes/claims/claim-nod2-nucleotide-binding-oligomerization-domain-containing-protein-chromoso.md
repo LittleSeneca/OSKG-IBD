@@ -52,17 +52,19 @@ NOD2 represents the clearest link between genetics and the "defective innate imm
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|Pimentel identifies mucosal immunity (GALT, tight junctions) as a key gut defense; Yamada identifies NOD2 as the specifi]]
+- [[claim-sibo-occurs-there-greater-1000-bacteria-per|Yamada shows NOD2 variants impair intracellular sensing of bacterial peptidoglycan, compromising innate immune clearance]]
+- [[claim-recent-publication-showed-two-main-weeds-sibo|Yamada identifies NOD2 as the intracellular sensor for bacterial peptidoglycan (muramyl dipeptide); Pimentel identifies ]]
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|NOD2 variants impair intracellular sensing of bacterial peptidoglycan, compromising innate immune clearance of intestina]]
+- [[claim-one-known-cause-crohns-disease-overactive-immune|NOD2 variants provide a specific genetic mechanism for the general claim that CD involves an overactive immune system at]]
+- [[claim-core-thesis-sonnenburg-gut|NOD2 is the molecular interface between the human genome and the microbial 'second genome': it is the innate immune sens]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 NOD2 is the poster child for CD genetics. But the clinical reality is sobering: 30% of European CD patients carry NOD2 variants, but the population prevalence of these variants is also high. NOD2 status alone has limited clinical utility for diagnosis or prognosis. The value is in understanding mechanism.

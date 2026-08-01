@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
+- [[claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided|The budesonide MMX recommendation for 5-ASA-refractory left-sided UC (ACG 2019) logically depends on the first-line use ]]
+- [[claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure|The systemic steroids recommendation for 5-ASA failure (ACG 2019) logically depends on first-line oral 5-ASA induction a]]
+- [[claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response|The recommendation to add budesonide MMX for partial 5-ASA response (ACG 2019) logically depends on first-line oral 5-AS]]
+- [[claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation|AGA 2020's recommendation to discontinue 5-ASA after escalating to biologic therapy logically depends on ECCO 2022's fir]]
 
 **Supports:**
-
-**Contradicts:**
-
+**Extends:**
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
+- [[claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided|The budesonide MMX second-line recommendation depends on the established first-line principle that topical 5-ASA is pref]]
 
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

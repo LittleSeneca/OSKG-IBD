@@ -1,0 +1,86 @@
+[
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects demonstrate the gene-microbe interaction at the core of Sonnenburg's 'second genome' thesis: ATG16L1-hypomorphic mice raised germ-free do not develop Paneth cell abnormalities, showing that the genetic risk requires microbial exposure to manifest. The fixed human genome (ATG16L1 variants) depends on the malleable microbial genome to produce disease, providing a specific molecular example of the second genome concept."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-core-thesis-myers-autoimmune",
+    "edge_type": "supports",
+    "rationale": "The ATG16L1 germ-free mouse data directly supports Myers' claim that genetic predisposition accounts for only ~25% of autoimmune risk with environment contributing 75%: the T300A autophagy variant (genetic risk) only causes Paneth cell abnormalities and inflammation when microbes are present (environmental trigger). This is a precise molecular demonstration of Myers' genetic/environmental risk ratio in CD."
+  },
+  {
+    "claim_a": "claim-th1-th17-cells-play-role-development-crohn's",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada's Th1/Th17 mechanism describes the immune drivers of CD inflammation; Pimentel's finding that >50% of IBD patients with controlled inflammation still have SIBO extends this by revealing a parallel microbial driver of symptoms. Even when Th1/Th17-mediated inflammation is controlled, SIBO persists as a separate pathogenic mechanism — together they describe IBD as a dual-process disease requiring both immune and microbial management."
+  },
+  {
+    "claim_a": "claim-th1-th17-cells-play-role-development-crohn's",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "supports",
+    "rationale": "Foote's general claim that CD involves an overactive immune system attacking harmless microorganisms is supported by Yamada's specific immunological evidence: elevated TNF-α, IFN-γ, and IL-17 from Th1/Th17 cells in CD mucosa, providing the exact cytokine and T-cell mechanisms underlying the immune overactivity Foote describes at a general level."
+  },
+  {
+    "claim_a": "claim-th1-th17-cells-play-role-development-crohn's",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Yamada's Th1/Th17 immune mechanism provides the host-effector side of the host-microbe interaction Sonnenburg frames as the 'second genome' concept: the Th1/Th17 response is the adaptive immune system's reaction to microbial triggers, showing how the malleable microbial genome (second genome) drives the fixed human immune genome into pathogenic CD inflammation. Together they frame IBD as a bidirectional host-microbe immune conflict."
+  },
+  {
+    "claim_a": "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada's finding that first-degree relatives of IBD patients already have increased intestinal permeability (mediated by CDH1, HNF4A, and other barrier genes) extends to Pimentel's SIBO-in-IBD observation: barrier dysfunction creates a permissive environment for bacterial translocation that could facilitate SIBO development. The permeability defect provides a mechanistic bridge between IBD genetics and the high SIBO prevalence Pimentel reports in quiescent IBD."
+  },
+  {
+    "claim_a": "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+    "claim_b": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+    "edge_type": "extends",
+    "rationale": "Yamada's permeability claim establishes that IBD involves genetically-driven epithelial barrier defects (CDH1, HNF4A, GNA12 polymorphisms). Campbell-McBride's Introduction Diet extends this by providing a clinical strategy that directly addresses barrier integrity: the diet supplies substrates for epithelial repair (glycine, proline, glutamine from meat stock) while removing fiber irritants, offering a dietary intervention that targets the barrier dysfunction described by the genetic evidence."
+  },
+  {
+    "claim_a": "claim-only-patients-inflammatory-bowel-disease-their-first-degree",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Yamada's intestinal permeability evidence provides the anatomical portal through which Sonnenburg's depleted 'second genome' exerts pathogenic effects: barrier defects (CDH1/HNF4A polymorphisms) allow microbial antigens from a Western-depleted microbiome to cross the epithelium and trigger inflammation. The permeability mechanism explains why microbial diversity loss translates to clinical disease — the barrier is the gatekeeper between the microbial environment and the host immune system."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "extends",
+    "rationale": "Yamada's observation that IBD patients lose Firmicutes and Bacteroidetes while gaining Proteobacteria can be contextualized by Pimentel's five natural defenses: IBD inflammation impairs defenses #1 (MMC via motility damage) and #5 (mucosal immunity via barrier disruption), creating conditions where Proteobacteria outcompete the normal anaerobic microbiota. The defense framework explains why the specific taxonomic shifts occur in IBD."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-actually-dont-know-normal-microbiome-looks-like",
+    "edge_type": "extends",
+    "rationale": "Yamada documents specific microbial diversity loss patterns in IBD (reduced Firmicutes/Bacteroidetes, increased Proteobacteria). Pimentel's claim that no universal 'normal' microbiome exists extends this clinically: while IBD shows a clear deviation from healthy controls, the absence of a gold-standard normal microbiome means the diversity reduction must be interpreted as a disease-associated pattern rather than a deviation from a universal baseline. This contextualizes the diagnostic and therapeutic implications of IBD microbiome findings."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-recent-publication-showed-two-main-weeds-sibo",
+    "edge_type": "supports",
+    "rationale": "Both Yamada and Pimentel independently identify E. coli as a clinically significant pathobiont in gut disease: Yamada notes adherent-invasive E. coli (AIEC) is more common in ileal CD lesions, while Pimentel identifies E. coli and Klebsiella as the dominant 'disrupter' organisms in SIBO. This convergence from different disease contexts (IBD mucosal invasion; SIBO luminal overgrowth) supports the broader principle that Proteobacteria overgrowth — particularly E. coli — is a common pathogenic signature across gut disorders."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada's microbial diversity loss patterns in IBD are extended by Pimentel's finding that >50% of quiescent IBD patients have SIBO: the high SIBO prevalence provides one mechanistic driver for the taxonomic shifts Yamada describes. Small bowel overgrowth with E. coli and Klebsiella may contribute directly to or result from the broader colonic dysbiosis, and SIBO may explain why IBD patients continue to experience symptoms even when colonic inflammation is controlled."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-modern-westerners-lost-roughly-third-their-microbial",
+    "edge_type": "extends",
+    "rationale": "Yamada's IBD-specific diversity loss patterns can be understood as an extreme clinical manifestation of the broader Western microbial diversity depletion Chutkan describes. The specific loss of Firmicutes and Bacteroidetes in IBD patients parallels the population-level diversity loss in Westerners, suggesting that IBD may represent the clinical endpoint of the same microbial extinction trend — where population-level depletion becomes disease-level collapse in genetically susceptible individuals."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+    "edge_type": "supports",
+    "rationale": "Yamada's specific IBD taxonomic patterns are a concrete clinical instantiation of Chutkan's general dysbiosis definition: the loss of Firmicutes and Bacteroidetes (anaerobic 'good bacteria') with concurrent Proteobacteria increase ('pathogenic bacteria flourishing') exactly matches Chutkan's conceptual description of dysbiosis as diminishing beneficial populations while allowing pathogens to dominate. This provides the microbiological signature that validates the clinical dysbiosis concept."
+  }
+]

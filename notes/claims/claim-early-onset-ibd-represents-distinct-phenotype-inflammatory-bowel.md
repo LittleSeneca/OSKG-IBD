@@ -52,17 +52,17 @@ VEOIBD demonstrates that IBD is a syndrome with multiple distinct etiologies, no
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-one-known-cause-crohns-disease-overactive-immune|Yamada identifies IL-10 receptor mutations as monogenic drivers of severe early-onset IBD through defective immune regul]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 VEOIBD is the proof of concept that genetic diagnosis can directly determine therapy in IBD. Most adult IBD is polygenic, so the clinical impact is limited to a small pediatric population. But as gene discovery continues, more monogenic IBD subtypes will likely be identified.

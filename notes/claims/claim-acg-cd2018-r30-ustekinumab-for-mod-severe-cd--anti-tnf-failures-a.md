@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|The efficacy of ustekinumab after anti-TNF exposure extends from CD (ACG 2018, recommended for anti-TNF failures) to UC ]]
+- [[claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc|Ustekinumab's role for induction of moderate-to-severe disease extends from CD (ACG 2018, strong recommendation with hig]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|Biologic sequencing logic extends across IBD: ustekinumab is positioned for CD patients who have failed anti-TNF (ACG 20]]
+- [[claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu|Ustekinumab's efficacy extends across IBD subtypes and treatment phases: it is recommended for induction in mod-severe C]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

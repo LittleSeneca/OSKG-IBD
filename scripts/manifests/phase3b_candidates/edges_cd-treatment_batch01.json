@@ -1,0 +1,20 @@
+[
+  {
+    "claim_a": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+    "claim_b": "claim-acg-cd2018-r35-infliximab-for-perianal-fistulas",
+    "edge_type": "extends",
+    "rationale": "The biosimilar infliximab equivalence evidence directly extends the infliximab recommendation for perianal fistulas by establishing that biosimilar infliximab (Inflectra/Remsima) can substitute for originator Remicade without loss of efficacy in this indication, supporting cost-effective treatment."
+  },
+  {
+    "claim_a": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+    "claim_b": "claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul",
+    "edge_type": "extends",
+    "rationale": "The biosimilar infliximab equivalence evidence extends the infliximab recommendation for enterocutaneous and rectovaginal fistulas by establishing biosimilar substitution as a cost-effective alternative to originator Remicade for this indication."
+  },
+  {
+    "claim_a": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+    "claim_b": "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+    "edge_type": "extends",
+    "rationale": "The biosimilar infliximab equivalence evidence extends the antibiotics-plus-infliximab combination recommendation by confirming that biosimilar infliximab can replace originator Remicade in the combination regimen without compromising efficacy."
+  }
+]

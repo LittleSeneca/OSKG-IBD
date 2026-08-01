@@ -49,17 +49,17 @@ Because no single test is diagnostic, misdiagnosis risk is highest when one doma
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-average-take-four-six-years-you-receive|The UC diagnostic requirement for endoscopy and histology explains one driver of the 4-6 year IBS diagnostic delay — rul]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The triad model is sound but practically challenging in resource-limited settings where histopathological expertise may be unavailable. The reliance on histology also means diagnosis is inherently delayed (biopsy processing takes days), which is clinically acceptable for a chronic disease but creates a window of diagnostic uncertainty.

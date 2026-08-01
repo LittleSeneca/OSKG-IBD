@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|Anti-TNF therapy for induction of severe disease extends from CD (ACG 2018, severely active) to UC (ECCO 2022, moderate-]]
+- [[claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab|CD guideline's strong anti-TNF recommendation for severe disease extends to UC where infliximab ranks highest among biol]]
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|Anti-TNF is first-line for severe CD while UC guideline provides post-anti-TNF sequencing alternatives, together definin]]
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|Infliximab is recommended for severe disease in both CD (severe active) and UC (steroid-refractory ASUC), extending the ]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

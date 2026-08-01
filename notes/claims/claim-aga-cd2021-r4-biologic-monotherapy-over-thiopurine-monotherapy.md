@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-aga-uc2020-r4a-biologic---thiopurine-for-induction|Both guidelines from the same author group converge on the same principle: biologic monotherapy is preferred over thiopu]]
+- [[claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction|The preference for biologics over thiopurine monotherapy in CD (AGA 2021) aligns with the recommendation against thiopur]]
 
-**Contradicts:**
-
+**Extends:**
+**Operationalizes:**
 **Challenged by:**
-
+- [[claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission|Newer AGA CD 2021 guideline favors biologic monotherapy over thiopurine monotherapy, partially challenging the 2018 ACG ]]
+- [[claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa|Newer CD guideline elevates biologic monotherapy over thiopurine monotherapy, refining the 2018 combined thiopurine/MTX ]]
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

@@ -56,17 +56,16 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu|Both ACG 2018 (CD) and ECCO 2022 (UC) recommend continuing ustekinumab for maintenance after ustekinumab-induced respons]]
+**Extends:**
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|Ustekinumab's maintenance efficacy in CD (ACG 2018) extends to its preferred positioning for TNF-exposed UC patients (AG]]
+- [[claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc|Ustekinumab's role extends across IBD subtypes and treatment phases: recommended for CD maintenance after ustekinumab-in]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

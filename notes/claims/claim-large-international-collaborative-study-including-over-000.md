@@ -53,17 +53,19 @@ The "missing heritability" problem: if genetics explains only 13.6% of CD risk, 
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada demonstrates that known genetic loci account for only 13.6% of CD risk and 7.5% of UC risk — the majority of dise]]
+- [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux|Yamada's finding that genetics accounts for <14% of CD risk implies environmental factors — including diet and the micro]]
+- [[claim-core-thesis-sonnenburg-gut|Yamada shows the fixed human genome explains only a minority fraction of IBD risk; Sonnenburg's concept of the gut micro]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The 13.6% figure is a lower bound. As fine mapping and whole-genome sequencing advance, the explained variance will increase. But the fundamental point stands: genetics alone is insufficient. The clinical implication is important -- genetic testing for IBD risk (commercial panels already exist for NOD2, ATG16L1) has limited predictive value and is not standard of care.

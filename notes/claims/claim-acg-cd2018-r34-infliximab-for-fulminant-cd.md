@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|The role of infliximab in severe acute IBD extends from fulminant CD (ACG 2018) to steroid-refractory ASUC (AGA 2020), w]]
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|Anti-TNF therapy for severe IBD induction extends from CD (infliximab for fulminant CD, ACG 2018) to UC (anti-TNF agents]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

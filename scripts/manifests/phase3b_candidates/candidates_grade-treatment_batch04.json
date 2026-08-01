@@ -1,0 +1,1048 @@
+{
+  "batch_id": "grade-treatment-batch04",
+  "cluster_filter": "grade-treatment",
+  "pair_count": 40,
+  "score_range": "6-6",
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec41",
+        "statement": "Antibiotics + infliximab for perianal fistulas",
+        "full_claim": "**Recommendation 41** (Strong, quality: Moderate)\n\nAntibiotics + infliximab for perianal fistulas\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+        "claim_id": "acg-cd2018-rec42",
+        "statement": "Drain abscesses before anti-TNF",
+        "full_claim": "**Recommendation 42** (Conditional, quality: Very low)\n\nDrain abscesses before anti-TNF\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "low-medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+        "claim_id": "acg-cd2018-rec42",
+        "statement": "Drain abscesses before anti-TNF",
+        "full_claim": "**Recommendation 42** (Conditional, quality: Very low)\n\nDrain abscesses before anti-TNF\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "low-medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+        "claim_id": "acg-cd2018-rec43",
+        "statement": "Setons increase infliximab efficacy",
+        "full_claim": "**Recommendation 43** (Strong, quality: Moderate)\n\nSetons increase infliximab efficacy\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+        "claim_id": "acg-cd2018-rec43",
+        "statement": "Setons increase infliximab efficacy",
+        "full_claim": "**Recommendation 43** (Strong, quality: Moderate)\n\nSetons increase infliximab efficacy\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+        "claim_id": "acg-cd2018-rec44",
+        "statement": "Thiopurine or MTX after steroid-induced remission",
+        "full_claim": "**Recommendation 44** (Strong, quality: Moderate)\n\nThiopurine or MTX after steroid-induced remission\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "thiopurines"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+        "claim_id": "acg-cd2018-rec45",
+        "statement": "Thiopurine/MTX \u00b1 anti-TNF for steroid-dependent patients",
+        "full_claim": "**Recommendation 45** (Strong, quality: Moderate)\n\nThiopurine/MTX \u00b1 anti-TNF for steroid-dependent patients\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "thiopurines"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+        "claim_id": "acg-cd2018-rec45",
+        "statement": "Thiopurine/MTX \u00b1 anti-TNF for steroid-dependent patients",
+        "full_claim": "**Recommendation 45** (Strong, quality: Moderate)\n\nThiopurine/MTX \u00b1 anti-TNF for steroid-dependent patients\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+        "claim_id": "acg-cd2018-rec46",
+        "statement": "5-ASA NOT for maintenance",
+        "full_claim": "**Recommendation 46** (Strong, quality: Moderate)\n\n5-ASA NOT for maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim_id": "ecco-uc2022-rec1",
+        "statement": "Oral 5-ASA \u22652 g/d for induction in mild-moderate UC",
+        "full_claim": "**Recommendation 1** (Strong, quality: Low)\n\nOral 5-ASA \u22652 g/d for induction in mild-moderate UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+        "claim_id": "acg-cd2018-rec46",
+        "statement": "5-ASA NOT for maintenance",
+        "full_claim": "**Recommendation 46** (Strong, quality: Moderate)\n\n5-ASA NOT for maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+        "claim_id": "acg-cd2018-rec46",
+        "statement": "5-ASA NOT for maintenance",
+        "full_claim": "**Recommendation 46** (Strong, quality: Moderate)\n\n5-ASA NOT for maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+        "claim_id": "ecco-uc2022-rec3",
+        "statement": "Combined oral + topical 5-ASA over oral alone for rectosigmoid+",
+        "full_claim": "**Recommendation 3** (Weak, quality: Very low)\n\nCombined oral + topical 5-ASA over oral alone for rectosigmoid+\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+        "claim_id": "acg-cd2018-rec46",
+        "statement": "5-ASA NOT for maintenance",
+        "full_claim": "**Recommendation 46** (Strong, quality: Moderate)\n\n5-ASA NOT for maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+        "claim_id": "ecco-uc2022-rec5",
+        "statement": "Topical 5-ASA over topical steroids for distal colitis",
+        "full_claim": "**Recommendation 5** (Weak, quality: Very low)\n\nTopical 5-ASA over topical steroids for distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+        "claim_id": "acg-cd2018-rec49",
+        "statement": "Anti-TNF for anti-TNF-induced remission maintenance",
+        "full_claim": "**Recommendation 49** (Strong, quality: High)\n\nAnti-TNF for anti-TNF-induced remission maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "very-high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+        "claim_id": "acg-cd2018-rec51",
+        "statement": "Vedolizumab for vedolizumab-induced remission maintenance",
+        "full_claim": "**Recommendation 51** (Conditional, quality: Moderate)\n\nVedolizumab for vedolizumab-induced remission maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec13",
+        "statement": "Vedolizumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 13** (Strong, quality: Low)\n\nVedolizumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "vedolizumab"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+        "claim_id": "acg-cd2018-rec53",
+        "statement": "Ustekinumab for ustekinumab-induced response maintenance",
+        "full_claim": "**Recommendation 53** (Conditional, quality: Moderate)\n\nUstekinumab for ustekinumab-induced response maintenance\n\n**Target population:** Maintenance",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nUstekinumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "ustekinumab"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine \u2014 limited benefit, option for low-risk",
+        "full_claim": "**Recommendation 55** (Conditional, quality: Moderate)\n\nMesalamine \u2014 limited benefit, option for low-risk\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine \u2014 limited benefit, option for low-risk",
+        "full_claim": "**Recommendation 55** (Conditional, quality: Moderate)\n\nMesalamine \u2014 limited benefit, option for low-risk\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+        "claim_id": "ecco-uc2022-rec3",
+        "statement": "Combined oral + topical 5-ASA over oral alone for rectosigmoid+",
+        "full_claim": "**Recommendation 3** (Weak, quality: Very low)\n\nCombined oral + topical 5-ASA over oral alone for rectosigmoid+\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine \u2014 limited benefit, option for low-risk",
+        "full_claim": "**Recommendation 55** (Conditional, quality: Moderate)\n\nMesalamine \u2014 limited benefit, option for low-risk\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+        "claim_id": "ecco-uc2022-rec5",
+        "statement": "Topical 5-ASA over topical steroids for distal colitis",
+        "full_claim": "**Recommendation 5** (Weak, quality: Very low)\n\nTopical 5-ASA over topical steroids for distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine \u2014 limited benefit, option for low-risk",
+        "full_claim": "**Recommendation 55** (Conditional, quality: Moderate)\n\nMesalamine \u2014 limited benefit, option for low-risk\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+        "claim_id": "ecco-uc2022-rec8",
+        "statement": "Oral 5-ASA \u22652 g/d for maintenance",
+        "full_claim": "**Recommendation 8** (Strong, quality: Very low)\n\nOral 5-ASA \u22652 g/d for maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+        "claim_id": "acg-cd2018-rec55",
+        "statement": "Mesalamine \u2014 limited benefit, option for low-risk",
+        "full_claim": "**Recommendation 55** (Conditional, quality: Moderate)\n\nMesalamine \u2014 limited benefit, option for low-risk\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+        "claim_id": "ecco-uc2022-rec9",
+        "statement": "Topical 5-ASA for maintenance in distal UC",
+        "full_claim": "**Recommendation 9** (Weak, quality: Very low)\n\nTopical 5-ASA for maintenance in distal UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients",
+        "claim_id": "acg-cd2018-rec58",
+        "statement": "Anti-TNF within 4 weeks for high-risk patients",
+        "full_claim": "**Recommendation 58** (Conditional, quality: Low)\n\nAnti-TNF within 4 weeks for high-risk patients\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r58-anti-tnf-within-4-weeks-for-high-risk-patients",
+        "claim_id": "acg-cd2018-rec58",
+        "statement": "Anti-TNF within 4 weeks for high-risk patients",
+        "full_claim": "**Recommendation 58** (Conditional, quality: Low)\n\nAnti-TNF within 4 weeks for high-risk patients\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r59-anti-tnf---immunomodulator-post-op",
+        "claim_id": "acg-cd2018-rec59",
+        "statement": "Anti-TNF + immunomodulator post-op",
+        "full_claim": "**Recommendation 59** (Conditional, quality: Very low)\n\nAnti-TNF + immunomodulator post-op\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "low-medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-cd2018-r59-anti-tnf---immunomodulator-post-op",
+        "claim_id": "acg-cd2018-rec59",
+        "statement": "Anti-TNF + immunomodulator post-op",
+        "full_claim": "**Recommendation 59** (Conditional, quality: Very low)\n\nAnti-TNF + immunomodulator post-op\n\n**Target population:** Post-op",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "low-medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+        "claim_id": "aga-cd2021-rec4",
+        "statement": "Biologic monotherapy over thiopurine monotherapy",
+        "full_claim": "**Recommendation 4** (Strong, quality: Moderate)\n\nBiologic monotherapy over thiopurine monotherapy\n\n**Target population:** Biologic vs. IM",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA Crohn's 2021 - Feuerstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+        "claim_id": "aga-uc2020-rec4a",
+        "statement": "Biologic > thiopurine for induction",
+        "full_claim": "**Recommendation 4a** (Conditional, quality: Low)\n\nBiologic > thiopurine for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "thiopurines"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+        "claim_id": "aga-cd2021-rec4",
+        "statement": "Biologic monotherapy over thiopurine monotherapy",
+        "full_claim": "**Recommendation 4** (Strong, quality: Moderate)\n\nBiologic monotherapy over thiopurine monotherapy\n\n**Target population:** Biologic vs. IM",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA Crohn's 2021 - Feuerstein",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "thiopurines"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r15-once-daily-5-asa-dosing",
+        "claim_id": "acg-uc2019-rec15",
+        "statement": "Once-daily 5-ASA dosing",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nOnce-daily 5-ASA dosing\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+        "claim_id": "acg-uc2019-rec9",
+        "statement": "Budesonide MMX for 5-ASA-refractory left-sided",
+        "full_claim": "**Recommendation 9** (Strong, quality: Moderate)\n\nBudesonide MMX for 5-ASA-refractory left-sided\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+        "claim_id": "acg-uc2019-rec11",
+        "statement": "Systemic steroids for 5-ASA failure",
+        "full_claim": "**Recommendation 11** (Strong, quality: Low)\n\nSystemic steroids for 5-ASA failure\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r12-against-switching-5-asa-formulations",
+        "claim_id": "acg-uc2019-rec12",
+        "statement": "Against switching 5-ASA formulations",
+        "full_claim": "**Recommendation 12** (Conditional, quality: Low)\n\nAgainst switching 5-ASA formulations\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r13-low-dose--2-2-4-g--vs-high-dose-5-asa",
+        "claim_id": "acg-uc2019-rec13",
+        "statement": "Low-dose (2-2.4 g) vs high-dose 5-ASA",
+        "full_claim": "**Recommendation 13** (Conditional, quality: Very low)\n\nLow-dose (2-2.4 g) vs high-dose 5-ASA\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "low-medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+        "claim_id": "acg-uc2019-rec14",
+        "statement": "Add budesonide MMX in 5-ASA partial response",
+        "full_claim": "**Recommendation 14** (Strong, quality: Moderate)\n\nAdd budesonide MMX in 5-ASA partial response\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+        "claim_id": "aga-uc2020-rec7",
+        "statement": "Stop 5-ASA after biologic escalation",
+        "full_claim": "**Recommendation 7** (Conditional, quality: Very low)\n\nStop 5-ASA after biologic escalation\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "5-ASA"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+        "claim_id": "acg-uc2019-rec14",
+        "statement": "Add budesonide MMX in 5-ASA partial response",
+        "full_claim": "**Recommendation 14** (Strong, quality: Moderate)\n\nAdd budesonide MMX in 5-ASA partial response\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim_id": "aga-uc2020-rec10",
+        "statement": "Infliximab or cyclosporine in steroid-refractory ASUC",
+        "full_claim": "**Recommendation 10** (Conditional, quality: Low)\n\nInfliximab or cyclosporine in steroid-refractory ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "corticosteroids"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+        "claim_id": "aga-uc2020-rec2c",
+        "statement": "TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab",
+        "full_claim": "**Recommendation 2c** (Conditional, quality: Low)\n\nTNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "JAK inhibitor"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+        "claim_id": "acg-uc2019-rec30",
+        "statement": "Against 5-ASA with anti-TNF maintenance",
+        "full_claim": "**Recommendation 30** (Conditional, quality: Low)\n\nAgainst 5-ASA with anti-TNF maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+        "claim_id": "aga-uc2020-rec2a",
+        "statement": "Na\u00efve: infliximab/vedolizumab > adalimumab",
+        "full_claim": "**Recommendation 2a** (Conditional, quality: Moderate)\n\nNa\u00efve: infliximab/vedolizumab > adalimumab\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+        "claim_id": "acg-uc2019-rec30",
+        "statement": "Against 5-ASA with anti-TNF maintenance",
+        "full_claim": "**Recommendation 30** (Conditional, quality: Low)\n\nAgainst 5-ASA with anti-TNF maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+        "claim_id": "aga-uc2020-rec2c",
+        "statement": "TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab",
+        "full_claim": "**Recommendation 2c** (Conditional, quality: Low)\n\nTNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+        "claim_id": "acg-uc2019-rec30",
+        "statement": "Against 5-ASA with anti-TNF maintenance",
+        "full_claim": "**Recommendation 30** (Conditional, quality: Low)\n\nAgainst 5-ASA with anti-TNF maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim_id": "aga-uc2020-rec10",
+        "statement": "Infliximab or cyclosporine in steroid-refractory ASUC",
+        "full_claim": "**Recommendation 10** (Conditional, quality: Low)\n\nInfliximab or cyclosporine in steroid-refractory ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+        "claim_id": "acg-uc2019-rec32",
+        "statement": "Thiopurines for steroid-induced remission maintenance",
+        "full_claim": "**Recommendation 32** (Conditional, quality: Low)\n\nThiopurines for steroid-induced remission maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim_id": "aga-uc2020-rec10",
+        "statement": "Infliximab or cyclosporine in steroid-refractory ASUC",
+        "full_claim": "**Recommendation 10** (Conditional, quality: Low)\n\nInfliximab or cyclosporine in steroid-refractory ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "corticosteroids"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+        "claim_id": "acg-uc2019-rec36",
+        "statement": "Continue tofacitinib for maintenance",
+        "full_claim": "**Recommendation 36** (Strong, quality: Moderate)\n\nContinue tofacitinib for maintenance\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+        "claim_id": "aga-uc2020-rec2c",
+        "statement": "TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab",
+        "full_claim": "**Recommendation 2c** (Conditional, quality: Low)\n\nTNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "JAK inhibitor"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+        "claim_id": "acg-uc2019-rec42",
+        "statement": "IV methylprednisolone 60 mg/d or HC 100 mg TID-QID",
+        "full_claim": "**Recommendation 42** (Strong, quality: Low)\n\nIV methylprednisolone 60 mg/d or HC 100 mg TID-QID\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+        "claim_id": "aga-uc2020-rec10",
+        "statement": "Infliximab or cyclosporine in steroid-refractory ASUC",
+        "full_claim": "**Recommendation 10** (Conditional, quality: Low)\n\nInfliximab or cyclosporine in steroid-refractory ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "AGA UC 2020 - Feuerstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "corticosteroids"
+      ],
+      "shared_diseases": [],
+      "shared_scenarios": [],
+      "score": 6
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "batch_id": "crossdomain-batch01",
+  "pair_count": 30,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-remember-gut-two-modes-feeding-digestion-fasting",
+        "claim_id": "pimentel-ch2-1",
+        "statement": "Remember, the gut has two modes: feeding (digestion) and fasting (cleaning). Two to four hours after you eat and digest a meal, the feeding mode turns off and fasting mode begins... During the fasting",
+        "full_claim": "Remember, the gut has two modes: feeding (digestion) and fasting (cleaning). Two to four hours after you eat and digest a meal, the feeding mode turns off and fasting mode begins... During the fasting mode, waves of electrical activity induce the gut to sweep residual undigested material through the digestive tract. This 'housekeeping' role is known as the migrating motor complex.",
+        "evidence": "The MMC mechanism is well-characterized in the gastrointestinal physiology literature. Pimentel cites standard GI physiology: phase III of the MMC is the \"housekeeper\" phase, occurring every 90-120 minutes during fasting, lasting 5-8 minutes, and originating in the stomach or proximal small intestin",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-pimentel-lists-five-natural-defenses-table-phase",
+        "claim_id": "pimentel-ch2-3",
+        "statement": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve",
+        "full_claim": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve (preventing colonic reflux into small intestine), (4) stomach acid (killing ingested bacteria before they reach the small intestine), and (5) mucosal immunity (GALT, Peyer's patches, tight junctions)",
+        "evidence": "Standard GI physiology. The stomach produces \"two liters, or a half gallon, a day\" of highly acidic fluid \"strong enough to eat through a sheet of steel\" that kills most bacteria. The ileocecal valve \"has an important role in separating the colon microbiome from that of the small intestine, which co",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-now-know-one-out-nine-people-experience",
+        "claim_id": "pimentel-ch4-1",
+        "statement": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "full_claim": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "evidence": "Mayo Clinic meta-analysis of 45 published food poisoning outbreaks (2017). Pimentel's CDC data-modeling study. European studies of Salmonella outbreaks showing persistent IBS-like bowel dysfunction. The historical context: Sir Arthur Hearst first described post-infectious IBS in 1918 in Medical Dise",
+        "source_note": "Pimentel 2022 - Ch4 Food Poisoning Autoimmunity",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-doubt-autoimmunity-born-gut",
+        "claim_id": "campbell-gaps-1",
+        "statement": "I have no doubt that all autoimmunity is born in the gut.",
+        "full_claim": "I have no doubt that all autoimmunity is born in the gut.",
+        "evidence": "Campbell-McBride draws on clinical experience with \"many thousands of children and adults around the world\" treated over ~20 years. She cites studies on intestinal permeability, the gut-brain axis, microbiome composition, and the role of specific nutrients (gelatin, collagen, glycine, glutamine) in ",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+        "claim_id": "chutkan-dysbiosis-1",
+        "statement": "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to ",
+        "full_claim": "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to flourish \u2014 in essence, it is a microbial imbalance in or on your body.",
+        "evidence": "Clinical observation from Chutkan's Georgetown gastroenterology practice. She describes the shift from seeing well-defined diseases (ulcers, colitis, cancer) to seeing symptom complexes without visible pathology. She notes that standard diagnostic tools (endoscopy, colonoscopy, capsule endoscopy, im",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+        "claim_id": "chutkan-dysbiosis-5",
+        "statement": "It's helpful to think of leaky gut more as a mechanism than a disease, since there's such a wide range of signs and symptoms associated with it. It's a precondition for developing autoimmune disease, ",
+        "full_claim": "It's helpful to think of leaky gut more as a mechanism than a disease, since there's such a wide range of signs and symptoms associated with it. It's a precondition for developing autoimmune disease, since it's the increase in intestinal permeability \u2014 the opening of the door from our gut into our body \u2014 that allows toxins to enter and then trigger an immune response.",
+        "evidence": "Describes the IP (intestinal permeability) test using lactulose/mannitol ratio. Notes its limitations (affected by exercise, can normalize quickly with diet/probiotics). Cites the Fasano model: gluten \u2192 zonulin release \u2192 tight junction opening \u2192 increased permeability \u2192 autoimmune triggering in gene",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-space-your-meals-four-five-hours-apart",
+        "claim_id": "sarna-sibo-diet-4",
+        "statement": "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion b",
+        "full_claim": "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion before you send more down the tube.",
+        "evidence": "This is Pimentel's MMC theory, presented without citation in Sarna's voice.",
+        "source_note": "Sarna 2021 - Healing SIBO Dietary Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-introduction-diet-works-three-mechanisms-providing-large",
+        "claim_id": "campbell-gaps-2",
+        "statement": "The Introduction Diet works through three mechanisms: (1) providing \"large amounts of nourishing substances\" \u2014 amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining",
+        "full_claim": "The Introduction Diet works through three mechanisms: (1) providing \"large amounts of nourishing substances\" \u2014 amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining is literally made from; (2) removing fiber and other irritants that can damage an inflamed gut (\"your gut lining may be sore and very sensitive\"); (3) delivering probiotic microbes through fermented ",
+        "evidence": "The protocol is based on clinical observation and traditional food practices. Campbell-McBride emphasizes that meat stock provides gelatin, glycine, proline, and glutamine \u2014 all substrates for enterocyte regeneration. Fermented foods provide probiotics in food form. The staged reintroduction prevent",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome",
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-myers-autoimmune",
+        "claim_id": "myers-autoimmune-implicit-9",
+        "statement": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the o",
+        "full_claim": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reverse autoimmune conditions, not merely manage symptoms with drugs. Leaky gut is the necessary precond",
+        "evidence": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reve",
+        "source_note": "The Autoimmune Solution - Myers 2015",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+        "claim_id": "yamada-ibd62-1",
+        "statement": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically su",
+        "full_claim": "It is increasingly clear that a key pathogenic mechanism underlying development of IBD is the loss of tolerance and dysregulation of the immune response to commensal intestinal flora in genetically susceptible individuals. Thus, the pathogenesis of these complex diseases requires the interaction of host genetics, immune dysregulation, internal microenvironment (the gut microbiome), as well as the ",
+        "evidence": "Twin concordance data: monozygotic concordance 30-35% for Crohn's disease vs 10-15% for ulcerative colitis, demonstrating genetics contributes more to CD but environment dominates both. Family history is the strongest risk factor: lifetime risk 5.2% for relatives of CD probands vs 1.6% for UC proban",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met geno",
+        "full_claim": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+        "evidence": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met geno",
+        "full_claim": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+        "evidence": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met geno",
+        "full_claim": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+        "evidence": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met geno",
+        "full_claim": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+        "evidence": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-large-international-collaborative-study-including-over-000",
+        "claim_id": "yamada-ibd62-2",
+        "statement": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met geno",
+        "full_claim": "In a large international collaborative study including over 75 000 patients with Crohn's disease, ulcerative colitis, and healthy controls, 163 distinct genetic risk loci were identified that met genome-wide significance thresholds... All risk loci together contributed to 13.6% of the risk of Crohn's disease, and an even smaller fraction of disease risk (7.5%) in ulcerative colitis.",
+        "evidence": "The Jostins et al. (2012) study of 75,000 individuals identified 163 loci. A subsequent expansion (de Lange et al. 2017) with 96,486 individuals added 38 more loci. Key findings: (a) 110/163 loci confer risk of both CD and UC, suggesting shared pathways; (b) 50 loci have identical effect sizes in bo",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-pimentel-lists-five-natural-defenses-table-phase",
+        "claim_id": "pimentel-ch2-3",
+        "statement": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve",
+        "full_claim": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve (preventing colonic reflux into small intestine), (4) stomach acid (killing ingested bacteria before they reach the small intestine), and (5) mucosal immunity (GALT, Peyer's patches, tight junctions)",
+        "evidence": "Standard GI physiology. The stomach produces \"two liters, or a half gallon, a day\" of highly acidic fluid \"strong enough to eat through a sheet of steel\" that kills most bacteria. The ileocecal valve \"has an important role in separating the colon microbiome from that of the small intestine, which co",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+        "claim_id": "pimentel-ch2-5",
+        "statement": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and i",
+        "full_claim": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and is different from SIBO, but it's worse when SIBO is present. One of the main causes of bile acid diarrhea is SIBO.",
+        "evidence": "The biochemical pathway: bacteria deconjugate bile acids to toxic secondary bile acids (deoxycholic acid, lithocholic acid) that are pro-secretory in the colon. The connection to gallbladder: \"If your gallbladder is removed or is not functioning properly, bile will flow straight from the liver into ",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-actually-dont-know-normal-microbiome-looks-like",
+        "claim_id": "pimentel-ch3-4",
+        "statement": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated.",
+        "full_claim": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated.",
+        "evidence": "Diet-driven variation: \"If you live in Africa, your microbiome would be different because the African diet is different from the American diet.\" Age-related changes: \"methanogenic archaea increase by almost five-fold from childhood into the eighth decade of life.\" Even pets affect the microbiome. Th",
+        "source_note": "Pimentel 2022 - Ch3 Gut Microbiome",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+        "claim_id": "pimentel-ch5-1",
+        "statement": "SIBO occurs when there are greater than 1000 bacteria per milliliter (>10^3/mL) in the small intestine. In SIBO, this excessive quantity of bacteria is not an infection, but rather an over-colonizatio",
+        "full_claim": "SIBO occurs when there are greater than 1000 bacteria per milliliter (>10^3/mL) in the small intestine. In SIBO, this excessive quantity of bacteria is not an infection, but rather an over-colonization of specific bacteria in an area where they don't belong. The bacteria aren't invading or attacking you; they are your own resident bacteria. SIBO is, in effect, a phenomenon of bacteria dislocated f",
+        "evidence": "Standard SIBO definition from gastroenterology. The REIMAGINE study's confirmation of the small intestine-colon bacterial gradient. The mechanism of bacterial reflux: \"the ileocecal valve... is a simple connector rather than a functioning sphincter. This means that the valve never fully closes and t",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-recent-publication-showed-two-main-weeds-sibo",
+        "claim_id": "pimentel-ch5-2",
+        "statement": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are referred to as 'disrupters.' When they increase in quantity, they bully the other ba",
+        "full_claim": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are referred to as 'disrupters.' When they increase in quantity, they bully the other bacteria to die off and they dominate the small intestine with their presence and their effects. And, by the way, they are hydrogen producers.",
+        "evidence": "REIMAGINE study data. The ecological model: \"Think of the small intestine as a lawn. If you don't mow the lawn (if there are no cleaning waves), the weeds (proteobacteria) that are always there outperform the grass (firmicutes, a type of gram-positive bacteria).\"",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-there-several-subpopulations-microorganisms-sibo-depending-gas",
+        "claim_id": "pimentel-ch5-3",
+        "statement": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another gr",
+        "full_claim": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another group produces hydrogen sulfide, which usually leads to diarrhea, pain, and an urgent need to run to the bathroom. A third group of microorganisms is not bacteria, but rather archaea: single-celled orga",
+        "evidence": "Breath test data showing distinct hydrogen, methane, and hydrogen sulfide patterns correlated with symptom profiles. The mechanism: hydrogen is produced first (by E. coli, Klebsiella), then scavenged by either methanogens (producing methane \u2192 constipation) or sulfate-reducing bacteria (producing hyd",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-glucose-easy-humans-digest-body-designed-absorb",
+        "claim_id": "pimentel-ch5-4",
+        "statement": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small intestine, but it's absorbed so fast that any bacteria below four feet in the sma",
+        "full_claim": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small intestine, but it's absorbed so fast that any bacteria below four feet in the small intestine won't receive any glucose. If you have bacterial overgrowth below those four feet of small intestine (which, remember, is 20 feet long), we won't be able to assess three-quarters of the s",
+        "evidence": "Physiological argument: glucose is absorbed in the proximal small intestine; lactulose is non-absorbable and therefore available to bacteria throughout the small intestine. The 90-minute cutoff for hydrogen rise: \"If your hydrogen levels rise by 20 parts per million (ppm) or more before or at 90 min",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-methane-production-involves-methanobrevibacter-smithii-smithii-short",
+        "claim_id": "pimentel-ch5-5",
+        "statement": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea.\" The diagnostic criterion: \"If at any point over two hours your methane level ",
+        "full_claim": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea.\" The diagnostic criterion: \"If at any point over two hours your methane level exceeds 10 ppm, this is considered positive for methane and you are diagnosed with what is now called intestinal methanogen overgrowth (IMO).\"",
+        "evidence": "The three-step pathway: sugar \u2192 hydrogen-producing bacteria (E. coli, Klebsiella) \u2192 hydrogen \u2192 methanogenic archaea (M. smithii) \u2192 methane. Methanogens are archaea, a distinct domain of life separate from bacteria. Despite the name change, the clinical presentation (constipation, bloating) and treat",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-performed-study-compared-erythromycin-another-serotonin-agonist",
+        "claim_id": "pimentel-ch6-5",
+        "statement": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod). The serotonin agonist kept bacteria away for over 200 days, while erythromycin ",
+        "full_claim": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod). The serotonin agonist kept bacteria away for over 200 days, while erythromycin kept bacteria away for only a few months. So, in this one study, serotonin receptor agonists were more effective at preventing the relapse of SIBO than erythromycin (but erythromycin was better than n",
+        "evidence": "Comparative study of tegaserod vs. erythromycin for SIBO prevention. Pharmacological rationale: erythromycin's short half-life vs. prucalopride's longer half-life. Tachyphylaxis observation with long-term prokinetic use: \"After a few months, prucalopride may lose some of its effectiveness... To trea",
+        "source_note": "Pimentel 2022 - Ch6 Three Pillars of SIBO Management",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+        "claim_id": "yamada-ibd62-3",
+        "statement": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908",
+        "full_claim": "NOD2 (nucleotide-binding oligomerization domain containing protein 2) on chromosome 16 was the first genetic variant associated with Crohn's disease, with three common polymorphisms, Arg702Trp, Gly908Arg, and Leu1007fsX1008... The main function of NOD2 is to act as an intracellular sensor of the peptidoglycan muramyl dipeptide (MDP) in the bacterial cell walls. Activation of NOD2 by its antigenic ",
+        "evidence": "NOD2 variants are present in 30% of individuals of European ancestry with CD. Deep sequencing identified five additional rare variants (Rivas et al. 2011). NOD2 homozygosity or heterozygosity alone is not sufficient for disease -- penetrance requires additional factors. NOD2-deficient mice demonstra",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    }
+  ]
+}

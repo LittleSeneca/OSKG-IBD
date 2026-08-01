@@ -1,0 +1,176 @@
+{
+  "batch_id": "cd-treatment-batch01",
+  "cluster_filter": "cd-treatment",
+  "pair_count": 6,
+  "score_range": "8-8",
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r35-infliximab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec35",
+        "statement": "Infliximab for perianal fistulas",
+        "full_claim": "**Recommendation 35** (Strong, quality: Moderate)\n\nInfliximab for perianal fistulas\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    },
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r36-infliximab-for-enterocutaneous-rectovaginal-fistul",
+        "claim_id": "acg-cd2018-rec36",
+        "statement": "Infliximab for enterocutaneous/rectovaginal fistulas",
+        "full_claim": "**Recommendation 36** (Strong, quality: Moderate)\n\nInfliximab for enterocutaneous/rectovaginal fistulas\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    },
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r37-adalimumab-certolizumab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec37",
+        "statement": "Adalimumab/certolizumab for perianal fistulas",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nAdalimumab/certolizumab for perianal fistulas\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "medium"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    },
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r41-antibiotics---infliximab-for-perianal-fistulas",
+        "claim_id": "acg-cd2018-rec41",
+        "statement": "Antibiotics + infliximab for perianal fistulas",
+        "full_claim": "**Recommendation 41** (Strong, quality: Moderate)\n\nAntibiotics + infliximab for perianal fistulas\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    },
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r42-drain-abscesses-before-anti-tnf",
+        "claim_id": "acg-cd2018-rec42",
+        "statement": "Drain abscesses before anti-TNF",
+        "full_claim": "**Recommendation 42** (Conditional, quality: Very low)\n\nDrain abscesses before anti-TNF\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Conditional**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "low-medium"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    },
+    {
+      "claim_a": {
+        "slug": "claim-biosimilar-infliximab-inflectraremsima-proven-different-remicade-important",
+        "claim_id": "steinhart-drug-9",
+        "statement": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis.\" Biosimilars \"have the potential to help lim",
+        "full_claim": "Biosimilar infliximab (Inflectra/Remsima) has proven \"not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis.\" Biosimilars \"have the potential to help limit the rapidly increasing cost of drug treatment for IBD, as they are generally substantially less costly than the originator biologic drugs.\"",
+        "evidence": "The regulatory pathway: biosimilar must prove chemical similarity and clinical equivalence in at least one indication, after which it receives approval for all indications of the originator. Steinhart acknowledges patient anxiety about switching: \"They may ask, 'Why should I switch my medication whe",
+        "source_note": "Steinhart 2018 - Ch7 Drug Therapy",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-acg-cd2018-r43-setons-increase-infliximab-efficacy",
+        "claim_id": "acg-cd2018-rec43",
+        "statement": "Setons increase infliximab efficacy",
+        "full_claim": "**Recommendation 43** (Strong, quality: Moderate)\n\nSetons increase infliximab efficacy\n\n**Target population:** Fistulizing",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG Crohn's 2018 - Lichtenstein",
+        "confidence": "high"
+      },
+      "shared_drugs": [
+        "anti-TNF"
+      ],
+      "shared_diseases": [
+        "crohns_disease"
+      ],
+      "shared_scenarios": [],
+      "score": 8
+    }
+  ]
+}

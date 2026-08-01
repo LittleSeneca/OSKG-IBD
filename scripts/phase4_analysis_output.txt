@@ -277,17 +277,17 @@ Confidence: medium | Source: [[ACG Crohn's 2018 - Lichtenstein]]
     Giant component: 0 claims
     Small isolated clusters (2-5 claims): 94
       Size 3: claim-1951-after-many-years-clinical-experience-drs, claim-specific-carbohydrate-diet-most-often-corrects-malabsorption, claim-pimentel-rezaie-survey-dietary-landscape-find-existing
-      Size 4: claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd, claim-aga-cd2021-r9-against-5-asa-sulfasalazine, claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd, claim-acg-cd2018-r46-5-asa-not-for-maintenance
+      Size 4: claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd, claim-aga-cd2021-r9-against-5-asa-sulfasalazine, claim-acg-cd2018-r46-5-asa-not-for-maintenance, claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd
       Size 4: claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa, claim-aga-cd2021-r7-early-biologic---im-over-step-up, claim-acg-cd2018-r47-corticosteroids-not-for-maintenance, claim-acg-cd2018-r21-thiopurines-for-maintenance
-      Size 4: claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation, claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy, claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd, claim-acg-cd2018-r26-combination-infliximab---immunomodulator
+      Size 4: claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation, claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy, claim-acg-cd2018-r26-combination-infliximab---immunomodulator, claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd
       Size 2: claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu, claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone
       Size 2: claim-acg-cd2018-r9-assess-manage-stress--depression--anxiety, claim-anxiety-depression-screening-routine-care
-      Size 3: claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis, claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u, claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa
+      Size 3: claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis, claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa, claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u
       Size 2: claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure, claim-ecco-uc2022-r10-thiopurine-monotherapy-for-maintenance--steroid-de
       Size 2: claim-acg-uc2019-r16-rectal-5-asa-maintenance-for-proctitis, claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc
       Size 2: claim-acg-uc2019-r17-oral-5-asa-maintenance-for-left-sided-extensive, claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance
       Size 3: claim-acg-uc2019-r19-budesonide-mmx-for-moderate-uc-induction, claim-ecco-uc2022-r6-budesonide-mmx-for-induction-in-mild-moderate-uc, claim-ecco-uc2022-r11-oral-prednisolone-for-induction-in-moderate-severe
-      Size 5: claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction, claim-aga-uc2020-r3a-against-thiopurine-induction, claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction, claim-aga-uc2020-r3b-thiopurine-maintenance, claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue
+      Size 5: claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction, claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction, claim-aga-uc2020-r3a-against-thiopurine-induction, claim-aga-uc2020-r3b-thiopurine-maintenance, claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue
       Size 2: claim-acg-uc2019-r22-anti-tnf-therapy-for-induction, claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u
       Size 2: claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf, claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation
       Size 2: claim-acg-uc2019-r24-combination-ifx---thiopurine, claim-aga-uc2020-r4a-biologic---thiopurine-for-induction
@@ -307,17 +307,17 @@ Confidence: medium | Source: [[ACG Crohn's 2018 - Lichtenstein]]
       Size 2: claim-after-elemental-diet-reintroduce-foods-four-progressive, claim-most-cases-begin-improve-within-three-weeks
       Size 3: claim-aga-sibo2020-bpa-1, claim-sibo-defined-presence-excessive-numbers-bacteria-small, claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost
       Size 2: claim-aga-sibo2020-bpa-5-6, claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based
-      Size 4: claim-almost-patients-see-practice-crohns-disease-ulcerative, claim-modern-westerners-lost-roughly-third-their-microbial, claim-citing-bioessays-2014-hypothesis-gut-bacteria-release, claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies
-      Size 3: claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical, claim-concept-broad-based-pyramid-implies-majority-patients-mild, claim-steroids-used-many-decades-treatment-inflammatory-bowel
+      Size 4: claim-almost-patients-see-practice-crohns-disease-ulcerative, claim-citing-bioessays-2014-hypothesis-gut-bacteria-release, claim-modern-westerners-lost-roughly-third-their-microbial, claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies
+      Size 3: claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical, claim-steroids-used-many-decades-treatment-inflammatory-bowel, claim-concept-broad-based-pyramid-implies-majority-patients-mild
       Size 3: claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina, claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard, claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease
-      Size 4: claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended, claim-mucosal-healing-important-therapeutic-goal-both-validated, claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently, claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to
+      Size 4: claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended, claim-mucosal-healing-important-therapeutic-goal-both-validated, claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to, claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently
       Size 2: claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy, claim-bsg-statement-91-biosimilar-infliximab-ct-p13
       Size 3: claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence, claim-vedolizumab-natalizumab-effective-natalizumab-restricted-pml-risk, claim-methotrexate-parenterally-effective-maintenance-biologics-continued-mainta
       Size 2: claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence, claim-short-course-gut-specific-antibiotics-utility-patients-ibs
       Size 2: claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment, claim-sibo-almost-always-epiphenomenon-underlying-cause-motility
       Size 2: claim-antibiotics-thiopurines-used-monotherapy-fistula-closure-combination, claim-infliximab-best-studied-agent-perianal-fistulas-combination-seton
       Size 4: claim-approach-often-used-manage-perianal-crohns-disease, claim-truly-reduce-long-term-outcomes-clinicians-aim-achieve, claim-there-move-toward-using-more-potent-more, claim-there-move-toward-making-elimination-active-inflammation
-      Size 4: claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance, claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat, claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab, claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab
+      Size 4: claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance, claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat, claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab, claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab
       Size 3: claim-approximately-people-suffering-crohns-disease-approximately-people, claim-given-cured-surgery-short-bowel-syndrome-occur, claim-strictureplasty-method-avoiding-removal-additional-segments-intestine
       Size 2: claim-assessment-disease-activity-endoscopy-andor-imaging-necessary, claim-disease-severity-must-incorporate-four-domains-patient-reported
       Size 4: claim-attempts-define-disease-severity-widely-used-setting, claim-single-reference-standard-exists-ibd-diagnosis-composite, claim-possible-ibs-ibd-coexist-higher-expected-frequency, claim-ileocolonoscopy-biopsies-required-diagnosis-endoscopic-histological-featur
@@ -326,7 +326,7 @@ Confidence: medium | Source: [[ACG Crohn's 2018 - Lichtenstein]]
       Size 2: claim-bacterial-overgrowth-stomach-small-intestine-occur-various, claim-doubt-autoimmunity-born-gut
       Size 3: claim-based-network-metaanalysis-induction-trials-including-8020, claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory, claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission
       Size 2: claim-because-food-poisoning-connection-now-know-more, claim-shown-more-percent-patients-ibd-controlled-inflammation
-      Size 4: claim-began-notice-other-unanticipated-benefits-patients-muscle, claim-core-thesis-ballantyne-paleo, claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory, claim-core-thesis-myers-autoimmune
+      Size 4: claim-began-notice-other-unanticipated-benefits-patients-muscle, claim-core-thesis-ballantyne-paleo, claim-core-thesis-myers-autoimmune, claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory
       Size 5: claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over, claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti, claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive, claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment, claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced
       Size 2: claim-bsg-statement-126-mesalazine-crc-chemoprevention, claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan
       Size 3: claim-bsg-statement-3-5asa-induction-uc, claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active, claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm

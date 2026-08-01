@@ -2748,8 +2748,8 @@
           "members": [
             "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
             "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
-            "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
-            "claim-acg-cd2018-r46-5-asa-not-for-maintenance"
+            "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+            "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd"
           ]
         },
         {
@@ -2766,8 +2766,8 @@
           "members": [
             "claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation",
             "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
-            "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd",
-            "claim-acg-cd2018-r26-combination-infliximab---immunomodulator"
+            "claim-acg-cd2018-r26-combination-infliximab---immunomodulator",
+            "claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd"
           ]
         },
         {
@@ -2788,8 +2788,8 @@
           "size": 3,
           "members": [
             "claim-acg-uc2019-r10-oral-5-asa--2-g-d-for-extensive-colitis",
-            "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
-            "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa"
+            "claim-aga-uc2020-r6-early-biologics-over-step-up-5-asa",
+            "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u"
           ]
         },
         {
@@ -2825,8 +2825,8 @@
           "size": 5,
           "members": [
             "claim-acg-uc2019-r21-against-thiopurine-mtx-monotherapy-induction",
-            "claim-aga-uc2020-r3a-against-thiopurine-induction",
             "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+            "claim-aga-uc2020-r3a-against-thiopurine-induction",
             "claim-aga-uc2020-r3b-thiopurine-maintenance",
             "claim-acg-uc2019-r45-thiopurine-maintenance-after-cyclosporine-rescue"
           ]
@@ -2975,8 +2975,8 @@
           "size": 4,
           "members": [
             "claim-almost-patients-see-practice-crohns-disease-ulcerative",
-            "claim-modern-westerners-lost-roughly-third-their-microbial",
             "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+            "claim-modern-westerners-lost-roughly-third-their-microbial",
             "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies"
           ]
         },
@@ -2984,8 +2984,8 @@
           "size": 3,
           "members": [
             "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
-            "claim-concept-broad-based-pyramid-implies-majority-patients-mild",
-            "claim-steroids-used-many-decades-treatment-inflammatory-bowel"
+            "claim-steroids-used-many-decades-treatment-inflammatory-bowel",
+            "claim-concept-broad-based-pyramid-implies-majority-patients-mild"
           ]
         },
         {
@@ -3001,8 +3001,8 @@
           "members": [
             "claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended",
             "claim-mucosal-healing-important-therapeutic-goal-both-validated",
-            "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently",
-            "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to"
+            "claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to",
+            "claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently"
           ]
         },
         {
@@ -3055,8 +3055,8 @@
           "members": [
             "claim-approved-biologics-tofacitinib-superior-placebo-induction-maintenance",
             "claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat",
-            "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab",
-            "claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab"
+            "claim-biologic-naïve-patients-infliximab-vedolizumab-preferred-over-adalimumab",
+            "claim-infliximab-exposed-patients-especially-primary-non-responders-ustekinumab"
           ]
         },
         {
@@ -3127,8 +3127,8 @@
           "members": [
             "claim-began-notice-other-unanticipated-benefits-patients-muscle",
             "claim-core-thesis-ballantyne-paleo",
-            "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory",
-            "claim-core-thesis-myers-autoimmune"
+            "claim-core-thesis-myers-autoimmune",
+            "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory"
           ]
         },
         {

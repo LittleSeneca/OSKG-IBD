@@ -52,17 +52,27 @@ This is the strongest evidence for a specific cellular mechanism linking a CD ri
 **Alternative reading:** The autophagy defects may contribute to CD primarily through effects on antigen presentation and adaptive immunity (dendritic cell autophagy influences MHC class II presentation of microbial antigens) rather than through Paneth cells specifically.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-doubt-autoimmunity-born-gut|ATG16L1 provides molecular evidence supporting Campbell-McBride's broader claim that autoimmunity originates in the gut:]]
+- [[claim-core-thesis-myers-autoimmune|The ATG16L1 germ-free mouse data directly supports Myers' claim that genetic predisposition accounts for only ~25% of au]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|ATG16L1/autophagy defects specifically compromise Pimentel's defense #5 (mucosal immunity): autophagy is required for Pa]]
+- [[claim-actually-dont-know-normal-microbiome-looks-like|The claim that there is no 'normal' microbiome is extended by ATG16L1: the host's genetic background determines which mi]]
+- [[claim-now-know-one-out-nine-people-experience|ATG16L1/autophagy variants provide a genetic explanation for post-infectious IBS susceptibility: impaired autophagy-medi]]
+- [[claim-sibo-occurs-there-greater-1000-bacteria-per|ATG16L1/autophagy defects may contribute mechanistically to SIBO pathogenesis: impaired Paneth cell antimicrobial peptid]]
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|ATG16L1/autophagy defects provide a mechanistic explanation for Pimentel's observation that >50% of quiescent IBD patien]]
+- [[claim-modern-westerners-lost-roughly-third-their-microbial|ATG16L1/autophagy defects extend the significance of Western microbial diversity loss through the gene-environment inter]]
+- [[claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential|ATG16L1/autophagy defects provide a host-genetic mechanism for dysbiosis: impaired Paneth cell antimicrobial peptide sec]]
+- [[claim-helpful-think-leaky-gut-more-mechanism-disease|ATG16L1/autophagy defects extend the leaky gut mechanism: impaired autophagy compromises Paneth cell function and epithe]]
+- [[claim-one-known-cause-crohns-disease-overactive-immune|ATG16L1/autophagy defects provide a specific genetic mechanism for the 'overactive immune system' in CD described by Foo]]
+- [[claim-elemental-diet-provides-colon-rest-necessary-heal|The elemental diet's mechanism of reducing bacterial substrate extends to the context of ATG16L1/autophagy defects: by s]]
+- [[claim-core-thesis-sonnenburg-gut|ATG16L1/autophagy defects demonstrate the gene-microbe interaction at the core of Sonnenburg's 'second genome' thesis: A]]
 
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The ATG16L1 story is the most mechanistically satisfying in IBD genetics because it connects a common variant to a cellular phenotype to a microbial interaction. The therapeutic implication -- that autophagy-enhancing drugs might treat CD -- is speculative but supported by the biology.

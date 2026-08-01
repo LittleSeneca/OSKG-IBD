@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab|Both guidelines endorse vedolizumab as an effective biologic — for CD induction and as a preferred agent in biologic-naï]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc|Vedolizumab's role for induction of moderate-to-severe disease extends from CD (ACG 2018, strong recommendation with hig]]
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|Vedolizumab is effective for CD induction but has diminished relative efficacy in TNF-exposed UC, extending understandin]]
 
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

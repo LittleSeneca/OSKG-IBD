@@ -1,0 +1,116 @@
+[
+  {
+    "claim_a": "claim-acg-cd2018-r20-thiopurines-for-steroid-sparing",
+    "claim_b": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+    "edge_type": "extends",
+    "rationale": "Same drug class (thiopurines) for steroid-sparing in CD extends to steroid-induced remission maintenance in UC, representing the same clinical strategy across IBD subtypes"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+    "edge_type": "extends",
+    "rationale": "CD guideline's broader recommendation (thiopurine or MTX after steroid-induced remission) extends the UC-specific thiopurine recommendation for the same clinical scenario"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+    "edge_type": "extends",
+    "rationale": "CD guideline's recommendation for thiopurine-based strategies in steroid-dependent patients extends to UC thiopurine maintenance after steroid-induced remission"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "edge_type": "supports",
+    "rationale": "Both guidelines converge on limiting 5-ASA's role in maintenance \u2014 CD guideline rejects it entirely while UC guideline advises against adding it to anti-TNF therapy"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r48-budesonide-not-for-maintenance-beyond-4-months",
+    "claim_b": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+    "edge_type": "extends",
+    "rationale": "Budesonide's limitation as a maintenance agent reinforces the rationale for thiopurine-based steroid-induced remission maintenance strategies"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+    "claim_b": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "edge_type": "supports",
+    "rationale": "Both recommendations reinforce anti-TNF monotherapy for maintenance \u2014 continue anti-TNF if it induced remission, and do not dilute with 5-ASA add-on"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+    "claim_b": "claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue",
+    "edge_type": "extends",
+    "rationale": "CD vedolizumab maintenance recommendation extends to the UC post-cyclosporine rescue context, supporting vedolizumab as maintenance across different induction pathways"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "edge_type": "challenged_by",
+    "rationale": "Newer AGA CD 2021 guideline favors biologic monotherapy over thiopurine monotherapy, partially challenging the 2018 ACG recommendation for thiopurine-based maintenance after steroid-induced remission"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "edge_type": "challenged_by",
+    "rationale": "Newer CD guideline elevates biologic monotherapy over thiopurine monotherapy, refining the 2018 combined thiopurine/MTX \u00b1 anti-TNF approach toward biologic preference"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "supports",
+    "rationale": "Both guidelines converge on limiting 5-ASA \u2014 no role in active CD and discontinue after biologic escalation in UC, reflecting shared skepticism about 5-ASA efficacy"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r23-methotrexate-for-steroid-dependent-cd",
+    "claim_b": "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+    "edge_type": "challenged_by",
+    "rationale": "MTX is endorsed for steroid-dependent CD but recommended against for UC induction and maintenance, reflecting disease-specific divergence in methotrexate efficacy evidence"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+    "claim_b": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "edge_type": "extends",
+    "rationale": "CD guideline's strong anti-TNF recommendation for steroid-refractory disease extends to UC where infliximab ranks highest among biologic options for na\u00efve patients"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "CD guideline endorses anti-TNF for steroid-refractory disease while UC guideline defines post-anti-TNF sequencing, together delineating the anti-TNF treatment arc across disease states"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r27-vedolizumab-for-induction",
+    "claim_b": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "edge_type": "supports",
+    "rationale": "Both guidelines endorse vedolizumab as an effective biologic \u2014 for CD induction and as a preferred agent in biologic-na\u00efve UC"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r27-vedolizumab-for-induction",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Vedolizumab is effective for CD induction but has diminished relative efficacy in TNF-exposed UC, extending understanding of vedolizumab's differential positioning by treatment history"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r31-cyclosporine--mmf--tacrolimus-not-for-cd",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "challenged_by",
+    "rationale": "Cyclosporine is explicitly recommended against in CD but endorsed for steroid-refractory ASUC in UC, reflecting striking disease-specific efficacy divergence with the same drug"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+    "claim_b": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "edge_type": "extends",
+    "rationale": "CD guideline's strong anti-TNF recommendation for severe disease extends to UC where infliximab ranks highest among biologics for na\u00efve patients, reinforcing anti-TNF as first-line biologic"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF is first-line for severe CD while UC guideline provides post-anti-TNF sequencing alternatives, together defining the anti-TNF treatment pathway from initiation through failure"
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Infliximab is recommended for severe disease in both CD (severe active) and UC (steroid-refractory ASUC), extending the severe-disease indication across IBD subtypes"
+  }
+]

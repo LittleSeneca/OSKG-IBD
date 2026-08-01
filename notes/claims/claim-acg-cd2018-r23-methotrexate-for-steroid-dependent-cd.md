@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+
+**Operationalizes:**
+
 
 **Challenged by:**
+- [[claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance|MTX is endorsed for steroid-dependent CD but recommended against for UC induction and maintenance, reflecting disease-sp]]
 
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

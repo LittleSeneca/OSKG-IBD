@@ -53,17 +53,32 @@ If IBD requires multiple hits, preventing any one hit could prevent disease -- s
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-doubt-autoimmunity-born-gut|Yamada's multistage IBD model demonstrates that at least one autoimmune-type disease (IBD) arises from a gut-centered in]]
 
-**Contradicts:**
+**Extends:**
+- [[claim-remember-gut-two-modes-feeding-digestion-fasting|Yamada's multistage IBD model requires environmental and microbial factors; Pimentel's migrating motor complex (MMC) is ]]
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|Yamada's multistage model requires breakdown of host-microbe homeostasis; Pimentel's five natural gut defenses (MMC wave]]
+- [[claim-actually-dont-know-normal-microbiome-looks-like|Yamada's multistage model includes the microbiome as a key variable; Pimentel complicates this by emphasizing that there]]
+- [[claim-now-know-one-out-nine-people-experience|Yamada's multistage model identifies environmental triggers as a key pathogenic factor; Pimentel provides a specific, we]]
+- [[claim-sibo-occurs-there-greater-1000-bacteria-per|Yamada's multistage model identifies microbial associations as a key pathogenic factor; Pimentel defines SIBO as a clini]]
+- [[claim-recent-publication-showed-two-main-weeds-sibo|Yamada's multistage IBD model requires microbial dysbiosis as a pathogenic factor; Pimentel identifies E. coli and Klebs]]
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada's multistage model identifies microbial associations as one of three key pathogenic spheres alongside genetics an]]
+- [[claim-modern-westerners-lost-roughly-third-their-microbial|Chutkan's documentation of Western microbial diversity loss provides a concrete empirical example of the 'environmental ]]
+- [[claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential|Chutkan's dysbiosis concept provides the specific vocabulary for the 'microbial associations' component of Yamada's mult]]
+- [[claim-helpful-think-leaky-gut-more-mechanism-disease|Chutkan's leaky gut model provides the mechanistic interface between the 'microbial associations' and the immune dysregu]]
+- [[claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate|Gottschall's vicious cycle provides a specific, mechanistically detailed example of how an environmental factor (carbohy]]
+- [[claim-one-known-cause-crohns-disease-overactive-immune|Yamada's multistage model contextualizes and refines Foote's simplified claim that CD is caused by an 'overactive immune]]
+- [[claim-elemental-diet-provides-colon-rest-necessary-heal|The elemental diet's mechanism of starving colonic bacteria of substrate provides therapeutic evidence for the microbial]]
+- [[claim-introduction-diet-works-three-mechanisms-providing-large|The GAPS Introduction Diet's three mechanisms (nourishing the gut lining, removing fiber irritants, delivering probiotic]]
+- [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux|Campbell-McBride's clinical recommendation that IBD patients require the Introduction Diet provides clinical-practice su]]
+- [[claim-core-thesis-sonnenburg-gut|Sonnenburg's 'second genome' concept elaborates the microbial component of Yamada's multistage IBD model at a systems le]]
+- [[claim-core-thesis-myers-autoimmune|Myers' quantification of genetic vs environmental contribution (25%/75%) directly supports and extends Yamada's multista]]
 
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 This conclusion is well-supported by the evidence presented but is also unfalsifiable at present -- it's a framework, not a testable hypothesis. The clinical value is in justifying a multi-modal treatment approach: diet (environment), biologics (immune), and potentially microbiome-modifying therapies, rather than monotherapy.

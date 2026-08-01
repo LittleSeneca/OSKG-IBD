@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu|Both ACG 2018 (CD) and ECCO 2022 (UC) recommend continuing vedolizumab for maintenance after vedolizumab-induced remissi]]
+**Extends:**
+- [[claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue|CD vedolizumab maintenance recommendation extends to the UC post-cyclosporine rescue context, supporting vedolizumab as ]]
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|Vedolizumab's established role for maintenance after vedolizumab-induced remission in CD (ACG 2018) is contextualized by]]
+- [[claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc|Vedolizumab's efficacy spans both IBD subtypes and treatment phases: established for CD maintenance after vedolizumab-in]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

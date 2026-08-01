@@ -1,0 +1,98 @@
+[
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "extends",
+    "rationale": "Pimentel identifies mucosal immunity (GALT, Peyer's patches, tight junctions) as the fifth natural gut defense; Yamada identifies failure of this same mucosal immune tolerance to commensal flora as a central pathogenic mechanism in IBD \u2014 the defense framework provides the physiological baseline for understanding the barrier breakdown that enables disease."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada establishes that IBD pathogenesis requires dysregulation of the immune response to commensal intestinal flora; Pimentel provides the clinical correlate \u2014 >50% of IBD patients with controlled inflammation still harbor SIBO \u2014 demonstrating a specific dysbiosis manifestation of the microbiome-immune axis Yamada describes."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+    "edge_type": "extends",
+    "rationale": "Chutkan defines dysbiosis as a microbial imbalance where pathogenic bacteria flourish at the expense of beneficial species; Yamada's IBD pathogenesis model identifies exactly this dysbiosis-driven loss of immune tolerance to commensal flora as the central disease mechanism \u2014 the dysbiosis definition provides the conceptual vocabulary for the pathogenic process."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+    "edge_type": "extends",
+    "rationale": "Chutkan describes leaky gut (increased intestinal permeability) as a precondition for autoimmune disease via the zonulin-tight junction pathway; Yamada's IBD pathogenesis model requires exactly this breakdown of barrier integrity for loss of immune tolerance to commensal flora \u2014 intestinal permeability provides the mechanistic gateway between dysbiosis and immune dysregulation."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "supports",
+    "rationale": "Both claims converge on the same core principle: inappropriate immune response to commensal microorganisms as a cause of IBD. Yamada provides the genetic and mechanistic detail (NOD2, loss of tolerance); Foote offers a simplified public-facing summary that identifies the same pathogenic mechanism (immune system attacking harmless gut microbes)."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+    "edge_type": "operationalizes",
+    "rationale": "Yamada identifies gut barrier dysfunction and microbiome-immune dysregulation as central to IBD pathogenesis; Campbell-McBride's GAPS Introduction Diet operationalizes this by providing a dietary protocol specifically designed for UC and Crohn's patients \u2014 using meat stock nutrients for epithelial repair, fiber removal to reduce irritation, and fermented foods for microbial repopulation."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Sonnenburg establishes the gut microbiota as a malleable 'second genome' whose diversity is being depleted by the Western lifestyle; Yamada's IBD pathogenesis model identifies the gut microbiome as a key pathogenic factor requiring interaction with host genetics \u2014 the 'second genome' framework explains why the microbial environment is a necessary and variable contributor to disease."
+  },
+  {
+    "claim_a": "claim-increasingly-clear-key-pathogenic-mechanism-underlying-development",
+    "claim_b": "claim-core-thesis-myers-autoimmune",
+    "edge_type": "supports",
+    "rationale": "Both claims converge on gene-environment interaction as the basis of autoimmune/IBD pathogenesis. Myers quantifies the allocation: genetics 25%, environment 75%, with leaky gut as the necessary precondition; Yamada's IBD model similarly requires host genetics, immune dysregulation, and the gut microbiome \u2014 consistent with the environmental predominance Myers asserts."
+  },
+  {
+    "claim_a": "claim-large-international-collaborative-study-including-over-000",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada demonstrates that known genetic loci account for only 13.6% of CD risk and 7.5% of UC risk \u2014 the majority of disease risk is non-genetic; Pimentel's finding that >50% of quiescent IBD patients harbor SIBO identifies a specific acquired microbiome disturbance that may contribute to this unexplained environmental disease risk."
+  },
+  {
+    "claim_a": "claim-large-international-collaborative-study-including-over-000",
+    "claim_b": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+    "edge_type": "extends",
+    "rationale": "Yamada's finding that genetics accounts for <14% of CD risk implies environmental factors \u2014 including diet and the microbiome \u2014 drive the majority of disease expression; Campbell-McBride's GAPS Introduction Diet addresses precisely these environmental components through a gut-barrier-focused nutritional protocol, filling the therapeutic space left by the genetic evidence."
+  },
+  {
+    "claim_a": "claim-large-international-collaborative-study-including-over-000",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Yamada shows the fixed human genome explains only a minority fraction of IBD risk; Sonnenburg's concept of the gut microbiota as a malleable 'second genome' of over 2 million microbial genes identifies the variable environmental-genetic interface that accounts for the remaining unexplained risk \u2014 the microbial gene pool dwarfs the human one in adaptive capacity."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "extends",
+    "rationale": "Pimentel identifies mucosal immunity (GALT, tight junctions) as a key gut defense; Yamada identifies NOD2 as the specific intracellular sensor of bacterial peptidoglycan within this mucosal defense whose polymorphisms are associated with Crohn's disease \u2014 providing molecular specificity to the general defense category Pimentel describes."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-actually-dont-know-normal-microbiome-looks-like",
+    "edge_type": "supports",
+    "rationale": "Yamada identifies NOD2 as a host-genetic variable in bacterial sensing whose dysfunction drives CD in 30% of European-ancestry patients; Pimentel emphasizes that there is no universal 'normal' microbiome \u2014 together they highlight two independent dimensions of the individualized host-microbiome interaction (genetic variation in sensing + microbial uniqueness) that complicate diagnosis and treatment."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+    "edge_type": "extends",
+    "rationale": "Yamada shows NOD2 variants impair intracellular sensing of bacterial peptidoglycan, compromising innate immune clearance of intestinal bacteria; this genetic defect provides a mechanistic explanation for why bacterial dislocation from the colon to the small intestine (SIBO, as defined by Pimentel) triggers pathological rather than tolerated immune responses in genetically susceptible individuals."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-recent-publication-showed-two-main-weeds-sibo",
+    "edge_type": "extends",
+    "rationale": "Yamada identifies NOD2 as the intracellular sensor for bacterial peptidoglycan (muramyl dipeptide); Pimentel identifies E. coli and Klebsiella \u2014 Gram-negative bacteria whose cell walls are rich in peptidoglycan \u2014 as the dominant SIBO disrupters, identifying the specific bacterial taxa whose detection by NOD2 may be compromised in genetically susceptible CD patients."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "NOD2 variants impair intracellular sensing of bacterial peptidoglycan, compromising innate immune clearance of intestinal bacteria; Pimentel's finding that >50% of IBD patients harbor SIBO provides clinical epidemiological evidence consistent with this impaired bacterial clearance mechanism \u2014 SIBO may be the clinical consequence of NOD2-mediated defects in mucosal immune surveillance."
+  }
+]

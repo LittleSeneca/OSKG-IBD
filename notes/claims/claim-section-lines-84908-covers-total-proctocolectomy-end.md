@@ -65,7 +65,7 @@ The distinction between UC and CD is surgically critical. Misclassifying Crohn's
 
 ## Assessment
 
-This chapter provides the surgeon's technical perspective that complements the patient-facing Steinhart Ch 8. The IPAA section is notably thorough on the staged approach (3-stage for sick patients: colectomy, then pouch creation with ileostomy, then ileostomy closure). The CD-in-pouch prognosis data (50% require diversion) quantifies the risk that Steinhart describes qualitatively.
+This chapter provides the surgeon's technical perspective that supports the patient-facing Steinhart Ch 8. The IPAA section is notably thorough on the staged approach (3-stage for sick patients: colectomy, then pouch creation with ileostomy, then ileostomy closure). The CD-in-pouch prognosis data (50% require diversion) quantifies the risk that Steinhart describes qualitatively.
 
 ---
 
@@ -81,4 +81,4 @@ This chapter provides the surgeon's technical perspective that complements the p
 
 **Weakest section:** The chapter has limited discussion of the combined medical-surgical approach to perianal CD, which is the standard of care. The medical management of postoperative recurrence is referenced only briefly and largely deferred to Chapter 64.
 
-**Overall quality:** A technically thorough surgical reference that complements the medical chapters. The authors' willingness to present early laparoscopic resection as an alternative to biologic escalation for limited ileocecal CD is a useful surgical perspective that challenges medical default pathways.
+**Overall quality:** A technically thorough surgical reference that supports the medical chapters. The authors' willingness to present early laparoscopic resection as an alternative to biologic escalation for limited ileocecal CD is a useful surgical perspective that challenges medical default pathways.

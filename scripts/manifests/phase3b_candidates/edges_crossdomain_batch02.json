@@ -1,0 +1,80 @@
+[
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "extends",
+    "rationale": "NOD2 variants provide a specific genetic mechanism for the general claim that CD involves an overactive immune system attacking harmless microorganisms: NOD2 is an intracellular sensor of bacterial MDP, and loss-of-function NOD2 mutations impair the host's ability to properly sense and respond to commensal bacteria, leading to dysregulated immune activation against the microbiota."
+  },
+  {
+    "claim_a": "claim-nod2-nucleotide-binding-oligomerization-domain-containing-protein-chromoso",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "NOD2 is the molecular interface between the human genome and the microbial 'second genome': it is the innate immune sensor that detects bacterial peptidoglycan (MDP) and translates microbial signals into host immune responses. This provides a specific mechanistic link explaining how the malleable microbial genome communicates with the fixed human genome, and why loss of microbial diversity could be causally linked to CD through impaired NOD2 signaling."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects specifically compromise Pimentel's defense #5 (mucosal immunity): autophagy is required for Paneth cell antimicrobial peptide secretion, and ATG16L1 T300A variants impair this function. This provides a genetic explanation for why mucosal immunity — one of the five natural defenses against bacterial overgrowth — fails in CD patients, linking the pathophysiology of CD directly to SIBO susceptibility."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-actually-dont-know-normal-microbiome-looks-like",
+    "edge_type": "extends",
+    "rationale": "The claim that there is no 'normal' microbiome is extended by ATG16L1: the host's genetic background determines which microbial compositions become pathogenic. An ATG16L1-deficient host may develop Paneth cell abnormalities and inflammation with a microbiome that is harmless in a genetically intact host, demonstrating that 'normal' is host-context-dependent and that the same microbial composition can be commensal or pathogenic depending on host autophagy function."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-now-know-one-out-nine-people-experience",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy variants provide a genetic explanation for post-infectious IBS susceptibility: impaired autophagy-mediated bacterial clearance and antimicrobial peptide secretion after food poisoning could explain why 1 in 9 exposed individuals develop persistent IBS while others recover fully. The genetic defect in microbial handling determines whether an acute infection becomes a chronic post-infectious syndrome."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects may contribute mechanistically to SIBO pathogenesis: impaired Paneth cell antimicrobial peptide secretion (a consequence of ATG16L1 variants) reduces the small intestine's innate ability to control bacterial populations, potentially facilitating the >10^3 CFU/mL bacterial overgrowth that defines SIBO. This connects CD genetics directly to the SIBO disease mechanism."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects provide a mechanistic explanation for Pimentel's observation that >50% of quiescent IBD patients have SIBO: the same genetic defect that contributes to CD pathogenesis (impaired Paneth cell function and antimicrobial peptide secretion) also compromises small intestinal bacterial control, predisposing IBD patients to SIBO even when their inflammatory disease is in remission."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-modern-westerners-lost-roughly-third-their-microbial",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects extend the significance of Western microbial diversity loss through the gene-environment interaction paradigm: ATG16L1-hypomorphic mice raised in germ-free conditions do not develop Paneth cell abnormalities, demonstrating that the genetic risk requires microbial exposure to manifest. This explains why microbial diversity loss has complex effects — it may reduce certain microbial triggers while simultaneously creating dysbiotic risks that a genetically susceptible host cannot manage."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-doubt-autoimmunity-born-gut",
+    "edge_type": "supports",
+    "rationale": "ATG16L1 provides molecular evidence supporting Campbell-McBride's broader claim that autoimmunity originates in the gut: ATG16L1 defects specifically impair the gut's ability to handle microbes at the intestinal barrier, demonstrating that a genetic defect at the gut-microbe interface (the autophagy pathway in Paneth cells) can trigger chronic intestinal inflammation with autoimmune features. This offers a concrete molecular example of the gut-origin principle."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects provide a host-genetic mechanism for dysbiosis: impaired Paneth cell antimicrobial peptide secretion (driven by ATG16L1 variants) alters the microbial ecosystem by failing to control specific bacterial populations in the small intestine. This demonstrates that dysbiosis is not purely environmental — host genetics actively shape which microbial communities can persist, and genetic defects can create conditions favoring microbial imbalance."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects extend the leaky gut mechanism: impaired autophagy compromises Paneth cell function and epithelial barrier integrity, providing a specific genetic pathway by which intestinal permeability increases. This supports the claim that leaky gut functions as a mechanism (precondition) rather than a disease — ATG16L1 variants create the barrier defect that then permits microbial translocation and immune activation."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "extends",
+    "rationale": "ATG16L1/autophagy defects provide a specific genetic mechanism for the 'overactive immune system' in CD described by Foote: impaired autophagy leads to defective bacterial clearance and Paneth cell dysfunction, so the immune system's attack on commensal microorganisms is not truly 'overactive' but rather an appropriate response to bacterial persistence caused by a failure of intracellular killing — the immune system is compensating for a clearance defect."
+  },
+  {
+    "claim_a": "claim-polymorphisms-several-loci-involved-autophagy-including-atg16l1",
+    "claim_b": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+    "edge_type": "extends",
+    "rationale": "The elemental diet's mechanism of reducing bacterial substrate extends to the context of ATG16L1/autophagy defects: by starving bacteria of dietary substrate, elemental diets reduce the microbial triggers that ATG16L1-deficient hosts cannot properly clear through autophagy-mediated mechanisms. This provides a dietary workaround for a genetic defect — reducing bacterial load compensates for the host's impaired ability to manage its microbiota."
+  }
+]

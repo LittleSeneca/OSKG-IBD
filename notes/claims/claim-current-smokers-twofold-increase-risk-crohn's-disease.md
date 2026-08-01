@@ -51,17 +51,17 @@ Smoking is the single most actionable environmental risk factor. Smoking cessati
 **Alternative reading:** Smoking may not be directly causal. The association could reflect confounding: people who smoke differ from non-smokers in diet, socioeconomic status, and other health behaviors. The temporal relationship (disease onset often precedes smoking cessation rather than follows it) complicates causal inference.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-core-thesis-sonnenburg-gut|Yamada documents the smoking paradox in IBD (2x CD risk, protective for UC); Sonnenburg's 'second genome' framework expl]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The smoking paradox is the most tantalizing unsolved puzzle in IBD epidemiology. It's been known for decades and we still don't understand the mechanism. For clinical practice, the message is clear: CD patients must stop smoking; UC patients should not start smoking to treat their disease (the cardiovascular and cancer risks far outweigh any potential benefit).

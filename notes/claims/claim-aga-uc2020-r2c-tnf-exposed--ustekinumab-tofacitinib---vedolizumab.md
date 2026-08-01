@@ -56,17 +56,19 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu|AGA 2020's recommendation prioritizing ustekinumab as a preferred induction choice for TNF-exposed UC patients is extend]]
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|ECCO-12 establishes anti-TNF as first-line biologic induction; AGA-2c defines biologic selection after anti-TNF failure ]]
+- [[claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc|ECCO-13 endorses vedolizumab for UC induction generally; AGA-2c qualifies vedolizumab's role by prior TNF exposure, depr]]
+- [[claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc|ECCO-15 endorses ustekinumab for UC induction; AGA-2c prioritizes ustekinumab specifically for TNF-exposed patients, pro]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|ECCO-16 defines the maintenance path when anti-TNF induction succeeds; AGA-2c defines the switch path when anti-TNF fail]]
+- [[claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu|AGA-2c prioritizes ustekinumab for TNF-exposed induction; ECCO-21 recommends continuing ustekinumab for maintenance afte]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

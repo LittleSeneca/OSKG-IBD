@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+
+**Operationalizes:**
+
 
 **Challenged by:**
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|Cyclosporine is explicitly recommended against in CD but endorsed for steroid-refractory ASUC in UC, reflecting striking]]
 
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

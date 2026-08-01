@@ -1,0 +1,698 @@
+{
+  "batch_id": "crossdomain-batch04",
+  "pair_count": 30,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+        "claim_id": "chutkan-dysbiosis-6",
+        "statement": "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. \"What we think of as just a wicked sweet toot",
+        "full_claim": "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. \"What we think of as just a wicked sweet tooth may actually represent specific communities of bacteria directing us to behave in a way that ensures their survival.\" This explains why cravings for sugar and starch diminish rapidly on a low-carb d",
+        "evidence": "See source note [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+        "claim_id": "gottschall-ch35-5",
+        "statement": "The vicious cycle (Figure 5 in the text) proceeds as follows: carbohydrate malabsorption \u2192 increased fermentation \u2192 production of acids, gas, and microbial toxins \u2192 injury to intestinal surface (enzym",
+        "full_claim": "The vicious cycle (Figure 5 in the text) proceeds as follows: carbohydrate malabsorption \u2192 increased fermentation \u2192 production of acids, gas, and microbial toxins \u2192 injury to intestinal surface (enzyme destruction, microvilli damage) \u2192 excessive mucus production as defense \u2192 mucus barrier prevents enzyme-substrate contact \u2192 further carbohydrate malabsorption \u2192 continued diarrhea \u2192 water drawn into",
+        "evidence": "References to bacterial fermentation changing E. coli characteristics (Science paper on grain feeding and acid-resistant E. coli in cattle -- suggesting acid environment from starch fermentation could cause harmless bacteria to mutate to harmful forms). Gottschall speculates: \"Is the fermentation of",
+        "source_note": "Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+        "claim_id": "thompson-een-3",
+        "statement": "An elemental diet \"provides the colon with the rest necessary to heal its wounds unhindered.\" Because nutrients are pre-digested, \"there is very little undigested matter passing into the colon\" -- pro",
+        "full_claim": "An elemental diet \"provides the colon with the rest necessary to heal its wounds unhindered.\" Because nutrients are pre-digested, \"there is very little undigested matter passing into the colon\" -- providing bowel rest. The bacterial population \"has less to eat\" making it \"easier to eliminate undesirable micro-organisms.\" Combined with antimicrobials and probiotics, the protocol \"eliminates a lot o",
+        "evidence": "Clinical reasoning and Thompson's personal experience. The bowel rest concept is standard surgical rationale. The bacterial starvation concept echoes Gottschall's SCD mechanism.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition",
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+        "claim_id": "yamada-ibd62-7",
+        "statement": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ",
+        "full_claim": "Patients with IBD demonstrate a reduction in diversity of microbiota compared to controls, primarily attributable to loss of anaerobic bacteria like Bacteroidetes... Faecalibacterium prausnitzii from ileal biopsies of Crohn's disease patients undergoing ileocecal resection is associated with higher rates of relapse, and intragastric administration of F. prausnitzii in mice was associated with amel",
+        "evidence": "Key microbial patterns in IBD: reduced Firmicutes and Bacteroidetes, increased Proteobacteria and Actinobacteria (Frank et al. 2007). Enteroadherent invasive E. coli (AIEC) more common in ileal CD lesions. Fusobacterium nucleatum invasive strains isolated from inflamed IBD mucosa (Strauss et al. 201",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while",
+        "full_claim": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+        "evidence": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while",
+        "full_claim": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+        "evidence": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while",
+        "full_claim": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+        "evidence": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while",
+        "full_claim": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+        "evidence": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+        "claim_id": "yamada-ibd62-8",
+        "statement": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while",
+        "full_claim": "Current smokers have a twofold increase in risk of Crohn's disease... In contrast, former smoking is associated with substantial increase in risk of ulcerative colitis within 1 year of quitting, while current smoking appears to be protective.",
+        "evidence": "Meta-analyses consistently show smoking increases CD risk (OR ~2.0) and decreases UC risk. In established CD, smoking increases therapy escalation, surgery rates, and postoperative recurrence. In established UC, ongoing smoking is associated with milder disease and reduced colectomy rates. Mechanist",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding ",
+        "full_claim": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+        "evidence": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding ",
+        "full_claim": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+        "evidence": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding ",
+        "full_claim": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+        "evidence": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding ",
+        "full_claim": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+        "evidence": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+        "claim_id": "yamada-ibd62-9",
+        "statement": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding ",
+        "full_claim": "Very early-onset IBD represents a distinct phenotype where inflammatory bowel disease develops in children within the first few months of life... Three distinct homozygous mutations in genes encoding the IL-10 receptor (IL-10RA and IL-10RB) were identified, suggesting that distinct subtypes of IBD may be mediated through specific pathways.",
+        "evidence": "VEOIBD is characterized by pancolonic inflammation, high perianal involvement, medical therapy refractoriness, and rising incidence. Glocker et al. (2009) identified IL-10RA and IL-10RB mutations in nine patients through linkage analysis and candidate gene sequencing. Allogeneic stem cell transplant",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-remember-gut-two-modes-feeding-digestion-fasting",
+        "claim_id": "pimentel-ch2-1",
+        "statement": "Remember, the gut has two modes: feeding (digestion) and fasting (cleaning). Two to four hours after you eat and digest a meal, the feeding mode turns off and fasting mode begins... During the fasting",
+        "full_claim": "Remember, the gut has two modes: feeding (digestion) and fasting (cleaning). Two to four hours after you eat and digest a meal, the feeding mode turns off and fasting mode begins... During the fasting mode, waves of electrical activity induce the gut to sweep residual undigested material through the digestive tract. This 'housekeeping' role is known as the migrating motor complex.",
+        "evidence": "The MMC mechanism is well-characterized in the gastrointestinal physiology literature. Pimentel cites standard GI physiology: phase III of the MMC is the \"housekeeper\" phase, occurring every 90-120 minutes during fasting, lasting 5-8 minutes, and originating in the stomach or proximal small intestin",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-pimentel-lists-five-natural-defenses-table-phase",
+        "claim_id": "pimentel-ch2-3",
+        "statement": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve",
+        "full_claim": "Pimentel lists five natural defenses (Table 2.2): (1) Phase III migrating motor complexes (housekeeper waves), (2) antimicrobial effects of bile acid and pancreatic secretions, (3) the ileocecal valve (preventing colonic reflux into small intestine), (4) stomach acid (killing ingested bacteria before they reach the small intestine), and (5) mucosal immunity (GALT, Peyer's patches, tight junctions)",
+        "evidence": "Standard GI physiology. The stomach produces \"two liters, or a half gallon, a day\" of highly acidic fluid \"strong enough to eat through a sheet of steel\" that kills most bacteria. The ileocecal valve \"has an important role in separating the colon microbiome from that of the small intestine, which co",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition",
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+        "claim_id": "pimentel-ch2-5",
+        "statement": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and i",
+        "full_claim": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and is different from SIBO, but it's worse when SIBO is present. One of the main causes of bile acid diarrhea is SIBO.",
+        "evidence": "The biochemical pathway: bacteria deconjugate bile acids to toxic secondary bile acids (deoxycholic acid, lithocholic acid) that are pro-secretory in the colon. The connection to gallbladder: \"If your gallbladder is removed or is not functioning properly, bile will flow straight from the liver into ",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-actually-dont-know-normal-microbiome-looks-like",
+        "claim_id": "pimentel-ch3-4",
+        "statement": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated.",
+        "full_claim": "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated.",
+        "evidence": "Diet-driven variation: \"If you live in Africa, your microbiome would be different because the African diet is different from the American diet.\" Age-related changes: \"methanogenic archaea increase by almost five-fold from childhood into the eighth decade of life.\" Even pets affect the microbiome. Th",
+        "source_note": "Pimentel 2022 - Ch3 Gut Microbiome",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-now-know-one-out-nine-people-experience",
+        "claim_id": "pimentel-ch4-1",
+        "statement": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "full_claim": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "evidence": "Mayo Clinic meta-analysis of 45 published food poisoning outbreaks (2017). Pimentel's CDC data-modeling study. European studies of Salmonella outbreaks showing persistent IBS-like bowel dysfunction. The historical context: Sir Arthur Hearst first described post-infectious IBS in 1918 in Medical Dise",
+        "source_note": "Pimentel 2022 - Ch4 Food Poisoning Autoimmunity",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+        "claim_id": "pimentel-ch5-1",
+        "statement": "SIBO occurs when there are greater than 1000 bacteria per milliliter (>10^3/mL) in the small intestine. In SIBO, this excessive quantity of bacteria is not an infection, but rather an over-colonizatio",
+        "full_claim": "SIBO occurs when there are greater than 1000 bacteria per milliliter (>10^3/mL) in the small intestine. In SIBO, this excessive quantity of bacteria is not an infection, but rather an over-colonization of specific bacteria in an area where they don't belong. The bacteria aren't invading or attacking you; they are your own resident bacteria. SIBO is, in effect, a phenomenon of bacteria dislocated f",
+        "evidence": "Standard SIBO definition from gastroenterology. The REIMAGINE study's confirmation of the small intestine-colon bacterial gradient. The mechanism of bacterial reflux: \"the ileocecal valve... is a simple connector rather than a functioning sphincter. This means that the valve never fully closes and t",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-recent-publication-showed-two-main-weeds-sibo",
+        "claim_id": "pimentel-ch5-2",
+        "statement": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are referred to as 'disrupters.' When they increase in quantity, they bully the other ba",
+        "full_claim": "In a recent publication, we showed that the two main 'weeds' in SIBO are E. coli and Klebsiella. These bacteria are referred to as 'disrupters.' When they increase in quantity, they bully the other bacteria to die off and they dominate the small intestine with their presence and their effects. And, by the way, they are hydrogen producers.",
+        "evidence": "REIMAGINE study data. The ecological model: \"Think of the small intestine as a lawn. If you don't mow the lawn (if there are no cleaning waves), the weeds (proteobacteria) that are always there outperform the grass (firmicutes, a type of gram-positive bacteria).\"",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-there-several-subpopulations-microorganisms-sibo-depending-gas",
+        "claim_id": "pimentel-ch5-3",
+        "statement": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another gr",
+        "full_claim": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another group produces hydrogen sulfide, which usually leads to diarrhea, pain, and an urgent need to run to the bathroom. A third group of microorganisms is not bacteria, but rather archaea: single-celled orga",
+        "evidence": "Breath test data showing distinct hydrogen, methane, and hydrogen sulfide patterns correlated with symptom profiles. The mechanism: hydrogen is produced first (by E. coli, Klebsiella), then scavenged by either methanogens (producing methane \u2192 constipation) or sulfate-reducing bacteria (producing hyd",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-glucose-easy-humans-digest-body-designed-absorb",
+        "claim_id": "pimentel-ch5-4",
+        "statement": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small intestine, but it's absorbed so fast that any bacteria below four feet in the sma",
+        "full_claim": "Glucose is very easy for humans to digest... the body is designed to absorb glucose in the first few feet of the small intestine, but it's absorbed so fast that any bacteria below four feet in the small intestine won't receive any glucose. If you have bacterial overgrowth below those four feet of small intestine (which, remember, is 20 feet long), we won't be able to assess three-quarters of the s",
+        "evidence": "Physiological argument: glucose is absorbed in the proximal small intestine; lactulose is non-absorbable and therefore available to bacteria throughout the small intestine. The 90-minute cutoff for hydrogen rise: \"If your hydrogen levels rise by 20 parts per million (ppm) or more before or at 90 min",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-methane-production-involves-methanobrevibacter-smithii-smithii-short",
+        "claim_id": "pimentel-ch5-5",
+        "statement": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea.\" The diagnostic criterion: \"If at any point over two hours your methane level ",
+        "full_claim": "Methane production involves \"Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea.\" The diagnostic criterion: \"If at any point over two hours your methane level exceeds 10 ppm, this is considered positive for methane and you are diagnosed with what is now called intestinal methanogen overgrowth (IMO).\"",
+        "evidence": "The three-step pathway: sugar \u2192 hydrogen-producing bacteria (E. coli, Klebsiella) \u2192 hydrogen \u2192 methanogenic archaea (M. smithii) \u2192 methane. Methanogens are archaea, a distinct domain of life separate from bacteria. Despite the name change, the clinical presentation (constipation, bloating) and treat",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-performed-study-compared-erythromycin-another-serotonin-agonist",
+        "claim_id": "pimentel-ch6-5",
+        "statement": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod). The serotonin agonist kept bacteria away for over 200 days, while erythromycin ",
+        "full_claim": "We performed a study in which we compared erythromycin to another serotonin agonist similar to prucalopride (tegaserod). The serotonin agonist kept bacteria away for over 200 days, while erythromycin kept bacteria away for only a few months. So, in this one study, serotonin receptor agonists were more effective at preventing the relapse of SIBO than erythromycin (but erythromycin was better than n",
+        "evidence": "Comparative study of tegaserod vs. erythromycin for SIBO prevention. Pharmacological rationale: erythromycin's short half-life vs. prucalopride's longer half-life. Tachyphylaxis observation with long-term prokinetic use: \"After a few months, prucalopride may lose some of its effectiveness... To trea",
+        "source_note": "Pimentel 2022 - Ch6 Three Pillars of SIBO Management",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+        "claim_id": "pimentel-ch9-3",
+        "statement": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "full_claim": "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO.",
+        "evidence": "Pimentel's published data on SIBO in quiescent IBD. Clinical observation. The mechanism: IBD inflammation damages gut motility and creates strictures, both of which promote SIBO.",
+        "source_note": "Pimentel 2022 - Ch9 Refractory SIBO",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    }
+  ]
+}

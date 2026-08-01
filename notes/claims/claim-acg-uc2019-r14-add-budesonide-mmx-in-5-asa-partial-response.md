@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+- [[claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation|Both claims define sequential steps in the 5-ASA treatment pathway: ACG 2019 recommends adding budesonide MMX for partia]]
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|Both claims define the steroid escalation ladder in UC: ACG 2019 recommends adding budesonide MMX after partial 5-ASA re]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

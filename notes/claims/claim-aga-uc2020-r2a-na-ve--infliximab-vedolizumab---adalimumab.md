@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu|AGA 2020's recommendation establishing vedolizumab as a first-line biologic choice for naïve UC patients is extended by ]]
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|ECCO-12 endorses anti-TNF agents as a class for UC induction; AGA-2a refines this by ranking specific anti-TNF agents (i]]
+- [[claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc|ECCO-13 endorses vedolizumab for UC induction; AGA-2a positions vedolizumab favorably (alongside infliximab, above adali]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|AGA-2a addresses anti-TNF agent selection for induction in naïve patients; ECCO-16 defines the maintenance continuation ]]
+- [[claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu|AGA-2a ranks vedolizumab favorably for naïve UC induction; ECCO-18 recommends continuing vedolizumab for maintenance aft]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

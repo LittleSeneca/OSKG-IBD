@@ -1,0 +1,546 @@
+{
+  "batch_id": "microbiome-batch28",
+  "pair_count": 30,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+        "claim_id": "chutkan-rewild-3",
+        "statement": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroid",
+        "full_claim": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroids, birth control pills, hormone replacement therapy, and NSAIDs including aspirin.",
+        "evidence": "Reiterates and organizes the evidence from Ch 4-5. Specific tapering guidance for PPIs (rebound acid hypersecretion) and steroids (adrenal suppression).",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+        "claim_id": "chutkan-rewild-3",
+        "statement": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroid",
+        "full_claim": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroids, birth control pills, hormone replacement therapy, and NSAIDs including aspirin.",
+        "evidence": "Reiterates and organizes the evidence from Ch 4-5. Specific tapering guidance for PPIs (rebound acid hypersecretion) and steroids (adrenal suppression).",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-3-catalogs-medications-avoid-microbiome-health",
+        "claim_id": "chutkan-rewild-3",
+        "statement": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroid",
+        "full_claim": "Table 11-3 catalogs the \"Medications to Avoid\" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroids, birth control pills, hormone replacement therapy, and NSAIDs including aspirin.",
+        "evidence": "Reiterates and organizes the evidence from Ch 4-5. Specific tapering guidance for PPIs (rebound acid hypersecretion) and steroids (adrenal suppression).",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-table-11-5-provides-detailed-sample-pregnancy-birth",
+        "claim_id": "chutkan-rewild-5",
+        "statement": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights",
+        "full_claim": "Table 11-5 provides a detailed \"Sample Pregnancy and Birth Plan/Goals\" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights, freedom of movement, avoid Pitocin, pain management choice), delivery (immediate skin-to-skin, breastfeeding within first hour, no baby antibiotics without consent, no antibacterial products on baby",
+        "evidence": "Based on the microbiome seeding literature (Ch 2, 7): vaginal delivery inoculates the infant with maternal vaginal and fecal bacteria; C-section babies are colonized by skin and environmental bacteria instead; breastfeeding provides human milk oligosaccharides (HMOs) that selectively feed Bifidobact",
+        "source_note": "The Microbiome Solution - Chutkan - Ch11 Rewilding Illness"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-structural-yamada-sibo58-1",
+        "claim_id": "yamada-sibo58-implicit-5",
+        "statement": "SIBO Has Two Distinct Clinical Presentations",
+        "full_claim": "SIBO Has Two Distinct Clinical Presentations",
+        "evidence": "See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "Yamada Ch58 - Bacterial Overgrowth Textbook"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-treatment-expectation-refinement-2006-2022",
+        "claim_id": "pimentel-evol-5",
+        "statement": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, ",
+        "full_claim": "Treatment expectations evolved from 'antibiotics can almost completely relieve IBS symptoms' (2006) to five response categories (2022): one-and-done (~33% cure), relapse (~70% after initial response, treatable with repeat antibiotics), partial response (may respond to combination antibiotics or elemental diet), no response (may not have SIBO), and refractory (underlying cause not addressed).",
+        "evidence": "2006: 'antibiotics can almost completely relieve IBS symptoms if successful in eliminating the intestinal bacteria.' 2022: five response categories based on clinical experience and TARGET 3 trial data. The 'one-and-done' category (~33%) reflects patients whose SIBO is cured with a single course. The",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    }
+  ]
+}

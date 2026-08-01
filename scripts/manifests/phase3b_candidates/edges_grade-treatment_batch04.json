@@ -1,0 +1,152 @@
+[
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "extends",
+    "rationale": "Thiopurine's role in IBD is phase- and disease-dependent: endorsed for CD maintenance after steroid-induced remission (ACG 2018) but recommended against for UC induction (ECCO 2022), reflecting that thiopurine monotherapy efficacy is restricted to maintenance, not induction, settings."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "extends",
+    "rationale": "Thiopurine positioning differs by clinical context: it is an option for steroid-dependent CD maintenance with or without anti-TNF (ACG 2018) but thiopurine monotherapy is not recommended for UC induction (ECCO 2022), demonstrating that thiopurines serve maintenance but not induction roles across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+    "edge_type": "extends",
+    "rationale": "5-ASA efficacy is fundamentally disease-specific: strongly recommended against for CD maintenance (ACG 2018) yet strongly recommended at ≥2 g/day for mild-moderate UC induction (ECCO 2022), underscoring that 5-ASA's mucosal anti-inflammatory effect is clinically meaningful only in UC."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+    "edge_type": "extends",
+    "rationale": "Topical 5-ASA at ≥1 g/day is recommended for distal UC colitis induction (ECCO 2022) while 5-ASA has no role in CD maintenance (ACG 2018), reinforcing that topical 5-ASA's proven efficacy in UC does not extend to CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+    "edge_type": "extends",
+    "rationale": "Combined oral plus topical 5-ASA is recommended over oral alone for UC rectosigmoid and more extensive disease (ECCO 2022), contrasting with the absence of any 5-ASA maintenance role in CD (ACG 2018), highlighting the divergent evidence base by IBD subtype."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+    "edge_type": "extends",
+    "rationale": "Topical 5-ASA is preferred over topical steroids for distal UC colitis (ECCO 2022), yet 5-ASA is recommended against for CD maintenance (ACG 2018), illustrating that 5-ASA's established therapeutic role in UC does not translate to CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+    "claim_b": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "extends",
+    "rationale": "Vedolizumab's efficacy spans both IBD subtypes and treatment phases: established for CD maintenance after vedolizumab-induced remission (ACG 2018) and recommended for UC induction in moderate-severe disease (ECCO 2022), supporting vedolizumab as a cross-IBD biologic option."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+    "claim_b": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "extends",
+    "rationale": "Ustekinumab's role extends across IBD subtypes and treatment phases: recommended for CD maintenance after ustekinumab-induced response (ACG 2018) and for UC induction in moderate-severe disease (ECCO 2022), demonstrating ustekinumab's consistent efficacy throughout the IBD treatment spectrum."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+    "edge_type": "extends",
+    "rationale": "5-ASA's role differs sharply by disease: mesalamine has limited benefit in post-op CD prophylaxis and is only an option for low-risk patients (ACG 2018), while topical 5-ASA at ≥1 g/day is strongly recommended for distal UC colitis induction (ECCO 2022), reflecting disease-specific 5-ASA responsiveness."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for",
+    "edge_type": "extends",
+    "rationale": "Combined oral plus topical 5-ASA is a recommended UC induction strategy (ECCO 2022), whereas mesalamine has only marginal, conditional utility in post-op CD (ACG 2018), emphasizing the narrower therapeutic window for 5-ASA in CD compared to UC."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+    "edge_type": "extends",
+    "rationale": "Topical 5-ASA is preferred over topical steroids for distal UC colitis (ECCO 2022), while mesalamine's post-op CD benefit is limited and conditional (ACG 2018), reinforcing that 5-ASA's first-line status in UC contrasts with its marginal role in CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "extends",
+    "rationale": "Both claims address 5-ASA in a maintenance context: oral 5-ASA at ≥2 g/day is strongly recommended for UC maintenance (ECCO 2022), while mesalamine has limited benefit post-op in CD and is only an option for low-risk patients (ACG 2018), showing that 5-ASA maintenance efficacy is robust in UC but minimal in CD."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r55-mesalamine---limited-benefit--option-for-low-risk",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "extends",
+    "rationale": "Topical 5-ASA has a maintenance role in distal UC (ECCO 2022), whereas mesalamine's post-op CD maintenance benefit is conditional and limited (ACG 2018), further documenting the disease-specific gradient of 5-ASA maintenance efficacy."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "claim_b": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+    "edge_type": "supports",
+    "rationale": "Both guidelines from the same author group converge on the same principle: biologic monotherapy is preferred over thiopurine monotherapy — for CD (AGA 2021, strong recommendation) and for UC induction (AGA 2020, conditional), establishing biologics over thiopurines as a consistent cross-IBD treatment principle."
+  },
+  {
+    "claim_a": "claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "supports",
+    "rationale": "The preference for biologics over thiopurine monotherapy in CD (AGA 2021) aligns with the recommendation against thiopurine monotherapy for UC induction (ECCO 2022), together diminishing thiopurine monotherapy's standalone role across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r15-once-daily-5-asa-dosing",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "extends",
+    "rationale": "Both claims address 5-ASA stewardship in UC across the disease course: ACG 2019 recommends once-daily dosing for optimal adherence during active 5-ASA therapy, while AGA 2020 recommends discontinuing 5-ASA entirely after biologic escalation, together defining 5-ASA management from optimization to de-escalation."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "extends",
+    "rationale": "Both claims define management when 5-ASA is insufficient: ACG 2019 recommends stepping up to budesonide MMX for 5-ASA-refractory left-sided UC, while AGA 2020 recommends stopping 5-ASA after biologic escalation, together mapping the 5-ASA failure pathway from non-biologic step-up through biologic transition."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "extends",
+    "rationale": "Both claims address escalation after 5-ASA inadequacy: ACG 2019 recommends systemic steroids as the next step after 5-ASA failure, while AGA 2020 recommends stopping 5-ASA when escalating to biologics, defining the treatment algorithm from steroid step-up through biologic transition."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r12-against-switching-5-asa-formulations",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "extends",
+    "rationale": "Both claims address 5-ASA futility in progressive UC: ACG 2019 recommends against switching 5-ASA formulations as a therapeutic strategy, while AGA 2020 recommends discontinuing 5-ASA after biologic escalation, together establishing that optimization of 5-ASA has limits and discontinuation is appropriate at the biologic stage."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "extends",
+    "rationale": "Both claims define sequential steps in the 5-ASA treatment pathway: ACG 2019 recommends adding budesonide MMX for partial 5-ASA response (non-biologic step-up), while AGA 2020 recommends stopping 5-ASA upon biologic escalation, mapping the progression from 5-ASA augmentation through biologic transition."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Both claims define the steroid escalation ladder in UC: ACG 2019 recommends adding budesonide MMX after partial 5-ASA response (controlled setting, non-systemic steroid), while AGA 2020 recommends infliximab or cyclosporine for steroid-refractory ASUC (acute severe setting, rescue therapy), together mapping the full steroid treatment spectrum from oral budesonide step-up through IV rescue."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Tofacitinib's UC induction efficacy (ACG 2019) is contextualized by its preferred positioning in TNF-exposed patients: AGA 2020 ranks tofacitinib alongside ustekinumab above vedolizumab and adalimumab for TNF-exposed UC, establishing tofacitinib as a key option specifically after anti-TNF failure."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r32-thiopurines-for-steroid-induced-remission-maintena",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Both claims define the two branches of the post-steroid treatment algorithm in UC: thiopurines for maintenance after steroid-induced remission (ACG 2019, the responder pathway) and infliximab or cyclosporine for steroid-refractory ASUC (AGA 2020, the non-responder rescue pathway), together mapping UC management after steroid therapy for both outcomes."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "Tofacitinib's maintenance role in UC (ACG 2019) is reinforced by its preferred positioning in TNF-exposed patients: AGA 2020 ranks tofacitinib above vedolizumab and adalimumab for TNF-exposed UC, supporting tofacitinib as a longitudinal treatment option from induction through maintenance in the post-anti-TNF setting."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Both claims define the ASUC treatment algorithm: ACG 2019 specifies the initial IV steroid dosing regimen (methylprednisolone 60 mg/day or hydrocortisone 100 mg TID-QID), while AGA 2020 defines the rescue step when IV steroids fail — infliximab or cyclosporine — together mapping the sequential management of acute severe UC from first-line IV steroids through second-line rescue therapy."
+  }
+]

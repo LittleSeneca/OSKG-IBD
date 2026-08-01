@@ -56,17 +56,18 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+**Extends:**
+- [[claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a|Anti-TNF therapy for steroid-refractory disease extends from CD (ACG 2018, general class recommendation) to UC (AGA 2020]]
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|Anti-TNF therapy for moderate-to-severe IBD induction is supported across both CD (ACG 2018, steroid-refractory) and UC ]]
+- [[claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab|CD guideline's strong anti-TNF recommendation for steroid-refractory disease extends to UC where infliximab ranks highes]]
+- [[claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab|CD guideline endorses anti-TNF for steroid-refractory disease while UC guideline defines post-anti-TNF sequencing, toget]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|Anti-TNF therapy spans the induction-to-maintenance continuum: begun for steroid-refractory CD induction (ACG 2018) and ]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

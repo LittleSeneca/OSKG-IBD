@@ -1,0 +1,164 @@
+[
+  {
+    "claim_a": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy for steroid-refractory disease extends from CD (ACG 2018, general class recommendation) to UC (AGA 2020, specifying infliximab for ASUC), demonstrating the class's role in steroid-refractory IBD across both diseases."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r27-vedolizumab-for-induction",
+    "claim_b": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "extends",
+    "rationale": "Vedolizumab's role for induction of moderate-to-severe disease extends from CD (ACG 2018, strong recommendation with high-quality evidence) to UC (ECCO 2022), where it is also strongly recommended for the same clinical scenario."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r33-anti-tnf-for-severely-active-cd",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy for induction of severe disease extends from CD (ACG 2018, severely active) to UC (ECCO 2022, moderate-to-severe), with both guidelines issuing strong recommendations for anti-TNF agents in their respective induction settings."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+    "claim_b": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+    "edge_type": "depends_on",
+    "rationale": "The budesonide MMX recommendation for 5-ASA-refractory left-sided UC (ACG 2019) logically depends on the first-line use of oral 5-ASA for induction (ECCO 2022), as it defines the treatment step following 5-ASA failure in the UC treatment algorithm."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+    "claim_b": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+    "edge_type": "depends_on",
+    "rationale": "The budesonide MMX recommendation for 5-ASA-refractory UC depends on the initial use of topical 5-ASA for induction in distal colitis (ECCO 2022), as budesonide MMX is reserved for patients who have failed first-line 5-ASA therapy."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided",
+    "claim_b": "claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col",
+    "edge_type": "depends_on",
+    "rationale": "The budesonide MMX second-line recommendation depends on the established first-line principle that topical 5-ASA is preferred over topical steroids for distal colitis (ECCO 2022); budesonide MMX enters the algorithm only after 5-ASA, the preferred first-line agent, has failed."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+    "claim_b": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "edge_type": "extends",
+    "rationale": "The efficacy of ustekinumab after anti-TNF exposure extends from CD (ACG 2018, recommended for anti-TNF failures) to UC (AGA 2020, where ustekinumab is ranked above vedolizumab and adalimumab for TNF-exposed patients)."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r34-infliximab-for-fulminant-cd",
+    "claim_b": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "edge_type": "extends",
+    "rationale": "The role of infliximab in severe acute IBD extends from fulminant CD (ACG 2018) to steroid-refractory ASUC (AGA 2020), where infliximab is recommended alongside cyclosporine as rescue therapy for both fulminant presentations."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r44-thiopurine-or-mtx-after-steroid-induced-remission",
+    "claim_b": "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+    "edge_type": "extends",
+    "rationale": "Methotrexate's role in steroid-sparing maintenance differs by disease: it is recommended for CD (ACG 2018) but recommended against for UC (AGA 2020), reflecting the disease-specific evidence for MTX efficacy in IBD maintenance."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance",
+    "edge_type": "extends",
+    "rationale": "Methotrexate's role in steroid-dependent IBD differs by disease: it is an option for steroid-dependent CD (ACG 2018, with or without anti-TNF) but recommended against for UC maintenance (AGA 2020), highlighting the UC-specific lack of efficacy evidence."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r24-anti-tnf-for-steroid-refractory-cd",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy for moderate-to-severe IBD induction is supported across both CD (ACG 2018, steroid-refractory) and UC (ECCO 2022, moderate-severe), with both guidelines issuing strong recommendations for the anti-TNF class."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r30-ustekinumab-for-mod-severe-cd--anti-tnf-failures-a",
+    "claim_b": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "extends",
+    "rationale": "Ustekinumab's role for induction of moderate-to-severe disease extends from CD (ACG 2018, strong recommendation with high-quality evidence) to UC (ECCO 2022, strong recommendation), demonstrating its efficacy across both IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r34-infliximab-for-fulminant-cd",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF therapy for severe IBD induction extends from CD (infliximab for fulminant CD, ACG 2018) to UC (anti-TNF agents for moderate-severe UC, ECCO 2022), supporting anti-TNF as a rescue therapy across both diseases."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r45-thiopurine-mtx---anti-tnf-for-steroid-dependent-pa",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "Anti-TNF maintenance therapy extends from steroid-dependent CD (ACG 2018, with or without immunomodulators) to post-induction UC (ECCO 2022), supporting anti-TNF as a maintenance strategy across both IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "extends",
+    "rationale": "The role of 5-ASA in maintenance therapy differs by disease: it is recommended against in CD (ACG 2018) but recommended in UC (ECCO 2022), reflecting the disease-specific efficacy profile of 5-ASA for maintenance."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "extends",
+    "rationale": "The efficacy of 5-ASA for maintenance differs by disease: topical 5-ASA is endorsed for distal UC maintenance (ECCO 2022) while 5-ASA is recommended against in CD maintenance (ACG 2018), underscoring disease-specific treatment paradigms."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r49-anti-tnf-for-anti-tnf-induced-remission-maintenanc",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "supports",
+    "rationale": "Both ACG 2018 (CD) and ECCO 2022 (UC) strongly recommend continuing anti-TNF therapy for maintenance after achieving remission with anti-TNF induction, establishing this as a consistent treatment principle across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r51-vedolizumab-for-vedolizumab-induced-remission-main",
+    "claim_b": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+    "edge_type": "supports",
+    "rationale": "Both ACG 2018 (CD) and ECCO 2022 (UC) recommend continuing vedolizumab for maintenance after vedolizumab-induced remission, establishing the induction-to-maintenance continuation strategy across IBD subtypes."
+  },
+  {
+    "claim_a": "claim-acg-cd2018-r53-ustekinumab-for-ustekinumab-induced-response-maint",
+    "claim_b": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+    "edge_type": "supports",
+    "rationale": "Both ACG 2018 (CD) and ECCO 2022 (UC) recommend continuing ustekinumab for maintenance after ustekinumab-induced response, establishing the induction-to-maintenance continuation strategy as a consistent IBD principle."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "claim_b": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "edge_type": "supports",
+    "rationale": "Both ACG UC 2019 and AGA UC 2020 recommend against continuing 5-ASA after initiating biologic therapy for UC maintenance, with ACG specifically addressing concurrent anti-TNF use and AGA addressing post-escalation de-escalation."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "extends",
+    "rationale": "The ACG UC 2019 claim extends the general oral 5-ASA maintenance recommendation (ECCO 2022) by specifying a clinical scenario where 5-ASA should be discontinued: when patients are escalated to anti-TNF therapy."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "extends",
+    "rationale": "The ACG UC 2019 claim extends the topical 5-ASA maintenance recommendation for distal UC (ECCO 2022) by specifying that 5-ASA should be discontinued once patients are escalated to anti-TNF therapy."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "The ACG UC 2019 recommendation against concurrent 5-ASA extends the ECCO 2022 anti-TNF maintenance strategy by clarifying that 5-ASA should not be co-administered alongside anti-TNF therapy for UC maintenance."
+  },
+  {
+    "claim_a": "claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue",
+    "claim_b": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+    "edge_type": "extends",
+    "rationale": "The ACG UC 2019 claim extends the vedolizumab maintenance strategy (ECCO 2022) to patients bridged with cyclosporine rescue therapy, providing an alternative induction-to-maintenance pathway for acute severe UC."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r4a-biologic---thiopurine-for-induction",
+    "claim_b": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+    "edge_type": "supports",
+    "rationale": "Both AGA UC 2020 and ECCO UC 2022 recommend against thiopurine monotherapy for induction in UC, with AGA ranking biologics above thiopurines and ECCO explicitly recommending against thiopurine monotherapy for induction."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "claim_b": "claim-ecco-uc2022-r8-oral-5-asa--2-g-d-for-maintenance",
+    "edge_type": "extends",
+    "rationale": "The AGA UC 2020 claim extends the general oral 5-ASA maintenance recommendation (ECCO 2022) by specifying that 5-ASA should be discontinued after escalation to biologic therapy in UC."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "claim_b": "claim-ecco-uc2022-r9-topical-5-asa-for-maintenance-in-distal-uc",
+    "edge_type": "extends",
+    "rationale": "The AGA UC 2020 claim extends the topical 5-ASA maintenance recommendation for distal UC (ECCO 2022) by specifying that 5-ASA should be discontinued after escalation to biologic therapy."
+  }
+]

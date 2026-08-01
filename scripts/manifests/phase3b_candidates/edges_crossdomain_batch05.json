@@ -1,0 +1,74 @@
+[
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-modern-westerners-lost-roughly-third-their-microbial",
+    "edge_type": "extends",
+    "rationale": "Chutkan's documentation of Western microbial diversity loss provides a concrete empirical example of the 'environmental and microbial associations' in Yamada's multistage IBD model — the depletion of microbial diversity is one specific environmental perturbation that converges with genetic susceptibility to drive IBD."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-doubt-autoimmunity-born-gut",
+    "edge_type": "supports",
+    "rationale": "Yamada's multistage IBD model demonstrates that at least one autoimmune-type disease (IBD) arises from a gut-centered interaction of genetics, microbes, and environment — providing specific mechanistic evidence that supports Campbell-McBride's broader claim that all autoimmunity is born in the gut, though it does not prove the claim for non-gut autoimmune diseases."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+    "edge_type": "extends",
+    "rationale": "Chutkan's dysbiosis concept provides the specific vocabulary for the 'microbial associations' component of Yamada's multistage IBD model — dysbiosis (diminution of beneficial bacteria, flourishing of pathogens) is the microbial state that interacts with genetic susceptibility and environmental triggers in IBD pathogenesis."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+    "edge_type": "extends",
+    "rationale": "Chutkan's leaky gut model provides the mechanistic interface between the 'microbial associations' and the immune dysregulation in Yamada's multistage model — increased intestinal permeability is the pathway by which dysbiotic microbial products cross the epithelial barrier and trigger the immune response that drives IBD."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+    "edge_type": "extends",
+    "rationale": "Gottschall's vicious cycle provides a specific, mechanistically detailed example of how an environmental factor (carbohydrate malabsorption) drives a self-reinforcing cycle of microbial fermentation, mucosal injury, and further malabsorption — a concrete instance of the environmental-microbial interaction that Yamada's multistage model posits."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model contextualizes and refines Foote's simplified claim that CD is caused by an 'overactive immune system' — showing that immune dysregulation is not a standalone cause but one component interacting with genetic predisposition, microbial composition, and environmental triggers."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+    "edge_type": "extends",
+    "rationale": "The elemental diet's mechanism of starving colonic bacteria of substrate provides therapeutic evidence for the microbial component of Yamada's multistage IBD model — reducing bacterial load through dietary substrate deprivation improves IBD outcomes, confirming that microbes play a causal role in disease activity."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-introduction-diet-works-three-mechanisms-providing-large",
+    "edge_type": "extends",
+    "rationale": "The GAPS Introduction Diet's three mechanisms (nourishing the gut lining, removing fiber irritants, delivering probiotic microbes) provide a therapeutic framework that simultaneously addresses the environmental and microbial components of Yamada's multistage IBD model — demonstrating a practical protocol targeting multiple stages of the disease process."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+    "edge_type": "extends",
+    "rationale": "Campbell-McBride's clinical recommendation that IBD patients require the Introduction Diet provides clinical-practice support for Yamada's multistage model — the therapeutic targeting of environmental and microbial factors (dietary modification) in IBD patients validates the model's assertion that these factors are causally important."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Sonnenburg's 'second genome' concept elaborates the microbial component of Yamada's multistage IBD model at a systems level — the 2+ million microbial genes represent a malleable environmental-genetic interface whose depletion through Western lifestyle explains why the microbial contribution to IBD varies across populations."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-core-thesis-myers-autoimmune",
+    "edge_type": "extends",
+    "rationale": "Myers' quantification of genetic vs environmental contribution (25%/75%) directly supports and extends Yamada's multistage IBD model by providing rough weighting to the relative contributions — the predominance of environmental factors aligns with the model's emphasis on microbial and environmental associations beyond genetics alone."
+  },
+  {
+    "claim_a": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+    "claim_b": "claim-average-take-four-six-years-you-receive",
+    "edge_type": "extends",
+    "rationale": "The UC diagnostic requirement for endoscopy and histology explains one driver of the 4-6 year IBS diagnostic delay — ruling out IBD (UC/CD) requires costly, invasive procedures (colonoscopy with biopsy), and patients cycle through these before receiving an IBS diagnosis by exclusion."
+  }
+]

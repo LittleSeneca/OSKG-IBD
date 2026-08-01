@@ -1,0 +1,92 @@
+[
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+    "edge_type": "extends",
+    "rationale": "Yamada documents specific microbial diversity loss in IBD (reduced Firmicutes/Bacteroidetes, loss of F. prausnitzii); Gottschall describes a vicious cycle where carbohydrate malabsorption fuels bacterial fermentation, acid production, and gut injury \u2014 providing a dietary-mechanistic model for how dysbiosis becomes self-perpetuating and drives further microbial imbalance in IBD."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "extends",
+    "rationale": "Yamada documents the specific microbial ecology of IBD \u2014 loss of beneficial anaerobes like F. prausnitzii; Foote identifies the immune mechanism driving this pattern: an overactive immune system that attacks harmless commensal microorganisms, providing the immunological 'why' behind the microbial composition shift."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+    "edge_type": "operationalizes",
+    "rationale": "Yamada documents the dysbiotic microbial ecology in IBD; Thompson's elemental diet directly targets this by providing pre-digested nutrients that starve the dysbiotic bacterial population while giving the inflamed colon 'the rest necessary to heal' \u2014 a therapeutic intervention addressing the microbial disturbance at its substrate level."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+    "edge_type": "operationalizes",
+    "rationale": "Yamada documents the microbial dysbiosis central to IBD; Campbell-McBride's GAPS Introduction Diet operationalizes this knowledge by providing a dietary protocol specifically designed for UC and Crohn's patients \u2014 using meat stock for epithelial repair, fiber removal to reduce mucosal irritation, and fermented foods for microbial repopulation."
+  },
+  {
+    "claim_a": "claim-patients-ibd-demonstrate-reduction-diversity-microbiota-compared",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Yamada documents the specific microbial diversity loss in IBD; Sonnenburg provides the ecological framework \u2014 the gut microbiota as a 'second genome' of over 2 million microbial genes whose diversity is being depleted by the Western lifestyle and causally linked to autoimmune disease \u2014 explaining why microbial diversity matters and how its loss contributes to IBD pathogenesis."
+  },
+  {
+    "claim_a": "claim-current-smokers-twofold-increase-risk-crohn's-disease",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "extends",
+    "rationale": "Yamada documents the smoking paradox in IBD (2x CD risk, protective for UC); Sonnenburg's 'second genome' framework explains why environmental factors like smoking matter \u2014 they shape the microbial gene pool that interacts with host genetics, providing a microbiome-mediated mechanism for smoking's differential effects on CD vs UC risk."
+  },
+  {
+    "claim_a": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+    "claim_b": "claim-one-known-cause-crohns-disease-overactive-immune",
+    "edge_type": "extends",
+    "rationale": "Yamada identifies IL-10 receptor mutations as monogenic drivers of severe early-onset IBD through defective immune regulation of the gut microbiome; Foote describes an 'overactive immune system attacking harmless microorganisms' as a cause of CD \u2014 the IL-10 pathway provides the specific molecular mechanism for the immune overactivity Foote describes at a lay level."
+  },
+  {
+    "claim_a": "claim-early-onset-ibd-represents-distinct-phenotype-inflammatory-bowel",
+    "claim_b": "claim-core-thesis-sonnenburg-gut",
+    "edge_type": "supports",
+    "rationale": "VEOIBD with IL-10 mutations represents the extreme host-genetic end of IBD pathogenesis where monogenic defects alone drive severe disease; Sonnenburg's 'second genome' represents the environmental-microbial variable whose depletion by Western lifestyle contributes to polygenic IBD \u2014 together they illustrate the full gene-environment spectrum, from monogenic to predominantly environmental disease."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-remember-gut-two-modes-feeding-digestion-fasting",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage IBD model requires environmental and microbial factors; Pimentel's migrating motor complex (MMC) is a specific physiological housekeeping mechanism that sweeps residual material and bacteria from the small intestine \u2014 MMC impairment allows bacterial stasis and overgrowth, providing a concrete physiological pathway by which the microbial dysbiosis component of the multistage model can be triggered."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-pimentel-lists-five-natural-defenses-table-phase",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model requires breakdown of host-microbe homeostasis; Pimentel's five natural gut defenses (MMC waves, bile acids, ileocecal valve, stomach acid, mucosal immunity) are the exact physiological barriers whose failure permits the microbial dysbiosis that is a key pathogenic factor in the multistage IBD model \u2014 each defense maps to a point of potential breakdown in disease development."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-actually-dont-know-normal-microbiome-looks-like",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model includes the microbiome as a key variable; Pimentel complicates this by emphasizing that there is no universal 'normal' microbiome \u2014 it is individually unique and shaped by diet, age, and environment \u2014 revealing that the microbial component of the multistage model cannot be reduced to a fixed reference standard but must be understood as a personalized variable."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-now-know-one-out-nine-people-experience",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model identifies environmental triggers as a key pathogenic factor; Pimentel provides a specific, well-documented environmental trigger \u2014 food poisoning leading to post-infectious IBS in 1/9 cases through autoimmune mechanisms (anti-vinculin antibodies) \u2014 demonstrating a quantified environmental insult that can initiate gut immune dysfunction within the multistage framework."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-sibo-occurs-there-greater-1000-bacteria-per",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model identifies microbial associations as a key pathogenic factor; Pimentel defines SIBO as a clinically measurable form of microbial dysbiosis \u2014 >10^3 bacteria/mL in the small intestine, representing bacterial dislocation rather than infection \u2014 providing a concrete, diagnosable manifestation of the microbial component of the multistage IBD model."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-recent-publication-showed-two-main-weeds-sibo",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage IBD model requires microbial dysbiosis as a pathogenic factor; Pimentel identifies E. coli and Klebsiella as the dominant 'disrupter' taxa in SIBO \u2014 both are Proteobacteria, the same phylum consistently found to be overrepresented in IBD dysbiosis \u2014 providing taxonomic specificity to the microbial component and linking SIBO microbiology to IBD microbiology."
+  },
+  {
+    "claim_a": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+    "claim_b": "claim-shown-more-percent-patients-ibd-controlled-inflammation",
+    "edge_type": "extends",
+    "rationale": "Yamada's multistage model identifies microbial associations as one of three key pathogenic spheres alongside genetics and environment; Pimentel provides clinical epidemiological evidence that >50% of IBD patients with controlled inflammation still harbor SIBO \u2014 demonstrating that microbial dysbiosis is an independent pathogenic factor that persists even when inflammation is pharmacologically suppressed, strongly supporting the microbial component of the multistage model."
+  }
+]

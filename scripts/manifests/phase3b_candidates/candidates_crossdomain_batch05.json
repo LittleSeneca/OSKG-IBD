@@ -1,0 +1,699 @@
+{
+  "batch_id": "crossdomain-batch05",
+  "pair_count": 30,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-modern-westerners-lost-roughly-third-their-microbial",
+        "claim_id": "chutkan-found-2",
+        "statement": "Modern Westerners have lost roughly a third of their microbial diversity compared to hunter-gatherer and traditional agricultural populations. This loss is driven by processed foods, antibiotics, C-se",
+        "full_claim": "Modern Westerners have lost roughly a third of their microbial diversity compared to hunter-gatherer and traditional agricultural populations. This loss is driven by processed foods, antibiotics, C-sections, formula feeding, and hyper-sanitized environments.",
+        "evidence": "References studies comparing Hadza hunter-gatherers, rural African populations, and Amerindians in the Venezuelan Amazon to Western populations. Notes that traditional populations consuming high-fiber diets have microbial species not found in any Western gut.",
+        "source_note": "The Microbiome Solution - Chutkan - Intro Ch1-3",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-doubt-autoimmunity-born-gut",
+        "claim_id": "campbell-gaps-1",
+        "statement": "I have no doubt that all autoimmunity is born in the gut.",
+        "full_claim": "I have no doubt that all autoimmunity is born in the gut.",
+        "evidence": "Campbell-McBride draws on clinical experience with \"many thousands of children and adults around the world\" treated over ~20 years. She cites studies on intestinal permeability, the gut-brain axis, microbiome composition, and the role of specific nutrients (gelatin, collagen, glycine, glutamine) in ",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential",
+        "claim_id": "chutkan-dysbiosis-1",
+        "statement": "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to ",
+        "full_claim": "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to flourish \u2014 in essence, it is a microbial imbalance in or on your body.",
+        "evidence": "Clinical observation from Chutkan's Georgetown gastroenterology practice. She describes the shift from seeing well-defined diseases (ulcers, colitis, cancer) to seeing symptom complexes without visible pathology. She notes that standard diagnostic tools (endoscopy, colonoscopy, capsule endoscopy, im",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition",
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-helpful-think-leaky-gut-more-mechanism-disease",
+        "claim_id": "chutkan-dysbiosis-5",
+        "statement": "It's helpful to think of leaky gut more as a mechanism than a disease, since there's such a wide range of signs and symptoms associated with it. It's a precondition for developing autoimmune disease, ",
+        "full_claim": "It's helpful to think of leaky gut more as a mechanism than a disease, since there's such a wide range of signs and symptoms associated with it. It's a precondition for developing autoimmune disease, since it's the increase in intestinal permeability \u2014 the opening of the door from our gut into our body \u2014 that allows toxins to enter and then trigger an immune response.",
+        "evidence": "Describes the IP (intestinal permeability) test using lactulose/mannitol ratio. Notes its limitations (affected by exercise, can normalize quickly with diet/probiotics). Cites the Fasano model: gluten \u2192 zonulin release \u2192 tight junction opening \u2192 increased permeability \u2192 autoimmune triggering in gene",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
+        "claim_id": "chutkan-dysbiosis-6",
+        "statement": "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. \"What we think of as just a wicked sweet toot",
+        "full_claim": "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. \"What we think of as just a wicked sweet tooth may actually represent specific communities of bacteria directing us to behave in a way that ensures their survival.\" This explains why cravings for sugar and starch diminish rapidly on a low-carb d",
+        "evidence": "See source note [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.",
+        "source_note": "The Microbiome Solution - Chutkan - Ch5 Dysbiosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate",
+        "claim_id": "gottschall-ch35-5",
+        "statement": "The vicious cycle (Figure 5 in the text) proceeds as follows: carbohydrate malabsorption \u2192 increased fermentation \u2192 production of acids, gas, and microbial toxins \u2192 injury to intestinal surface (enzym",
+        "full_claim": "The vicious cycle (Figure 5 in the text) proceeds as follows: carbohydrate malabsorption \u2192 increased fermentation \u2192 production of acids, gas, and microbial toxins \u2192 injury to intestinal surface (enzyme destruction, microvilli damage) \u2192 excessive mucus production as defense \u2192 mucus barrier prevents enzyme-substrate contact \u2192 further carbohydrate malabsorption \u2192 continued diarrhea \u2192 water drawn into",
+        "evidence": "References to bacterial fermentation changing E. coli characteristics (Science paper on grain feeding and acid-resistant E. coli in cattle -- suggesting acid environment from starch fermentation could cause harmless bacteria to mutate to harmful forms). Gottschall speculates: \"Is the fermentation of",
+        "source_note": "Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-one-known-cause-crohns-disease-overactive-immune",
+        "claim_id": "foote-cookbook-1",
+        "statement": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. ",
+        "full_claim": "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. This is believed to be a cause of chronic inflammation in Crohn's disease.",
+        "evidence": "Standard medical consensus summary. No primary research cited in this chapter.",
+        "source_note": "Foote 2020 - Crohn's Disease Cookbook",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-elemental-diet-provides-colon-rest-necessary-heal",
+        "claim_id": "thompson-een-3",
+        "statement": "An elemental diet \"provides the colon with the rest necessary to heal its wounds unhindered.\" Because nutrients are pre-digested, \"there is very little undigested matter passing into the colon\" -- pro",
+        "full_claim": "An elemental diet \"provides the colon with the rest necessary to heal its wounds unhindered.\" Because nutrients are pre-digested, \"there is very little undigested matter passing into the colon\" -- providing bowel rest. The bacterial population \"has less to eat\" making it \"easier to eliminate undesirable micro-organisms.\" Combined with antimicrobials and probiotics, the protocol \"eliminates a lot o",
+        "evidence": "Clinical reasoning and Thompson's personal experience. The bowel rest concept is standard surgical rationale. The bacterial starvation concept echoes Gottschall's SCD mechanism.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-arthur-cocas-pulse-test-1950s-take-pulse",
+        "claim_id": "thompson-een-7",
+        "statement": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), fo",
+        "full_claim": "Dr. Arthur Coca's pulse test (1950s): take pulse before eating, then 3 times at 30-minute intervals after eating a single food. If pulse increases beyond normal range (typically >16 BPM variation), food allergy is suspected. Thompson includes the full procedure and claims the test detected triggers for conditions including colitis, GI bleeding, abdominal pain, and many others.",
+        "evidence": "Coca's clinical observations from the 1950s. No modern validation. Thompson acknowledges limitations: not effective for hay fever, asthma, eczema, or contact dermatitis; invalidated by caffeine, smoking, or beta-blockers.",
+        "source_note": "Thompson 2013 - Elemental Diet Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-space-your-meals-four-five-hours-apart",
+        "claim_id": "sarna-sibo-diet-4",
+        "statement": "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion b",
+        "full_claim": "Space your meals four to five hours apart. You want to give your stomach time to empty and your migrating motor complex a chance to sweep out whatever is left in your small intestine after digestion before you send more down the tube.",
+        "evidence": "This is Pimentel's MMC theory, presented without citation in Sarna's voice.",
+        "source_note": "Sarna 2021 - Healing SIBO Dietary Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-introduction-diet-works-three-mechanisms-providing-large",
+        "claim_id": "campbell-gaps-2",
+        "statement": "The Introduction Diet works through three mechanisms: (1) providing \"large amounts of nourishing substances\" \u2014 amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining",
+        "full_claim": "The Introduction Diet works through three mechanisms: (1) providing \"large amounts of nourishing substances\" \u2014 amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining is literally made from; (2) removing fiber and other irritants that can damage an inflamed gut (\"your gut lining may be sore and very sensitive\"); (3) delivering probiotic microbes through fermented ",
+        "evidence": "The protocol is based on clinical observation and traditional food practices. Campbell-McBride emphasizes that meat stock provides gelatin, glycine, proline, and glutamine \u2014 all substrates for enterocyte regeneration. Fermented foods provide probiotics in food form. The staged reintroduction prevent",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux",
+        "claim_id": "campbell-gaps-5",
+        "statement": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes",
+        "full_claim": "For people with \"chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oesophagitis and other serious digestive disorders,\" the Introduction Diet is mandatory. In the bowel management section, she specifically addresses IBD: patients with UC/Crohn's and chronic diarrhea sho",
+        "evidence": "Patient testimonials (Katrina: \"recovered from Crohn's disease and rheumatoid arthritis\"). Clinical experience. The mechanistic rationale: removing fiber and irritants lets an inflamed gut rest and heal; meat stock provides specific nutrients for epithelial repair; fermented foods repopulate benefic",
+        "source_note": "Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "ibd_microbiome"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-sonnenburg-gut",
+        "claim_id": "sonnenburg-gut-implicit-6",
+        "statement": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce",
+        "full_claim": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabo",
+        "evidence": "The human gut microbiota is a \"second genome\" \u2014 a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacteri",
+        "source_note": "The Good Gut - Sonnenburg 2015",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition",
+        "ibd_microbiome",
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-core-thesis-myers-autoimmune",
+        "claim_id": "myers-autoimmune-implicit-9",
+        "statement": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the o",
+        "full_claim": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reverse autoimmune conditions, not merely manage symptoms with drugs. Leaky gut is the necessary precond",
+        "evidence": "Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors \u2014 diet, gut health, toxins, infections, and stress \u2014 account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reve",
+        "source_note": "The Autoimmune Solution - Myers 2015",
+        "domain": "domain/nutrition"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-three-gas-model-imo-terminology-evolution",
+        "claim_id": "pimentel-evol-3",
+        "statement": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, a",
+        "full_claim": "Breath testing evolved from hydrogen-only measurement (2006) to a three-gas model (2022): hydrogen (H2, diarrhea-predominant), methane (CH4, now classified as IMO \u2014 intestinal methanogen overgrowth, an archaeal not bacterial condition), and hydrogen sulfide (H2S, diarrhea-predominant). Methane \u226510 ppm on breath test defines IMO, requiring different treatment (rifaximin + neomycin) than hydrogen-pr",
+        "evidence": "2006: breath testing measured only hydrogen. Methane was mentioned but not as a distinct diagnostic category. No hydrogen sulfide measurement. 2022: The three-gas model includes H2 (lactulose breath test, rise within 90 minutes), CH4 (\u226510 ppm = IMO), and H2S (measured by trio-smart breath test). IMO",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "microbiome_composition"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-seems-increasingly-likely-development-ibd-multistage-process",
+        "claim_id": "yamada-ibd62-10",
+        "statement": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. Th",
+        "full_claim": "It seems increasingly likely that development of IBD is a multistage process with genetic, environmental, and microbial associations, revealing key insights into the pathogenesis of these diseases. These spheres offer promising tools for early diagnosis, monitoring course, and predicting the natural history of IBD.",
+        "evidence": "This is the chapter's synthetic conclusion, integrating all preceding evidence. None of the individual factors alone explains disease: NOD2 homozygosity increases risk but is not sufficient; germ-free mice with genetic defects don't develop colitis; smoking increases CD risk in Europeans but the ass",
+        "source_note": "Yamada 2022 - Ch62 IBD Pathogenesis",
+        "domain": "domain/pathophysiology"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "sibo_pathogenesis"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-mark-pimentels-book-published-there-few-treatment",
+        "claim_id": "pimentel-ch1-3",
+        "statement": "When Dr. Mark Pimentel's book was published, there were few treatment options for IBS or SIBO; in fact, 10 years ago there were only a few drugs approved by the Food and Drug Administration (FDA) to t",
+        "full_claim": "When Dr. Mark Pimentel's book was published, there were few treatment options for IBS or SIBO; in fact, 10 years ago there were only a few drugs approved by the Food and Drug Administration (FDA) to treat IBS. Today there are eight drugs for IBS on the market: five drugs to treat IBS with constipation and three drugs to treat IBS with diarrhea.",
+        "evidence": "The eight FDA-approved IBS drugs, including rifaximin (the antibiotic that \"can eliminate or lessen bacteria in the gut\") and motility-modifying agents. The authors also note the evolution of dietary approaches: from \"avoid fiber and legumes\" to gluten-free and low-FODMAP to their own Low-Fermentati",
+        "source_note": "Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-average-take-four-six-years-you-receive",
+        "claim_id": "pimentel-ch1-4",
+        "statement": "On average, it might take four to six years for you to receive a diagnosis of IBS, usually after undergoing a variety of costly and invasive diagnostic procedures... We've had patients who spent $20,0",
+        "full_claim": "On average, it might take four to six years for you to receive a diagnosis of IBS, usually after undergoing a variety of costly and invasive diagnostic procedures... We've had patients who spent $20,000 in out-of-pocket co-pays for a variety of investigations before the diagnosis of IBS was finally settled on.",
+        "evidence": "A study finding that \"79 percent of community clinicians diagnosed IBS via exclusion, which resulted in more tests for their patients and significantly raised the direct costs of patient care.\" The list of unnecessary procedures: \"stool tests, colonoscopies, upper endoscopies, computed tomography sc",
+        "source_note": "Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-anxiety-doesnt-give-you-ibs-ibs-gives",
+        "claim_id": "pimentel-ch1-6",
+        "statement": "Anxiety Doesn't Give You IBS -- IBS Gives You Anxiety.",
+        "full_claim": "Anxiety Doesn't Give You IBS -- IBS Gives You Anxiety.",
+        "evidence": "The authors cite Nicholas Talley and Marjorie Walker's research at the University of Newcastle, Australia. They document the historical injustice: IBS listed in DSM-IV until 2000, physicians telling patients \"It's all in your head,\" the medical school teaching that \"Those IBS patients you're going t",
+        "source_note": "Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-now-consider-ibs-d-ibs-m-one-type-ibs",
+        "claim_id": "pimentel-ch1-7",
+        "statement": "We now consider IBS-D and IBS-M as one type of IBS disease -- Non-constipation IBS -- and IBS-C is possibly a different disease, Constipation IBS.",
+        "full_claim": "We now consider IBS-D and IBS-M as one type of IBS disease -- Non-constipation IBS -- and IBS-C is possibly a different disease, Constipation IBS.",
+        "evidence": "IBS subtyping: IBS-C 35%, IBS-D 40%, IBS-M 23%. The rationale for splitting C from D/M appears to be based on differential SIBO prevalence and treatment response. The authors note that SIBO more commonly presents with diarrhea (IBS-D) or mixed symptoms, and that the constipation-predominant subtype ",
+        "source_note": "Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-clinical-study-published-2002-found-ibs-sibo",
+        "claim_id": "pimentel-ch2-2",
+        "statement": "In a clinical study published in 2002, we found that IBS and SIBO patients had 60 percent fewer housekeeping waves compared to healthy controls, meaning that the small bowel motility of these IBS pati",
+        "full_claim": "In a clinical study published in 2002, we found that IBS and SIBO patients had 60 percent fewer housekeeping waves compared to healthy controls, meaning that the small bowel motility of these IBS patients was insufficient to completely clean out their small intestine.",
+        "evidence": "Pimentel's 2002 study (likely Pimentel et al., American Journal of Gastroenterology, 2002). The mechanism: \"On a regular basis, bacteria in the colon creep back up to the small intestine in search of more food. However, the small intestine pushes them back to the colon with housekeeper waves. If the",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-bacteria-encounter-bile-they-convert-toxic-bile",
+        "claim_id": "pimentel-ch2-5",
+        "statement": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and i",
+        "full_claim": "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and is different from SIBO, but it's worse when SIBO is present. One of the main causes of bile acid diarrhea is SIBO.",
+        "evidence": "The biochemical pathway: bacteria deconjugate bile acids to toxic secondary bile acids (deoxycholic acid, lithocholic acid) that are pro-secretory in the colon. The connection to gallbladder: \"If your gallbladder is removed or is not functioning properly, bile will flow straight from the liver into ",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-percent-siboibs-patients-smearing-fecal-incontinence-stool",
+        "claim_id": "pimentel-ch2-6",
+        "statement": "Up to 30 percent of SIBO/IBS patients have smearing or fecal incontinence... The stool is more like peanut butter, and if you've had peanut butter on your hands, you know how hard it is to remove. So,",
+        "full_claim": "Up to 30 percent of SIBO/IBS patients have smearing or fecal incontinence... The stool is more like peanut butter, and if you've had peanut butter on your hands, you know how hard it is to remove. So, if stool like that passes through the anus, it's hard to clean and sometimes it cannot be completely cleaned by just wiping after bowel movements.",
+        "evidence": "Clinical observation at Cedars-Sinai. The altered stool form in SIBO is attributed to incomplete digestion and bacterial fermentation products affecting stool consistency.",
+        "source_note": "Pimentel 2022 - Ch2 Gut Anatomy and MMC",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-microbiome-small-intestine-considered-eminently-more-important",
+        "claim_id": "pimentel-ch3-2",
+        "statement": "The microbiome in the small intestine may be considered eminently more important than the microbiome in the stool. The interaction between the microbiome and the large absorbing surface area of the sm",
+        "full_claim": "The microbiome in the small intestine may be considered eminently more important than the microbiome in the stool. The interaction between the microbiome and the large absorbing surface area of the small intestine may indicate how some people become diabetic or obese. More importantly, for the purposes of this book, SIBO and IBS-related symptoms are directly related to how your microbiome reacts i",
+        "evidence": "The small intestine's enormous surface area (\"if you stretched out the small intestine and its villi, it would cover the surface area of a tennis court\") and its role as the primary site of nutrient absorption and immune interaction. The methanogen-obesity hypothesis: methane slows transit, increasi",
+        "source_note": "Pimentel 2022 - Ch3 Gut Microbiome",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-ibs-now-poster-child-microbiome-diseases-ibs",
+        "claim_id": "pimentel-ch3-3",
+        "statement": "IBS is now the poster child of microbiome diseases... IBS remains the only gastrointestinal disease of the intestines for which the FDA has approved a microbiome-modulating drug (rifaximin).",
+        "full_claim": "IBS is now the poster child of microbiome diseases... IBS remains the only gastrointestinal disease of the intestines for which the FDA has approved a microbiome-modulating drug (rifaximin).",
+        "evidence": "Rifaximin's FDA approval for IBS-D (2015). The diagnostic triad now available: breath tests (identifying SIBO/IMO), blood tests (anti-vinculin and anti-CdtB antibodies), and treatments that modulate the microbiome (rifaximin, dietary changes). Pimentel contrasts IBS with other microbiome-associated ",
+        "source_note": "Pimentel 2022 - Ch3 Gut Microbiome",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-now-know-one-out-nine-people-experience",
+        "claim_id": "pimentel-ch4-1",
+        "statement": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "full_claim": "We now know that one out of nine people who experience food poisoning go on to develop IBS.",
+        "evidence": "Mayo Clinic meta-analysis of 45 published food poisoning outbreaks (2017). Pimentel's CDC data-modeling study. European studies of Salmonella outbreaks showing persistent IBS-like bowel dysfunction. The historical context: Sir Arthur Hearst first described post-infectious IBS in 1918 in Medical Dise",
+        "source_note": "Pimentel 2022 - Ch4 Food Poisoning Autoimmunity",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-developing-disease-after-infection-new-phenomenon-reported",
+        "claim_id": "pimentel-ch4-4",
+        "statement": "Developing a disease after an infection is not a new phenomenon and has been reported for decades in conditions other than IBS.",
+        "full_claim": "Developing a disease after an infection is not a new phenomenon and has been reported for decades in conditions other than IBS.",
+        "evidence": "These are all well-established post-infectious conditions with known molecular mechanisms. Reactive arthritis: Campylobacter, Salmonella, Shigella, Yersinia, Chlamydia \u2192 joint inflammation persisting after infection clearance. Guillain-Barr\u00e9: Campylobacter \u2192 molecular mimicry between bacterial antig",
+        "source_note": "Pimentel 2022 - Ch4 Food Poisoning Autoimmunity",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-there-several-subpopulations-microorganisms-sibo-depending-gas",
+        "claim_id": "pimentel-ch5-3",
+        "statement": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another gr",
+        "full_claim": "There are several subpopulations of microorganisms in SIBO, depending on which gas they produce after metabolizing food. One group of bacteria produces hydrogen, which can lead to bloating. Another group produces hydrogen sulfide, which usually leads to diarrhea, pain, and an urgent need to run to the bathroom. A third group of microorganisms is not bacteria, but rather archaea: single-celled orga",
+        "evidence": "Breath test data showing distinct hydrogen, methane, and hydrogen sulfide patterns correlated with symptom profiles. The mechanism: hydrogen is produced first (by E. coli, Klebsiella), then scavenged by either methanogens (producing methane \u2192 constipation) or sulfate-reducing bacteria (producing hyd",
+        "source_note": "Pimentel 2022 - Ch5 SIBO Definition and Diagnosis",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-treatment-rifaximin-alone-another-antibiotic-neomycin-alone",
+        "claim_id": "pimentel-ch6-3",
+        "statement": "Treatment with rifaximin alone or with another antibiotic (neomycin) alone did not work well. However, in the laboratory, a combination of both antibiotics (rifaximin and neomycin) appeared more effec",
+        "full_claim": "Treatment with rifaximin alone or with another antibiotic (neomycin) alone did not work well. However, in the laboratory, a combination of both antibiotics (rifaximin and neomycin) appeared more effective. As a result of this finding, we compared neomycin alone versus neomycin plus rifaximin in a double-blind study and found that nearly 80 percent of IBS patients taking both drugs felt better, and",
+        "evidence": "Double-blind study of neomycin \u00b1 rifaximin. Laboratory data on M. smithii antibiotic sensitivity. Clinical observation that \"methane seems to relapse sooner and more often\" -- \"constipation symptoms returned in one month in a large number of patients who initially responded.\"",
+        "source_note": "Pimentel 2022 - Ch6 Three Pillars of SIBO Management",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    },
+    {
+      "claim_a": {
+        "slug": "claim-diagnosis-ulcerative-colitis-based-clinical-endoscopic-histological",
+        "claim_id": "yamada-ucdx63-1",
+        "statement": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the",
+        "full_claim": "Diagnosis of ulcerative colitis is based on clinical, endoscopic, and histological findings. In a patient with symptoms suggestive of ulcerative colitis (rectal bleeding, diarrhea and/or urgency), the diagnostic approach typically involves laboratory tests (serum and stool), endoscopy, and histology.",
+        "evidence": "The chapter structures the diagnostic approach around this triad. Laboratory investigations (CBC, liver enzymes, albumin, CRP/ESR) assess inflammatory burden and complications but are not diagnostic. Stool testing rules out infection. Endoscopy visualizes the mucosal pattern. Histology confirms arch",
+        "source_note": "Yamada 2022 - Ch63 Ulcerative Colitis Diagnosis",
+        "domain": "domain/diagnosis"
+      },
+      "claim_b": {
+        "slug": "claim-one-retrospective-study-suggested-nearly-half-ibs",
+        "claim_id": "pimentel-ch6-7",
+        "statement": "One retrospective study suggested nearly half of IBS patients responded to these natural products [oil of oregano, neem, garlic extract/allicin]. We are open to providing these plant-based antibiotics",
+        "full_claim": "One retrospective study suggested nearly half of IBS patients responded to these natural products [oil of oregano, neem, garlic extract/allicin]. We are open to providing these plant-based antibiotics to our patients who don't want to take conventional antibiotics, however, the plant-based antibiotics haven't been assessed for their safety or potential interactions with other drugs.",
+        "evidence": "One retrospective study (~50% response). Clinical observation. Open questions: \"Which producer has the most effective product? Which combination is best? For these answers you'll need to rely on those who have expertise in their use.\"",
+        "source_note": "Pimentel 2022 - Ch6 Three Pillars of SIBO Management",
+        "domain": "domain/microbiome"
+      },
+      "shared_subtopics": [
+        "ibs_overlap"
+      ]
+    }
+  ]
+}

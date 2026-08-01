@@ -1,0 +1,62 @@
+[
+  {
+    "claim_a": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "supports",
+    "rationale": "AGA 2020's comparative ranking of biologics for na\u00efve UC patients (infliximab/vedolizumab preferred over adalimumab) complements ECCO 2022's class-level endorsement of anti-TNF agents for induction in moderate-severe UC: ECCO establishes anti-TNF as a standard induction class, while AGA provides the intra-class comparative guidance that clinicians need when selecting a specific anti-TNF agent for biologic-na\u00efve patients."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "claim_b": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "supports",
+    "rationale": "AGA 2020 ranks vedolizumab alongside infliximab as a preferred first-line biologic over adalimumab in na\u00efve UC patients, complementing ECCO 2022's strong recommendation for vedolizumab induction in moderate-severe UC: ECCO establishes vedolizumab as a recommended induction option, while AGA provides the comparative evidence positioning vedolizumab favorably within the broader biologic armamentarium for treatment-na\u00efve patients."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
+    "claim_b": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+    "edge_type": "extends",
+    "rationale": "AGA 2020's recommendation establishing vedolizumab as a first-line biologic choice for na\u00efve UC patients is extended by ECCO 2022's recommendation to continue vedolizumab for maintenance after successful induction: together these claims define a complete vedolizumab treatment pathway from initial biologic selection through ongoing maintenance therapy, with AGA addressing the entry point and ECCO defining the continuation strategy."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "claim_b": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "supports",
+    "rationale": "AGA 2020's TNF-exposure-stratified ranking (ustekinumab/tofacitinib preferred over vedolizumab in anti-TNF-exposed patients) complements ECCO 2022's general strong recommendation for vedolizumab induction: ECCO provides the broad endorsement of vedolizumab as an induction agent, while AGA refines this guidance by identifying the specific patient subgroup (TNF-exposed) where vedolizumab is less preferred, adding clinically actionable stratification to the general recommendation."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "claim_b": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+    "edge_type": "supports",
+    "rationale": "AGA 2020's ranking that prioritizes ustekinumab over vedolizumab and adalimumab for TNF-exposed UC patients complements ECCO 2022's general strong recommendation for ustekinumab induction: ECCO establishes ustekinumab as a recommended induction option across the moderate-severe UC population, while AGA identifies the anti-TNF-exposed subgroup as the clinical scenario where ustekinumab's relative advantage is greatest, providing targeted prescribing guidance within the broader indication."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
+    "claim_b": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+    "edge_type": "extends",
+    "rationale": "AGA 2020's recommendation prioritizing ustekinumab as a preferred induction choice for TNF-exposed UC patients is extended by ECCO 2022's recommendation to continue ustekinumab for maintenance after successful induction: AGA addresses the pivotal decision of which biologic to select for second-line therapy, while ECCO defines the maintenance continuation strategy, together forming a complete ustekinumab treatment pathway from biologic selection through sustained therapy in the TNF-exposed population."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "claim_b": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+    "edge_type": "depends_on",
+    "rationale": "AGA 2020's recommendation to discontinue 5-ASA after escalating to biologic therapy logically depends on ECCO 2022's first-line oral 5-ASA induction recommendation: the instruction to stop 5-ASA at the point of biologic escalation only applies to patients who were initially receiving 5-ASA, and ECCO's recommendation (oral 5-ASA \u22652 g/day for mild-moderate UC induction) establishes the first-line role of 5-ASA that precedes and contextualizes the decision to discontinue it upon biologic escalation."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation",
+    "claim_b": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+    "edge_type": "depends_on",
+    "rationale": "AGA 2020's recommendation to stop 5-ASA after biologic escalation depends on ECCO 2022's first-line topical 5-ASA induction recommendation for distal colitis: the decision to discontinue topical 5-ASA when progressing to biologics is only clinically meaningful because ECCO first establishes topical 5-ASA \u22651 g/day as standard induction therapy for distal disease, creating the therapeutic context in which de-escalation of 5-ASA upon biologic initiation becomes a relevant clinical decision."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "claim_b": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+    "edge_type": "extends",
+    "rationale": "AGA 2020's recommendation for infliximab (or cyclosporine) as rescue therapy in steroid-refractory acute severe UC extends ECCO 2022's general recommendation for anti-TNF induction in moderate-severe UC: ECCO establishes the role of anti-TNF agents across the moderate-severe disease spectrum, while AGA confirms that infliximab specifically retains efficacy even at the most severe end of that spectrum \u2014 steroid-refractory ASUC requiring hospitalization \u2014 and adds cyclosporine as an alternative rescue option for this highest-acuity scenario."
+  },
+  {
+    "claim_a": "claim-aga-uc2020-r10-infliximab-or-cyclosporine-in-steroid-refractory-a",
+    "claim_b": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+    "edge_type": "extends",
+    "rationale": "AGA 2020's recommendation for infliximab as rescue therapy in steroid-refractory ASUC is extended by ECCO 2022's recommendation to continue anti-TNF agents for maintenance after successful induction: AGA addresses the acute rescue phase with infliximab for the sickest UC patients, while ECCO defines the maintenance strategy that should follow a successful anti-TNF rescue, completing the critical treatment arc from inpatient salvage therapy through long-term disease control."
+  }
+]

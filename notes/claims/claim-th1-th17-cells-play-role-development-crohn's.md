@@ -51,17 +51,20 @@ The Th1/Th17 vs Th2 distinction has driven drug development. Anti-TNF (inflixima
 **Alternative reading:** A unified model: both CD and UC involve mixed Th1/Th17 responses, with the difference being the anatomical distribution and depth of inflammation rather than the fundamental immunological mechanism. The "Th2 UC" model may reflect the fact that colonic mucosa has a different baseline immunological setpoint than ileal mucosa.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-one-known-cause-crohns-disease-overactive-immune|Foote's general claim that CD involves an overactive immune system attacking harmless microorganisms is supported by Yam]]
 
-**Contradicts:**
+**Extends:**
+
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada's Th1/Th17 mechanism describes the immune drivers of CD inflammation; Pimentel's finding that >50% of IBD patient]]
+- [[claim-core-thesis-sonnenburg-gut|Yamada's Th1/Th17 immune mechanism provides the host-effector side of the host-microbe interaction Sonnenburg frames as ]]
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 The CD = Th1/Th17 model is well-supported and clinically validated (ustekinumab works). The UC = Th2 model is a simplification that the chapter authors themselves hedge on. The key takeaway for this knowledge graph: the immunological distinction between CD and UC is real but blurred, which explains why some therapies work for both diseases despite their different clinical phenotypes.

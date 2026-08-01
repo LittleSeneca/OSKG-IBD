@@ -1,0 +1,60 @@
+{
+  "batch_id": "microbiome-batch29",
+  "pair_count": 3,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-relapse-management-multiple-treatment-rounds",
+        "claim_id": "sarna-guide-2",
+        "statement": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks po",
+        "full_claim": "Sarna's relapse management approach acknowledges that 'most SIBO patients need more than one course of treatment or even one kind of treatment.' Key components: retesting with breath test 2-4 weeks post-antibiotics, prokinetic maintenance ('once you've cleared the overgrowth, you need to keep the small intestine clean with a prokinetic'), and psychological resilience ('SIBO is a marathon, not a sp",
+        "evidence": "Sarna Ch7 details relapse management. The retesting interval (2-4 weeks) and prokinetic maintenance align with Pimentel's Pillar 3. The 'marathon, not a sprint' framing reflects the clinical reality that SIBO treatment is iterative \u2014 most patients require multiple antibiotic/herbal courses, dietary ",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-medicine-cabinet-symptom-remedies",
+        "claim_id": "sarna-guide-3",
+        "statement": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium c",
+        "full_claim": "Sarna provides a 'SIBO Medicine Cabinet' of over-the-counter symptom relief options not covered in Pimentel's books: digestive bitters (gentian, dandelion), prokinetics (Iberogast, ginger, magnesium citrate), gas relief (activated charcoal, simethicone), pain/cramping (peppermint oil, CBD oil), and sleep/anxiety support (melatonin, magnesium glycinate, lemon balm).",
+        "evidence": "Ch3. These remedies are based on clinical experience and traditional use rather than RCT data. Peppermint oil has the strongest evidence (calcium channel blocker mechanism, multiple IBS trials). Iberogast (STW 5) has some clinical trial evidence for functional dyspepsia. Most others are supported by",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    },
+    {
+      "claim_a": {
+        "slug": "claim-treatment-efficacy-modest-improvement-2006-2022",
+        "claim_id": "pimentel-evol-7",
+        "statement": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the",
+        "full_claim": "Despite 16 years of mechanism discovery, SIBO treatment efficacy improved only modestly: rifaximin's 44% response rate in TARGET 3 (2015) is not dramatically better than neomycin's 35% response in the 2003 study. The real advance is in treatment specificity (gas-type matching) and prevention (prokinetic optimization), not in treatment efficacy.",
+        "evidence": "2003 double-blind study: neomycin 35% symptom improvement vs 11% placebo. Among those whose breath tests normalized, 75% had IBS improvement. 2015 TARGET 3 trial: rifaximin 44% response rate for IBS-D. The absolute improvement from 35% to 44% over 12 years is modest. The guideline notes that the rea",
+        "source_note": "Pimentel 2006 - SIBO Theory Evolution 2006-2022"
+      },
+      "claim_b": {
+        "slug": "claim-sibo-prevalence-78-percent-ibs-sarna",
+        "claim_id": "sarna-guide-5",
+        "statement": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 20",
+        "full_claim": "Sarna cites 'up to 78 percent of people with IBS have SIBO' \u2014 splitting the difference between Pimentel's 2006 figure (84%) and his 2022 figure (60-75%). This reflects the 2021 consensus before the 2022 book's refinement.",
+        "evidence": "Sarna cites the 78% figure without a specific source, placing it between Pimentel's 2006 (84%) and 2022 (60-75%) estimates. The 78% figure likely derives from the 2000s-era referral center studies that produced the higher estimates. By 2021, population-level data was beginning to suggest lower preva",
+        "source_note": "Sarna 2021 - Healing SIBO Patient Guide"
+      }
+    }
+  ]
+}

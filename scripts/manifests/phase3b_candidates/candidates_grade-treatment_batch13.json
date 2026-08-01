@@ -1,0 +1,847 @@
+{
+  "batch_id": "grade-treatment-batch13",
+  "cluster_filter": "grade-treatment",
+  "pair_count": 40,
+  "pairs": [
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+        "claim_id": "ecco-uc2022-rec4",
+        "statement": "Topical steroids for induction in distal colitis",
+        "full_claim": "**Recommendation 4** (Strong, quality: Very low)\n\nTopical steroids for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec13",
+        "statement": "Vedolizumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 13** (Strong, quality: Low)\n\nVedolizumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nUstekinumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+        "claim_id": "ecco-uc2022-rec18",
+        "statement": "Vedolizumab for maintenance after vedolizumab induction",
+        "full_claim": "**Recommendation 18** (Strong, quality: Moderate)\n\nVedolizumab for maintenance after vedolizumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r27-tofacitinib-for-induction",
+        "claim_id": "acg-uc2019-rec27",
+        "statement": "Tofacitinib for induction",
+        "full_claim": "**Recommendation 27** (Strong, quality: Moderate)\n\nTofacitinib for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+        "claim_id": "ecco-uc2022-rec21",
+        "statement": "Ustekinumab for maintenance after ustekinumab induction",
+        "full_claim": "**Recommendation 21** (Strong, quality: Moderate)\n\nUstekinumab for maintenance after ustekinumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim_id": "ecco-uc2022-rec1",
+        "statement": "Oral 5-ASA \u22652 g/d for induction in mild-moderate UC",
+        "full_claim": "**Recommendation 1** (Strong, quality: Low)\n\nOral 5-ASA \u22652 g/d for induction in mild-moderate UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+        "claim_id": "ecco-uc2022-rec4",
+        "statement": "Topical steroids for induction in distal colitis",
+        "full_claim": "**Recommendation 4** (Strong, quality: Very low)\n\nTopical steroids for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec13",
+        "statement": "Vedolizumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 13** (Strong, quality: Low)\n\nVedolizumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nUstekinumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+        "claim_id": "ecco-uc2022-rec18",
+        "statement": "Vedolizumab for maintenance after vedolizumab induction",
+        "full_claim": "**Recommendation 18** (Strong, quality: Moderate)\n\nVedolizumab for maintenance after vedolizumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r37-dvt-prophylaxis-in-asuc",
+        "claim_id": "acg-uc2019-rec37",
+        "statement": "DVT prophylaxis in ASUC",
+        "full_claim": "**Recommendation 37** (Strong, quality: Low)\n\nDVT prophylaxis in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+        "claim_id": "ecco-uc2022-rec21",
+        "statement": "Ustekinumab for maintenance after ustekinumab induction",
+        "full_claim": "**Recommendation 21** (Strong, quality: Moderate)\n\nUstekinumab for maintenance after ustekinumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim_id": "ecco-uc2022-rec1",
+        "statement": "Oral 5-ASA \u22652 g/d for induction in mild-moderate UC",
+        "full_claim": "**Recommendation 1** (Strong, quality: Low)\n\nOral 5-ASA \u22652 g/d for induction in mild-moderate UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+        "claim_id": "ecco-uc2022-rec4",
+        "statement": "Topical steroids for induction in distal colitis",
+        "full_claim": "**Recommendation 4** (Strong, quality: Very low)\n\nTopical steroids for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec13",
+        "statement": "Vedolizumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 13** (Strong, quality: Low)\n\nVedolizumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nUstekinumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+        "claim_id": "ecco-uc2022-rec18",
+        "statement": "Vedolizumab for maintenance after vedolizumab induction",
+        "full_claim": "**Recommendation 18** (Strong, quality: Moderate)\n\nVedolizumab for maintenance after vedolizumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r38-c--diff-testing-in-asuc",
+        "claim_id": "acg-uc2019-rec38",
+        "statement": "C. diff testing in ASUC",
+        "full_claim": "**Recommendation 38** (Strong, quality: Moderate)\n\nC. diff testing in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "high"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+        "claim_id": "ecco-uc2022-rec21",
+        "statement": "Ustekinumab for maintenance after ustekinumab induction",
+        "full_claim": "**Recommendation 21** (Strong, quality: Moderate)\n\nUstekinumab for maintenance after ustekinumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim_id": "ecco-uc2022-rec1",
+        "statement": "Oral 5-ASA \u22652 g/d for induction in mild-moderate UC",
+        "full_claim": "**Recommendation 1** (Strong, quality: Low)\n\nOral 5-ASA \u22652 g/d for induction in mild-moderate UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit",
+        "claim_id": "ecco-uc2022-rec2",
+        "statement": "Topical 5-ASA \u22651 g/d for induction in distal colitis",
+        "full_claim": "**Recommendation 2** (Strong, quality: Low)\n\nTopical 5-ASA \u22651 g/d for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r4-topical-steroids-for-induction-in-distal-colitis",
+        "claim_id": "ecco-uc2022-rec4",
+        "statement": "Topical steroids for induction in distal colitis",
+        "full_claim": "**Recommendation 4** (Strong, quality: Very low)\n\nTopical steroids for induction in distal colitis\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r7-against-thiopurine-monotherapy-for-induction",
+        "claim_id": "ecco-uc2022-rec7",
+        "statement": "Against thiopurine monotherapy for induction",
+        "full_claim": "**Recommendation 7** (Weak, quality: Very low)\n\nAgainst thiopurine monotherapy for induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Very low**. Strength of recommendation: **Weak**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "low-medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u",
+        "claim_id": "ecco-uc2022-rec12",
+        "statement": "Anti-TNF agents for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 12** (Strong, quality: Moderate)\n\nAnti-TNF agents for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec13",
+        "statement": "Vedolizumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 13** (Strong, quality: Low)\n\nVedolizumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r15-ustekinumab-for-induction-in-moderate-severe-uc",
+        "claim_id": "ecco-uc2022-rec15",
+        "statement": "Ustekinumab for induction in moderate-severe UC",
+        "full_claim": "**Recommendation 15** (Strong, quality: Moderate)\n\nUstekinumab for induction in moderate-severe UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind",
+        "claim_id": "ecco-uc2022-rec16",
+        "statement": "Anti-TNF agents for maintenance after anti-TNF induction",
+        "full_claim": "**Recommendation 16** (Strong, quality: High)\n\nAnti-TNF agents for maintenance after anti-TNF induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **High**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "very-high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r18-vedolizumab-for-maintenance-after-vedolizumab-indu",
+        "claim_id": "ecco-uc2022-rec18",
+        "statement": "Vedolizumab for maintenance after vedolizumab induction",
+        "full_claim": "**Recommendation 18** (Strong, quality: Moderate)\n\nVedolizumab for maintenance after vedolizumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r39-vancomycin-over-metronidazole-for-cdi-in-asuc",
+        "claim_id": "acg-uc2019-rec39",
+        "statement": "Vancomycin over metronidazole for CDI in ASUC",
+        "full_claim": "**Recommendation 39** (Strong, quality: Low)\n\nVancomycin over metronidazole for CDI in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r21-ustekinumab-for-maintenance-after-ustekinumab-indu",
+        "claim_id": "ecco-uc2022-rec21",
+        "statement": "Ustekinumab for maintenance after ustekinumab induction",
+        "full_claim": "**Recommendation 21** (Strong, quality: Moderate)\n\nUstekinumab for maintenance after ustekinumab induction\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Moderate**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "high"
+      },
+      "class": "induction therapy"
+    },
+    {
+      "claim_a": {
+        "slug": "claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc",
+        "claim_id": "acg-uc2019-rec40",
+        "statement": "Against routine broad-spectrum antibiotics in ASUC",
+        "full_claim": "**Recommendation 40** (Strong, quality: Low)\n\nAgainst routine broad-spectrum antibiotics in ASUC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ACG UC 2019 - Rubin",
+        "confidence": "medium"
+      },
+      "claim_b": {
+        "slug": "claim-ecco-uc2022-r1-oral-5-asa--2-g-d-for-induction-in-mild-moderate-u",
+        "claim_id": "ecco-uc2022-rec1",
+        "statement": "Oral 5-ASA \u22652 g/d for induction in mild-moderate UC",
+        "full_claim": "**Recommendation 1** (Strong, quality: Low)\n\nOral 5-ASA \u22652 g/d for induction in mild-moderate UC\n\n**Target population:** Not specified",
+        "evidence": "GRADE quality of evidence: **Low**. Strength of recommendation: **Strong**.\n\nSee source note for full evidence evaluation, supporting trial references, and cross-guideline comparison.",
+        "source_note": "ECCO UC Therapeutics 2022 - Raine",
+        "confidence": "medium"
+      },
+      "class": "induction therapy"
+    }
+  ]
+}

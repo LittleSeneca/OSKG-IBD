@@ -56,17 +56,20 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
+- [[claim-acg-uc2019-r9-budesonide-mmx-for-5-asa-refractory-left-sided|The budesonide MMX second-line recommendation for 5-ASA-refractory left-sided UC (ACG 2019) depends on first-line 5-ASA ]]
+- [[claim-acg-uc2019-r11-systemic-steroids-for-5-asa-failure|Systemic steroids for 5-ASA failure (ACG 2019) depend on prior 5-ASA optimization: ECCO 2022's combined oral plus topica]]
+- [[claim-acg-uc2019-r14-add-budesonide-mmx-in-5-asa-partial-response|Budesonide MMX augmentation for partial 5-ASA response (ACG 2019) depends on prior 5-ASA optimization: ECCO 2022's combi]]
 
 **Supports:**
+**Extends:**
 
-**Contradicts:**
+
+**Operationalizes:**
+
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

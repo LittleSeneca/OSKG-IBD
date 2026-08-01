@@ -56,17 +56,17 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
+- [[claim-acg-uc2019-r46-vedolizumab-maintenance-after-cyclosporine-rescue|Vedolizumab maintenance after cyclosporine rescue (ACG 2019) logically depends on the rescue therapy itself: AGA 2020 de]]
 **Supports:**
+**Extends:**
+- [[claim-ecco-uc2022-r12-anti-tnf-agents-for-induction-in-moderate-severe-u|AGA 2020's recommendation for infliximab (or cyclosporine) as rescue therapy in steroid-refractory acute severe UC exten]]
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|AGA 2020's recommendation for infliximab as rescue therapy in steroid-refractory ASUC is extended by ECCO 2022's recomme]]
 
-**Contradicts:**
-
+**Operationalizes:**
 **Challenged by:**
-
+- [[claim-acg-cd2018-r31-cyclosporine--mmf--tacrolimus-not-for-cd|Cyclosporine is explicitly recommended against in CD but endorsed for steroid-refractory ASUC in UC, reflecting striking]]
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

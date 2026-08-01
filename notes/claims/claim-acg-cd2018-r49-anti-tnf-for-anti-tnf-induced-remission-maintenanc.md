@@ -56,17 +56,15 @@ Individual recommendation-level analysis. See source note for clinical implicati
 **Alternative reading:** Not documented.
 
 ## Edges
-
-<!-- Populate during cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind|Both ACG 2018 (CD) and ECCO 2022 (UC) strongly recommend continuing anti-TNF therapy for maintenance after achieving rem]]
+- [[claim-acg-uc2019-r30-against-5-asa-with-anti-tnf-maintenance|Both recommendations reinforce anti-TNF monotherapy for maintenance — continue anti-TNF if it induced remission, and do ]]
 
-**Contradicts:**
-
+**Extends:**
+**Operationalizes:**
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 Individual recommendation extracted from guideline table. See source note for full clinical assessment.

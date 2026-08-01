@@ -53,17 +53,25 @@ This model unifies diverse findings under one framework. It also explains why no
 **Alternative reading:** An older model proposed IBD as primarily an autoimmune disease with specific autoantigens, analogous to rheumatoid arthritis or lupus. The serological data (ASCA, pANCA) and the efficacy of immunosuppressive biologics partially support this framing, but the absence of a consistent autoantigen, the microbial specificity of the serological markers, and the germ-free mouse data make the dysregulated-host-microbe-interaction model more persuasive.
 
 ## Edges
-
-<!-- Populate during batch review and cross-source edge pass -->
-
 **Depends on:**
-
 **Supports:**
+- [[claim-one-known-cause-crohns-disease-overactive-immune|Both claims converge on the same core principle: inappropriate immune response to commensal microorganisms as a cause of]]
+- [[claim-core-thesis-myers-autoimmune|Both claims converge on gene-environment interaction as the basis of autoimmune/IBD pathogenesis. Myers quantifies the a]]
 
-**Contradicts:**
+**Extends:**
+
+- [[claim-pimentel-lists-five-natural-defenses-table-phase|Pimentel identifies mucosal immunity (GALT, Peyer's patches, tight junctions) as the fifth natural gut defense; Yamada i]]
+- [[claim-shown-more-percent-patients-ibd-controlled-inflammation|Yamada establishes that IBD pathogenesis requires dysregulation of the immune response to commensal intestinal flora; Pi]]
+- [[claim-dysbiosis-alteration-microbial-community-diminishes-persons-essential|Chutkan defines dysbiosis as a microbial imbalance where pathogenic bacteria flourish at the expense of beneficial speci]]
+- [[claim-helpful-think-leaky-gut-more-mechanism-disease|Chutkan describes leaky gut (increased intestinal permeability) as a precondition for autoimmune disease via the zonulin]]
+- [[claim-core-thesis-sonnenburg-gut|Sonnenburg establishes the gut microbiota as a malleable 'second genome' whose diversity is being depleted by the Wester]]
+
+**Operationalizes:**
+
+- [[claim-people-chronic-diarrhoea-abdominal-pain-bloating-reflux|Yamada identifies gut barrier dysfunction and microbiome-immune dysregulation as central to IBD pathogenesis; Campbell-M]]
 
 **Challenged by:**
-
+**Contradicts:**
 ## Assessment
 
 This is the foundation. Everything else in this knowledge graph -- diagnosis, treatment, diet -- operates within this framework. The critical insight is that IBD is not one disease but a final common pathway for multiple distinct genetic and environmental insults converging on intestinal inflammation.
