@@ -24,7 +24,7 @@ Research papers and meta-analyses for OSKG-IBD. Papers are the primary source of
 | # | Title | First Author | Year | Status |
 |---|-------|-------------|------|--------|
 | P5 | Rifaximin Therapy for Patients with IBS Without Constipation | Pimentel | 2011 | Acquired 2026-08-01 |
-| P6 | Elemental Diet in the Treatment of SIBO | Pimentel | 2004 | Needs Manual Download |
+| P6 | A 14-Day Elemental Diet Is Highly Effective in Normalizing the Lactulose Breath Test | Pimentel | 2004 | Acquired 2026-08-01 |
 | P7 | Herbal Therapy Is Equivalent to Rifaximin for SIBO | Chedid | 2014 | Acquired 2026-08-01 |
 
 ### IBD & Microbiome
@@ -32,7 +32,7 @@ Research papers and meta-analyses for OSKG-IBD. Papers are the primary source of
 | # | Title | First Author | Year | Status |
 |---|-------|-------------|------|--------|
 | P8 | The Gut Microbiome in IBD | Kostic | 2014 | Acquired 2026-08-01 |
-| P9 | Dysbiosis in IBD | Sartor | 2020 | Needs Manual Download |
+| P9 | The Intestinal Microbiota in Inflammatory Bowel Disease | Becker (not Sartor) | 2015 | Acquired 2026-08-01 |
 | P10 | Diet, Gut Microbiome, and IBD | Lewis | 2018 | Acquired 2026-08-01 |
 | P11 | The Treatment-Naive Microbiome in New-Onset Crohn's Disease | Gevers | 2014 | Acquired 2026-08-01 |
 
@@ -57,15 +57,16 @@ Research papers and meta-analyses for OSKG-IBD. Papers are the primary source of
 | # | Title | First Author | Year | Status |
 |---|-------|-------------|------|--------|
 | P18 | Small Intestinal Bacterial Overgrowth in Crohn's Disease | Castiglione | 2013 | Acquired 2026-08-01 |
-| P19 | Prevalence of SIBO in Patients with IBD: Systematic Review and Meta-Analysis | Shah | 2021 | Needs Manual Download |
+| P19 | Systematic Review with Meta-Analysis: Prevalence of SIBO in IBD | Shah | 2019 | Acquired 2026-08-01 |
 
 ## Notes
 
+- P6: Acquired via Sci-Hub browser extraction (PDF.js). The 146-byte file in _pdfs/ was a 404 error page from a prior failed download; replaced with text extracted from the actual PDF loaded in browser.
+- P9: Acquired via Sci-Hub browser extraction. **Author correction:** PAPER-GUIDE.md listed Sartor RB as first author; actual first author is Becker C (same DOI 10.1093/ilar/ilv030 confirmed). Sartor is extensively cited throughout. The 28KB file in _pdfs/ was an HTML error page; replaced with text extracted from actual PDF.
 - P17 (*): This is the Suskind et al. 2016 "Patients Perceive Clinical Benefit with the Specific Carbohydrate Diet" survey paper (Dig Dis Sci), not the systematic review. The systematic review was not found with the title specified in the PAPER-GUIDE.
-- P18 and P19 listed in PAPER-GUIDE under "SIBO-IBD Intersection": P18 (Castiglione 2013) acquired; P19 (Shah 2021) needs manual download.
-- Paywalled papers (P6, P9, P19) require institutional access or Sci-Hub with browser interaction. Sci-Hub's CDN (sci.bban.top) and direct domains (sci-hub.ru/st/ee) all block automated curl downloads with CAPTCHAs.
+- P19: Acquired via Sci-Hub browser extraction. **Correction:** PAPER-GUIDE.md listed journal as Inflamm Bowel Dis 2021; actual publication is Aliment Pharmacol Ther 2019 (DOI 10.1111/apt.15133 confirmed). The 10KB file in _pdfs/ was an HTML error page; replaced with text extracted from actual PDF.
 - P8 (Kostic) DOI corrected from 10.1053/j.gastro.2014.02.002 to 10.1053/j.gastro.2014.02.009. The PAPER-GUIDE has a typo.
 - All PDFs are in _pdfs/ (gitignored). Extracted text files are alongside the indexes.
-- Papers are acquired via direct download from publisher (open access) or institutional access
+- Papers are acquired via direct download from publisher (open access) or Sci-Hub browser extraction
 - Landmark trials (P12-P14) are essential for understanding the evidence base for current treatments
 - The SIBO papers (P1-P7) document the evolution from "SIBO is rare" to "SIBO is common in IBS" to "SIBO may be present in IBD patients with persistent symptoms"

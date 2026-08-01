@@ -1,0 +1,34 @@
+Systematic review and meta-analysis: the prevalence of small intestinal bacterial overgrowth in inflammatory bowel disease
+
+Authors: Ayesha Shah, Mark Morrison, Daniel Burger, Neal Martin, Justin Rich, Mike Jones, Natasha Koloski, Marjorie M. Walker, Nicholas J. Talley, Gerald J. Holtmann
+Journal: Alimentary Pharmacology & Therapeutics, 2019, pp. 1-12
+DOI: 10.1111/apt.15133
+Source: Sci-Hub via browser PDF.js extraction
+Acquired: 2026-08-01
+
+---
+
+SUMMARY
+
+Background: Current data on small intestinal bacterial overgrowth (SIBO) in patients with inflammatory bowel diseases (IBD) are controversial.
+
+Aim: To conduct a systematic review and meta-analysis to determine the prevalence of SIBO in patients with ulcerative colitis (UC) and Crohn's disease (CD).
+
+Methods: Electronic databases were searched up to May 2018 for studies reporting prevalence of SIBO in IBD patients. The prevalence rate of SIBO among IBD patients and the odds ratio (OR) and 95% CI of SIBO in IBD patients compared with controls were calculated.
+
+Results: The final dataset included 11 studies (1175 adult patients with IBD and 407 controls), all utilising breath test for diagnosis of SIBO. The proportion of SIBO in IBD patients was 22.3% (95% CI 19.92-24.68). The OR for SIBO in IBD patients was 9.51 (95% CI 3.39-26.68) compared to non-IBD controls, and high in both CD (OR = 10.86; 95% CI 2.76-42.69) and UC (OR = 7.96; 95% CI 1.66-38.35). In patients with CD, subgroup analysis showed the presence of fibrostenosing disease (OR = 7.47; 95% CI 2.51-22.20) and prior bowel surgery (OR = 2.38; 95% CI 1.65-3.44), especially resection of the ileocecal valve, increased the odds of SIBO.
+
+Conclusions: Overall, there is a ninefold increase in the prevalence of SIBO in IBD patients compared to controls. Prior surgery and the presence of fibrostenosing disease are risk factors for SIBO in IBD.
+
+KEY FINDINGS:
+- Overall SIBO prevalence in IBD: 22.3% (95% CI 19.92-24.68)
+- OR for SIBO in IBD vs controls: 9.51 (95% CI 3.39-26.68)
+- CD prevalence: 25.4%, UC prevalence: 14.3%
+- Fibrostenosing disease OR: 7.47 (95% CI 2.51-22.20)
+- Prior surgery OR: 2.38 (95% CI 1.65-3.44)
+- 11 studies, 1175 IBD patients, 407 controls
+- All studies used breath tests (9 GBT, 1 LBT, 1 14C-glycocholate)
+- Methane positivity inversely associated with IBD
+- No association with immunotherapy or disease activity
+- Antibiotic treatment normalized breath tests in 53/57 patients (92.9%)
+- All studies used breath tests (none used jejunal aspirate culture)

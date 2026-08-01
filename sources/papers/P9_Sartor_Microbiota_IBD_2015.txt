@@ -1,0 +1,91 @@
+# The Intestinal Microbiota in Inflammatory Bowel Disease
+
+**Authors:** Christoph Becker, Markus F. Neurath, Stefan Wirtz
+**Journal:** ILAR Journal, 2015, Vol. 56, No. 2, pp. 192-204
+**DOI:** 10.1093/ilar/ilv030
+**Source:** Sci-Hub via browser PDF.js extraction
+**Acquired:** 2026-08-01
+**Note:** PAPER-GUIDE.md lists Sartor RB as first author; actual first author is Becker C. Same paper confirmed by DOI match. Sartor RB is extensively cited throughout (Sartor 2004 on therapeutic manipulation; multiple co-authored references).
+
+---
+
+## Abstract
+
+The intestinal microbiota has important metabolic and host-protective functions. Conversely to these beneficial functions, the intestinal microbiota is thought to play a central role in the etiopathogenesis of inflammatory bowel disease (IBD; Crohn's disease and ulcerative colitis), a chronic inflammation of the gut mucosa. Genetic screens and studies in experimental mouse models have clearly demonstrated that IBD can develop due to excessive translocation of bacteria into the bowel wall or dysregulated handling of bacteria in genetically susceptible hosts. In healthy individuals, the microbiota is efficiently separated from the mucosal immune system of the gut by the gut barrier, a single layer of highly specialized epithelial cells. It is currently unclear whether the composition of the microbial flora or individual bacterial strains or pathogens induces or supports the pathogenesis of IBD. Further research will be necessary to carefully dissect the contribution of individual bacterial species to this disease.
+
+## Key Sections
+
+### 1. The Intestinal Microbiome in IBD Patients
+
+- ~1000 different species, ~10^12 cells in the human gut microbiota
+- Microbial genes vastly outnumber human genes
+- Healthy gut dominated by Firmicutes and Bacteroidetes
+- Core microbial community exists within individuals despite inter-individual variability
+- Host genetics (twin studies) significantly influences microbiome composition
+- Colonization begins at birth; stabilizes around age 2-3
+- Factors affecting composition: environment, nutrition, antibiotics
+- MetaHit (European) and HMP (US) projects launched for large-scale microbiome characterization
+
+### 2. Dysbiosis and Reduced Diversity in IBD
+
+- GWAS identified 160+ genetic loci conferring IBD risk
+- Key genes: NOD2, ATG16L1 - involved in bacterial handling
+- IBD patients show reduced Firmicutes and Bacteroidetes, increased Actinobacteria and Proteobacteria
+- Reduced diversity particularly in clostridial cluster IV (Faecalibacterium, Bifidobacterium, Lactobacillus decreased)
+- Enterobacteriaceae (gamma-Proteobacteria) relatively expanded in IBD
+- Adherent-invasive E. coli (AIEC) enriched in mucosal biopsies vs luminal flora
+- Mouse models: inflammation absent under gnotobiotic conditions; develops upon conventional housing
+- NOD2 variants: three competing hypotheses for CD susceptibility (dysregulated NF-kB activation, intracellular bacterial escape, reduced Paneth cell alpha-defensins)
+- ATG16L1 variants: autophagy defects, Paneth cell dysfunction
+- Epithelial NEMO deletion: spontaneous TNF-alpha-driven apoptosis, barrier dysfunction, pancolitis
+- Paneth cell necroptosis (caspase-8 deficiency) as regulator of intestinal immune homeostasis
+- Causality question: are microbial changes cause or consequence of IBD? T-bet-Rag2 DKO mice show transferable colitogenic microbiota
+
+### 3. Specific Bacteria/Pathogens in IBD
+
+**Helicobacter hepaticus:** Causes colitis in immunocompromised (RAG2-/-) mice; induces Tregs in wild-type; Type 6 secretion system for tolerogenic response; IL-10 dependent
+
+**Adherent-Invasive E. coli (AIEC):** Found in ~40% of ileal CD patients; invades epithelial cells via microtubule recruitment; persists in macrophages without causing cell death; restricted to ileal CD (not colonic); also found in healthy individuals (facultative pathogen)
+
+**Mycobacterium avium subsp. paratuberculosis (MAP):** Causes Johne's disease in cattle (similar to CD); higher MAP DNA in CD mucosal tissues; NOD2 variants affect MAP recognition; ATG16L1 defects allow MAP persistence; conflicting data on prevalence in healthy vs IBD; antibiotic trials against MAP negative
+
+**Clostridium difficile:** Up to 10% of IBD patients develop C. diff infection; causes epithelial apoptosis; likely secondary to disease/antibiotics rather than causative
+
+**Segmented Filamentous Bacteria (SFB):** Induces Th17 and IL-22 responses; attaches to ileal epithelium; protects against Citrobacter rodentium; demonstrates that immunomodulatory bacteria can be protective
+
+### 4. Therapeutic Interventions Targeting the Microbiota
+
+**Antibiotics:** Widely used for IBD complications (fistulae, abscesses) but benefit for remission induction debated; marked and prolonged microbiome changes with reduced diversity; increased infection risk; not optimal for restoring biodiversity
+
+**Probiotics:**
+- Animal models: Bifidobacteria and Lactobacilli reduced colitis in IL-10 KO mice; Lactobacilli prevented inflammation in HLA-B27 transgenic rats
+- VSL#3 effective for pouchitis prevention (increased bacterial richness/diversity)
+- UC: VSL#3 showed combined induction of remission/response in mild-moderate UC; downregulated TNF-alpha and IL-1beta
+- CD: Meta-analyses show no clear evidence for probiotic benefit; E. coli Nissle 1917 and S. boulardii showed mixed results
+- Mechanism: interbacterial competition, immune modulation, Treg induction
+
+**Prebiotics:** Lactulose, inulin, fructooligosaccharides, galactooligosaccharides; effective in animal models (IL-10-/- mice, TNBS/DSS colitis); increased fecal Lactobacilli and Bifidobacteria; human trials limited and conflicting
+
+**Fecal Microbiota Transplantation (FMT):**
+- Strong success in C. difficile infection
+- CD: Cui et al. (2015) - safe and efficient rescue therapy for refractory CD (30 patients)
+- UC: Moayyedi et al. (2015) - safe, induced remission (~70 patients); Rossen et al. (2015) - no significant differences vs autologous transplant
+- Meta-analyses: results variable; repeated FMT or defined microbial compositions may improve outcomes
+- Temporal increase in alpha diversity and shift toward donor microbiota observed
+
+### 5. Outlook
+
+- Clear consensus on microbiota contribution to IBD; debate on specific species/shifts
+- Most studies are retrospective (after disease onset) - prospective studies needed
+- Gnotobiotic mouse models with individual/combined bacteria needed
+- Genetic components add complexity - combinatorial studies required
+
+## Key References
+- Kostic AD, Xavier RJ, Gevers D. The microbiome in IBD. Gastroenterology 146:1489-1499, 2014
+- Gevers D, Kugathasan S, et al. The treatment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe 15:382-392, 2014
+- Huttenhower C, Kostic AD, Xavier RJ. IBD as a model for translating the microbiome. Immunity 40:843-854, 2014
+- Sartor RB. Therapeutic manipulation of the enteric microflora in IBD. Gastroenterology 126:1620-1633, 2004
+- Garrett WS, et al. Communicable ulcerative colitis induced by T-bet deficiency. Cell 131:33-45, 2007
+- Jostins L, et al. Host-microbe interactions shaped genetic architecture of IBD. Nature 491:119-124, 2012
+- Cadwell K, et al. Virus-plus-susceptibility gene interaction determines Crohn's disease gene Atg16L1 phenotypes. Cell 141:1135-1145, 2010
+- Moayyedi P, et al. FMT induces remission in active UC. Gastroenterology 149:110-118, 2015

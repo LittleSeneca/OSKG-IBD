@@ -1,0 +1,67 @@
+# A 14-Day Elemental Diet Is Highly Effective in Normalizing the Lactulose Breath Test
+
+**Authors:** Mark Pimentel, Tess Constantino, Yuthana Kong, Meera Bajwa, Abolghasem Rezaei, Sandy Park
+**Journal:** Digestive Diseases and Sciences, Vol. 49, No. 1 (January 2004), pp. 73-77
+**DOI:** 10.1023/B:DDAS.0000011605.43979.e1
+**Source:** Sci-Hub via browser PDF.js extraction
+**Acquired:** 2026-08-01
+
+---
+
+## Abstract
+
+Treatment of small intestinal bacterial overgrowth is frustrated by the low efficacy of antibiotics. Elemental diets have been shown to reduce enteric flora. In this study, we evaluate the ability of an elemental diet to normalize the lactulose breath test (LBT) in IBS subjects with abnormal breath test findings. Consecutive subjects with IBS and abnormal LBT suggesting the presence of bacterial overgrowth underwent a 2-week exclusive elemental diet. The diet consisted of Vivonex Plus (Novartis Nutrition Corp., Minneapolis, MN) in a quantity based on individual caloric requirement. On day 15 (prior to solid food), subjects returned for a follow-up breath test and those with an abnormal LBT were continued on the diet for an additional 7 days. The ability of an elemental diet to normalize the LBT was determined for days 15 and 21. A chart review was then conducted to evaluate any clinical benefit 1 month later. Of the 93 subjects available for analysis, 74 (80%) had a normal LBT on day 15 of the elemental diet. When those who continued to day 21 were included, five additional patients normalized the breath test (85%). On chart review, subjects who successfully normalized their breath test had a 66.4 +/- 36.1% improvement in bowel symptoms, compared to 11.9 +/- 22.0% in those who failed to normalize (P < 0.001). An elemental diet is highly effective in normalizing an abnormal LBT in IBS subjects, with a concomitant improvement in clinical symptoms.
+
+**KEY WORDS:** bacterial overgrowth; enteral nutrition; elemental diet; irritable bowel syndrome.
+
+## Introduction
+
+Bacterial overgrowth is a condition whereby the bacteria of the normally colonized colon are now also colonizing the relatively sterile small intestine. The resulting displacement of bacteria into the small bowel produces a constellation of symptoms including altered bowel habits, abdominal pain, bloating, gas, and distention (1). Classically, bacterial overgrowth is observed in subjects with altered bowel anatomy (2-8). However, recent data suggest that the majority of subjects with IBS may also have an abnormal lactulose breath test (LBT) to suggest bacterial overgrowth in the absence of underlying bowel disease (9, 10). Although there remains some argument as to whether the abnormal LBT in IBS represents accelerated transit or abnormal small bowel flora, IBS symptoms respond to a normalization of the breath test with antibiotics and the LBT abnormality in IBS is significantly different from controls (10).
+
+One major problem in the management of bacterial overgrowth is the poor success of antibiotics in eliminating the large variety of organisms present. In fact, recent studies show that, at best, norfloxacin and ampicillin-clavulanate have a 30 and 50% success in normalizing the LBT to indicate eradication of bacterial overgrowth, respectively (11). This and other experiences lead clinicians to use rotating antibiotics, prolonged courses, and repeated treatment that potentially lead to bacterial resistance. In the case of IBS, neomycin is successful in normalizing the LBT in only 20% of subjects receiving the therapy (10). Since IBS is present in more than 10% of the population as a whole (12), widespread antibiotic use in this condition is not wise. As such, a better therapy is needed for bacterial overgrowth and IBS subjects with abnormal LBT that is more reliable and avoids excessive antibiotic use.
+
+Elemental enteral formulations are believed to be entirely absorbed within the first few feet of small intestine. As such, there is a potential for this diet to limit the nutrients for more distally located bacteria of the small intestine. Early research suggests that elemental formulae are capable of reducing stool microbes (13-15). The basis for this change in flora is postulated to be due to nutrient deprivation.
+
+## Methods
+
+**Patient Population.** This was a retrospective review of consecutive cases where elemental diet was used to attempt normalization of LBT in subjects with IBS and abnormal LBT. From 2001 to 2002, subjects who were diagnosed with IBS based on Rome I criteria underwent a LBT. Most subjects found to have an abnormal LBT were then given a trial of antibiotic therapy. After failed attempts to normalize the LBT with antibiotics, subjects were presented the option of the elemental diet since, in preliminary experiences, we had observed normalization of LBT as well as a dramatic clinical response with this therapy.
+
+**Elemental Diet.** Subjects agreeing to undergo the diet met with the GI motility nurse at Cedars-Sinai Medical Center. Based on the height and weight of each subject, the caloric requirement was calculated using the Harris-Benedict equation (16). Subjects then purchased Vivonex Plus (Novartis Nutrition Corp., Minneapolis, MN) in the predetermined quantity. Flavor packets were also used as desired. Patients were all given instructions to dissolve the powdered packets of Vivonex Plus into 250 ml of warm water, add ice, and blend for 1 min. In general, subjects were asked to create three meals a day by dividing the daily recommendations into three equal servings. Subjects then took the elemental formulation for a period of 14 days. During that time, no food ingestion was allowed including gum, candy, soft drinks (diet or otherwise), and caffeine. Any prescription medications were continued throughout the course. On day 15, subjects returned for a follow-up LBT. If the LBT was still abnormal on day 15, subjects were encouraged to persist with the diet for an additional 7 days, followed by another LBT. No patient was asked to continue beyond 21 days.
+
+**Lactulose Breath Testing.** For the LBT, subjects were asked to fast from 7 PM the night before the test. They were also asked to avoid heavy proteins or legumes in the previous evening's meal. On the day of testing, subjects presented to the GI Motility Lab at Cedars-Sinai Medical Center. After an initial breath sample was collected, subjects were asked to ingest a syrup containing 10 g of lactulose. After ingestion, breath samples were taken every 15 min until 180 min had elapsed. All breath samples were alveolar and analyzed using a Model SC Quintron Gas Chromatograph. This was used to determine the concentration of hydrogen and methane in breath samples after correction for alveolar quality using the CO2 concentration in the breath sample. Values for hydrogen and methane were plotted graphically over time. A normal breath test was defined as one that exhibited a rise of breath hydrogen or methane never > 20 ppm with the rise beyond 90 min after the ingestion of lactulose (11). All breath tests were coded and randomized. A blinded reader (M.P.) interpreted all results as normal or abnormal. The success of the elemental diet was then determined.
+
+**Clinical Outcomes.** As part of their clinical care, patients completing the elemental diet were encouraged to return for a follow-up outpatient evaluation at 1 month after completion. Although not initially designed to be a prospective study, during the clinic visit, an attempt was made to quantify any improvement quantitatively (percentage improvement) or qualitatively. A retrospective chart review was conducted on these subjects to define the clinical outcomes in their IBS symptoms from this treatment. Other specific information was also collected including identifying the response among IBS subgroups and the reason for using Vivonex, and an attempt was made to determine why any failure of the elemental diet might have taken place.
+
+**Statistical Analysis.** The proportion of subjects normalizing their LBT was evaluated at day 15. The additional benefit of continuing the elemental diet for an additional 7 days among those who did not normalize at day 15 was also evaluated. The LBT profile was compared before and after the elemental diet, with each time point being compared using a t-test. Data are expressed as mean +/- SE.
+
+## Results
+
+**Patient Population.** At the time of review, 124 IBS subjects with an abnormal LBT had agreed to try the elemental diet. Of these subjects, 14 were excluded from analysis, as they could not tolerate the diet and dropped out before completion of the 14 days. In 15 other subjects, the day 15 breath test could not be found. Some of these subjects included out-of-city/state referred patients who did not have access to convenient breath testing. Two other patients had only the day 15 breath test and not the initial breath test. Since the initial abnormal breath test could not be confirmed, these too were excluded. This left 93 subjects for analysis.
+
+**Success of the Elemental Diet.** By day 15, 74 of the 93 (80%) subjects receiving the elemental diet normalized their LBT. Of the 19 subjects who did not normalize the LBT by day 15, data were available for 17 subjects on day 21. Of these 17 subjects, only 5 additional subjects normalized their LBT with the extended course. The combined success rate for the 14-day and extended course of elemental diet was then 79 of 93 subjects (85%).
+
+**Clinical Outcomes.** Of 93 subjects, 63 returned for their 1-month follow-up. Of the 63 subjects undergoing elemental diet with clinical follow-up, 13 chose to use the diet without any attempt at antibiotics. The remaining 50 subjects had failed antibiotic treatment as a reason for choosing the diet. Among the 63 returning for follow-up, 52 (83%) successfully eradicated. Of 63 subjects, quantitative improvement was documented in the chart for 36 subjects, and of these 36 subjects, 28 had documented normalization of LBT with elemental diet. The percentage improvement in IBS symptoms among those who normalized was 66.4 +/- 36.1%, compared to 11.9 +/- 22.0% in those who failed to normalize (P < 0.001). On evaluating IBS by subgroup: 14 diarrhea-predominant (12 reported regular bowel movements at 1-month follow-up), 25 alternators (18 had regular bowel movements), 12 constipation-predominant (9 were regular).
+
+**Reasons for Failure.** Subjects who failed to eradicate their overgrowth (n=11) were reviewed. Three had confirmed or suspected IBD, one had colonic inertia, one had adhesions from previous surgery, and one was noncompliant with the elemental diet.
+
+## Discussion
+
+Vivonex Plus is able to normalize a preexisting abnormal LBT in 80% of subjects after 14 days of therapy. This benefit is far greater than that seen for antibiotics. Furthermore, this normalization of LBT translated into a clinical benefit.
+
+Four mechanisms are hypothesized:
+1. **Nutrient deprivation** - elemental formula is rapidly absorbed, leaving limited substrate for bacteria
+2. **Bile/MMC stimulation** - elemental diet increases CCK and gallbladder emptying, stimulating phase III of the migrating motor complex ("intestinal housekeeper"), which cleanses the small bowel
+3. **Mucosal immune system** - elemental diet can accentuate jejunal secretion of immunoglobulins (IgG, IgA, albumin)
+4. **Direct antibacterial effects** - elemental diet reduces coliforms, enterococci, and bacteroides; longer duration yields lower bacterial counts
+
+All IBS subgroups benefited, including diarrhea, constipation, and alternating subgroups.
+
+## References (selected)
+1. Yamada T, Alpers DH, et al. Textbook of Gastroenterology, 2nd ed. 1995
+9. Pimentel M, Chow EJ, Lin HC. Eradication of SIBO reduces symptoms of IBS. Am J Gastroenterol 95:3503-3506, 2000
+10. Pimentel M, Chow EJ, Lin HC. Normalization of LBT correlates with symptom improvement in IBS. Am J Gastroenterol 98:412-419, 2003
+11. Attar A, Flourie B, et al. Antibiotic efficacy in SIBO-related chronic diarrhea. Gastroenterology 117:794-797, 1999
+17. Bernstein CN, Shanahan F. Braving the elementals in Crohn's disease. Gastroenterology 103:1363-1364, 1992
+18. Gorard DA, et al. Initial response and subsequent course of Crohn's disease treated with elemental diet or prednisolone. Gut 34:1198-1202, 1993
+19. Papadopoulou A, et al. Remission following an elemental diet or prednisolone in Crohn's disease. Acta Paediatr 84:79-83, 1995
+20. Zoli G, et al. A randomized controlled study comparing elemental diet and steroid treatment in Crohn's disease. Aliment Pharmacol 11:738-740, 1997
