@@ -1,34 +1,1982 @@
-Systematic review and meta-analysis: the prevalence of small intestinal bacterial overgrowth in inflammatory bowel disease
-
-Authors: Ayesha Shah, Mark Morrison, Daniel Burger, Neal Martin, Justin Rich, Mike Jones, Natasha Koloski, Marjorie M. Walker, Nicholas J. Talley, Gerald J. Holtmann
-Journal: Alimentary Pharmacology & Therapeutics, 2019, pp. 1-12
+--- PAGE 1 ---
+Systematic review and meta‐analysis: the prevalence of small
+intestinal bacterial overgrowth in inflammatory bowel disease
+Ayesha Shah1,2,3 | Mark Morrison4 | Daniel Burger1,2 | Neal Martin1,2 | Justin Rich1,2 |
+Mike Jones5 | Natasha Koloski2,4
+| Marjorie M. Walker6
+| Nicholas J. Talley6 |
+Gerald J. Holtmann1,2,3
+1The University of Queensland, Faculty of
+Medicine and Faculty of Health and
+Behavioural Sciences, Brisbane, QLD,
+Australia
+2Department of Gastroenterology &
+Hepatology, Princess Alexandra Hospital,
+Brisbane, QLD, Australia
+3Translational Research Institute, Princess
+Alexandra Hospital, Brisbane, QLD,
+Australia
+4University of Queensland, Diamantina
+Institute, Microbial Biology and
+Metagenomics, QLD, Australia
+5Macquarie University, Department of
+Psychology, Sydney, NSW, Australia
+6University of Newcastle, Newcastle, NSW,
+Australia
+Correspondence
+Gerald J. Holtmann, Princess Alexandra
+Hospital, Brisbane, Queensland, Australia.
+Email: g.holtmann@uq.edu.au
+Summary
+Background: Current data on small intestinal bacterial overgrowth (SIBO) in patients
+with inflammatory bowel diseases (IBD) are controversial.
+Aim: To conduct a systematic review and meta‐analysis to determine the preva-
+lence of SIBO in patients with ulcerative colitis (UC) and Crohn's disease (CD).
+Methods: Electronic databases were searched up to May 2018 for studies reporting
+prevalence of SIBO in IBD patients. The prevalence rate of SIBO among IBD
+patients and the odds ratio (OR) and 95% CI of SIBO in IBD patients compared with
+controls were calculated.
+Results: The final dataset included 11 studies (1175 adult patients with IBD and
+407 controls), all utilising breath test for diagnosis of SIBO. The proportion of SIBO
+in IBD patients was 22.3% (95% CI 19.92‐24.68). The OR for SIBO in IBD patients
+was 9.51 (95% CI 3.39‐26.68) compared to non‐IBD controls, and high in both CD
+(OR = 10.86; 95% CI 2.76‐42.69) and UC (OR = 7.96; 95% CI 1.66‐38.35). In
+patients with CD, subgroup analysis showed the presence of fibrostenosing disease
+(OR = 7.47; 95% CI 2.51‐22.20) and prior bowel surgery (OR = 2.38; 95% CI 1.65‐
+3.44), especially resection of the ileocecal valve, increased the odds of SIBO. Individ-
+ual studies suggest that combined small and large bowel disease but not disease
+activity may be associated with SIBO.
+Conclusions: Overall, there is a ninefold increase in the prevalence of SIBO in IBD
+patients compared to controls. Prior surgery and the presence of fibrostenosing
+disease are risk factors for SIBO in IBD.
+As part of AP&T’s peer‐review process, a technical check of this meta‐analysis was per-
+formed by Dr Y Yuan. The Handling Editor for this article was Professor Jonathan Rhodes,
+and it was accepted for publication after full peer‐review.
+Received: 7 July 2018 |
+First decision: 5 August 2018 |
+Accepted: 16 December 2018
 DOI: 10.1111/apt.15133
-Source: Sci-Hub via browser PDF.js extraction
-Acquired: 2026-08-01
+Aliment Pharmacol Ther. 2019;1–12.
+wileyonlinelibrary.com/journal/apt
+© 2019 John Wiley & Sons Ltd |
+1
 
----
+--- PAGE 2 ---
+1
+|
+INTRODUCTION
+Inflammatory bowel disease (IBD), which includes Crohn's disease
+(CD) and ulcerative colitis (UC), are chronic and relapsing inflamma-
+tory disorders of the gastrointestinal (GI) tract.1 The precise patho-
+physiology of IBD is largely unknown but is thought to be related to
+an inappropriate immune response to commensal bacteria in geneti-
+cally susceptible hosts.2 Impaired intestinal barrier function, defects
+in innate immunity, changes in microbial composition and the pres-
+ence of mucosa‐associated and translocating bacteria have all been
+described in IBD.3 There is growing evidence that gut microbial dys-
+biosis, defined as the alteration in the composition, density and the
+function of the intestinal microbes, is associated with both CD4–6
+and UC7,8 as well as other intestinal and metabolic diseases.
+Small intestinal bacterial overgrowth (SIBO) is a condition that is
+also defined by excessive and/or abnormal microbiota in the small
+bowel9–11 and thereby, is one manifestation of gut microbial dysbio-
+sis. However, the potential pathogenic role of SIBO in GI conditions
+is controversial. This stems from the lack of a universally accepted
+and applied gold standard for diagnosis of SIBO.12 Presence of >105
+colony forming units per millilitre (cfu/ml) of colonic‐type bacteria in
+culture of jejunal aspirates is the traditionally accepted gold standard
+for
+diagnosis
+SIBO.13,14
+However,
+concentrations
+≥105 cfu
+are
+mostly seen in patients with blind loop syndrome and more recently
+a bacterial concentration of >103 cfu/ml has been considered a clini-
+cally relevant cut‐off criterion for diagnosing SIBO.15–17 However,
+aspiration and culture of small intestine content is an invasive and
+time‐consuming procedure and lacks universal acceptance in terms
+of cut‐off values for diagnosing SIBO. In clinical practice, culture has
+been largely replaced by breath tests,18 which are relatively quick,
+simple, noninvasive surrogate tests for diagnosis of SIBO, but lack
+sensitivity and specificity.15,19,20
+The main protective factors preventing SIBO are gastric acid,
+intact anatomical integrity of the small intestine21 and normal small
+bowel motility.22 Other factors include the integrity of the intestinal
+mucosa and its protective mucus layer, the enzymatic activities of
+intestinal, pancreatic and biliary secretions, the protective effects of
+some of the commensal microbiota, and the mechanical and physio-
+logic properties of the ileocecal valve (IC)23,24 and local and systemic
+immunity.25 For these reasons, patients with IBD, particularly those
+with CD may exhibit a predisposition for SIBO.
+Small intestinal bacterial overgrowth is frequently associated with
+GI symptoms such as bloating, distension, flatulence, abdominal dis-
+comfort, diarrhoea and weight loss26 and may even cause structural
+changes such as atrophy of small intestinal villi27 with subsequent
+alterations of small intestinal absorption. SIBO symptoms overlap
+with those of IBD, often making it unclear if it is the cause, conse-
+quence or an epiphenomenon in relation to the other disorder. Thus,
+a SIBO diagnosis in patients with IBD may be challenging but may
+have therapeutic implications. Antibiotic treatment of SIBO targets
+dysbiosis and potentially improves symptoms28 and other conse-
+quences of the altered mucosal or luminal bacterial colonisation.
+However, there are only a few studies in the literature reporting the
+efficacy of antibiotic treatment of bacterial overgrowth complicating
+IBD.29–32
+Several studies have reported an increased prevalence of SIBO
+in patients with IBD.29,30,32–34 Many studies also report risk factors
+that can predict the prevalence rate of SIBO in IBD patients, how-
+ever, the results are conflicting. Thus, we performed a systematic
+review and meta‐analysis and aimed to: (a) determine the prevalence
+of SIBO in patients with IBD (and IBD subtypes, CD and UC); (b)
+determine and compare the prevalence of SIBO in IBD patients and
+control subjects; (c) identify potential risk factors for SIBO preva-
+lence in IBD patients; and (d) assess the effect of antibiotic therapy
+on symptom improvement in IBD patients with SIBO.
+2
+|
+MATERIALS AND METHODS
+2.1
+|
+Search strategy
+Electronic databases, including PUBMED, MEDLINE (OvidSP) and
+EMBASE were searched from initiation up to May 2018 for all stud-
+ies assessing the prevalence of SIBO in patients with IBD and/or UC
+and/or CD. The search strategy included [‘SIBO’ OR ‘small intestinal
+bacterial overgrowth’ OR ‘bacterial infections’ OR ‘breath tests’]
+AND [(‘IBD’ OR ‘inflammatory bowel disease’ OR ‘UC’ OR ‘Ulcerative
+colitis’ OR CD ‘Crohn's disease’) AND ‘prevalence’]. The initial search
+was not limited to specific languages to capture all appropriate stud-
+ies. ‘Snowball’ methods such as pursuing references of references
+and electronic citation tracking to identify all the relevant articles
+were employed. The detailed search strategy was developed in con-
+sultation with a research librarian and the results of the literature
+search are outlined in Figure 1.
+2.2
+|
+Selection of studies
+Two authors (GH and AS) independently conducted an initial screen
+of identified abstracts and titles. Abstracts were eliminated in this
+initial screening if they were case series, case reports, animal studies;
+or if they did not investigate the association between SIBO and IBD
+or UC or CD. Full texts of the remaining articles were retrieved and
+reviewed. Studies that reported prevalence of SIBO in IBD patients,
+compared proportion of SIBO in IBD vs non‐IBD and reported effi-
+cacy data after antibiotic treatment of SIBO in IBD patients were all
+eligible. Articles were considered for inclusion only if they reported
+original data from prospective and retrospective cohort studies,
+case‐control or nested case‐control studies of patients with clearly
+diagnosed with IBD (including CD and UC), SIBO was diagnosed
+using one of the clinically validated methods,15 sufficient information
+to calculate the effect size was available, and the manuscript was
+published in a peer‐reviewed journal as a full paper. Disagreements
+between reviewers were resolved by mutual consensus after refer-
+ence to the original published paper.
+2 |
+SHAH ET AL.
 
-SUMMARY
+--- PAGE 3 ---
+2.3
+|
+Data extraction and quality assessment
+All data were extracted independently by two reviewers on to a
+Microsoft Excel spreadsheet (XP professional edition; Microsoft
+Corp, Redmond, Washington, USA), with disagreements resolved by
+consensus. The following information was extracted from each study
+independently by the two reviewers: author, year of publication,
+journal, study design, country, source of controls, method of diagno-
+sis of SIBO including test duration, quantity of substrate used and
+the cut‐off criteria for diagnosis of SIBO, mean age, sex, concurrent
+use of PPI and antibiotics, any significant co‐morbidities including
+previous surgery for IBD patients and the control group. In addition,
+for all patients with IBD, data regarding mode of diagnosis of IBD,
+time since diagnosis, subtype (UC, CD or IBD‐Unclassified [IBD‐U]),
+history of prior surgery (including the type, location and the number
+of surgeries), disease location and behaviour, pharmacological treat-
+ment, disease activity (utilising stool markers like faecal calprotectin
+or composite indices like Crohn's disease activity index [CDAI]),
+treatment of SIBO in IBD patients with antibiotics and objective and
+subjective response post treatment. The current systematic review
+and meta‐analysis were consistent with the proposals for the report-
+ing
+of
+meta‐analysis
+of
+observational
+studies
+in
+epidemiology
+(MOOSE)35 and met the preferred reporting items for systematic
+reviews and meta‐analysis statement requirements.36
+2.4
+|
+Data analysis
+In an initial step, case numbers of patients with IBD, UC, CD and
+controls in the respective cohorts were determined. The number of
+cases of SIBO diagnosed by breath tests (lactulose breath test [LBT],
+glucose breath test [GBT]) for the cases and the control group was
+calculated separately. In a second step, the pooled ORs and 95%
+confidence intervals (CI) for the prevalence of SIBO in patients with
+IBD and their respective controls were separately calculated. Meta‐
+analyses according to IBD subtypes (UC and CD) and CD‐related risk
+factors were also estimated. Further, we assessed methane positivity
+on breath test in IBD patients and controls. Methane‐positive SIBO
+on breath test was defined as rise over baseline in breath methane
+concentrations of greater than or equal to 10 ppm.15 Lastly, we also
+examined the pooled prevalence of SIBO in the IBD population and
+subtypes (UC and CD).
+Analyses for the association between SIBO and IBD were carried
+out utilising the Statistical Package for Social Sciences (SPSS Version
+23, Armonk NY: IBM Corporation) and comprehensive Meta‐analysis
+(CMS) Version 3.3.070. Pooled estimates of disease prevalence were
+calculated using a random effects model37 as all tests of between‐
+study homogeneity indicated that variation between individual study
+estimates was consistent with random sampling variation. Between‐
+study variation was evaluated using Cochrane's test38 and was quan-
+tified through the I2 index in which values close to 100 indicate sub-
+stantial variation between studies while values close to zero indicate
+minimal between‐study variation. Standard approaches (Egger Test39
+and inspection of Funnel Plots) were applied to identify potential
+publication biases. With a limited number of studies, the Funnel Plot
+can be difficult to interpret, so we have primarily relied on Egger's
+test to indicate the potential for publication bias. The statistical
+package CMA utilised uses logit transformation of proportions and
+the variance of the logit to estimate pooled event rates within
+groups and to compare event rates between groups. If one or more
+cells had a value of 0, then the CMA software automatically adds a
+fixed value of 0.5 to the all the cells of the study results tables
+where the problems occur for computation of log OR and variance.
+Citations identified in the literature 
+search (n = 232)
+Eligible studies (n = 11)
+•
+Case control studies = 5
+•
+Cohort studies = 6
+•
+Utilizing BT = 11
+•
+LBT = 1
+•
+GBT = 9
+•
+14C- glycocholate BT = 1
+•
+Prevalence of SIBO in IBD sub-types 
+•
+CD only = 7
+•
+UC only = 1
+•
+Both CD and UC = 3
+Potentially relevant articles identified for 
+full text review (n = 26)
+Excluded (n = 15) articles excluded after 
+full-text review :
+•
+Dual publication = 5
+•
+Not possible to estimate size effect = 1
+•
+Not a case control or cohort study = 9
+197excluded  since not relevant for the 
+research question
+STUDY DESIGN
+FIGURE 1
+Flow diagram showing
+results of literature search. IBD,
+Inflammatory bowel disease; CD, Crohn's
+disease; UC, Ulcerative colitis; IBD‐U
+Inflammatory bowel disease‐unclassified;
+BT, breath test; LBT, lactulose breath test;
+GBT, glucose breath test; 14C‐glycocholate
+BT, 14C‐glycocholate breath test
+SHAH ET AL.
+|
+3
 
-Background: Current data on small intestinal bacterial overgrowth (SIBO) in patients with inflammatory bowel diseases (IBD) are controversial.
+--- PAGE 4 ---
+Further, either chi‐squared test P < 0.10 or I2 > 50% indicated sub-
+stantial heterogeneity.
+3
+|
+RESULTS
+3.1
+|
+Search results
+The initial literature search revealed 232 publications. Of these, 26
+published articles appeared to be relevant for the study question
+and were retrieved for further evaluation. Fifteen articles were
+excluded as ineligible leaving eleven appropriate studies (Figure 1).
+Ten of these studies included patients with CD,29–34,40–,43 four
+included patients with UC,33,34,43,44 while three included both UC
+and CD patients (two case‐control studies33,43 and one cohort
+study34). None of the studies included patients with unclassified
+IBD. Five of the eleven studies were case control studies29,33,42–44
+and the remaining six were cohort studies.30–32,40,41 All case‐control
+studies included healthy volunteers in the non‐IBD control group;
+however, one study45 included patients undergoing evaluation of
+unexplained GI symptoms as a control group. We have used the
+term ‘control’ to describe all in the ‘non‐IBD control group’. The
+characteristics of all the studies in the current meta‐analysis includ-
+ing the methodology pertaining to diagnosis of SIBO and patient
+characteristics are outlined in Tables 1 and S1. Three of the eleven
+studies were conducted in Italy,29–31 two in India43,44 and one each
+in Canada,34 Belgium,32 Korea,33 Brazil,42 Spain41 and Germany.40
+3.2
+|
+Prevalence of SIBO in IBD patients
+In total, the eleven studies reported the prevalence of SIBO in 1175
+IBD patients. Nine studies utilised GBT30,33,34,40–44 and only one
+study each utilised LBT29 and
+14C‐glycocholate breath test32 for
+diagnosing SIBO in IBD patients (Table 1), hence we did not do a
+subgroup analysis according to the type of breath test utilised to
+diagnose SIBO in patients with IBD. Overall, 262/1175 (22.3%, 95%
+CI 19.92‐24.68) IBD patients (Figure 2), 215/846 (25.4%, 95% CI
+22.48‐28. 34) CD patients and 47/329 (14.3%, 95% CI 10.52‐18.08)
+UC patients were positive for SIBO, (Figure S1). Heterogeneity was
+low in the overall analysis (I2 = 33.94, P = 0.13, Figure 2) with no
+clear evidence for publication bias (Figure 3).
+TABLE 1
+Characteristics of case‐control studies showing diagnostoc criteria and prevalence of SIBO in IBD patients
+Study
+no.
+Author
+Study year
+Study
+type
+Country
+Patients
+with
+IBD
+UC
+CD
+Diagnostic
+criteria for
+IBD
+Controls
+N
+Type of
+control
+Mode of
+diagnosis
+of SIBO
+SIBO in
+IBD
+patients
+N (%)
+SIBO in
+UC
+patients
+N (%)
+SIBO in
+CD
+patients
+N (%)
+SIBO in
+controls
+N (%)
+1
+Rutgeerts
+et al32
+1981
+Cohort
+Study
+Belgium
+61
+NA
+61
+NA (known
+IBD)
+NA
+NA
+14C‐glyco-
+cholate
+BT
+15 (24.60)
+NA
+15 (24.60)
+NA
+2
+Castiglione
+et al29
+1995‐1998
+Case
+Control
+Italy
+57
+NA
+57
+Known CD
+40
+Healthy
+LBT
+13 (23)
+NA
+13 (23)
+0
+3
+Castiglione
+et al30
+2000‐2002
+Cohort
+Study
+Italy
+145
+NA
+145
+NA (known
+IBD)
+NA
+NA
+LBT/GBT
+29 (20)
+NA
+29 (20)
+NA
+4
+Mishkin
+et al34
+2002
+Cohort
+Study
+Canada
+121
+71
+50
+Radiologic
+and
+endoscopic
+diagnosis
+of CD
+NA
+NA
+GBT
+27 (22.31)
+3 (6)
+24 (33.80)
+NA
+5
+Sánchez‐
+Montes
+et al41
+2004‐2010
+Cohort
+Study
+Spain
+117
+NA
+117
+NA (known
+IBD)
+NA
+NA
+GBT
+18 (15.38)
+NA
+18 (15.38)
+NA
+6
+Klaus et al40
+2009
+Cohort
+Study
+Germany
+150
+NA
+150
+Endoscopically,
+histologically
+confirmed
+CD
+NA
+NA
+GBT
+38 (25.3)
+NA
+38 (25.3)
+NA
+7
+Rana et al44
+2009‐2012
+Case
+Control
+India
+120
+120
+NA
+IBD diagnosis
+125
+Healthy
+GBT
+18 (15)
+18 (15)
+NA
+2 (1.6)
+8
+Lee et al33
+2012‐2013
+Case
+Control
+Korea
+107
+64
+43
+NA
+(known IBD)
+30
+Healthy
+GBT
+22 (20.6)
+9 (14)
+13 (30.2)
+2 (6.7)
+9
+Rana et al43
+2013
+Case
+Control
+India
+137
+95
+42
+Confirmed by
+colonic
+biopsy
+115
+Healthy
+GBT
+36 (26.28)
+17 (17.89)
+19 (45.24)
+1 (0.87)
+10
+Greco et al31
+2013‐2014
+Cohort
+Study
+Italy
+68
+0
+68
+Internationally
+accepted
+criteria
+NA
+NA
+GBT
+18 (26.5)
+NA
+18 (26.5)
+NA
+11
+Ricci et al42
+2018
+Case
+Control
+Brazil
+92
+NA
+92
+IBD
+diagnosis
+97
+Nonspecific
+chronic GI
+symptoms
+GBT
+30 (32.6)
+NA
+30 (32.6)
+12 (12.4)
+BT, breath test; CD, Crohn's disease; GBT, glucose breath test; IBD, Inflammatory bowel disease; LBT, lactulose breath test; NA, not applicable; SIBO,
+small intestinal bacterial overgrowth; UC, Ulcerative colitis.
+aLBT‐positive patients underwent GBT to confirm SIBO diagnosis in IBD patients.
+bIBD diagnosis: clinical, radiological, colonoscopy and histological diagnosis of IBD.
+4 |
+SHAH ET AL.
 
-Aim: To conduct a systematic review and meta-analysis to determine the prevalence of SIBO in patients with ulcerative colitis (UC) and Crohn's disease (CD).
+--- PAGE 5 ---
+3.3
+|
+Prevalence of SIBO in IBD patients and controls
+Five of the of the eleven case‐control29,33,42–44 studies included 513
+adult patients with IBD, 234 with CD, 279 patients with UC and
+407 controls. The odds ratio (OR) for prevalence of SIBO in IBD
+patients as compared to healthy controls was 9.51 (95% CI 3.39‐
+26.68, Figure 4), with moderate heterogeneity detected between the
+studies included I2 = 46.82, P = 0.11). Similarly, subgroup analysis by
+IBD subtype showed increased prevalence of SIBO in CD (OR =
+10.86; 95% CI 2.76‐42.69) and UC (OR = 7.99; 95% CI 1.66‐38.35).
+3.4
+|
+Risk factors for SIBO in patients with IBD
+Subgroup analyses were conducted. Characteristics of the studies in
+the subgroup analyses are included in Table 2–4 and Table S2. These
+revealed that the risk factors for SIBO in patients with CD were
+prior surgery (type and number) (Figures S4 and S5), disease location,
+presence of fibrostenosing disease (Figure S2) and prolonged orocae-
+cal transit time (OCTT) in both in UC and CD patients. Breath
+methane positivity was inversely associated with IBD (Figure S3) and
+no association was
+found between
+SIBO
+and
+treatment with
+immunotherapy in CD patients. Each of these risk factors are dis-
+cussed in detail below.
+3.5
+|
+Association between SIBO and prior surgery
+in Crohn's disease patients
+Eight studies29–31,33,34,40–,42 assessed the links between past surgical
+interventions and SIBO prevalence in CD patients (Table 4). Overall,
+102/321 (31.8%, 95% CI 26.69‐36.87) CD patients with prior surgery
+Study name
+Statistics for each study
+Event rate and 95% CI
+Event 
+Lower 
+Upper 
+rate
+limit
+limit
+Z-Value
+P-Value
+Mishkin D et al
+0.223
+0.158
+0.306
+–5.713
+0.000
+Rana S et al 2013
+0.263
+0.196
+0.343
+–5.315
+0.000
+Lee J et al
+0.206
+0.139
+0.293
+–5.650
+0.000
+Rutgeerts P et al
+0.246
+0.154
+0.369
+–3.769
+0.000
+Castiglione F et al 2000
+0.228
+0.137
+0.354
+–3.862
+0.000
+Castiglione F et al 2003 
+0.200
+0.143
+0.273
+–6.677
+0.000
+Klaus J et al
+0.253
+0.190
+0.329
+–5.758
+0.000
+Sánchez-Montes C et al
+0.154
+0.099
+0.231
+–6.653
+0.000
+Greco A et al
+0.235
+0.149
+0.350
+–4.123
+0.000
+Ricci J et al
+0.326
+0.238
+0.428
+–3.264
+0.001
+Rana S et al 2014
+0.150
+0.097
+0.226
+–6.785
+0.000
+0.225
+0.196
+0.256
+–14.065
+0.000
+–1.00
+–0.50
+0.00
+0.50
+1.00
+No SIBO
+SIBO
+Prevalence of SIBO in IBD patients
+FIGURE 2
+Forest plot of the prevalence of SIBO in patients with IBD (I2 = 33.94, P = 0.13)
+–2.0
+–1.5
+–1.0
+–0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+0.0
+0.1
+0.2
+0.3
+0.4
+Standard Error
+Logit event rate
+Funnel plot of standard error by logit event rate
+FIGURE 3
+Funnel plot showing
+prevalence SIBO in patients with IBD
+SHAH ET AL.
+|
+5
 
-Methods: Electronic databases were searched up to May 2018 for studies reporting prevalence of SIBO in IBD patients. The prevalence rate of SIBO among IBD patients and the odds ratio (OR) and 95% CI of SIBO in IBD patients compared with controls were calculated.
+--- PAGE 6 ---
+were positive for SIBO, compared to 81/422 (19.2%, 95% CI 15.43‐
+22.95) CD patients without any surgery. The odds for SIBO preva-
+lence in CD patients with surgery compared to those without sur-
+gery
+was
+2.4
+(95%
+CI
+1.65‐3.44,
+Figure
+S4),
+with
+minimal
+heterogeneity detected between the studies (I2 = 0, P = 0.57). Fur-
+ther, subgroup analysis was conducted. Six studies29,31,33,34,40,41
+reported the prevalence rates of SIBO in 194 CD patients with prior
+ileocecal valve surgery. The prevalence of SIBO in CD patients with
+ileocecal valve surgery was 33% (95% CI 19.2‐50.6, Figure S5) but
+with significant heterogeneity across the studies included (I2 = 72.16
+P = 0.003). Finally, only two studies31,40 reported on a positive asso-
+ciation between SIBO and multiple surgeries.
+3.6
+|
+Association between SIBO and CD behaviour,
+location, duration since diagnosis and influence of
+immunotherapy
+How disease behaviour, location and duration since diagnosis poten-
+tially impacted the prevalence of SIBO among individuals with CD
+were also examined (Table 2). Eight studies29,31,33,34,40–43 examined
+fibrostenosing disease as a predictor of SIBO among individuals with
+CD. A subanalysis demonstrated increased odds of SIBO among CD
+patients with fibrostenosing disease (OR = 7.47; 95% CI 2.51‐22.20,
+Figure S2) compared to those with inflammatory type behaviour, but
+with statistically significant heterogeneity (I2 = 70.93, P < 0.001).
+Only one31 of four studies31,40–42 found a statistically significant
+positive association between the prevalence of SIBO and disease
+duration. Furthermore, two studies29,40 assessed the link between
+SIBO and disease location. One of two studies found SIBO signifi-
+cantly more prevalent in CD patients with involvement of both large
+and small bowel, while the other failed to show any such association.
+Finally, no association was found between thiopurine and/or biologic
+treatment and prevalence of SIBO in CD patients.40,41
+3.7
+|
+Association between SIBO and disease
+activity, and symptoms
+Five studies explored the link between disease activity (three
+CDAI34,40,42 and two using faecal calprotectin33,42) and SIBO in CD
+patients (Table 2). All three studies found no association between
+positive breath test and CDAI. Only one of the two studies assessing
+faecal calprotectin in SIBO patients found significantly higher faecal
+calprotectin in SIBO‐positive CD patients as compared to controls
+and SIBO‐negative CD patients. Four studies reported significantly
+increased abdominal symptoms (bloating, flatus, satiety),33,40 mete-
+orism (a swollen abdomen, generated by the increase in the amount
+of intestinal gas),41 loose stools and increased stool frequency31,40
+and low body weight40 in SIBO‐positive IBD patients.
+3.8
+|
+Association between SIBO and OCTT in IBD
+patients
+Three case‐control studies assessed the link between OCTT and
+SIBO in IBD patients (Table S2). All three studies, utilising LBT to
+measure transit time (one each in patients with UC,44 CD29 and one
+in both UC and CD patients43) found OCTT was prolonged in IBD
+patients compared to healthy controls. Two43,44 of three studies
+found OCTT
+was significantly
+prolonged in
+SIBO‐positive
+IBD
+patients compared to SIBO‐negative IBD patients.
+3.9
+|
+Effect of antibiotic treatment on symptoms in
+IBD patients with SIBO
+Four studies29–32 reported on 72 IBD patients with SIBO, who
+underwent
+antibiotic
+treatment
+for
+variable
+duration
+(between
+5 days and 1 month) (Tables 5 and 6). Two29,30 of the four studies
+reported a statistically significant improvement in SIBO symptoms
+Group by
+Type of IBD
+Study name
+Statistics for each study
+Odds ratio and 95% CI
+Odds 
+Lower 
+Upper 
+ratio
+limit
+limit
+Z-Value
+P-Value
+CD
+Lee J et al
+6.067
+1.256
+29.314
+2.243
+0.025
+CD
+Rana S et al 2013
+94.174
+12.001
+739.022
+4.324
+0.000
+CD
+Castiglione F et al
+24.573
+1.415
+426.765
+2.198
+0.028
+CD
+Ricci J et al
+3.427
+1.627
+7.221
+3.240
+0.001
+CD
+10.865
+2.765
+42.697
+3.416
+0.001
+UC
+Lee j et al
+2.291
+0.463
+11.328
+1.017
+0.309
+UC
+Rana s et al 2013
+24.846
+3.240
+190.557
+3.091
+0.002
+UC
+Rana S et al 2014
+10.853
+2.460
+47.880
+3.149
+0.002
+UC
+7.986
+1.663
+38.353
+2.595
+0.009
+Overall
+9.511
+3.391
+26.680
+4.280
+0.000
+0.01
+0.1
+1
+10
+100
+NO SIBO
+SIBO
+SIBO in IBD patients and controls
+FIGURE 4
+Forest plot of case‐control studies assessing SIBO in IBD patients and controls. SIBO is significantly associated with IBD
+(OR = 9.51; 95% CI 3.39‐26.68), CD (OR = 10.86; 95% CI 2.76‐42.69) and UC (OR = 7.96; 95% CI 1.66‐38.35) (I2 = 46.82, P = 0.11)
+6 |
+SHAH ET AL.
 
-Results: The final dataset included 11 studies (1175 adult patients with IBD and 407 controls), all utilising breath test for diagnosis of SIBO. The proportion of SIBO in IBD patients was 22.3% (95% CI 19.92-24.68). The OR for SIBO in IBD patients was 9.51 (95% CI 3.39-26.68) compared to non-IBD controls, and high in both CD (OR = 10.86; 95% CI 2.76-42.69) and UC (OR = 7.96; 95% CI 1.66-38.35). In patients with CD, subgroup analysis showed the presence of fibrostenosing disease (OR = 7.47; 95% CI 2.51-22.20) and prior bowel surgery (OR = 2.38; 95% CI 1.65-3.44), especially resection of the ileocecal valve, increased the odds of SIBO.
+--- PAGE 7 ---
+and three29–31 studies reported on normalisation of breath testing in
+53/57 patients (92.9%, 95% CI 86.35‐99.61) post antibiotic therapy.
+In one study,31 antibiotic treatment was reported to result in a nor-
+malisation of breath tests in 13/15 patients; however, no significant
+symptom improvement was noted. In one further study,32 no infor-
+mation on the response to antibiotic therapy was provided.
+4
+|
+DISCUSSION
+It is widely accepted that in patients with IBD, alteration of the GI
+microbiome occurs.
+Case‐control and cohort studies suggest a link between SIBO
+and IBD, in particular CD, but data are inconsistent, and to date
+TABLE 2
+Assessment of risk factors for SIBO in patients with IBD
+Study no.
+Author
+Total CD
+patients
+Inflammatory
+type (B1)
+Fibrostenosing
+type (B2
+and B3)
+SIBO in
+CD
+patients
+SIBO
+in B1
+SIBO
+in
+B2
+and
+B3
+CDAI
+Faecal
+Calprotectin
+Disease
+duration
+in CD
+patients
+(y ± SD)
+Disease
+duration
+in SIBO
+positive
+(y ± SD)
+1
+Rutgeerts
+et al32
+61
+NA
+NA
+15
+6
+9
+NA
+NA
+1‐12 y
+NA
+2
+Castiglione
+et al29
+57
+NA
+NA
+13
+NA
+NA
+NA
+NA
+NA
+NA
+3
+Castiglione
+et al30
+145
+60
+85
+29
+5
+24
+NA
+NA
+NA
+NA
+4
+Mishkin
+et al34
+71
+46
+36
+24
+1
+30
+NS
+NA
+NA
+NA
+5
+Sánchez‐
+Montes
+et al41
+117
+29
+88
+18
+2
+16
+<150 for
+all patients
+NA
+8.5 ± 7.3
+9.5 ± 7.1
+6
+Klaus
+et al40
+150
+150
+0
+38
+38
+0
+NS
+NA
+11.7
+13.6
+7
+Rana et
+al43 2013
+42
+42
+0
+19
+19
+0
+NA
+NA
+NA
+NA
+8
+Lee et al33
+43
+24
+19
+13
+5
+8
+NA
+NS
+6.14 ± 6.31
+NA
+9
+Rana et
+al44 2014
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+10
+Greco
+et al31
+68
+68
+0
+18
+18
+0
+NA
+NA
+17.1 ± 10.3
+21.2 ± 10.4
+11
+Ricci et al42
+92
+53
+39
+30
+12
+28
+NS
+SIBO‐positive
+CD patients
+had
+significantly
+higher FC as
+compared to
+SIBO‐negative
+CD patients,
+19 (63.3%) vs
+8 (12.9%)
+NA
+5.4 ± 2.9
+Total
+846
+472
+267
+189
+100
+106
+CDAI, Crohn's disease activity index; FC, faecal calprotectin; NA, not applicable; NS, not significant; SD, standard deviation; Montreal classification:
+Crohn's disease behaviour (B); B1, inflammatory phenotype; B2, stricturing phenotype; B3, fistulising phenotype.
+Studies 1 and 2 were not included in the analysis as data on the number of CD with inflammatory and fibrostenosing phenotype was unavailable.
+aStatistically not significant.
+bStatistically significant.
+TABLE 3
+Studies showing the prevalence of methane‐positive SIBO in IBD patients and controls
+Study no.
+Author
+Mode of diagnosis
+of SIBO
+Patients
+with IBD N
+Controls N
+Methane positive
+in cases N (%)
+Methane positive
+in controls N (%)
+1
+Castiglione et al29
+LBT
+57
+40
+2 (3.51)
+0
+2
+Rana et al43
+GBT
+137
+115
+4 (2.92)
+28 (24.35)
+3
+Lee et al33
+GBT
+107
+30
+3 (2.80)
+0
+4
+Ricci et al42
+GBT
+92
+97
+9 (9.78)
+8 (8.25)
+5
+Greco et al31
+GBT
+68
+NA
+1 (1.47)
+NA
+GBT, glucose breath test; IBD, inflammatory bowel disease; LBT, lactulose breath test; NA, not applicable; SIBO, small intestinal bacterial overgrowth.
+SHAH ET AL.
+|
+7
 
-Conclusions: Overall, there is a ninefold increase in the prevalence of SIBO in IBD patients compared to controls. Prior surgery and the presence of fibrostenosing disease are risk factors for SIBO in IBD.
+--- PAGE 8 ---
+there are no systematic reviews available in the literature. To the
+best of our knowledge, this is the first systematic review and meta‐
+analysis reporting the prevalence of SIBO in IBD patients. The final
+selection included 11 studies conducted in eight countries world-
+wide, with a total sample size of 1582 individuals. The overall preva-
+lence of SIBO in IBD patients (22.30%) was significantly higher as
+compared to controls (OR 9.5, 95% CI 3.39‐26.68). As expected, the
+prevalence of SIBO was higher in CD (25.4%) as compared to UC
+(14.3%), and despite UC being a colonic disease the SIBO prevalence
+was also increased in UC compared to controls.
+Multiple factors limit bacterial colonisation of the small intestine
+that include low gastric pH, rapid transit of luminal contents towards
+the ileum, the integrity of the intestinal mucosa and the protective
+mucus layer46 as well as anti‐reflux properties of the ileocecal
+valve24 combined with protective effects of commensal flora and
+local and systemic immunity.25 Alterations of some of these factors
+may contribute to the increased prevalence of SIBO in IBD patients,
+particularly in patients who have had prior surgery or CD patients
+with fibrostenosing disease. Notably, multiple bowel surgeries, espe-
+cially those involving the resection of the ileocecal valve, and/or
+presence of fibrostenosing disease, and/or involvement of both small
+bowel and colon, appear to increase the risk for SIBO in CD
+patients. However, SIBO is not only more prevalent in CD, but also
+UC. While UC is primarily a colonic disease, it can be speculated that
+alterations of immune function, alterations of motility and/or dysbio-
+sis may contribute to the manifestation of SIBO in patients without
+evident small bowel pathology. There was on the other hand no
+association of SIBO with the use of immunotherapy (thiopurine and/
+or biologic), disease activity or duration of disease. Such findings
+suggest interventions that affect structural rather than immunologi-
+cal characteristics of the large intestine increase the risk of SIBO in
+CD patients.
+TABLE 4
+Studies of the prevalence of SIBO in IBD patients with prior surgery
+Study
+no.
+Author
+CD Patients N
+CD patients
+with prior
+surgery N
+Type of
+surgery N
+ICV
+resection
+colectomy
+SIBO‐positive
+CD patients N
+SIBO‐positive
+patients with
+prior surgery
+N (%)
+SIBO‐positive
+pts N (%) ICV
+resection
+colectomy
+1
+Greco et al31
+68
+58
+18
+2
+18
+17 (29.34)
+2 (11)
+0
+2
+Lee et al33
+43
+13
+7
+NA
+13
+7 (58.84)
+7 (100)
+NA
+3
+Mishkin et al34
+71
+16
+15
+16
+24
+9 (56.25)
+9 (60)
+0
+4
+Klaus et al40
+150
+79
+71
+23
+38
+23 (29.11)
+23 (32)
+10 (43.48)
+5
+Castiglione et al29
+1995‐1998
+57
+20
+20
+NA
+13
+6 (30)
+6 (30)
+NA
+6
+Sánchez‐Montes
+et al41
+117
+63
+63
+NA
+18
+12 (19.05)
+12 (19.5)
+NA
+7
+Castiglione et al30
+2000‐2002
+145
+45
+NA
+NA
+29
+17 (37.78)
+NA
+NA
+8
+Ricci et al42
+92
+27
+NA
+NA
+30
+11 (40.74)
+NA
+NA
+CD, Crohn's disease; ICV, ileocecal valve; NA, not applicable.
+aIn the study by Greco et al, two patients had ileal surgery and 38 patients had ileocolonic surgery and the prevalence of SIBO was 1 and 14 respec-
+tively.
+bNone of 64 UC patients included in the study had a history of prior surgery.
+cSixteen UC patients had a history of proctocolectomy and none of these patients were diagnosed with SIBO. In addition, one patient with CD had prior
+jejunal resection.
+TABLE 5
+Studies evaluating the effect of antibiotic treatment in IBD patients with SIBO
+Study no.
+Author
+Patients who
+underwent
+antibiotic
+treatment
+Treatment with antibiotic
+Duration of
+treatment
+Post treatment
+symptom
+improvement
+Post treatment
+normalisation of BT
+1
+Greco et al31
+15
+Broad‐spectrum antibiotics
+1 month
+NS
+13
+2
+Rutgeerts et al32
+15
+Tetracycline 500 mg QIDS
+5 d
+Data not available
+Data not available
+3
+Castiglione et al29 1995‐1998
+13
+NA
+NA
+Significant symptom
+improvement
+13
+4
+Castiglione et al30 2000‐2002
+29
+15 pts treated with
+metronidazole (250 mg TDS) a
+nd 14 pts treated with
+ciprofloxacin (500 mg BD)
+10 d
+Significant symptom
+improvement
+27
+BT, breath test; NA, not applicable; NS, not significant; QIDS, four times a day; TDS, three times a day.
+8 |
+SHAH ET AL.
 
-KEY FINDINGS:
-- Overall SIBO prevalence in IBD: 22.3% (95% CI 19.92-24.68)
-- OR for SIBO in IBD vs controls: 9.51 (95% CI 3.39-26.68)
-- CD prevalence: 25.4%, UC prevalence: 14.3%
-- Fibrostenosing disease OR: 7.47 (95% CI 2.51-22.20)
-- Prior surgery OR: 2.38 (95% CI 1.65-3.44)
-- 11 studies, 1175 IBD patients, 407 controls
-- All studies used breath tests (9 GBT, 1 LBT, 1 14C-glycocholate)
-- Methane positivity inversely associated with IBD
-- No association with immunotherapy or disease activity
-- Antibiotic treatment normalized breath tests in 53/57 patients (92.9%)
-- All studies used breath tests (none used jejunal aspirate culture)
+--- PAGE 9 ---
+A variety of symptoms are believed to be linked to SIBO. A sys-
+tematic review by Grace et al,26 reported diarrhoea as the predomi-
+nant symptom in SIBO, followed by abdominal pain and bloating.
+More serious albeit less common manifestations of SIBO include
+signs of nutrient malabsorption,47 namely weight loss, steatorrhea,
+fat soluble vitamin deficiencies and deficiencies of B12, folate and
+iron and serum bile acids. SIBO symptoms overlap with those seen
+in other GI conditions, hence are generally considered as poor
+TABLE 6
+Prevalence rates for SIBO in IBD patients and controls
+Type of study
+No of
+studies
+Cases
+n
+Controls
+n
+SIBO in
+cases n
+SIBO in
+controls
+n
+Prevalence
+rates
+of SIBO in
+cases,
+% (95% CI)
+Prevalence
+rates
+of SIBO in
+controls,
+% (95% CI)
+Prevalence
+of SIBO in
+cases,
+OR (95% CI)
+Assessment of
+heterogeneity
+between
+studies
+All studies assessing
+the prevalence
+of SIBO in IBD patients
+11
+1175
+NA
+818
+NA
+22.30
+(19.92‐24.68)
+NA
+NA
+I2 = 33.94,
+P = 0.127
+All studies assessing the
+prevalence of SIBO
+in CD patients
+10
+846
+NA
+215
+NA
+25.41
+(22.48‐28.34)
+NA
+NA
+I2 = 59.47,
+P < 0.008
+All studies assessing
+the prevalence
+of SIBO in UC patients
+4
+329
+NA
+270
+NA
+14.3
+(10.52‐18.08)
+NA
+NA
+I2 = 16.11,
+P = 0.311
+Case‐control studies
+assessing the
+prevalence of SIBO in
+IBD patients
+5
+513
+407a
+119
+17
+23.20
+(19.55‐26.85)
+4.18
+(2.24‐6.12)
+OR = 9.51
+(95% CI 3.39‐26.68)
+I2 = 46.82,
+P = 0.11
+Case‐control studies
+assessing the
+prevalence of SIBO
+in CD patients
+4
+234
+282a
+75
+15
+32.05
+(26.07‐38.03)
+5.32
+(2.7‐7.94)
+OR = 10.86
+(95% CI 2.76‐42.69)
+I2 = 69.75,
+P = 0.019
+Case‐control studies
+assessing the
+prevalence of SIBO in
+UC patients
+3
+279
+270a
+44
+5
+15.77
+(11.49‐20.05)
+1.85
+(0.24‐3.46)
+OR = 7.96
+(95% CI 1.66‐38.35)
+I2 = 45.66,
+P = 0.159
+Case‐control studies
+assessing the
+prevalence
+methane‐positive
+SIBO in IBD patients
+4
+393
+282
+18
+36
+4.58
+(2.51‐6.65)
+12.77
+(8.87‐16.67)
+OR = 0.72
+(95% CI 0.11‐4.51)
+I2 = 79.49,
+P = 0.002
+Case‐control studies
+assessing the
+prevalence of SIBO in
+IBD patients with
+and without history of
+prior surgery
+8
+321
+422
+102
+81
+31.78
+(26.69‐36.87)
+19.9
+(15.43‐22.95)
+OR = 2.38
+(95% CI 1.65‐3.44)
+I2 = 0,
+P = 0.570
+Studies assessing the
+prevalence of
+SIBO in IBD
+patients with
+ileocecal valve
+resection
+6
+194
+NA
+59
+NA
+33
+(19.2‐50.6)
+NA
+NA
+I2 = 72.16
+P = 0.003
+Case‐control
+studies showing
+the prevalence
+of SIBO in CD
+patients with
+fibrostenosing
+phenotype
+compared to
+inflammatory
+phenotype
+5
+267
+472
+106
+100
+39.70
+(33.83‐45.57)
+21.19
+(17.5‐24.88)
+OR = 7.47
+(95% CI 2.51‐22.20)
+I2=70.93,
+P < 0.001
+aFor the UC/CD subgroup analysis, the whole control groups were used as a comparator.
+SHAH ET AL.
+|
+9
+
+--- PAGE 10 ---
+clinical predictors of bacterial overgrowth. Similarly, in this system-
+atic review, SIBO‐positive IBD patients had significantly increased
+nonspecific abdominal symptoms (bloating, flatus, satiety), mete-
+orism, weight loss and loose stools and increased stool frequency.
+Across the various studies, we were unable to identify a single
+symptom or cluster of symptoms that could reliably clinically predict
+SIBO in IBD patients. However, there is now the notion that in some
+patients with IBD, IBS‐type symptoms persist.48 It appears at least
+possible that these symptoms in a subgroup of patients are due to
+SIBO. It is also possible that SIBO‐related symptoms are more severe
+due to alterations of structural and/or sensory function in patients
+with IBD due to the effects of inflammatory mediators.49
+Antibiotic treatment of SIBO targets dysbiosis or other conse-
+quences of the altered mucosal or luminal bacterial colonisation and
+potentially improves symptoms.28 A recent systematic review and
+meta‐analysis by Gatta et al,50 of 32 studies involving 1331 patients
+found rifaximin to be safe and effective for treatment of SIBO in adult
+patients with unexplained GI symptoms, with an overall eradication
+rate according to intention‐to‐treat analysis of 70.8% (95% CI: 61.4‐
+78.2). Furthermore, in the literature, several randomised controlled tri-
+als51,52 have reported the efficacy of antibiotic therapy in IBS patients
+but none in patients with IBD. In this systematic review, sub‐analyses
+showed that short course of broad‐spectrum antibiotic was effective
+in treating SIBO in IBD patients. More than 90% patient had normali-
+sation of positive breath test post antibiotic treatment and the major-
+ity of SIBO‐positive IBD patients treated with antibiotics reported
+improvement in overall GI symptoms. These results in IBD need con-
+firming in a large placebo‐controlled randomised trial.
+Methane and hydrogen concentrations in the exhaled breath after
+a glucose challenge are now widely used as diagnostic measures to
+identify patients with SIBO. Interestingly, methane positivity was sig-
+nificantly less prevalent in IBD patients compared to controls (OR =
+0.72; 95% CI 0.11‐4.51). Methane and hydrogen produced during
+anaerobic fermentation in the distal large intestine (or in the small
+intestine in SIBO) are excreted in flatus and expired breath.53 Although
+H2 production appears more ubiquitous, approximately 35%‐50% of
+healthy subjects predominantly produce methane (CH4 producers).54–
+57 Thus, while our findings show the prevalence of methane producers
+in the non‐IBD control group is substantially lower at 12.8% compared
+to the general population, it is still threefold higher than IBD patients.
+Researchers have focused on the striking association between
+methane production and constipation.58 Indeed, a systematic review
+and meta‐analysis of nine studies59 showed methane positivity is more
+common in patients with functional constipation or constipation pre-
+dominant irritable bowel syndrome compared to nonconstipated con-
+trols. There is experimental60 and clinical evidence59,61 that methane
+slows the intestinal transit implying that methane‐producing microor-
+ganisms may be risk factors for constipation. However, human studies
+have shown that slow intestinal transit may facilitate growth of metha-
+nogenic bacteria.54,62 Thus, it remains to be determined if methane
+produces constipation or if the latter is because of its effect on intesti-
+nal transit. On the other hand, very few studies have examined the
+association between methane excretion and other GI symptoms. An
+initial study by Mckay et al55 showed a significantly lower concentra-
+tion of breath methane excretion in patients with chronic diarrhoeal
+states such as IBD and pneumatosis cystoides intestinalis as compared
+to healthy controls. These results have been replicated in subsequent
+studies in patients with IBD.43,63 Thus, different GI symptoms may be
+attributed to the qualitative rather than quantitative modifications of
+the intestinal gas composition, reflecting changes in the intestinal
+microbiota. Methane gas slows intestinal transit but does not appear
+to explain the slower gut transit in IBD.
+The current meta‐analysis is not without limitations. Although the
+majority of case‐control studies in this systematic review included
+healthy volunteers in the non‐IBD control group, one study included
+patients undergoing evaluation of unexplained GI symptoms, which
+could introduce potential biases. There was moderately high hetero-
+geneity among the case‐control studies included in our primary analy-
+sis, suggesting that the prevalence of SIBO in IBD patients may have
+been overestimated. On the other hand, there was only minimal
+heterogeneity in the cohort studies reporting the prevalence of SIBO
+in IBD patients. There was also a moderately high heterogeneity in
+most of the studies included in the sub‐analyses. However, it is impor-
+tant to note that the power of funnel plots and Egger's test is limited
+to distinguish chance from real asymmetry when less than 10 studies
+are included in a meta‐analysis.64 This met‐analysis looked at the vari-
+ous risk factors for SIBO in IBD patients, but no effect sizes or ORs
+could be calculated regarding the prevalence of SIBO and the use of
+immunotherapies (thiopurine and/or biologic), disease activity or dura-
+tion of disease. This information was outlined in a descriptive fashion
+in the selected studies and did not allow data extraction to be per-
+formed for the appropriate statistical analyses.
+Interestingly, none of the studies included in this systematic
+review have utilised small bowel culture and aspirate (direct test), the
+current gold standard for diagnosing SIBO.12 All the studies have used
+breath tests (indirect test), which are surrogate markers for diagnosing
+bacterial overgrowth. This is mainly to overcome the limitations of
+direct tests that are invasive, time consuming and require an endo-
+scopy. However, compared with the direct aspiration method, the
+GBT has a sensitivity of 62.5% and a specificity of 81.7% and the LBT
+has a sensitivity of 52.4% and a specificity of 85.7%.65 Lastly, none of
+the studies have evaluated the effect of proton pump inhibitor (PPI)
+use on SIBO prevalence in IBD patients. Chronic acid suppression and
+the resultant hypochlorhydria associated with PPI use have been
+hypothesised to alter the intraluminal environment to promote coloni-
+sation by large intestinal flora in the small intestine.66 Several studies
+have explored PPI use as a risk factor for SIBO in various GI condi-
+tions. However, the results have been conflicting with some finding a
+positive67 and others finding a negative association.68
+In summary, this is the first systematic review and meta‐analyses,
+utilising the breath test as a diagnostic modality which demonstrates a
+significantly increased prevalence of SIBO in IBD patients, as com-
+pared to controls. The prevalence of SIBO is higher in CD patients
+compared to UC patients but not significantly higher. A history of mul-
+tiple gastrointestinal surgeries and fibrostenosing disease substantially
+increase the risk of SIBO in CD patients. Methane positivity on breath
+10 |
+SHAH ET AL.
+
+--- PAGE 11 ---
+test is inversely associated with SIBO in IBD patients. The value of
+treatment of SIBO‐positive IBD patients with antibiotic therapy in
+terms of symptom improvement remains to be firmly established.
+ACKNOWLEDGEMENTS
+Declaration of personal interests: None.
+AUTHORSHIP
+Guarantor of the article: None.
+Author contributions: Ayesha Shah and Gerald Holtmann — study
+idea, concept and design, data extraction and interpretation of data,
+drafting of the manuscript. Nicholas J Talley, Marjorie M Walker,
+Mark Morrison, Daniel Burger, Neal Marin — interpretation of data,
+drafting of the manuscript, review of final manuscript. Mike Jones —
+data analysis, review of final manuscript. Natasha Koloski and Justin
+Rich — Input into drafting of the manuscript, review of final manu-
+script. All authors approved the final version of the manuscript.
+ORCID
+Natasha Koloski
+https://orcid.org/0000-0002-8647-5933
+Marjorie M. Walker
+https://orcid.org/0000-0002-7788-0056
+Gerald J. Holtmann
+https://orcid.org/0000-0002-0206-2358
+REFERENCES
+1. Ng SC, Shi HY, Hamidi N, et al. Worldwide incidence and prevalence
+of inflammatory bowel disease in the 21st century: a systematic
+review of population‐based studies. The Lancet. 2017;390:2769‐
+2778.
+2. Nishida A, Inoue R, Inatomi O, et al. Gut microbiota in the pathogen-
+esis of inflammatory bowel disease. Clin J Gastroenterol. 2018;11:1‐
+10.
+3. Levine A, Sigall Boneh R, Wine E. Evolving role of diet in the patho-
+genesis and treatment of inflammatory bowel diseases. Gut. 2018.
+4. Pascal V, Pozuelo M, Borruel N, et al. A microbial signature for
+Crohn's disease. Gut. 2017;66:813‐822.
+5. Giuseppe M, Angelica P, Angela M, et al. Pathogenic role of associ-
+ated adherent‐invasive Escherichia coli in Crohn's disease. J Cell
+Physiol. 2017;232:2860‐2868.
+6. Darfeuille‐Michaud A, Boudeau J, Bulois P, et al. High prevalence of
+adherent‐invasive Escherichia coli associated with ileal mucosa in
+Crohn's disease. Gastroenterology. 2004;127:412‐421.
+7. Khalil NA, Walton GE, Gibson GR, et al. In vitro batch cultures of
+gut microbiota from healthy and ulcerative colitis (UC) subjects sug-
+gest that sulphate‐reducing bacteria levels are raised in UC and by a
+protein‐rich diet. Int J Food Sci Nutr. 2014;65:79‐88.
+8. James SL, Christophersen CT, Bird AR, et al. Abnormal fibre usage in
+UC in remission. Gut. 2015;64:562‐570.
+9. Corazza GR, Menozzi MG, Strocchi A, et al. The diagnosis of small
+bowel bacterial overgrowth. Reliability of jejunal culture and inade-
+quacy of breath hydrogen testing. Gastroenterology. 1990;98:302‐
+309.
+10. American Gastroenterological Association medical position state-
+ment: guidelines for the evaluation and management of chronic diar-
+rhea. Gastroenterology. 1999;116:1461‐1463.
+11. Bouhnik Y, Alain S, Attar A, et al. Bacterial populations contaminat-
+ing the upper gut in patients with small intestinal bacterial over-
+growth syndrome. Am J Gastroenterol. 1999;94:1327‐1331.
+12. Khoshini R, Dai SC, Lezcano S, et al. A systematic review of diagnos-
+tic tests for small intestinal bacterial overgrowth. Dig Dis Sci.
+2008;53:1443‐1454.
+13. Bardhan PK, Gyr K, Beglinger C, et al. Diagnosis of bacterial over-
+growth after culturing proximal small‐bowel aspirate obtained during
+routine upper gastrointestinal endoscopy. Scand J Gastroenterol.
+1992;27:253‐256.
+14. Paik CN, Choi MG, Lim CH, et al. The role of small intestinal bacte-
+rial
+overgrowth
+in
+postgastrectomy
+patients.
+Neurogastroenterol
+Motil. 2011;23:e191‐e196.
+15. Rezaie A, Buresi M, Lembo A, et al. Hydrogen and methane‐based
+breath testing in gastrointestinal disorders: The North American con-
+sensus. Am J Gastroenterol. 2017;112:775‐784.
+16. Erdogan A, Rao SS. Small intestinal fungal overgrowth. Curr Gas-
+troenterol Rep. 2015;17:16.
+17. Jacobs C, Coss Adame E, Attaluri A, et al. Dysmotility and ppi use
+are independent risk factors for small intestinal bacterial and/or fun-
+gal overgrowth. Aliment Pharmacol Ther. 2013;37:1103‐1111.
+18. Romagnuolo J, Schiller D, Bailey RJ. Using breath tests wisely in a gas-
+troenterology practice: an evidence‐based review of indications and
+pitfalls in interpretation. Am J Gastroenterol. 2002;97:1113‐1126.
+19. Ghoshal UC. How to Interpret Hydrogen Breath Tests. Journal of
+Neurogastroenterology and Motility. 2011;17:312‐317.
+20. Simren M, Stotzer PO. Use and abuse of hydrogen breath tests. Gut.
+2006;55:297‐303.
+21. Quigley EM. Small intestinal bacterial overgrowth: what it is and
+what it is not. Curr Opin Gastroenterol. 2014;30:141‐146.
+22. Vantrappen G, Janssens J, Hellemans J, et al. The interdigestive
+motor complex of normal subjects and patients with bacterial over-
+growth of the small intestine. J Clin Invest. 1977;59:1158‐1166.
+23. Phillips SF, Quigley EM, Kumar D, et al. Motility of the ileocolonic
+junction. Gut. 1988;29:390‐406.
+24. Roland BC, Ciarleglio MM, Clarke JO, et al. Low ileocecal valve pres-
+sure is significantly associated with small intestinal bacterial over-
+growth (SIBO). Dig Dis Sci. 2014;59:1269‐1277.
+25. Husebye E. The pathogenesis of gastrointestinal bacterial over-
+growth. Chemotherapy. 2005;51(Suppl 1):1‐22.
+26. Grace E, Shaw C, Whelan K, et al. Review article: small intestinal bacterial
+overgrowth–prevalence, clinical features, current and developing diag-
+nostic tests, and treatment. Aliment Pharmacol Ther. 2013;38:674‐688.
+27. Riordan SM, McIver CJ, Wakefield D, et al. Small intestinal mucosal
+immunity and morphometry in luminal overgrowth of indigenous gut
+flora. Am J Gastroenterol. 2001;96:494‐500.
+28. Shah SC, Day LW, Somsouk M, et al. Meta‐analysis: antibiotic ther-
+apy for small intestinal bacterial overgrowth. Aliment Pharmacol Ther.
+2013;38:925‐934.
+29. Castiglione F, Del Vecchio BG, Rispo A, et al. Orocecal transit time
+and bacterial overgrowth in patients with Crohn's disease. J Clin Gas-
+troenterol. 2000;31:63‐66.
+30. Castiglione F, Rispo A, Di Girolamo E, et al. Antibiotic treatment of
+small bowel bacterial overgrowth in patients with Crohn's disease.
+Aliment Pharmacol Ther. 2003;18:1107‐1112.
+31. Greco A, Caviglia GP, Brignolo P, et al. Glucose breath test and
+Crohn's disease: Diagnosis of small intestinal bacterial overgrowth
+and evaluation
+of
+therapeutic
+response.
+Scand
+J Gastroenterol.
+2015;50:1376‐1381.
+32. Rutgeerts P, Ghoos Y, Vantrappen G, et al. Ileal dysfunction and bac-
+terial overgrowth in patients with Crohn's disease. Eur J Clin Invest.
+1981;11:199‐206.
+33. Lee JM, Lee KM, Chung YY, et al. Clinical significance of the glucose
+breath test in patients with inflammatory bowel disease. J Gastroen-
+terol Hepatol. 2015;30:990‐994.
+SHAH ET AL.
+|
+11
+
+--- PAGE 12 ---
+34. Mishkin D, Boston FM, Blank D, et al. The glucose breath test: a
+diagnostic test for small bowel stricture(s) in Crohn's disease. Dig Dis
+Sci. 2002;47:489‐494.
+35. Stroup DF, Berlin JA, Morton SC, et al. Meta‐analysis of observa-
+tional studies in epidemiology: a proposal for reporting. Meta‐analy-
+sis Of Observational Studies in Epidemiology (MOOSE) group. JAMA.
+2000;283:2008‐2012.
+36. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for
+systematic reviews and meta‐analyses: the PRISMA statement. BMJ.
+2009;339:b2535.
+37. Higgins JP, Thompson SG. Quantifying heterogeneity in a meta‐anal-
+ysis. Stat Med. 2002;21:1539‐1558.
+38. DerSimonian R, Laird N. Meta‐analysis in clinical trials. Control Clin
+Trials. 1986;7:177‐188.
+39. Egger M, Davey Smith G, Schneider M, et al. Bias in meta‐analysis
+detected by a simple, graphical test. BMJ. 1997;315:629‐634.
+40. Klaus J, Spaniol U, Adler G, et al. Small intestinal bacterial over-
+growth mimicking acute flare as a pitfall in patients with Crohn's
+Disease. BMC Gastroenterol. 2009;9:61.
+41. Sanchez‐Montes C, Ortiz V, Bastida G, et al. Small intestinal bacterial
+overgrowth in inactive Crohn's disease: influence of thiopurine and
+biological treatment. World J Gastroenterol. 2014;20:13999‐14003.
+42. Ricci J, Chebli LA, Ribeiro TC, et al. Small‐intestinal bacterial over-
+growth is associated with concurrent intestinal inflammation but not
+with systemic inflammation in Crohn's disease patients. J Clin
+Gastroenterol. 2017.
+43. Rana SV, Sharma S, Malik A, et al. Small intestinal bacterial over-
+growth and orocecal transit time in patients of inflammatory bowel
+disease. Dig Dis Sci. 2013;58:2594‐2598.
+44. Rana SV, Sharma S, Kaur J, et al. Relationship of cytokines, oxidative
+stress and GI motility with bacterial overgrowth in ulcerative colitis
+patients. J Crohns Colitis. 2014;8:859‐865.
+45. Ricci J, Chebli LA, Ribeiro T, et al. Small‐intestinal bacterial over-
+growth is associated with concurrent intestinal inflammation but not
+with systemic inflammation in Crohn's disease patients. J Clin Gas-
+troenterol. 2018;52:530‐536.
+46. Yang I, Nell S, Suerbaum S. Survival in hostile territory: The micro-
+biota of the stomach. FEMS Microbiol Rev. 2013;37:736‐761.
+47. Gutierrez IM, Kang KH, Calvert CE, et al. Risk factors for small
+bowel bacterial overgrowth and diagnostic yield of duodenal aspi-
+rates in children with intestinal failure: A retrospective review. J
+Pediatr Surg. 2012;47:1150‐1154.
+48. Bryant RV, van Langenberg DR, Holtmann GJ, et al. Functional gas-
+trointestinal disorders in inflammatory bowel disease: Impact on
+quality of life and psychological status. J Gastroenterol Hepatol.
+2011;26:916‐923.
+49. Gray MA, Chao C‐y, Staudacher HM, et al. Anti‐TNFα therapy in
+IBD alters brain activity reflecting visceral sensory function and cog-
+nitive‐affective biases. PLoS ONE. 2018;13:e0193542.
+50. Gatta L, Scarpignato C, McCallum RW, et al. Systematic review with
+meta‐analysis: rifaximin is effective and safe for the treatment of
+small intestine bacterial overgrowth. Aliment Pharmacol Ther. 2017;
+45:604‐616.
+51. Pimentel M, Lembo A, Chey WD, et al. Rifaximin therapy for
+patients with irritable bowel syndrome without constipation. N Engl
+J Med. 2011;364:22‐32.
+52. Pimentel M, Chang C, Chua KS, et al. Antibiotic treatment of consti-
+pation‐predominant irritable bowel syndrome. Dig Dis Sci. 2014;59:
+1278‐1285.
+53. Levitt MD, Ingelfinger FJ. Hydrogen and methane production in
+man. Ann N Y Acad Sci. 1968;150:75‐81.
+54. Peled Y, Weinberg D, Hallak A, et al. Factors affecting methane
+production in humans. Gastrointestinal diseases and alterations of
+colonic flora. Dig Dis Sci. 1987;32:267‐271.
+55. McKay LF, Eastwood MA, Brydon WG. Methane excretion in man –
+a study of breath, flatus, and faeces. Gut. 1985;26:69‐74.
+56. Melcher EA, Levitt MD, Slavin JL. Methane production and bowel
+function parameters in healthy subjects on low‐ and high‐fiber diets.
+Nutr Cancer. 1991;16:85‐92.
+57. Levitt MD, Furne JK, Kuskowski M, et al. Stability of human metha-
+nogenic flora over 35 years and a review of insights obtained from
+breath
+methane
+measurements.
+Clin
+Gastroenterol
+Hepatol.
+2006;4:123‐129.
+58. Ghoshal UC, Srivastava D, Ghoshal U, et al. Breath tests in the diag-
+nosis of small intestinal bacterial overgrowth in patients with irrita-
+ble bowel syndrome in comparison with quantitative upper gut
+aspirate culture. Eur J Gastroenterol Hepatol. 2014;26:753‐760.
+59. Kunkel D, Basseri RJ, Makhani MD, et al. Methane on breath testing
+is associated with constipation: a systematic review and meta‐analy-
+sis. Dig Dis Sci. 2011;56:1612‐1618.
+60. Pimentel M, Lin HC, Enayati P, et al. Methane, a gas produced by
+enteric bacteria, slows intestinal transit and augments small intestinal
+contractile activity. American Journal of Physiology ‐ Gastrointestinal
+and Liver Physiology. 2006;290:G1089‐G1095.
+61. Attaluri A, Jackson M, Paulson J, et al. Methanogenic flora is associ-
+ated with altered colonic transit but not stool characteristics in con-
+stipation without IBS. The American journal of gastroenterology.
+2010;105:1407‐1411.
+62. Fiedorek SC, Pumphrey CL, Casteel HB. Breath methane production
+in children with constipation and encopresis. J Pediatr Gastroenterol
+Nutr. 1990;10:473‐477.
+63. Pimentel M, Mayer AG, Park S, et al. Methane production during lac-
+tulose breath test is associated with gastrointestinal disease presen-
+tation. Dig Dis Sci. 2003;48:86‐92.
+64. Sterne J, Sutton AJ, Ioannidis J, et al. Recommendations for examin-
+ing and interpreting funnel plot asymmetry in meta‐analyses of ran-
+domised controlled trials. BMJ. 2011;343.
+65. Gasbarrini A, Corazza GR, Gasbarrini G, et al. Methodology and indi-
+cations of H2‐breath testing in gastrointestinal diseases: the Rome
+Consensus Conference. Aliment Pharmacol Ther. 2009;29(Suppl 1):
+1‐49.
+66. Laine L, Ahnen D, McClain C, et al. Review article: potential gas-
+trointestinal effects of long‐term acid suppression with proton pump
+inhibitors. Aliment Pharmacol Ther. 2000;14:651‐668.
+67. Su T, Lai S, Lee A, et al. Meta‐analysis: proton pump inhibitors mod-
+erately increase the risk of small intestinal bacterial overgrowth. J
+Gastroenterol. 2018;53:27‐36.
+68. Chen B, Kim JJ‐W, Zhang Y, et al. Prevalence and predictors of small
+intestinal bacterial overgrowth in irritable bowel syndrome: a sys-
+tematic review and meta‐analysis. J Gastroenterol. 2018.
+SUPPORTING INFORMATION
+Additional supporting information will be found online in the
+Supporting Information section at the end of the article.
+How to cite this article: Shah A, Morrison M, Burger D, et al.
+Systematic review and meta‐analysis: the prevalence of small
+intestinal bacterial overgrowth in inflammatory bowel disease.
+Aliment Pharmacol Ther. 2019;00:1–12. https://doi.org/
+10.1111/apt.15133
+12 |
+SHAH ET AL.

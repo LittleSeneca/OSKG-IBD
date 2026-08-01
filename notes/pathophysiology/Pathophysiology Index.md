@@ -12,7 +12,8 @@ Disease mechanisms of IBD and SIBO. Genetics, immune dysfunction, epithelial bar
 
 | Source | Chapters | Status |
 |--------|----------|--------|
-| — | — | — |
+| [[Yamada 2022 - Ch62 IBD Pathogenesis]] | Ch 62 | Complete — 10 claims, full pathogenesis model |
+
 
 ## Key Questions
 

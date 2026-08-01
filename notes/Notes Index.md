@@ -12,8 +12,8 @@ Entry point for all OSKG-IBD knowledge domains. Each sub-index links to the read
 
 | Domain | Index | Status |
 |--------|-------|--------|
-| Pathophysiology | [[pathophysiology/Pathophysiology Index]] | Empty — pending Phase 1 |
-| Diagnosis | [[diagnosis/Diagnosis Index]] | Empty — pending Phase 1 |
+| Pathophysiology | [[pathophysiology/Pathophysiology Index]] | Active — 1 note (Yamada Ch 62, Tier 1) |
+| Diagnosis | [[diagnosis/Diagnosis Index]] | Active — 2 notes (Yamada Ch 63 UC, Ch 64 CD, Tier 1) |
 | Treatment | [[treatment/Treatment Index]] | Empty — pending Phase 1 |
 | Microbiome | [[microbiome/Microbiome Index]] | Active — 4 notes (Tier 2 + Tier 4) |
 | Nutrition | [[nutrition/Nutrition Index]] | Phase 1 complete -- 8 notes (SCD, EEN, LFE, SSFG, anti-inflammatory) |
