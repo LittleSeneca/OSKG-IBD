@@ -12,7 +12,7 @@ tags:
   - source/pimentel-microbiome-connection
   - domain/microbiome
 claim_id: "pimentel-ch6-6"
-statement: "Lovastatin for IMO: "we learned through multiple experiments that lovastatin... blocks an enzyme within the methane-producing microorganisms and reduces their methane production. So maybe we don't kil"
+statement: 'Lovastatin for IMO: "we learned through multiple experiments that lovastatin... blocks an enzyme within the methane-producing microorganisms and reduces their methane production. So maybe we don''t kil'
 confidence: "medium"
 confidence_rationale: "LOW for lovastatin (laboratory data only; non-absorbed formulation development failed). LOW-MEDIUM for bismuth (mechanism plausible; clinical experience limited)."
 claim_type: "mechanistic"

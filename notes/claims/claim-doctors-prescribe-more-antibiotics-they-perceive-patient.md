@@ -10,7 +10,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-rewild-1"
-statement: "Doctors prescribe more antibiotics when they perceive the patient wants one. A structured set of 10 questions (Table 11-1) can signal that the patient is "not keen on taking an antibiotic unless absol"
+statement: 'Doctors prescribe more antibiotics when they perceive the patient wants one. A structured set of 10 questions (Table 11-1) can signal that the patient is "not keen on taking an antibiotic unless absol'
 confidence: "high"
 confidence_rationale: "MEDIUM-HIGH. The evidence that perceived patient expectation drives antibiotic prescribing is well-documented. The specific question set has not been validated in a trial but follows shared decision-m"
 claim_type: "therapeutic"

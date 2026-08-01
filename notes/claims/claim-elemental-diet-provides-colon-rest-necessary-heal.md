@@ -12,7 +12,7 @@ tags:
   - source/thompson-een
   - domain/nutrition
 claim_id: "thompson-een-3"
-statement: "An elemental diet "provides the colon with the rest necessary to heal its wounds unhindered." Because nutrients are pre-digested, "there is very little undigested matter passing into the colon" -- pro"
+statement: 'An elemental diet "provides the colon with the rest necessary to heal its wounds unhindered." Because nutrients are pre-digested, "there is very little undigested matter passing into the colon" -- pro'
 confidence: "medium"
 confidence_rationale: "MEDIUM. Bowel rest is a valid physiological concept (used in NPO/bowel rest protocols). Bacterial substrate reduction is plausible. But the relative contribution of each mechanism is unknown. EEN also"
 claim_type: "therapeutic"

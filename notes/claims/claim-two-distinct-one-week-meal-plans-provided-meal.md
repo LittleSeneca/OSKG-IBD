@@ -10,7 +10,7 @@ tags:
   - source/foote-cookbook
   - domain/nutrition
 claim_id: "foote-cookbook-6"
-statement: "Two distinct one-week meal plans are provided: a "Meal Plan for Flare-Ups" (low-fiber, dairy-free, gentle foods) and a "Meal Plan for Remission" (more variety, more fiber, more protein sources). The f"
+statement: 'Two distinct one-week meal plans are provided: a "Meal Plan for Flare-Ups" (low-fiber, dairy-free, gentle foods) and a "Meal Plan for Remission" (more variety, more fiber, more protein sources). The f'
 confidence: "high"
 confidence_rationale: "LOW for the specific meal plans being optimal. HIGH for the general principle that planned eating improves nutritional adequacy. The meal plans are illustrative, not prescriptive -- Foote explicitly s"
 claim_type: "dietary"

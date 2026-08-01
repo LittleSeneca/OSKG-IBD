@@ -12,7 +12,7 @@ tags:
   - source/steinhart-crohns-colitis
   - domain/treatment
 claim_id: "steinhart-drug-6"
-statement: "Infliximab produces "60% to 80% of patients responded positively" in active Crohn's. "Repeated dosing of infliximab can produce complete healing of the inner lining of the intestine, something that is"
+statement: 'Infliximab produces "60% to 80% of patients responded positively" in active Crohn''s. "Repeated dosing of infliximab can produce complete healing of the inner lining of the intestine, something that is'
 confidence: "high"
 confidence_rationale: "HIGH. Anti-TNF agents are the best-studied biologic class in IBD with 25+ years of data. The efficacy claims are supported by multiple RCTs. The safety concerns (infection, lymphoma) are real but the "
 claim_type: "therapeutic"

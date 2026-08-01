@@ -5,7 +5,7 @@ tags:
   - topic/endoscopy
   - topic/histology
   - topic/diagnosis
-  - topic/een
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019

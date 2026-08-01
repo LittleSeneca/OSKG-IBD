@@ -14,7 +14,7 @@ tags:
 claim_id: "gottschall-ch12-1"
 statement: "In 1951, after many years of clinical experience, Drs. Sidney V. and Merrill P. Haas published a book entitled Management of Celiac Disease... When patients followed this Specific Carbohydrate Diet fo"
 confidence: "low"
-confidence_rationale: "LOW. Entirely anecdotal. No controlled data, no patient counts, no outcome measures. The daughter's case is a single n=1 with no diagnostic verification beyond "specialists" confirming "incurable ulce"
+confidence_rationale: 'LOW. Entirely anecdotal. No controlled data, no patient counts, no outcome measures. The daughter''s case is a single n=1 with no diagnostic verification beyond "specialists" confirming "incurable ulce'
 claim_type: "diagnostic"
 source_note: "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]"
 created: 2026-08-01

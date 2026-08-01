@@ -5,7 +5,7 @@ tags:
   - topic/5-asa
   - topic/grade
   - topic/imaging
-  - topic/een
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/rubin

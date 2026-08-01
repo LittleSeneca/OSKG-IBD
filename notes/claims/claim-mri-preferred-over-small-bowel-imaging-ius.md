@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/imaging
   - topic/diagnosis
+  - topic/sibo
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019

@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/grade
   - topic/imaging
+  - topic/treatment
+  - topic/crohns-disease
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/feuerstein

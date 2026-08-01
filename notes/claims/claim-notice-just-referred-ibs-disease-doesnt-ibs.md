@@ -13,7 +13,7 @@ tags:
 claim_id: "pimentel-ch1-2"
 statement: "Notice that we just referred to IBS as a 'disease.' Doesn't IBS stand for irritable bowel 'syndrome'? As you read through the chapters of this book you'll see that IBS is a legitimate 'disease' and th"
 confidence: "medium"
-confidence_rationale: "MEDIUM. The claim is more rhetorical than scientific -- the distinction between "disease" and "syndrome" is semantic, not pathophysiological. However, Pimentel's underlying point (that IBS has organic"
+confidence_rationale: 'MEDIUM. The claim is more rhetorical than scientific -- the distinction between "disease" and "syndrome" is semantic, not pathophysiological. However, Pimentel''s underlying point (that IBS has organic'
 claim_type: "mechanistic"
 source_note: "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]"
 created: 2026-08-01

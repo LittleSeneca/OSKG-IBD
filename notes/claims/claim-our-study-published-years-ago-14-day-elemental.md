@@ -15,7 +15,7 @@ tags:
 claim_id: "pimentel-ch6-4"
 statement: "In our study published 15 years ago, a 14-day elemental diet was more than 80 percent effective in treating hydrogen-type SIBO. This study predates the use of and availability of drugs like rifaximin."
 confidence: "high"
-confidence_rationale: "HIGH for efficacy (>80% in published study). Practical limitations are significant: cost (>$1000 for 2 weeks), palatability ("tastes raw"), compliance difficulty, and the same relapse problem as antib"
+confidence_rationale: 'HIGH for efficacy (>80% in published study). Practical limitations are significant: cost (>$1000 for 2 weeks), palatability ("tastes raw"), compliance difficulty, and the same relapse problem as antib'
 claim_type: "therapeutic"
 source_note: "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]"
 created: 2026-08-01

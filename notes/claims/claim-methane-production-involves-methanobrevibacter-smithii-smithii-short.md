@@ -14,7 +14,7 @@ tags:
   - source/pimentel-microbiome-connection
   - domain/microbiome
 claim_id: "pimentel-ch5-5"
-statement: "Methane production involves "Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea." The diagnostic criterion: "If at any point over two hours your methane level "
+statement: 'Methane production involves "Methanobrevibacter smithii (M. smithii for short), which is not bacteria but rather archaea." The diagnostic criterion: "If at any point over two hours your methane level '
 confidence: "high"
 confidence_rationale: "HIGH. M. smithii is definitively an archaeon, not a bacterium. The terminology correction is scientifically accurate. The clinical implications of the name change are minimal (treatment approaches rem"
 claim_type: "therapeutic"

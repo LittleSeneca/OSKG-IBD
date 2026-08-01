@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/5-asa
   - topic/corticosteroids
+  - topic/treatment
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/rubin

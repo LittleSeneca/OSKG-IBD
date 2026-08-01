@@ -10,7 +10,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-rewild-3"
-statement: "Table 11-3 catalogs the "Medications to Avoid" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroid"
+statement: 'Table 11-3 catalogs the "Medications to Avoid" for microbiome health: broad-spectrum antibiotics (including topical forms), acid-suppressing drugs (particularly beyond 8 weeks), oral/IV corticosteroid'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "therapeutic"

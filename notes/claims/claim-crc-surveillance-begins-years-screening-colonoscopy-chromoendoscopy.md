@@ -4,7 +4,7 @@ tags:
   - oskg-ibd
   - topic/endoscopy
   - topic/diagnosis
-  - topic/een
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019

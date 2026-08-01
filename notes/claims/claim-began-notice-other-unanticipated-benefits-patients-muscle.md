@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/diagnosis
+  - topic/microbiome
+  - topic/inflammation
   - evidence/expert-consensus
   - scholar/gottschall
   - source/gottschall-btv
@@ -11,7 +13,7 @@ tags:
 claim_id: "gottschall-fw-3"
 statement: "I began to notice other unanticipated benefits. Patients with muscle aches, stiff joints, and even full-blown arthritis, chronic skin rashes, psoriasis, generalized fatigue and 'spaciness' were allevi"
 confidence: "low"
-confidence_rationale: "LOW. These are unexpected, uncontrolled observations. Extra-intestinal manifestations of IBD (arthritis, skin conditions) can improve with any effective IBD treatment, not specifically SCD. The "intes"
+confidence_rationale: 'LOW. These are unexpected, uncontrolled observations. Extra-intestinal manifestations of IBD (arthritis, skin conditions) can improve with any effective IBD treatment, not specifically SCD. The "intes'
 claim_type: "dietary"
 source_note: "[[Gottschall 1994 - Foreword]]"
 created: 2026-08-01

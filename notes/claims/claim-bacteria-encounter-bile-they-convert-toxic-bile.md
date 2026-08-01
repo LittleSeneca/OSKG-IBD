@@ -14,7 +14,7 @@ tags:
 claim_id: "pimentel-ch2-5"
 statement: "When bacteria encounter bile, they convert it to toxic bile acids (such as deoxycholic acid and lithocholic acid), which are believed to cause diarrhea. This is known as bile acid diarrhea (BAD) and i"
 confidence: "high"
-confidence_rationale: "MEDIUM-HIGH for the biochemical mechanism (bacterial deconjugation of bile acids is well-established). The claim that SIBO is "one of the main causes" of BAD is less firmly established and may oversta"
+confidence_rationale: 'MEDIUM-HIGH for the biochemical mechanism (bacterial deconjugation of bile acids is well-established). The claim that SIBO is "one of the main causes" of BAD is less firmly established and may oversta'
 claim_type: "mechanistic"
 source_note: "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]"
 created: 2026-08-01

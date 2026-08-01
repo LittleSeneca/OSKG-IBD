@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/ibd
   - topic/sibo
+  - topic/microbiome
+  - topic/breath-testing
   - evidence/clinical-guideline
   - scholar/pimentel
   - source/rome-sibo-2017

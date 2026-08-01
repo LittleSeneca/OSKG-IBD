@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/imaging
+  - topic/diet
+  - topic/biologics
   - evidence/clinical-guideline
   - scholar/lichtenstein
   - source/acg-crohns-2018

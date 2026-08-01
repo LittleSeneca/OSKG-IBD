@@ -5,7 +5,7 @@ tags:
   - topic/diet
   - topic/microbiome
   - topic/diagnosis
-  - topic/een
+  - topic/elemental-diet
   - evidence/expert-consensus
   - scholar/sarna
   - source/sarna-sibo-diet

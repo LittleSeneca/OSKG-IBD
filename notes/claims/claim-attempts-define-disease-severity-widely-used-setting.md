@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/grade
   - topic/imaging
+  - topic/treatment
+  - topic/ulcerative-colitis
   - evidence/clinical-guideline
   - scholar/raine
   - source/ecco-uc-2022

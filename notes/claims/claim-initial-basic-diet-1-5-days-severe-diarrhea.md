@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/imaging
+  - topic/elemental-diet
+  - topic/crohns-disease
   - evidence/expert-consensus
   - scholar/gottschall
   - source/gottschall-btv

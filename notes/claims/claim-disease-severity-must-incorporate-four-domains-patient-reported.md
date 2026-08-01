@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/biomarkers
   - topic/imaging
+  - topic/diagnosis
+  - topic/corticosteroids
   - evidence/clinical-guideline
   - scholar/rubin
   - source/acg-uc-2019

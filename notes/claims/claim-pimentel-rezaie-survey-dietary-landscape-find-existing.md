@@ -14,7 +14,7 @@ tags:
   - source/pimentel-microbiome-connection
   - domain/nutrition
 claim_id: "pimentel-lfe-1"
-statement: "Pimentel and Rezaie survey the dietary landscape and find all existing approaches wanting. Lactose avoidance: "patients who have lingering gastrointestinal issues may well have an enzyme deficiency th"
+statement: 'Pimentel and Rezaie survey the dietary landscape and find all existing approaches wanting. Lactose avoidance: "patients who have lingering gastrointestinal issues may well have an enzyme deficiency th'
 confidence: "high"
 confidence_rationale: "MEDIUM-HIGH for the clinical observations (thousands of patients at the leading SIBO center). LOW for the comparative claim that SCD doesn't work for IBS -- one trial, and SCD was designed for IBD, no"
 claim_type: "therapeutic"

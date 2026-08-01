@@ -12,7 +12,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-rewild-2"
-statement: "The "Ten Things to Do When Taking Antibiotics" (Table 11-2) includes: (1) take a probiotic during and for at least one month after antibiotics, staggered from antibiotic doses; (2) request narrow-spec"
+statement: 'The "Ten Things to Do When Taking Antibiotics" (Table 11-2) includes: (1) take a probiotic during and for at least one month after antibiotics, staggered from antibiotic doses; (2) request narrow-spec'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "therapeutic"

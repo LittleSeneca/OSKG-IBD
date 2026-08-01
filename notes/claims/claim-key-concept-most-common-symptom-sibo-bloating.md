@@ -5,7 +5,7 @@ tags:
   - topic/sibo
   - topic/imaging
   - topic/surgery
-  - topic/een
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - evidence/expert-consensus
   - scholar/pimentel
@@ -13,7 +13,7 @@ tags:
   - domain/clinical-guidelines
   - society/acg
 claim_id: "acg-sibo2020-2"
-statement: "Key Concept 1. "The most common symptom of SIBO is bloating." Key Concept 2: "Vitamin deficiencies in SIBO are not common and are usually seen in patients with an iatrogenic or structural abnormality "
+statement: 'Key Concept 1. "The most common symptom of SIBO is bloating." Key Concept 2: "Vitamin deficiencies in SIBO are not common and are usually seen in patients with an iatrogenic or structural abnormality '
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "therapeutic"

@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/inflammation
+  - topic/crohns-disease
+  - topic/treatment
   - evidence/expert-consensus
   - scholar/foote
   - source/foote-cookbook
@@ -11,7 +13,7 @@ tags:
 claim_id: "foote-cookbook-3"
 statement: "One of the best ways to fight inflammation is to adopt an anti-inflammatory diet."
 confidence: "medium"
-confidence_rationale: "MEDIUM. Individual anti-inflammatory foods have supporting evidence (turmeric/curcumin has RCTs in IBD; omega-3s have mixed results). The aggregate "anti-inflammatory diet" concept is supported by Med"
+confidence_rationale: 'MEDIUM. Individual anti-inflammatory foods have supporting evidence (turmeric/curcumin has RCTs in IBD; omega-3s have mixed results). The aggregate "anti-inflammatory diet" concept is supported by Med'
 claim_type: "dietary"
 source_note: "[[Foote 2020 - Crohn's Disease Cookbook]]"
 created: 2026-08-01

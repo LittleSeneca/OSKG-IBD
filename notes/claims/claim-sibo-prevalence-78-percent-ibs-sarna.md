@@ -6,7 +6,7 @@ tags:
   - topic/sibo-prevalence
   - topic/ibs
   - topic/imaging
-  - topic/een
+  - topic/elemental-diet
   - evidence/expert-consensus
   - scholar/sarna
   - scholar/siebecker

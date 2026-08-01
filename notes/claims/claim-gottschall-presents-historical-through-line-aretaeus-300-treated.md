@@ -14,7 +14,7 @@ tags:
 claim_id: "gottschall-ch12-3"
 statement: "Gottschall presents a historical through-line: Aretaeus (300 AD) treated celiac-type diarrhea with fasting and plantain juice; Prince Charles (1745) cured ulcerative colitis with a milk-free diet; Dr."
 confidence: "medium"
-confidence_rationale: "MEDIUM. These are astute clinical observations consistent with what we now know about disaccharidase deficiency in intestinal inflammation. The Gee aphorism -- "what the patient takes beyond his power"
+confidence_rationale: 'MEDIUM. These are astute clinical observations consistent with what we now know about disaccharidase deficiency in intestinal inflammation. The Gee aphorism -- "what the patient takes beyond his power'
 claim_type: "therapeutic"
 source_note: "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]"
 created: 2026-08-01

@@ -15,7 +15,7 @@ tags:
 claim_id: "pimentel-ch3-3"
 statement: "IBS is now the poster child of microbiome diseases... IBS remains the only gastrointestinal disease of the intestines for which the FDA has approved a microbiome-modulating drug (rifaximin)."
 confidence: "high"
-confidence_rationale: "HIGH for the factual claim about rifaximin's FDA approval. The framing of IBS as "the poster child" is rhetorical but defensible given that rifaximin is indeed the only microbiome-targeting drug appro"
+confidence_rationale: 'HIGH for the factual claim about rifaximin''s FDA approval. The framing of IBS as "the poster child" is rhetorical but defensible given that rifaximin is indeed the only microbiome-targeting drug appro'
 claim_type: "therapeutic"
 source_note: "[[Pimentel 2022 - Ch3 Gut Microbiome]]"
 created: 2026-08-01

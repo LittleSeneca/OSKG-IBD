@@ -13,7 +13,7 @@ tags:
 claim_id: "yamada-cd64-2"
 statement: "Neither sulfasalazine nor mesalamine was effective at maintaining remission in an intention-to-treat analysis."
 confidence: "high"
-confidence_rationale: "HIGH. This is one of the clearest evidence-to-practice gaps in gastroenterology. The data is consistent across multiple systematic reviews. The authors' explicit criticism of ongoing widespread use (""
+confidence_rationale: 'HIGH. This is one of the clearest evidence-to-practice gaps in gastroenterology. The data is consistent across multiple systematic reviews. The authors'' explicit criticism of ongoing widespread use ("'
 claim_type: "therapeutic"
 source_note: "[[Yamada 7E - Ch64 Crohn's Disease Management]]"
 created: 2026-08-01

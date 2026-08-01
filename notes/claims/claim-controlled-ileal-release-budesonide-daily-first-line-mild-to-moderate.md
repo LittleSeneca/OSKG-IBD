@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/corticosteroids
+  - topic/biologics
+  - topic/treatment
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/lichtenstein

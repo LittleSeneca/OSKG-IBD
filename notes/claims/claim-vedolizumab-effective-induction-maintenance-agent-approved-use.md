@@ -11,7 +11,7 @@ tags:
   - source/yamada-textbook
   - domain/treatment
 claim_id: "yamada-cd64-5"
-statement: "Vedolizumab "is an effective induction and maintenance agent approved for use in CD," with "up to 89% of patients in remission after 3 years" among initial responders, though "the efficacy of vedolizu"
+statement: 'Vedolizumab "is an effective induction and maintenance agent approved for use in CD," with "up to 89% of patients in remission after 3 years" among initial responders, though "the efficacy of vedolizu'
 confidence: "high"
 confidence_rationale: "HIGH for efficacy in both anti-TNF-naive and experienced populations (ustekinumab stronger in experienced). HIGH for safety advantage. MEDIUM for the clinical utility of TDM with vedolizumab/ustekinum"
 claim_type: "therapeutic"

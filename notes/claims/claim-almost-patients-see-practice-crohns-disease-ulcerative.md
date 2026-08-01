@@ -14,7 +14,7 @@ tags:
 claim_id: "chutkan-rewild-4"
 statement: "Almost all of the patients I see in my practice with Crohn's disease and ulcerative colitis have a history of taking antibiotics for acne, and while that doesn't necessarily prove causation in those p"
 confidence: "high"
-confidence_rationale: "MEDIUM-HIGH for the association. The acne-antibiotic-IBD pathway is epidemiologically supported. The claim about "almost all" IBD patients in her practice is a clinical observation, not a controlled f"
+confidence_rationale: 'MEDIUM-HIGH for the association. The acne-antibiotic-IBD pathway is epidemiologically supported. The claim about "almost all" IBD patients in her practice is a clinical observation, not a controlled f'
 claim_type: "therapeutic"
 source_note: "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]"
 created: 2026-08-01

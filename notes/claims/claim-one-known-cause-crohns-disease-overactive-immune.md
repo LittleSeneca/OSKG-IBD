@@ -13,7 +13,7 @@ tags:
 claim_id: "foote-cookbook-1"
 statement: "One known cause of Crohn's disease is an overactive immune system. A normal immune system only attacks harmful microorganisms, but some people's immune systems attack harmless microorganisms as well. "
 confidence: "high"
-confidence_rationale: "HIGH for the immune dysregulation model (well-established in IBD research). LOW for the specific diet-microbiome causation claim -- this is Foote's framing, not a proven mechanism. The "hygiene hypoth"
+confidence_rationale: 'HIGH for the immune dysregulation model (well-established in IBD research). LOW for the specific diet-microbiome causation claim -- this is Foote''s framing, not a proven mechanism. The "hygiene hypoth'
 claim_type: "dietary"
 source_note: "[[Foote 2020 - Crohn's Disease Cookbook]]"
 created: 2026-08-01

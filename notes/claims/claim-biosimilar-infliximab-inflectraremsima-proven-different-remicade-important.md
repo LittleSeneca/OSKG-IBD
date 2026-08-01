@@ -12,7 +12,7 @@ tags:
   - source/steinhart-crohns-colitis
   - domain/treatment
 claim_id: "steinhart-drug-9"
-statement: "Biosimilar infliximab (Inflectra/Remsima) has proven "not different from Remicade in any important way when used in Crohn's disease and ulcerative colitis." Biosimilars "have the potential to help lim"
+statement: 'Biosimilar infliximab (Inflectra/Remsima) has proven "not different from Remicade in any important way when used in Crohn''s disease and ulcerative colitis." Biosimilars "have the potential to help lim'
 confidence: "high"
 confidence_rationale: "HIGH. The clinical equivalence of biosimilar infliximab to originator Remicade has been demonstrated in multiple studies and confirmed by extensive real-world experience since 2018."
 claim_type: "therapeutic"

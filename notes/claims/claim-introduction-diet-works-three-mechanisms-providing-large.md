@@ -10,7 +10,7 @@ tags:
   - source/campbell-mcbride-gaps
   - domain/nutrition
 claim_id: "campbell-gaps-2"
-statement: "The Introduction Diet works through three mechanisms: (1) providing "large amounts of nourishing substances" — amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining"
+statement: 'The Introduction Diet works through three mechanisms: (1) providing "large amounts of nourishing substances" — amino acids, gelatin, glucosamine, collagen, fats, vitamins, minerals that the gut lining'
 confidence: "medium"
 confidence_rationale: "MEDIUM. The nutritional rationale for meat stock (gelatin, glycine, glutamine for gut repair) is mechanistically sound and supported by the wound-healing and gut-barrier literature. The staged reintro"
 claim_type: "therapeutic"

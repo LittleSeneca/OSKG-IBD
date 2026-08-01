@@ -10,7 +10,7 @@ tags:
   - source/gottschall-btv
   - domain/nutrition
 claim_id: "gottschall-ch12-5"
-statement: "Dr. J. Ranier Poley showed "most patients have lost the ability to digest disaccharides because of excessive mucus production by intestinal cells. An abnormally thick layer of surface mucus appears to"
+statement: 'Dr. J. Ranier Poley showed "most patients have lost the ability to digest disaccharides because of excessive mucus production by intestinal cells. An abnormally thick layer of surface mucus appears to'
 confidence: "high"
 confidence_rationale: "MEDIUM-HIGH. The mechanism of disaccharidase deficiency in intestinal inflammation is well-established in modern gastroenterology. The mucus barrier theory adds a physical mechanism (enzyme-substrate "
 claim_type: "dietary"

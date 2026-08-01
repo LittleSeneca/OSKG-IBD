@@ -11,7 +11,7 @@ tags:
   - source/sarna-sibo-diet
   - domain/nutrition
 claim_id: "sarna-sibo-diet-3"
-statement: "Week 1 is the most restrictive ("eliminate as many carbohydrates, as much fiber, and as many triggering foods as you possibly can. Steam and/or sauté all your fruits and veggies... Your food needs to "
+statement: 'Week 1 is the most restrictive ("eliminate as many carbohydrates, as much fiber, and as many triggering foods as you possibly can. Steam and/or sauté all your fruits and veggies... Your food needs to '
 confidence: "low"
 confidence_rationale: "LOW. The 21-day timeframe is arbitrary. The progressive expansion structure is sensible but unvalidated. The specific meal plans (which include potatoes, white rice, and grilled cheese sandwiches) ref"
 claim_type: "dietary"

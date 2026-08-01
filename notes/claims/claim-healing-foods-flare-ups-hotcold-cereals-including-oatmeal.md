@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/ibd
+  - topic/treatment
+  - topic/microbiome
   - evidence/expert-consensus
   - scholar/foote
   - source/foote-cookbook

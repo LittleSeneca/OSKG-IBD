@@ -10,7 +10,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-dysbiosis-2"
-statement: "Proton pump inhibitors (PPIs) and acid suppressants create a hospitable environment for bacterial overgrowth by removing the stomach's acid barrier. NSAIDs increase intestinal permeability ("make hole"
+statement: 'Proton pump inhibitors (PPIs) and acid suppressants create a hospitable environment for bacterial overgrowth by removing the stomach''s acid barrier. NSAIDs increase intestinal permeability ("make hole'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "therapeutic"

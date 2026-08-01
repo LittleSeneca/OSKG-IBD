@@ -14,7 +14,7 @@ tags:
   - source/pimentel-microbiome-connection
   - domain/microbiome
 claim_id: "pimentel-ch6-2"
-statement: "Five categories of rifaximin response: (1) "One and done" -- mostly symptom-free for months or years; (2) "One and better, relapse in time" -- "generally accounts for about 70 percent of patients" who"
+statement: 'Five categories of rifaximin response: (1) "One and done" -- mostly symptom-free for months or years; (2) "One and better, relapse in time" -- "generally accounts for about 70 percent of patients" who'
 confidence: "high"
 confidence_rationale: "HIGH for the TARGET 3 data (published RCT). MEDIUM for the five-category clinical stratification (clinical observation, not formally validated)."
 claim_type: "diagnostic"

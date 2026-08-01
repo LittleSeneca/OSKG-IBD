@@ -13,7 +13,7 @@ tags:
 claim_id: "pimentel-ch3-4"
 statement: "Actually, we don't know what a 'normal' microbiome looks like. Your microbiome is unique to you... There's no known magic mix of bacteria, which makes treatment of the microbiome complicated."
 confidence: "high"
-confidence_rationale: "HIGH. The "no normal microbiome" consensus is well-established in the microbiome field. The Human Microbiome Project, MetaHIT, and numerous other studies have demonstrated enormous inter-individual va"
+confidence_rationale: 'HIGH. The "no normal microbiome" consensus is well-established in the microbiome field. The Human Microbiome Project, MetaHIT, and numerous other studies have demonstrated enormous inter-individual va'
 claim_type: "therapeutic"
 source_note: "[[Pimentel 2022 - Ch3 Gut Microbiome]]"
 created: 2026-08-01

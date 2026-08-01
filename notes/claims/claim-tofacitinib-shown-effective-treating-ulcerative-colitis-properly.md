@@ -12,7 +12,7 @@ tags:
   - source/steinhart-crohns-colitis
   - domain/treatment
 claim_id: "steinhart-drug-8"
-statement: "Tofacitinib "has been shown to be effective in treating ulcerative colitis. It has not been properly tested in Crohn's disease." As a small molecule, it is orally administered, does not provoke antibo"
+statement: 'Tofacitinib "has been shown to be effective in treating ulcerative colitis. It has not been properly tested in Crohn''s disease." As a small molecule, it is orally administered, does not provoke antibo'
 confidence: "high"
 confidence_rationale: "HIGH for UC efficacy. The shingles signal is real and was confirmed in post-marketing surveillance. Since 2018, upadacitinib has received approval for both UC and Crohn's, validating the JAK inhibitor"
 claim_type: "therapeutic"

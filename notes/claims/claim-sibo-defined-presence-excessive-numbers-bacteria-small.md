@@ -11,7 +11,7 @@ tags:
   - domain/clinical-guidelines
   - society/acg
 claim_id: "acg-sibo2020-1"
-statement: "SIBO is defined as "the presence of excessive numbers of bacteria in the small bowel causing gastrointestinal symptoms." The guideline emphasizes that the definition implies BOTH measurable bacterial "
+statement: 'SIBO is defined as "the presence of excessive numbers of bacteria in the small bowel causing gastrointestinal symptoms." The guideline emphasizes that the definition implies BOTH measurable bacterial '
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "diagnostic"

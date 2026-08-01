@@ -5,7 +5,7 @@ tags:
   - topic/ibd
   - topic/grade
   - topic/diagnosis
-  - topic/een
+  - topic/elemental-diet
   - evidence/clinical-guideline
   - evidence/expert-consensus
   - scholar/rubin

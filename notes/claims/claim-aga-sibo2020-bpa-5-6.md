@@ -10,7 +10,7 @@ tags:
   - scholar/quigley
   - source/aga-sibo-2020
 claim_id: "aga-sibo2020-implicit-3"
-statement: "BPA 5-6: "A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations -- progress in sampling technology and techniques to"
+statement: 'BPA 5-6: "A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations -- progress in sampling technology and techniques to'
 confidence: "medium"
 confidence_rationale: "Extracted from implicit claim structure in source note."
 claim_type: "diagnostic"

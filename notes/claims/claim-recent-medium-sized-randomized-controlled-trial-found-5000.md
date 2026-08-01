@@ -15,7 +15,7 @@ tags:
 claim_id: "pimentel-ch9-5"
 statement: "A recent medium-sized randomized controlled trial found 5000 mg doses (about 2 teaspoons) of L-glutamine three times daily improved IBS symptoms and intestinal permeability, the so-called leaky gut. L"
 confidence: "medium"
-confidence_rationale: "LOW-MEDIUM. One positive RCT is promising but insufficient for strong recommendations. L-glutamine's safety profile is good. The "leaky gut" concept (increased intestinal permeability) is mechanistica"
+confidence_rationale: 'LOW-MEDIUM. One positive RCT is promising but insufficient for strong recommendations. L-glutamine''s safety profile is good. The "leaky gut" concept (increased intestinal permeability) is mechanistica'
 claim_type: "therapeutic"
 source_note: "[[Pimentel 2022 - Ch9 Refractory SIBO]]"
 created: 2026-08-01

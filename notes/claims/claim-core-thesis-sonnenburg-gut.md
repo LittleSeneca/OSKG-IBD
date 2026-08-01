@@ -11,7 +11,7 @@ tags:
   - scholar/sonnenburg
   - source/sonnenburg-good-gut
 claim_id: "sonnenburg-gut-implicit-6"
-statement: "The human gut microbiota is a "second genome" — a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce"
+statement: 'The human gut microbiota is a "second genome" — a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (proce'
 confidence: "medium"
 confidence_rationale: "Extracted from implicit claim structure in source note."
 claim_type: "mechanistic"

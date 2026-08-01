@@ -14,7 +14,7 @@ tags:
 claim_id: "pimentel-ch2-4"
 statement: "Your gut has millions of immune cells -- more immune cells than anywhere else in your body. The intestinal immune system encounters more antigens -- toxins or other foreign substances that induce an i"
 confidence: "high"
-confidence_rationale: "HIGH for the immunological anatomy. The "leaky gut" concept (disrupted tight junctions) is more debated but mechanistically plausible."
+confidence_rationale: 'HIGH for the immunological anatomy. The "leaky gut" concept (disrupted tight junctions) is more debated but mechanistically plausible.'
 claim_type: "mechanistic"
 source_note: "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]"
 created: 2026-08-01

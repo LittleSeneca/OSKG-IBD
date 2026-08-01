@@ -11,7 +11,7 @@ tags:
   - source/yamada-textbook
   - domain/treatment
 claim_id: "yamada-cd64-4"
-statement: "In the SONIC trial, "patients who received the combined regimen had superior rates of corticosteroid-free clinical remission at 6 months relative to patients treated with AZA or infliximab alone (57% "
+statement: 'In the SONIC trial, "patients who received the combined regimen had superior rates of corticosteroid-free clinical remission at 6 months relative to patients treated with AZA or infliximab alone (57% '
 confidence: "high"
 confidence_rationale: "HIGH for infliximab + AZA combination (SONIC). MEDIUM for methotrexate + anti-TNF (COMMIT was negative for primary endpoint; benefit limited to antibody reduction). The authors appropriately distingui"
 claim_type: "therapeutic"

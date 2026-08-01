@@ -10,7 +10,7 @@ tags:
   - scholar/quigley
   - source/aga-sibo-2020
 claim_id: "aga-sibo2020-implicit-4"
-statement: "BPA 7-9: "Management should focus on the identification and correction (where possible) of underlying causes, correction of nutritional deficiencies and the administration of antibiotics. This is espe"
+statement: 'BPA 7-9: "Management should focus on the identification and correction (where possible) of underlying causes, correction of nutritional deficiencies and the administration of antibiotics. This is espe'
 confidence: "medium"
 confidence_rationale: "Extracted from implicit claim structure in source note."
 claim_type: "diagnostic"

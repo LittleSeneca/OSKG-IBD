@@ -11,9 +11,9 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-found-1"
-statement: "Microbial cells outnumber human cells ten to one. The genes in our microbiome (the collective DNA of our gut bacteria) outnumber human genes by more than 100 to 1. This "second genome" influences dige"
+statement: 'Microbial cells outnumber human cells ten to one. The genes in our microbiome (the collective DNA of our gut bacteria) outnumber human genes by more than 100 to 1. This "second genome" influences dige'
 confidence: "high"
-confidence_rationale: "HIGH. The core claims about microbial cell counts and genomic diversity are well-established. The "Live Dirty, Eat Clean" framework is a clinical heuristic rather than a tested protocol."
+confidence_rationale: 'HIGH. The core claims about microbial cell counts and genomic diversity are well-established. The "Live Dirty, Eat Clean" framework is a clinical heuristic rather than a tested protocol.'
 claim_type: "therapeutic"
 source_note: "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]"
 created: 2026-08-01

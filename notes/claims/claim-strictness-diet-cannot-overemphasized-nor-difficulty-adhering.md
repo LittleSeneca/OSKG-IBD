@@ -12,7 +12,7 @@ tags:
 claim_id: "gottschall-ch910-1"
 statement: "The strictness of this diet cannot be overemphasized nor should the difficulty of adhering to it be minimized... It is surprising how many parents will decide, despite all warnings, that 'just a taste"
 confidence: "medium"
-confidence_rationale: "LOW-MEDIUM. The "zero tolerance" framing is a clinical behavior modification strategy as much as a biochemical claim. Gottschall is trying to prevent patients from self-sabotaging with "just a taste.""
+confidence_rationale: 'LOW-MEDIUM. The "zero tolerance" framing is a clinical behavior modification strategy as much as a biochemical claim. Gottschall is trying to prevent patients from self-sabotaging with "just a taste."'
 claim_type: "dietary"
 source_note: "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]"
 created: 2026-08-01

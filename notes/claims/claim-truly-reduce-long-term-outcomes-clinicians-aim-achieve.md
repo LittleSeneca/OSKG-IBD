@@ -13,7 +13,7 @@ tags:
 claim_id: "yamada-cd64-1"
 statement: "To truly reduce long-term outcomes of CD, clinicians should aim to achieve not only symptomatic improvement but rather deep remission as a goal of therapy."
 confidence: "high"
-confidence_rationale: "HIGH. The treat-to-target paradigm is now standard of care, endorsed by STRIDE-II and major guidelines. The CALM trial (2017) is the landmark study. The authors' framing of "deep remission" as encompa"
+confidence_rationale: 'HIGH. The treat-to-target paradigm is now standard of care, endorsed by STRIDE-II and major guidelines. The CALM trial (2017) is the landmark study. The authors'' framing of "deep remission" as encompa'
 claim_type: "therapeutic"
 source_note: "[[Yamada 7E - Ch64 Crohn's Disease Management]]"
 created: 2026-08-01

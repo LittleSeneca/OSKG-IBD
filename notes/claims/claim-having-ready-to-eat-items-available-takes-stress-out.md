@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/diet
+  - topic/treatment
+  - topic/crohns-disease
   - evidence/expert-consensus
   - scholar/foote
   - source/foote-cookbook

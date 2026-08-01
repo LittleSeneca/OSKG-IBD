@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/corticosteroids
   - topic/surgery
+  - topic/treatment
   - evidence/clinical-guideline
   - evidence/systematic-review
   - scholar/feuerstein

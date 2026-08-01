@@ -11,7 +11,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-rewild-5"
-statement: "Table 11-5 provides a detailed "Sample Pregnancy and Birth Plan/Goals" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights"
+statement: 'Table 11-5 provides a detailed "Sample Pregnancy and Birth Plan/Goals" covering pregnancy (avoid antibiotics and medications, avoid early induction), labor (no IV/catheter unless necessary, dim lights'
 confidence: "high"
 confidence_rationale: "HIGH. The microbiome benefits of vaginal delivery and breastfeeding are well-established. The birth plan format is a patient-empowerment tool, not a clinical trial — its value is in giving patients la"
 claim_type: "therapeutic"

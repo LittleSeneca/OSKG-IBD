@@ -11,7 +11,7 @@ tags:
   - source/steinhart-crohns-colitis
   - domain/treatment
 claim_id: "steinhart-drug-7"
-statement: "Vedolizumab "is 'gut specific'... it does not appear to suppress the entire body's immune system, only the immune system of the gut... serious infections occurring only very rarely." For ustekinumab: "
+statement: 'Vedolizumab "is ''gut specific''... it does not appear to suppress the entire body''s immune system, only the immune system of the gut... serious infections occurring only very rarely." For ustekinumab: '
 confidence: "high"
 confidence_rationale: "HIGH for vedolizumab's safety advantage and moderate efficacy. HIGH for ustekinumab's efficacy in Crohn's. Both drugs now have extensive post-marketing data confirming their profiles."
 claim_type: "therapeutic"

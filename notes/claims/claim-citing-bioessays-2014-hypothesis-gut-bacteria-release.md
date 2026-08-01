@@ -10,7 +10,7 @@ tags:
   - source/chutkan-microbiome-solution
   - domain/microbiome
 claim_id: "chutkan-dysbiosis-6"
-statement: "Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. "What we think of as just a wicked sweet toot"
+statement: 'Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affect mood and taste perception, creating cravings for the foods they prefer. "What we think of as just a wicked sweet toot'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "mechanistic"

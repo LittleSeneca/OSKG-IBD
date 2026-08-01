@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/immunomodulators
   - topic/imaging
+  - topic/biologics
+  - topic/corticosteroids
   - evidence/clinical-guideline
   - scholar/feuerstein
   - source/aga-cd-2021

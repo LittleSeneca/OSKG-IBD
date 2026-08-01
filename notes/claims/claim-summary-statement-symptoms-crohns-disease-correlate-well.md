@@ -13,7 +13,7 @@ tags:
   - domain/clinical-guidelines
   - society/acg
 claim_id: "acg-cd2018-2"
-statement: "Summary Statement 9. "Symptoms of Crohn's disease do not correlate well with the presence of active inflammation, and therefore should not be the sole guide for therapy.""
+statement: 'Summary Statement 9. "Symptoms of Crohn''s disease do not correlate well with the presence of active inflammation, and therefore should not be the sole guide for therapy."'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "diagnostic"

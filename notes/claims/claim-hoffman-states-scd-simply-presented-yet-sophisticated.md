@@ -12,7 +12,7 @@ tags:
   - source/gottschall-btv
   - domain/nutrition
 claim_id: "gottschall-fw-1"
-statement: "Hoffman states the SCD is "simply presented, yet sophisticated in its conception" and "transcends several oversimplifications to which patients with gastrointestinal problems and their physicians ofte"
+statement: 'Hoffman states the SCD is "simply presented, yet sophisticated in its conception" and "transcends several oversimplifications to which patients with gastrointestinal problems and their physicians ofte'
 confidence: "medium"
 confidence_rationale: "MEDIUM. Single clinician's anecdotal report, but Hoffman is an established gastroenterologist with a practice focused on GI disorders. His observation that standard approaches failed some patients is "
 claim_type: "therapeutic"

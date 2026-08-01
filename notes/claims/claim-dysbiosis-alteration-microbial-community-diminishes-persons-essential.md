@@ -12,7 +12,7 @@ tags:
 claim_id: "chutkan-dysbiosis-1"
 statement: "Dysbiosis is an alteration of the microbial community that diminishes a person's essential population of good bacteria and allows pathogenic (bad) bacteria that are normally present in low amounts to "
 confidence: "medium"
-confidence_rationale: "MEDIUM. The dysbiosis concept is well-supported in the microbiome literature, but Chutkan's claim that it is "the most common disorder I see in my gastroenterology practice" is based on clinical impre"
+confidence_rationale: 'MEDIUM. The dysbiosis concept is well-supported in the microbiome literature, but Chutkan''s claim that it is "the most common disorder I see in my gastroenterology practice" is based on clinical impre'
 claim_type: "diagnostic"
 source_note: "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]"
 created: 2026-08-01

@@ -3,7 +3,6 @@ tags:
   - type/claim
   - oskg-ibd
   - domain/clinical-guidelines
-  - topic/een
   - topic/elemental-diet
   - topic/nutrition
   - topic/crohns-disease

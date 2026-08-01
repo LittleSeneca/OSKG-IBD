@@ -10,9 +10,9 @@ tags:
   - source/sarna-sibo-diet
   - domain/nutrition
 claim_id: "sarna-sibo-diet-5"
-statement: "Quoting Siebecker: "When you're on a diet that's so restricted both in scope and in portion size, it could trigger an eating disorder, which is why we try to treat the SIBO and then expand the diet as"
+statement: 'Quoting Siebecker: "When you''re on a diet that''s so restricted both in scope and in portion size, it could trigger an eating disorder, which is why we try to treat the SIBO and then expand the diet as'
 confidence: "high"
-confidence_rationale: "MEDIUM-HIGH. The association between restrictive medical diets and disordered eating is documented in the eating disorder literature. Sarna's recommendation for planned "treats" is a harm reduction st"
+confidence_rationale: 'MEDIUM-HIGH. The association between restrictive medical diets and disordered eating is documented in the eating disorder literature. Sarna''s recommendation for planned "treats" is a harm reduction st'
 claim_type: "therapeutic"
 source_note: "[[Sarna 2021 - Healing SIBO Dietary Protocol]]"
 created: 2026-08-01

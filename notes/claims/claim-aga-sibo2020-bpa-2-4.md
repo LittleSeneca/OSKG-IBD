@@ -10,7 +10,7 @@ tags:
   - scholar/quigley
   - source/aga-sibo-2020
 claim_id: "aga-sibo2020-implicit-2"
-statement: "BPA 2-4: "Symptoms traditionally linked to SIBO include bloating, diarrhea and abdominal pain/discomfort. Steatorrhea may be seen in more severe cases.""
+statement: 'BPA 2-4: "Symptoms traditionally linked to SIBO include bloating, diarrhea and abdominal pain/discomfort. Steatorrhea may be seen in more severe cases."'
 confidence: "medium"
 confidence_rationale: "Extracted from implicit claim structure in source note."
 claim_type: "diagnostic"

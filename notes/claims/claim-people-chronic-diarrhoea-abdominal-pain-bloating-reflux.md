@@ -12,7 +12,7 @@ tags:
   - source/campbell-mcbride-gaps
   - domain/nutrition
 claim_id: "campbell-gaps-5"
-statement: "For people with "chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn's disease, acute or chronic gastritis, acute or chronic enterocolitis, oes"
+statement: 'For people with "chronic diarrhoea, abdominal pain, bloating, reflux, blood or mucous in the stool, ulcerative colitis, Crohn''s disease, acute or chronic gastritis, acute or chronic enterocolitis, oes'
 confidence: "medium"
 confidence_rationale: ""
 claim_type: "dietary"
