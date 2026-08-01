@@ -44,10 +44,10 @@ Cross-reference only. Broader frameworks that inform but aren't core to the IBD/
 
 | # | Title | Author(s) | Year | Status |
 |---|-------|-----------|------|--------|
-| 17 | The Good Gut | Sonnenburg, Sonnenburg | 2015 | Pending |
-| 18 | The Autoimmune Solution | Myers | 2015 | Pending |
-| 19 | The Paleo Approach | Ballantyne | 2013 | Pending |
-| 20 | Inflamed: Deep Medicine and the Anatomy of Injustice | Marya, Patel | 2021 | Pending |
+| 17 | The Good Gut | Sonnenburg, Sonnenburg | 2015 | Acquired (PDF) |
+| 18 | The Autoimmune Solution | Myers | 2015 | Acquired (epub) |
+| 19 | The Paleo Approach | Ballantyne | 2013 | Acquired (PDF) |
+| 20 | Inflamed: Deep Medicine and the Anatomy of Injustice | Marya, Patel | 2021 | Acquired (epub) |
 
 ## Notes
 
