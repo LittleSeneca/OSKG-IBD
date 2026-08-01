@@ -63,6 +63,7 @@ See source note.
 **Extends:**
 
 **Operationalizes:**
+- [[claim-graded-recommendation-discussed-reference-standard-significant-limitations|ACG 2020 suggests breath testing for SIBO diagnosis while acknowledging the limitations of the reference standard that Rome 2017 documented]]
 
 **Challenged by:**
 - [[claim-role-sibo-pathogenesis-ibs-controversial-because-breath|Rome 2017 report challenges the validity of breath testing that ACG SIBO 2020 suggests for SIBO diagnosis, noting breath]]

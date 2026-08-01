@@ -60,6 +60,7 @@ See source note.
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-sibo-defined-presence-excessive-numbers-bacteria-small|Chutkan frames SIBO as simply another term for dysbiosis; ACG defines SIBO as a distinct clinical syndrome requiring specific diagnostic criteria and treatment — these are different conceptual frameworks]]
 
 ## Assessment
 

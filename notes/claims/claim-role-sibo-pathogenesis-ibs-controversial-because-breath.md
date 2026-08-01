@@ -66,6 +66,8 @@ See source note.
 **Operationalizes:**
 
 **Challenged by:**
+- [[claim-our-research-found-about-three-quarters-patients-many|Rome 2017's skepticism about the SIBO-IBS link is challenged by Pimentel's finding that ~75% of IBS patients at a major referral center have positive breath tests suggesting SIBO, with treatment response supporting the link]]
+- [[claim-sibo-core-principles-unchanged-2006-2022|Rome 2017's critique of breath test validation is challenged by Pimentel's 16-year clinical dataset showing lactulose breath testing correlating with treatment response]]
 - [[claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo|Rome 2017 report challenges the validity of breath testing that ACG SIBO 2020 suggests for SIBO diagnosis, noting breath]]
 
 **Contradicts:**

@@ -76,8 +76,10 @@ See source note.
 **Supports:**
 
 **Contradicts:**
+- [[claim-simple-approach-minimizing-undesirable-activities-intestinal-microbes|ACG guideline establishes antibiotics as cornerstone of SIBO treatment; Gottschall argues antibiotics have limited usefulness for chronic intestinal disorders — mutually exclusive treatment philosophies]]
 
 **Challenged by:**
+- [[claim-mainstream-approach-sibo-usual-try-kill-microbes|ACG's antibiotic-first recommendation is challenged by Campbell-McBride's argument that low stomach acid and damaged gut lining are root causes that antibiotics cannot address]]
 
 ## Assessment
 

@@ -65,6 +65,7 @@ This directly contradicts Gottschall's model (diet alone can cure IBD/SIBO by st
 - [[claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering|Gottschall asserts that fanatical dietary adherence leads to recovery; Pimentel counters that diet alone is insufficient]]
 
 **Contradicts:**
+- [[claim-specific-carbohydrate-diet-most-often-corrects-malabsorption|Pimentel's position that diet alone won't cure SIBO directly contradicts Gottschall's foundational SCD claim that carbohydrate-restrictive diet corrects malabsorption and enables healing]]
 
 ## Assessment
 

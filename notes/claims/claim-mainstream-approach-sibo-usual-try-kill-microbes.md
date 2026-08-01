@@ -54,12 +54,15 @@ See source note.
 **Depends on:**
 
 **Supports:**
+- [[claim-simple-approach-minimizing-undesirable-activities-intestinal-microbes|Campbell-McBride extends Gottschall's antibiotic skepticism by identifying specific root causes (low stomach acid, damaged gut lining) that antibiotics fail to address]]
 
 **Extends:**
 
 **Operationalizes:**
 
 **Challenged by:**
+- [[claim-prokinetic-optimization-erythromycin-prucalopride|Campbell-McBride's framing of SIBO treatment as simply 'killing microbes' overlooks the prokinetic component of modern protocols that addresses the motility defect (the root cause in Pimentel's model)]]
+- [[claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence|Campbell-McBride argues the antibiotic approach treats symptoms not cause; ACG guideline demonstrates 61-78% rifaximin efficacy supporting antibiotics as first-line treatment]]
 - [[claim-low-fermentation-eating-two-essential-rules-restrict-products|Campbell-McBride argues that killing microbes misses the root cause (low stomach acid, damaged gut lining), whereas Pime]]
 
 **Contradicts:**

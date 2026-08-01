@@ -57,10 +57,12 @@ If the "gold standard" is unreliable, then breath testing -- which is non-invasi
 **Depends on:**
 
 **Supports:**
+- [[claim-aga-sibo2020-bpa-5-6|Pimentel's detailed critique of aspirate culture limitations supports AGA's observation that limited understanding of normal small intestinal populations impedes SIBO definition]]
 
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-aga-sibo2020-bpa-5-6|Pimentel acknowledges culture limitations but maintains it as traditional gold standard; AGA argues limited understanding of normal small intestinal populations prevents any gold standard claim]]
 
 ## Assessment
 

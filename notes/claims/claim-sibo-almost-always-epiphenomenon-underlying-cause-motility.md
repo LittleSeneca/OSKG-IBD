@@ -59,6 +59,7 @@ See source note.
 **Supports:**
 
 **Extends:**
+- [[claim-notice-just-referred-ibs-disease-doesnt-ibs|ACG's clinical framing that SIBO is almost always an epiphenomenon of an underlying cause extends Pimentel's argument that IBS should be reclassified from syndrome to disease: both recognize organic etiology]]
 - [[claim-antibiotics-restricted-solely-prevent-flares-stressdepression-assessment|The SIBO epiphenomenon principle extends the CD antibiotics argument: both reject simple antimicrobial-only strategies i]]
 
 **Operationalizes:**

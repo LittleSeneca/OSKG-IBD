@@ -59,6 +59,7 @@ See source note.
 **Depends on:**
 
 **Supports:**
+- [[claim-notice-just-referred-ibs-disease-doesnt-ibs|Rome Foundation's 2017 acknowledgment that IBS and IBD may exist on a continuum supports Pimentel's argument that IBS has an organic, not merely functional, basis]]
 
 **Extends:**
 - [[claim-single-reference-standard-exists-ibd-diagnosis-composite|The IBS-IBD continuum concept provides biological rationale for why no single diagnostic reference standard exists for I]]

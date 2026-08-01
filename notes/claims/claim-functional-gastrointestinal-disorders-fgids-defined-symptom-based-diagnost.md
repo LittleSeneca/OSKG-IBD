@@ -59,9 +59,11 @@ See source note.
 **Operationalizes:**
 
 **Challenged by:**
+- [[claim-based-validation-study-almost-3000-patients-proved|Rome Foundation's symptom-based FGID framework is challenged by Pimentel's validation of a blood test with >90% diagnostic certainty for IBS, suggesting biomarkers may replace symptom-based criteria]]
 - [[claim-sibo-defined-presence-excessive-numbers-bacteria-small|The SIBO paradigm challenges the symptom-based FGID framework by identifying an organic bacterial cause for symptoms pre]]
 
 **Contradicts:**
+- [[claim-notice-just-referred-ibs-disease-doesnt-ibs|The Rome Foundation symptom-based FGID framework is directly contradicted by Pimentel's argument that IBS is a disease with a defined organic cause (SIBO) and should be reclassified]]
 
 ## Assessment
 

@@ -59,6 +59,7 @@ See source note.
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-probiotics-insufficient-evidence-sibo-treatment-fmt-carries|Campbell-McBride recommends specific probiotics as part of GAPS protocol; ACG 2020 finds insufficient evidence for probiotics in SIBO treatment and cites a study suggesting they may cause harm]]
 
 ## Assessment
 

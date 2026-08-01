@@ -61,6 +61,7 @@ HCl supplementation is commonly recommended by naturopaths and functional medici
 **Operationalizes:**
 
 **Challenged by:**
+- [[claim-prebiotics-synbiotics-theoretically-potential-treating-functional-gastroin|Pimentel warns that prebiotics may feed overgrown bacteria in SIBO patients; Rome 2017 notes prebiotics/synbiotics theoretically have potential for FGIDs, though reliable data is lacking]]
 
 **Contradicts:**
 

@@ -58,6 +58,7 @@ See source note.
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-culturing-technique-considered-gold-standard-sibo-diagnosis|AGA's claim that limited understanding undermines SIBO definition is challenged by Pimentel's argument that breath test treatment-response correlation provides clinical validity despite microbiological uncertainty]]
 
 ## Assessment
 

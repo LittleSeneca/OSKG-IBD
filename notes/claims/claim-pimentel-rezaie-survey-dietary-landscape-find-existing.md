@@ -65,6 +65,7 @@ If Pimentel is right that most "food sensitivities" in SIBO/IBS are actually SIB
 - [[claim-specific-carbohydrate-diet-most-often-corrects-malabsorption|Gottschall claims SCD corrects malabsorption universally; Pimentel's survey cites a clinical trial finding low-FODMAP su]]
 
 **Contradicts:**
+- [[claim-specific-carbohydrate-diet-most-often-corrects-malabsorption|Pimentel cites a clinical trial finding SCD did not relieve IBS symptoms vs low-FODMAP; Gottschall claims SCD corrects malabsorption and heals through monosaccharide provision — contradictory evidence about SCD efficacy]]
 
 ## Assessment
 

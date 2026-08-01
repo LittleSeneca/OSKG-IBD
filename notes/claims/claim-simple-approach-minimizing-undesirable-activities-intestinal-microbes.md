@@ -57,6 +57,7 @@ The SCD vs. antibiotic debate is still live. Pimentel's protocol uses rifaximin 
 **Supports:**
 
 **Contradicts:**
+- [[claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence|Gottschall's claim that antibiotics are of limited usefulness directly contradicts the ACG guideline's recommendation that antibiotics are the cornerstone of SIBO treatment]]
 
 **Challenged by:**
 

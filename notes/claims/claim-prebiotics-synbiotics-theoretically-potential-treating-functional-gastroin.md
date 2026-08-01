@@ -67,6 +67,7 @@ See source note.
 **Operationalizes:**
 
 **Challenged by:**
+- [[claim-you-sibo-taking-prebiotic-actually-provide-food|Rome 2017's theoretical support for prebiotics is challenged by Pimentel's clinical observation that prebiotics cause more bloating in SIBO patients and may feed unwanted overgrowth]]
 
 **Contradicts:**
 

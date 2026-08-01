@@ -57,6 +57,7 @@ The disease/syndrome distinction directly impacts research funding ($5 million/y
 **Supports:**
 
 **Contradicts:**
+- [[claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost|Pimentel asserts IBS is a disease with organic etiology (SIBO), not a syndrome; Rome Foundation defines FGIDs including IBS as symptom-based disorders diagnosed in the absence of structural pathology — contradictory nosological frameworks]]
 
 **Challenged by:**
 

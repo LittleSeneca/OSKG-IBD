@@ -60,6 +60,7 @@ A positive blood test for IBS would transform clinical practice: eliminating the
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost|Pimentel's claim of >90% IBS diagnostic certainty via blood test (anti-CdtB/anti-vinculin) challenges Rome Foundation's symptom-based FGID diagnostic framework, which does not incorporate biomarkers]]
 
 ## Assessment
 

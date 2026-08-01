@@ -57,6 +57,7 @@ The elemental diet provides an antibiotic-free option for patients who cannot to
 **Depends on:**
 
 **Supports:**
+- [[claim-three-treatment-modalities-pharmaceutical-herbal-elemental|Pimentel's 2007 elemental diet study (>80% efficacy) provides the evidence base for Sarna's inclusion of elemental diet as a co-equal treatment modality]]
 
 **Contradicts:**
 

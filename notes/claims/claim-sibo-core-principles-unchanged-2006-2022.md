@@ -58,6 +58,7 @@ The unchanged principles represent the bedrock of Pimentel's SIBO framework. If 
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-role-sibo-pathogenesis-ibs-controversial-because-breath|Pimentel asserts breath testing is clinically valid; Rome 2017 challenges this, noting breath tests have not been validated against an accepted gold standard]]
 
 ## Assessment
 

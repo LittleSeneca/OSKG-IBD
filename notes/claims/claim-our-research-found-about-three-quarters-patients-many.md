@@ -61,6 +61,7 @@ If SIBO causes IBS in the majority of patients, then treating SIBO should resolv
 **Contradicts:**
 
 **Challenged by:**
+- [[claim-role-sibo-pathogenesis-ibs-controversial-because-breath|Pimentel's 75% SIBO-in-IBS claim is challenged by Rome Foundation's finding that the SIBO-IBS link is controversial because the breath tests underlying positive studies have not been validated]]
 
 ## Assessment
 

@@ -54,8 +54,10 @@ The alignment on core SIBO concepts validates the Pimentel framework's penetrati
 <!-- Populate during cross-source edge pass -->
 
 **Depends on:**
+- [[claim-three-gas-model-imo-terminology-evolution|Sarna's SIBO education framework depends on Pimentel's three-gas model and IMO terminology evolution (2006-2022) for its diagnostic structure]]
 
 **Supports:**
+- [[claim-sibo-core-principles-unchanged-2006-2022|Sarna's independent patient-education framework validates the stability of Pimentel's core SIBO principles (MMC, food poisoning etiology, IBS-SIBO connection) across 16 years]]
 
 **Contradicts:**
 

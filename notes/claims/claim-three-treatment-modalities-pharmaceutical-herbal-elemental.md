@@ -56,6 +56,7 @@ The framing of herbal antimicrobials as co-equal with pharmaceutical antibiotics
 - [[claim-treatment-efficacy-modest-improvement-2006-2022|Pimentel's finding of only modest absolute efficacy improvement from 2006-2022 explains why Sarna presents pharmaceutica]]
 
 **Extends:**
+- [[claim-treatment-expectation-refinement-2006-2022|Sarna's three-modality framework operationalizes Pimentel's treatment expectation refinement by offering patients structured alternatives when rifaximin monotherapy fails]]
 
 **Operationalizes:**
 

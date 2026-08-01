@@ -55,6 +55,7 @@ If all diets work through the same mechanism, the differences between them are a
 **Depends on:**
 
 **Supports:**
+- [[claim-diet-alone-wont-cure-sibo-even-you|Sarna's observation that all SIBO diets work by reducing fermentable carbohydrates explains why Pimentel's LFE diet achieves symptom control without curing the underlying overgrowth]]
 
 **Contradicts:**
 
