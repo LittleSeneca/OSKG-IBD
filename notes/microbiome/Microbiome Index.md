@@ -24,6 +24,7 @@ Gut microbiome science relevant to IBD and SIBO. Dysbiosis, archaea, methanogens
 | [[Sarna 2021 - Healing SIBO Patient Guide]] | Whole book (Tier 2) | Complete |
 | [[Microbiome Science Context - Enders Mayer Bulsiewicz Yong]] | 4 books combined (Tier 2) | Complete |
 | [[LaPine 2021 - SIBO Made Simple Cookbook]] | Whole book (Tier 2) | Complete |
+| [[Yamada Ch58 - Bacterial Overgrowth Textbook]] | Ch58 (Tier 1) | Complete |
 | [[The Good Gut - Sonnenburg 2015]] | Whole book (Tier 4) | Complete |
 | [[The Microbiome Solution - Chutkan - Intro Ch1-3]] | Intro + Chs 1-3 (Tier 2) | Complete |
 | [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] | Ch 5 (Tier 2) | Complete |
