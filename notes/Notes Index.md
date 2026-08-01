@@ -15,7 +15,7 @@ Entry point for all OSKG-IBD knowledge domains. Each sub-index links to the read
 | Pathophysiology | [[pathophysiology/Pathophysiology Index]] | Active — 1 note (Yamada Ch 62, Tier 1) |
 | Diagnosis | [[diagnosis/Diagnosis Index]] | Active — 2 notes (Yamada Ch 63 UC, Ch 64 CD, Tier 1) |
 | Treatment | [[treatment/Treatment Index]] | Active — 5 notes (Steinhart x2, Yamada x3, Tier 1) |
-| Microbiome | [[microbiome/Microbiome Index]] | Phase 1 complete -- 17 notes (Tier 1 Pimentel 2022/2006 + Yamada, Tier 2 Sarna/LaPine/Chutkan/context, Tier 4 Sonnenburg) |
+| Microbiome | [[microbiome/Microbiome Index]] | Phase 1 complete -- 18 notes (Tier 1 Pimentel 2022/2006 + Yamada Ch58 + Sleisenger/Yamada assessment, Tier 2 Sarna/LaPine/Chutkan/context, Tier 4 Sonnenburg) |
 | Nutrition | [[nutrition/Nutrition Index]] | Phase 1 complete -- 8 notes (SCD, EEN, LFE, SSFG, anti-inflammatory) |
 | Clinical Guidelines | [[clinical-guidelines/Clinical Guidelines Index]] | Phase 1 complete — 11 notes (ACG, AGA, ECCO, Rome, BSG) |
 | History | [[history/History Index]] | Active — 1 note (Tier 4) |
