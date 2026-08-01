@@ -36,6 +36,11 @@ related:
   - "[[Pimentel 2022 - Low-Fermentation Eating]]"
   - "[[Rezaie Breath Test Consensus 2017]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 9
+claims_files: ["claim-acg-sibo2020-1", "claim-acg-sibo2020-2", "claim-acg-sibo2020-3", "claim-acg-sibo2020-4", "claim-acg-sibo2020-5", "claim-acg-sibo2020-6", "claim-acg-sibo2020-7", "claim-acg-sibo2020-8", "claim-acg-sibo2020-9"]
+
 
 # ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth (Pimentel et al., 2020)
 

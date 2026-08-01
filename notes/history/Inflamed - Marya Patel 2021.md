@@ -21,6 +21,11 @@ related:
   - "[[History Index]]"
   - "[[Pathophysiology Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 1
+claims_files: ["claim-marya-inflamed-implicit-7"]
+
 
 # Inflamed — Marya & Patel (2021)
 

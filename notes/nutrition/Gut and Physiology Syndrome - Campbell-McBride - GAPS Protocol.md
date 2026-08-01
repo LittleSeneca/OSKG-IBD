@@ -24,6 +24,11 @@ related:
   - "[[Microbiome Index]]"
   - "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 6
+claims_files: ["claim-campbell-gaps-1", "claim-campbell-gaps-2", "claim-campbell-gaps-3", "claim-campbell-gaps-4", "claim-campbell-gaps-5", "claim-campbell-gaps-6"]
+
 
 # Campbell-McBride — GAPS Nutritional Protocol: Diet, SIBO, and IBD
 

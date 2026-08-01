@@ -31,7 +31,13 @@ The role of SIBO in the pathogenesis of IBS is very controversial because the br
 
 ## Evidence
 
-See source note.
+- Drasar & Shiner (1969): 13 diarrhea patients, jejunal capsule -- "no difference from controls"
+- Posserud et al. (2007): 162 IBS vs 42 controls, jejunal aspirate -- 4% of IBS >10^5 CFU/mL (same as controls). But subanalysis using >5x10^3: 43% IBS vs 12% controls
+- Kerckhoffs et al. (2009): 8 IBS, 9 controls -- "no different number diagnosed with SIBO using multiple definitions"
+- Choung et al. (2011): 148 IBS, duodenal aspirate -- 2% IBS >10^5 CFU/mL vs 10% in patients with other indications
+- Pyleris et al. (2012): 85 IBS, 150 non-IBS -- 37% IBS >10^3 CFU/mL vs 15.11% non-IBS (all investigated for UGI bleed)
+- The glucose breath test has "poor sensitivity; misses distal SIBO" (Table 1)
+- The lactulose breath test "may simply measure small intestinal transit time to caecum" (Table 1)
 
 ## Confidence
 

@@ -31,7 +31,7 @@ Mucosal healing is an important therapeutic goal in both UC and CD; FC is a vali
 
 ## Evidence
 
-See source note.
+**Statement 2.1.1:** Response to treatment in active UC determined by combination of clinical parameters, endoscopy, and laboratory markers (CRP, FC) [EL1]. **Statement 2.1.2:** MH should be determined endoscopically or by FC ~3-6 months after treatment initiation [EL5]. **Statement 2.1.4:** Clinical/biochemical response in CD should be determined within 12 weeks [EL2]; endoscopic/transmural response within 6 months [EL5].
 
 ## Confidence
 

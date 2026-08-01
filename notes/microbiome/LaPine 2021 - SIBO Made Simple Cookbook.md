@@ -25,6 +25,11 @@ related:
   - "[[../nutrition/Sarna 2021 - Healing SIBO Dietary Protocol]]"
   - "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 3
+claims_files: ["claim-lapine-cookbook-1", "claim-lapine-cookbook-2", "claim-lapine-cookbook-3"]
+
 
 # LaPine 2021 — SIBO Made Simple: SCD + Low-FODMAP Integration for the Home Cook
 

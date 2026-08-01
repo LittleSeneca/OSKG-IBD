@@ -23,6 +23,11 @@ related:
   - "[[Microbiome Index]]"
   - "[[The Good Gut - Sonnenburg 2015]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 1
+claims_files: ["claim-myers-autoimmune-implicit-9"]
+
 
 # The Autoimmune Solution — Myers (2015)
 

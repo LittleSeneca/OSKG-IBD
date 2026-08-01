@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/immunomodulators
+  - topic/imaging
   - evidence/clinical-guideline
   - scholar/feuerstein
   - source/aga-cd-2021
@@ -29,7 +30,7 @@ Thiopurines are not recommended for induction but suggested for maintenance; SC/
 
 ## Evidence
 
-See source note.
+**Recommendation 3A:** "The AGA suggests against the use of thiopurines monotherapy over no treatment for achieving remission." **Conditional, very low certainty.** 5 trials, 380 patients — thiopurines did not increase corticosteroid-free remission vs. placebo. Evidence rated down for serious bias, indirectness, and serious imprecision.
 
 ## Confidence
 

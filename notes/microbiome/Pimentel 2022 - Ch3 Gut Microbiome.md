@@ -25,6 +25,11 @@ related:
   - "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]"
   - "[[The Good Gut - Sonnenburg 2015]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-pimentel-ch3-1", "claim-pimentel-ch3-2", "claim-pimentel-ch3-3", "claim-pimentel-ch3-4", "claim-pimentel-ch3-5"]
+
 
 # Pimentel & Rezaie -- Ch3: The Gut Microbiome as Second Self
 

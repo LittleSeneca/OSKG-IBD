@@ -26,6 +26,11 @@ related:
   - "[[Pimentel 2022 - Low-Fermentation Eating]]"
   - "[[../treatment/Treatment Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 6
+claims_files: ["claim-pimentel-ch2-1", "claim-pimentel-ch2-2", "claim-pimentel-ch2-3", "claim-pimentel-ch2-4", "claim-pimentel-ch2-5", "claim-pimentel-ch2-6"]
+
 
 # Pimentel & Rezaie -- Ch2: Gut Anatomy, Motility, and the Migrating Motor Complex
 

@@ -28,6 +28,11 @@ related:
   - "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]"
   - "[[Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-foote-cookbook-1", "claim-foote-cookbook-2", "claim-foote-cookbook-3", "claim-foote-cookbook-4", "claim-foote-cookbook-5", "claim-foote-cookbook-6", "claim-foote-cookbook-7"]
+
 
 # Foote -- The Crohn's Disease Cookbook: Dietary Principles and Meal Plans
 

@@ -26,6 +26,11 @@ related:
   - "[[Steinhart 2018 - Ch7 Drug Therapy]]"
   - "[[SONIC trial (Colombel 2010)]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-steinhart-surg-1", "claim-steinhart-surg-2", "claim-steinhart-surg-3", "claim-steinhart-surg-4", "claim-steinhart-surg-5", "claim-steinhart-surg-6", "claim-steinhart-surg-7"]
+
 
 # Steinhart -- Ch8: Surgical Treatment of IBD
 

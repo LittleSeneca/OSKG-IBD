@@ -18,6 +18,11 @@ related:
   - "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]"
   - "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]"
 ---
+claims_status: pending
+claims_extracted_date: 2026-08-01
+claims_count: 0
+claims_files: []
+
 
 # Sleisenger & Yamada SIBO Source Assessment
 

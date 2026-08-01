@@ -22,6 +22,11 @@ related:
   - "[[The Microbiome Solution - Chutkan - Intro Ch1-3]]"
   - "[[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 6
+claims_files: ["claim-chutkan-dysbiosis-1", "claim-chutkan-dysbiosis-2", "claim-chutkan-dysbiosis-3", "claim-chutkan-dysbiosis-4", "claim-chutkan-dysbiosis-5", "claim-chutkan-dysbiosis-6"]
+
 
 # Chutkan — Ch 5: Dysbiosis — Do You Have It?
 

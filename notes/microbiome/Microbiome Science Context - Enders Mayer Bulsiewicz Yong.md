@@ -40,6 +40,11 @@ related:
   - "[[Pimentel 2022 - Ch3 Gut Microbiome]]"
   - "[[The Good Gut - Sonnenburg 2015]]"
 ---
+claims_status: pending
+claims_extracted_date: 2026-08-01
+claims_count: 0
+claims_files: []
+
 
 # Microbiome Science Context — The Conceptual Infrastructure for IBD/SIBO
 

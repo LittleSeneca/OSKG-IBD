@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/gaps
+  - topic/imaging
   - evidence/expert-consensus
   - scholar/campbell-mcbride
   - source/campbell-mcbride-gaps
@@ -29,7 +30,7 @@ The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initial
 
 ## Evidence
 
-See source note.
+**Author's claim:** The Full GAPS Diet adds more variety: all meats, fish, eggs, vegetables (initially only well-cooked, later raw), fermented foods, nuts/seeds (properly prepared), and limited fruit. It excludes all grains, starchy vegetables (potatoes, sweet potatoes, yams, parsnips), sugar, and processed foods. The diet should be followed for "about two years" before attempting reintroduction, though "at least two years on average" for full healing. Dairy introduction follows a specific structure: ghee → butter → sour cream → yogurt → kefir → cheese.
 
 ## Confidence
 

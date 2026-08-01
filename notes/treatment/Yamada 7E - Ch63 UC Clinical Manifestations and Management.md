@@ -31,6 +31,11 @@ related:
   - "[[Steinhart 2018 - Ch8 Surgical Treatment]]"
   - "[[ACT trials (Rutgeerts 2005)]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 6
+claims_files: ["claim-yamada-uc63-1", "claim-yamada-uc63-2", "claim-yamada-uc63-3", "claim-yamada-uc63-4", "claim-yamada-uc63-5", "claim-yamada-uc63-6"]
+
 
 # Yamada 7E -- Ch63: Ulcerative Colitis: Clinical Manifestations and Management
 

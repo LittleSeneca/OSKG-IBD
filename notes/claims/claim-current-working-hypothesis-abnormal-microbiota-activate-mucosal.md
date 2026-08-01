@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/imaging
   - topic/grade
+  - topic/probiotics
+  - topic/sibo
   - evidence/clinical-guideline
   - scholar/pimentel
   - source/rome-sibo-2017

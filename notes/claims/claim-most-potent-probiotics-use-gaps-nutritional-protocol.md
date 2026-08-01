@@ -31,7 +31,7 @@ The most potent probiotics we use in the GAPS Nutritional Protocol come in the f
 
 ## Evidence
 
-See source note.
+**Author's claim:** "The most potent probiotics we use in the GAPS Nutritional Protocol come in the form of homemade fermented foods." Fermented vegetables (sauerkraut, vegetable medley), dairy ferments (yogurt, kefir, sour cream, whey), fermented fish, and fermented beverages provide a diversity of probiotic species in food form, with the food matrix enhancing survival through the stomach. Fermented cabbage juice specifically helps restore stomach acid production.
 
 ## Confidence
 

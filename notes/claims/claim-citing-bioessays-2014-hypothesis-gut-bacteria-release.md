@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/microbiome
+  - topic/imaging
+  - topic/diet
   - evidence/expert-consensus
   - scholar/chutkan
   - source/chutkan-microbiome-solution
@@ -28,7 +30,7 @@ Citing the BioEssays (2014) hypothesis: gut bacteria release molecules that affe
 
 ## Evidence
 
-See source note.
+See source note [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.
 
 ## Confidence
 

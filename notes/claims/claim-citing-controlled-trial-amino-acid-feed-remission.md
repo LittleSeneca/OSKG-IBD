@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/elemental-diet
+  - topic/imaging
+  - topic/een
   - evidence/expert-consensus
   - scholar/thompson
   - source/thompson-een

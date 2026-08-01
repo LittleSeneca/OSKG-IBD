@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/5-asa
   - topic/immunomodulators
+  - topic/endoscopy
+  - topic/colorectal-cancer
   - evidence/clinical-guideline
   - evidence/cohort
   - scholar/rubin

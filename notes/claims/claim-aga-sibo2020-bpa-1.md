@@ -30,7 +30,7 @@ BPA 1: The definition of SIBO lacks precision and consistency
 
 ## Evidence
 
-See source note.
+See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.
 
 ## Confidence
 

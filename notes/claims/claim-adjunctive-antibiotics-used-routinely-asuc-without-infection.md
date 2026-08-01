@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/antibiotics
   - topic/surgery
+  - topic/imaging
+  - topic/asuc
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/feuerstein

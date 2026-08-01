@@ -26,6 +26,11 @@ related:
   - "[[Yamada 7E - Ch64 Crohn's Disease Management]]"
   - "[[Steinhart 2018 - Ch8 Surgical Treatment]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 3
+claims_files: ["claim-yamada-surg65-1", "claim-yamada-surg65-2", "claim-yamada-surg65-3"]
+
 
 # Yamada 7E -- Ch65: Surgical Treatment of Inflammatory Bowel Disease
 

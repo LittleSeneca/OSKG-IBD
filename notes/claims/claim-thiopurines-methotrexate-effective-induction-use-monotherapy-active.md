@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/corticosteroids
   - topic/immunomodulators
+  - topic/imaging
   - evidence/clinical-guideline
   - scholar/rubin
   - source/acg-uc-2019

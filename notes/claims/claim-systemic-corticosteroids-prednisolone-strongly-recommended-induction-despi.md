@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/corticosteroids
   - topic/grade
+  - topic/imaging
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/raine

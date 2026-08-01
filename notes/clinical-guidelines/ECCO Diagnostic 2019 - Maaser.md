@@ -32,6 +32,11 @@ related:
   - "[[ECCO UC Therapeutics 2022 - Raine]]"
   - "[[STRIDE Consensus 2015 - Peyrin-Biroulet]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 13
+claims_files: ["claim-ecco-diag2019-1", "claim-ecco-diag2019-4", "claim-ecco-diag2019-2", "claim-ecco-diag2019-3", "claim-ecco-diag2019-5", "claim-ecco-diag2019-6", "claim-ecco-diag2019-7", "claim-ecco-diag2019-8", "claim-ecco-diag2019-9", "claim-ecco-diag2019-10", "claim-ecco-diag2019-11", "claim-ecco-diag2019-12", "claim-ecco-diag2019-13"]
+
 
 # ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1 (Maaser et al., 2019)
 

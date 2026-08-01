@@ -32,7 +32,7 @@ Inflammation is the body's response to damage. The damage is not just bacterial,
 
 ## Evidence
 
-See source note.
+Inflammation is the body's response to damage. The damage is not just bacterial, viral, or dietary — it is also social, economic, and environmental. Colonialism, racism, poverty, pollution, industrial food systems, and the erosion of community are inflammatory forces that literally change human biology: they alter the microbiome, dysregulate the immune system, accelerate cellular aging, and produce the chronic diseases that dominate modern medicine. The "anatomy of injustice" is written in infla
 
 ## Confidence
 

@@ -27,6 +27,11 @@ related:
   - "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]"
   - "[[Foote 2020 - Crohn's Disease Cookbook]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-thompson-een-1", "claim-thompson-een-2", "claim-thompson-een-3", "claim-thompson-een-4", "claim-thompson-een-5", "claim-thompson-een-6", "claim-thompson-een-7"]
+
 
 # Thompson -- The IBD Remission Diet: Elemental Diet Protocol
 

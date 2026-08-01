@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/imaging
+  - topic/diagnosis
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019
@@ -29,7 +30,7 @@ MRI is preferred over CT for small bowel imaging; IUS has comparable diagnostic 
 
 ## Evidence
 
-See source note.
+CT and MRI have comparable high sensitivity/specificity for small intestinal lesions. Direct comparison: IUS sensitivity 94%, specificity 97% vs. MRE 96%, 94% (Castiglione 2013, 234 patients). IUS less accurate for disease extent (r=0.69) but high concordance for location (κ=0.81). **METRIC trial** (Taylor 2018, 284 patients): MRE significantly greater sensitivity for small bowel disease extent (80% vs. 70%, p=0.027) and presence (97% vs. 92%, p=0.025); MRE specificity 95% vs. IUS 81%. For colonic disease, IUS had superior sensitivity (67% vs. 47%). Due to absence of radiation, MRI should be preferred over CT, particularly in young patients.
 
 ## Confidence
 

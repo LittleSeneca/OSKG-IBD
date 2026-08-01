@@ -32,6 +32,11 @@ related:
   - "[[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]]"
   - "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-pimentel-evol-1", "claim-pimentel-evol-2", "claim-pimentel-evol-3", "claim-pimentel-evol-4", "claim-pimentel-evol-5", "claim-pimentel-evol-6", "claim-pimentel-evol-7"]
+
 
 # Pimentel 2006 — SIBO Theory at Its Origin: Tracing 16 Years of Evolution
 

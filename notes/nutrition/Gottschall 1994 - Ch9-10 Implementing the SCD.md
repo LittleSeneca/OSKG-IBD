@@ -29,6 +29,11 @@ related:
   - "[[Foote 2020 - SCD Practical Implementation]]"
   - "[[Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-gottschall-ch910-1", "claim-gottschall-ch910-2", "claim-gottschall-ch910-3", "claim-gottschall-ch910-4", "claim-gottschall-ch910-5"]
+
 
 # Gottschall -- Ch9-10: Introducing and Implementing the Specific Carbohydrate Diet
 

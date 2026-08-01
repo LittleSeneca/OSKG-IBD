@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/microbiome
   - topic/breath-testing
+  - topic/diagnosis
+  - topic/imaging
   - evidence/systematic-review
   - scholar/pimentel
   - scholar/rezaie

@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/imaging
   - topic/breath-testing
+  - topic/diagnosis
+  - topic/diet
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/pimentel

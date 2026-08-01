@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/imaging
+  - topic/endoscopy
+  - topic/fistula
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019
@@ -29,7 +31,7 @@ Perianal CD requires combined clinical, endoscopic, and imaging evaluation; MRI 
 
 ## Evidence
 
-See source note.
+**Statement 1.13:** Unexplained perianal abscesses or complex fistulae should be investigated for CD [EL4]. Perianal fistulas/abscesses occur in 21-54% of CD patients, more frequently with colonic involvement (41%) than isolated ileal disease (12%). A perianal abscess may be the first CD presentation.
 
 ## Confidence
 

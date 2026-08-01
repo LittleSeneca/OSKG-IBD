@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/endoscopy
   - topic/histology
+  - topic/diagnosis
+  - topic/een
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019
@@ -30,7 +32,7 @@ Ileocolonoscopy with biopsies is required for diagnosis; endoscopic and histolog
 
 ## Evidence
 
-See source note.
+**Statement 1.6:** Ileocolonoscopy with biopsies from inflamed and uninflamed segments required [EL1]; sigmoidoscopy may suffice in acute severe colitis [EL3]. **Statement 1.7:** No single endoscopic feature is specific [EL2]; UC features = continuous, confluent colonic involvement with clear demarcation and rectal involvement; CD features = discontinuous lesions, strictures, fistulae, perianal involvement.
 
 ## Confidence
 

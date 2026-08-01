@@ -29,6 +29,11 @@ related:
   - "[[Pimentel 2022 - Low-Fermentation Eating]]"
   - "[[../nutrition/Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-pimentel-ch6-1", "claim-pimentel-ch6-2", "claim-pimentel-ch6-3", "claim-pimentel-ch6-4", "claim-pimentel-ch6-5", "claim-pimentel-ch6-6", "claim-pimentel-ch6-7"]
+
 
 # Pimentel & Rezaie -- Ch6: The Three Pillars of SIBO Management
 

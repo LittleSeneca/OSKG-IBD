@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/microbiome
   - topic/antibiotics
+  - topic/imaging
+  - topic/diet
   - evidence/expert-consensus
   - scholar/chutkan
   - source/chutkan-microbiome-solution

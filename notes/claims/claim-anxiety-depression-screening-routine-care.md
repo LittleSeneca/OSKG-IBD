@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/ibd
   - topic/grade
+  - topic/diagnosis
+  - topic/een
   - evidence/clinical-guideline
   - evidence/expert-consensus
   - scholar/rubin

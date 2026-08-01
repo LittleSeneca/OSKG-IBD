@@ -27,6 +27,11 @@ related:
   - "[[Pimentel 2022 - Ch5 SIBO Definition and Diagnosis]]"
   - "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-pimentel-ch9-1", "claim-pimentel-ch9-2", "claim-pimentel-ch9-3", "claim-pimentel-ch9-4", "claim-pimentel-ch9-5"]
+
 
 # Pimentel & Rezaie -- Ch9: Refractory SIBO -- Additional Therapies and Differential Diagnoses
 

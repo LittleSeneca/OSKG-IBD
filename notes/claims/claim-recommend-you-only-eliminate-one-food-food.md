@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/crohns-disease
+  - topic/imaging
   - evidence/expert-consensus
   - scholar/foote
   - source/foote-cookbook

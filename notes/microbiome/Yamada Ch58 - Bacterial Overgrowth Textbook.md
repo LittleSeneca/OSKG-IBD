@@ -27,6 +27,11 @@ related:
   - "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]"
   - "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 1
+claims_files: ["claim-yamada-sibo58-implicit-5"]
+
 
 # Yamada Ch58 — Bacterial Overgrowth: The Mainstream Gastroenterology Perspective
 

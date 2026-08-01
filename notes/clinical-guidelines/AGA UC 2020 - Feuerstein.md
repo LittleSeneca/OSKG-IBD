@@ -39,6 +39,11 @@ related:
   - "[[AGA Mild-Moderate UC 2018 - Ko]]"
   - "[[ECCO UC 2022]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 22
+claims_files: ["claim-aga-uc2020-1", "claim-aga-uc2020-2", "claim-aga-uc2020-3", "claim-aga-uc2020-4", "claim-aga-uc2020-5", "claim-aga-uc2020-6", "claim-aga-uc2020-7", "claim-aga-uc2020-8", "claim-aga-uc2020-9", "claim-aga-uc2020-10", "claim-aga-uc2020-11", "claim-aga-uc2020-rec2a", "claim-aga-uc2020-rec2c", "claim-aga-uc2020-rec3a", "claim-aga-uc2020-rec3b", "claim-aga-uc2020-rec3c", "claim-aga-uc2020-rec4a", "claim-aga-uc2020-rec6", "claim-aga-uc2020-rec7", "claim-aga-uc2020-rec8", "claim-aga-uc2020-rec9", "claim-aga-uc2020-rec10"]
+
 
 # AGA Clinical Practice Guidelines on Moderate to Severe Ulcerative Colitis (Feuerstein et al., 2020)
 

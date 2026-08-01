@@ -42,6 +42,11 @@ related:
   - "[[STRIDE Consensus 2015 - Peyrin-Biroulet]]"
   - "[[SCENIC Consensus 2015 - Laine]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 34
+claims_files: ["claim-ecco-uc2022-1", "claim-ecco-uc2022-2", "claim-ecco-uc2022-3", "claim-ecco-uc2022-4", "claim-ecco-uc2022-5", "claim-ecco-uc2022-6", "claim-ecco-uc2022-7", "claim-ecco-uc2022-8", "claim-ecco-uc2022-9", "claim-ecco-uc2022-10", "claim-ecco-uc2022-11", "claim-ecco-uc2022-12", "claim-ecco-uc2022-13", "claim-ecco-uc2022-14", "claim-ecco-uc2022-rec1", "claim-ecco-uc2022-rec2", "claim-ecco-uc2022-rec3", "claim-ecco-uc2022-rec4", "claim-ecco-uc2022-rec5", "claim-ecco-uc2022-rec6", "claim-ecco-uc2022-rec7", "claim-ecco-uc2022-rec8", "claim-ecco-uc2022-rec9", "claim-ecco-uc2022-rec10", "claim-ecco-uc2022-rec11", "claim-ecco-uc2022-rec12", "claim-ecco-uc2022-rec13", "claim-ecco-uc2022-rec14", "claim-ecco-uc2022-rec15", "claim-ecco-uc2022-rec16", "claim-ecco-uc2022-rec18", "claim-ecco-uc2022-rec19", "claim-ecco-uc2022-rec20", "claim-ecco-uc2022-rec21"]
+
 
 # ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment (Raine et al., 2022)
 

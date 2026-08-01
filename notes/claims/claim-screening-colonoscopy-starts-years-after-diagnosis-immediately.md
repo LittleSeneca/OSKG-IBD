@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/endoscopy
   - topic/epidemiology
+  - topic/diagnosis
+  - topic/imaging
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/rubin

@@ -26,6 +26,11 @@ related:
   - "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]"
   - "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-gottschall-ch12-1", "claim-gottschall-ch12-2", "claim-gottschall-ch12-3", "claim-gottschall-ch12-4", "claim-gottschall-ch12-5"]
+
 
 # Gottschall -- Ch1-2: Origins and Scientific Evidence for the SCD
 

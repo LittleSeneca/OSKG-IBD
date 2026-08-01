@@ -28,6 +28,11 @@ related:
   - "[[Pimentel 2022 - Ch2 Gut Anatomy and MMC]]"
   - "[[Pimentel 2022 - Ch3 Gut Microbiome]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-pimentel-ch4-1", "claim-pimentel-ch4-2", "claim-pimentel-ch4-3", "claim-pimentel-ch4-4", "claim-pimentel-ch4-5"]
+
 
 # Pimentel & Rezaie -- Ch4: Food Poisoning as a New Cause of IBS -- The Autoimmunity Model
 

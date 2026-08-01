@@ -31,7 +31,7 @@ The report provides seven general clinical recommendations that prioritize dieta
 
 ## Evidence
 
-See source note.
+**Box 4: Diagnostic and Therapeutic General Recommendations:**
 
 ## Confidence
 

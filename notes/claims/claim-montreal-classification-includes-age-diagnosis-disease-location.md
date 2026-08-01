@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/diagnosis
   - topic/inflammation
+  - topic/fistula
   - evidence/systematic-review
   - evidence/mechanistic
   - scholar/ananthakrishnan

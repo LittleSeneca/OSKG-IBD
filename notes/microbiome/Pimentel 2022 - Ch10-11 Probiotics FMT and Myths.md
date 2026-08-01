@@ -30,6 +30,11 @@ related:
   - "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]"
   - "[[The Good Gut - Sonnenburg 2015]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 3
+claims_files: ["claim-pimentel-ch10-1", "claim-pimentel-ch10-2", "claim-pimentel-ch10-3"]
+
 
 # Pimentel & Rezaie -- Ch10-11: Probiotics, FMT, and the 10 Myths of IBS
 

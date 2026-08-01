@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/grade
+  - topic/imaging
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/feuerstein
@@ -30,7 +31,7 @@ This is a GRADE guideline with PICO-structured questions, supported by the first
 
 ## Evidence
 
-See source note.
+**Scope:** Adult outpatients with moderate to severe luminal CD (CDAI ≥220 or high-risk features per IOIBD criteria) and perianal fistulizing CD. Surgical management, TDM, and postoperative prophylaxis are excluded — the latter is a notable gap compared with ACG 2018.
 
 ## Confidence
 

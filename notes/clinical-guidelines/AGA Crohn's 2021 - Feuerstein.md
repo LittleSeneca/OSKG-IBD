@@ -42,6 +42,11 @@ related:
   - "[[AGA TDM in IBD 2017]]"
   - "[[STRIDE-II 2021]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 12
+claims_files: ["claim-aga-cd2021-1", "claim-aga-cd2021-2", "claim-aga-cd2021-3", "claim-aga-cd2021-4", "claim-aga-cd2021-5", "claim-aga-cd2021-6", "claim-aga-cd2021-7", "claim-aga-cd2021-8", "claim-aga-cd2021-rec4", "claim-aga-cd2021-rec7", "claim-aga-cd2021-rec9", "claim-aga-cd2021-rec11"]
+
 
 # AGA Clinical Practice Guideline: Medical Management of Moderate to Severe Luminal and Fistulizing Crohn's Disease (Feuerstein et al., 2021)
 

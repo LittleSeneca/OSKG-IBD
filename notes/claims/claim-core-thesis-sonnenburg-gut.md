@@ -5,6 +5,8 @@ tags:
   - domain/microbiome
   - topic/microbiome
   - topic/diet
+  - topic/imaging
+  - topic/antibiotics
   - evidence/expert-consensus
   - scholar/sonnenburg
   - source/sonnenburg-good-gut
@@ -29,7 +31,7 @@ The human gut microbiota is a "second genome" — a collection of over 2 million
 
 ## Evidence
 
-See source note.
+The human gut microbiota is a "second genome" — a collection of over 2 million microbial genes that is malleable through diet and lifestyle, unlike the fixed human genome. The Western lifestyle (processed foods, antibiotics, C-sections, hyper-sanitization) is driving a mass extinction of gut bacterial diversity, and this loss is causally linked to the rise in autoimmune diseases, allergies, metabolic disorders, and inflammatory bowel diseases.
 
 ## Confidence
 

@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/sibo
   - topic/breath-testing
+  - topic/probiotics
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/pimentel

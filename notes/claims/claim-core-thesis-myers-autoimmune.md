@@ -30,7 +30,7 @@ Autoimmune disease is not inevitable or irreversible. Genetic predisposition acc
 
 ## Evidence
 
-See source note.
+Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25% of risk; environmental factors — diet, gut health, toxins, infections, and stress — account for the other 75%. By addressing these environmental factors through a systematic protocol, patients can reverse autoimmune conditions, not merely manage symptoms with drugs. Leaky gut is the necessary precondition for autoimmunity; heal the gut and the autoimmune process can be arrested.
 
 ## Confidence
 

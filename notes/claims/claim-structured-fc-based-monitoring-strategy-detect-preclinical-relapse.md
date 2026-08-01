@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/imaging
   - topic/biomarkers
+  - topic/diagnosis
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019

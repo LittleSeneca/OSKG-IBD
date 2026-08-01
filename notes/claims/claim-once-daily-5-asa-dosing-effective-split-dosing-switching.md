@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/5-asa
   - topic/grade
+  - topic/imaging
+  - topic/een
   - evidence/clinical-guideline
   - evidence/meta-analysis
   - scholar/rubin

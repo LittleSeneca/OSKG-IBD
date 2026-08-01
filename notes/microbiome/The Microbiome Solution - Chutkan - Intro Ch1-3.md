@@ -23,6 +23,11 @@ related:
   - "[[The Good Gut - Sonnenburg 2015]]"
   - "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 4
+claims_files: ["claim-chutkan-found-1", "claim-chutkan-found-2", "claim-chutkan-found-3", "claim-chutkan-found-4"]
+
 
 # Chutkan — Introduction + Chs 1-3: Microbiome Foundations
 

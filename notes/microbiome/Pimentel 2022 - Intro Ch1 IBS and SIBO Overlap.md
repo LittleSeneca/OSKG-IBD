@@ -29,6 +29,11 @@ related:
   - "[[../nutrition/Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]"
   - "[[../nutrition/Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-pimentel-ch1-1", "claim-pimentel-ch1-2", "claim-pimentel-ch1-3", "claim-pimentel-ch1-4", "claim-pimentel-ch1-5", "claim-pimentel-ch1-6", "claim-pimentel-ch1-7"]
+
 
 # Pimentel & Rezaie -- Introduction & Ch1: IBS as Disease, SIBO as Cause
 

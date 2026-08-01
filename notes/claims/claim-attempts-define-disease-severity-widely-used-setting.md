@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/grade
+  - topic/imaging
   - evidence/clinical-guideline
   - scholar/raine
   - source/ecco-uc-2022

@@ -21,6 +21,11 @@ related:
   - "[[Microbiome Index]]"
   - "[[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-chutkan-rewild-4", "claim-chutkan-rewild-1", "claim-chutkan-rewild-2", "claim-chutkan-rewild-3", "claim-chutkan-rewild-5"]
+
 
 # Chutkan — Ch 11: A Rewilding Approach to Illness
 

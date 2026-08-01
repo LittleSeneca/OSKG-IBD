@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/endoscopy
   - topic/imaging
+  - topic/fistula
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019

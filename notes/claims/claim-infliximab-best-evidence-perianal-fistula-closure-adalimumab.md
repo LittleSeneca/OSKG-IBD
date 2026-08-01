@@ -32,7 +32,13 @@ Infliximab has the best evidence for perianal fistula closure; adalimumab, ustek
 
 ## Evidence
 
-See source note.
+1. Infliximab — dedicated prospective RCT (strong, moderate)
+2. Adalimumab — subgroup analysis + indirect evidence (conditional, low)
+3. Ustekinumab — pooled post hoc analysis (conditional, low)
+4. Vedolizumab — single subgroup analysis (conditional, low)
+5. Certolizumab pegol — evidence suggests ineffective
+6. Antibiotics alone — evidence suggests ineffective
+7. Antibiotics + biologic — strong recommendation for combination
 
 ## Confidence
 

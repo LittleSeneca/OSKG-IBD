@@ -27,6 +27,11 @@ related:
   - "[[Pimentel 2022 - Ch4 Food Poisoning Autoimmunity]]"
   - "[[Pimentel 2022 - Intro Ch1 IBS and SIBO Overlap]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 6
+claims_files: ["claim-pimentel-ch5-1", "claim-pimentel-ch5-2", "claim-pimentel-ch5-3", "claim-pimentel-ch5-4", "claim-pimentel-ch5-5", "claim-pimentel-ch5-6"]
+
 
 # Pimentel & Rezaie -- Ch5: Small Intestinal Bacterial Overgrowth -- Definition, Diagnosis, and the Three-Gas Model
 

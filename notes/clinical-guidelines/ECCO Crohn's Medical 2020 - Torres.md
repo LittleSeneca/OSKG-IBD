@@ -44,6 +44,11 @@ related:
   - "[[ECCO Crohn's Surgical 2020]]"
   - "[[STRIDE-II 2021]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 11
+claims_files: ["claim-ecco-cd2020-1", "claim-ecco-cd2020-2", "claim-ecco-cd2020-3", "claim-ecco-cd2020-4", "claim-ecco-cd2020-5", "claim-ecco-cd2020-6", "claim-ecco-cd2020-7", "claim-ecco-cd2020-8", "claim-ecco-cd2020-9", "claim-ecco-cd2020-10", "claim-ecco-cd2020-11"]
+
 
 # ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment (Torres et al., 2020)
 

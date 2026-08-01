@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/microbiome
+  - topic/imaging
+  - topic/diet
   - evidence/systematic-review
   - scholar/pimentel
   - scholar/rezaie

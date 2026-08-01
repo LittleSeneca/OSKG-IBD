@@ -29,6 +29,11 @@ related:
   - "[[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]"
   - "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 8
+claims_files: ["claim-gottschall-ch35-1", "claim-gottschall-ch35-2", "claim-gottschall-ch35-3", "claim-gottschall-ch35-4", "claim-gottschall-ch35-5", "claim-gottschall-ch35-6", "claim-gottschall-ch35-7", "claim-gottschall-ch35-8"]
+
 
 # Gottschall -- Ch3-5: The Vicious Cycle: Intestinal Microbes, Fermentation, and Carbohydrate Digestion
 

@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/diet
+  - topic/diagnosis
+  - topic/imaging
   - evidence/expert-consensus
   - scholar/gottschall
   - source/gottschall-btv

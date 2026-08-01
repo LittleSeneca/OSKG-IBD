@@ -66,6 +66,11 @@ related:
   - "[[STRIDE Consensus 2015 - Peyrin-Biroulet]]"
   - "[[SCENIC Consensus 2015 - Laine]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 14
+claims_files: ["claim-bsg-ibd2019-1", "claim-bsg-ibd2019-2", "claim-bsg-ibd2019-3", "claim-bsg-ibd2019-4", "claim-bsg-ibd2019-5", "claim-bsg-ibd2019-6", "claim-bsg-ibd2019-7", "claim-bsg-ibd2019-8", "claim-bsg-ibd2019-9", "claim-bsg-ibd2019-10", "claim-bsg-ibd2019-11", "claim-bsg-ibd2019-12", "claim-bsg-ibd2019-13", "claim-bsg-ibd2019-14"]
+
 
 # BSG Consensus Guidelines on the Management of Inflammatory Bowel Disease in Adults (Lamb et al., 2019)
 

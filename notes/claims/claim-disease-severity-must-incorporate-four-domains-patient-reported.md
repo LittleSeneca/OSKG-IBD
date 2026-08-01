@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/biomarkers
+  - topic/imaging
   - evidence/clinical-guideline
   - scholar/rubin
   - source/acg-uc-2019

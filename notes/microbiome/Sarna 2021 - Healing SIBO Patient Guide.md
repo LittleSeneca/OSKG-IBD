@@ -27,6 +27,11 @@ related:
   - "[[Pimentel 2006 - SIBO Theory Evolution 2006-2022]]"
   - "[[../nutrition/Sarna 2021 - Healing SIBO Dietary Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-sarna-guide-1", "claim-sarna-guide-2", "claim-sarna-guide-3", "claim-sarna-guide-4", "claim-sarna-guide-5"]
+
 
 # Sarna 2021 — Healing SIBO: A Patient's Guide to the SIBO Consensus
 

@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/genetics
+  - topic/diagnosis
+  - topic/imaging
   - evidence/expert-consensus
   - scholar/gottschall
   - source/gottschall-btv

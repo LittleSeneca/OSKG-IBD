@@ -33,6 +33,11 @@ related:
   - "[[Pimentel 2022 - Low-Fermentation Eating]]"
   - "[[Rezaie Breath Test Consensus 2017]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 4
+claims_files: ["claim-aga-sibo2020-implicit-1", "claim-aga-sibo2020-implicit-2", "claim-aga-sibo2020-implicit-3", "claim-aga-sibo2020-implicit-4"]
+
 
 # AGA Clinical Practice Update on SIBO: Expert Review (Quigley, Murray, Pimentel, 2020)
 

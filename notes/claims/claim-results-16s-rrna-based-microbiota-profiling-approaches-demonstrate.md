@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/ibd
+  - topic/imaging
+  - topic/probiotics
   - evidence/clinical-guideline
   - scholar/pimentel
   - source/rome-sibo-2017
@@ -29,7 +31,13 @@ Results from 16S rRNA-based microbiota profiling approaches demonstrate both qua
 
 ## Evidence
 
-See source note.
+- Culture studies: decreased lactobacilli and bifidobacteria, increased facultative bacteria (Streptococcus, E. coli), higher anaerobes (Clostridium)
+- Molecular studies: Proteobacteria and specific Firmicutes increased in multiple studies; other Firmicutes, Bacteroidetes, and bifidobacteria decreased
+- Rajilic-Stojanovic et al. (2011): faecal microbiota of IBS patients could be grouped in a cluster "completely different from that of healthy controls"
+- Jeffery et al. (2012): clustering of IBS patients into "normal-like" vs "abnormal" microbiota composition (increased Firmicutes:Bacteroidetes ratio), with association with symptom profile
+- Multiple studies found decreased temporal stability in IBS faecal microbiomes vs controls
+- Carroll et al. (2010): diminished microbial biodiversity in IBS-D faecal samples
+- Parkes et al. (2012): expansion of mucosa-associated microbiota (mainly Bacteroides and Clostridia), with association with IBS subgroups and symptoms
 
 ## Confidence
 

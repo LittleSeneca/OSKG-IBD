@@ -30,7 +30,7 @@ BPA 2-4: "Symptoms traditionally linked to SIBO include bloating, diarrhea and a
 
 ## Evidence
 
-See source note.
+See source note [[AGA SIBO 2020 - Quigley]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.
 
 ## Confidence
 

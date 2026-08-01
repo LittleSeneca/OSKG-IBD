@@ -23,6 +23,11 @@ related:
   - "[[Gottschall 1994 - Ch3-5 The Vicious Cycle Mechanism]]"
   - "[[Gottschall 1994 - Ch9-10 Implementing the SCD]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 3
+claims_files: ["claim-gottschall-fw-1", "claim-gottschall-fw-2", "claim-gottschall-fw-3"]
+
 
 # Gottschall -- Foreword by Ronald L. Hoffman, M.D.
 

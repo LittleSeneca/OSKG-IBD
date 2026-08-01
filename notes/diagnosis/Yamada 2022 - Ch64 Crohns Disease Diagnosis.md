@@ -30,6 +30,11 @@ related:
   - "[[../pathophysiology/Pathophysiology Index]]"
   - "[[../clinical-guidelines/Clinical Guidelines Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 7
+claims_files: ["claim-yamada-cddx64-1", "claim-yamada-cddx64-2", "claim-yamada-cddx64-3", "claim-yamada-cddx64-4", "claim-yamada-cddx64-5", "claim-yamada-cddx64-6", "claim-yamada-cddx64-7"]
+
 
 # Yamada 7E -- Ch 64: Crohn's Disease: Clinical Manifestations and Management
 

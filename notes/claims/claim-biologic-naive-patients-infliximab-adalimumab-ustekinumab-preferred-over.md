@@ -31,7 +31,9 @@ In biologic-naive patients, infliximab, adalimumab, or ustekinumab are preferred
 
 ## Evidence
 
-See source note.
+Among biologic-naive patients (8 RCTs, 1,458 patients): infliximab was superior to certolizumab pegol (OR 4.33, 95% CI 1.83-10.27) with moderate confidence. Infliximab trended toward superiority over vedolizumab (OR 2.20, 0.79-6.07) and ustekinumab (OR 2.14, 0.89-5.15) but confidence intervals crossed unity. Ustekinumab (OR 2.02, 1.09-3.75) and adalimumab (OR 2.97, 1.16-6.70) were superior to certolizumab pegol. No significant differences among adalimumab, ustekinumab, and vedolizumab as first-line agents (very low certainty).
+
+Among anti-TNF-exposed patients (6 RCTs, 1,606 patients): ustekinumab was superior to placebo (OR 2.58, 1.50-4.44) with moderate certainty. Adalimumab in patients with prior infliximab intolerance or secondary nonresponse was effective (OR 3.57, 1.66-7.65). Vedolizumab's effect was uncertain (OR 1.53, 0.77-3.06) with wide confidence intervals crossing unity — hence the conditional recommendation.
 
 ## Confidence
 

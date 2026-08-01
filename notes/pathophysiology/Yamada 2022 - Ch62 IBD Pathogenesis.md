@@ -29,6 +29,11 @@ related:
   - "[[../diagnosis/Diagnosis Index]]"
   - "[[../microbiome/Microbiome Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 10
+claims_files: ["claim-yamada-ibd62-1", "claim-yamada-ibd62-2", "claim-yamada-ibd62-3", "claim-yamada-ibd62-4", "claim-yamada-ibd62-5", "claim-yamada-ibd62-6", "claim-yamada-ibd62-7", "claim-yamada-ibd62-8", "claim-yamada-ibd62-9", "claim-yamada-ibd62-10"]
+
 
 # Yamada 7E -- Ch 62: Inflammatory Bowel Diseases: Pathogenesis
 

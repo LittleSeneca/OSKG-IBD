@@ -28,6 +28,11 @@ related:
   - "[[Sarna 2021 - Healing SIBO Dietary Protocol]]"
   - "[[Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-pimentel-lfe-5", "claim-pimentel-lfe-1", "claim-pimentel-lfe-2", "claim-pimentel-lfe-3", "claim-pimentel-lfe-4"]
+
 
 # Pimentel & Rezaie -- Low-Fermentation Eating (LFE): The Cedars-Sinai SIBO Diet
 

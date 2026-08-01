@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/microbiome
+  - topic/diagnosis
+  - topic/een
   - evidence/expert-consensus
   - scholar/sarna
   - source/sarna-sibo-diet

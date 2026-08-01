@@ -30,7 +30,7 @@ Autoimmune disease is caused by a combination of genetic predisposition, intesti
 
 ## Evidence
 
-See source note.
+Autoimmune disease is caused by a combination of genetic predisposition, intestinal permeability (leaky gut), and environmental triggers. The standard Paleo diet eliminates some inflammatory foods, but for autoimmune patients, a more restrictive protocol is needed — one that also removes foods that stimulate the immune system, irritate the gut lining, or act as molecular mimics for self-tissue. This is the Autoimmune Protocol (AIP). When combined with lifestyle modifications (stress management,
 
 ## Confidence
 

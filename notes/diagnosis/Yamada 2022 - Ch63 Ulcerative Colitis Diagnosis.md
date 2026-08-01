@@ -29,6 +29,11 @@ related:
   - "[[../pathophysiology/Pathophysiology Index]]"
   - "[[../clinical-guidelines/Clinical Guidelines Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 8
+claims_files: ["claim-yamada-ucdx63-1", "claim-yamada-ucdx63-2", "claim-yamada-ucdx63-3", "claim-yamada-ucdx63-4", "claim-yamada-ucdx63-5", "claim-yamada-ucdx63-6", "claim-yamada-ucdx63-7", "claim-yamada-ucdx63-8"]
+
 
 # Yamada 7E -- Ch 63: Ulcerative Colitis: Clinical Manifestations and Management
 

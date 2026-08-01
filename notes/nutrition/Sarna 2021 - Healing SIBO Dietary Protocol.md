@@ -30,6 +30,11 @@ related:
   - "[[Foote 2020 - Crohn's Disease Cookbook]]"
   - "[[Thompson 2013 - Elemental Diet Protocol]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 5
+claims_files: ["claim-sarna-sibo-diet-1", "claim-sarna-sibo-diet-2", "claim-sarna-sibo-diet-3", "claim-sarna-sibo-diet-4", "claim-sarna-sibo-diet-5"]
+
 
 # Sarna -- Healing SIBO: Dietary Intervention and the SIBO Specific Food Guide
 

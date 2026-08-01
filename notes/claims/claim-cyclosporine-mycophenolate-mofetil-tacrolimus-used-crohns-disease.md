@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/crohns-disease
   - topic/immunomodulators
+  - topic/ciclosporin
   - evidence/clinical-guideline
   - evidence/rct
   - scholar/lichtenstein

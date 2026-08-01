@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/microbiome
   - topic/sibo
+  - topic/imaging
+  - topic/diet
   - evidence/systematic-review
   - scholar/pimentel
   - scholar/rezaie

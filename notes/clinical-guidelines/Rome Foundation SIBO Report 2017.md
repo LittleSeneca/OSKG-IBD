@@ -31,6 +31,11 @@ related:
   - "[[Rezaie Breath Test Consensus 2017]]"
   - "[[Pimentel 2022 - Low-Fermentation Eating]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 13
+claims_files: ["claim-rome-sibo2017-1", "claim-rome-sibo2017-2", "claim-rome-sibo2017-3", "claim-rome-sibo2017-4", "claim-rome-sibo2017-5", "claim-rome-sibo2017-6", "claim-rome-sibo2017-7", "claim-rome-sibo2017-8", "claim-rome-sibo2017-9", "claim-rome-sibo2017-10", "claim-rome-sibo2017-11", "claim-rome-sibo2017-12", "claim-rome-sibo2017-13"]
+
 
 # Rome Foundation Working Team Report: Intestinal Microbiota in Functional Bowel Disorders (Simrén et al., 2013)
 

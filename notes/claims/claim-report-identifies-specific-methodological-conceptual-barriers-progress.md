@@ -3,6 +3,7 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/ibd
+  - topic/sibo
   - evidence/clinical-guideline
   - scholar/pimentel
   - source/rome-sibo-2017
@@ -29,7 +30,7 @@ The report identifies specific methodological and conceptual barriers to progres
 
 ## Evidence
 
-See source note.
+1. **Validation:** "The SIBO hypothesis in IBS remains a matter of debate because the breath tests and the small bowel culture techniques have not been validated." → Partially addressed by Rezaie North American Consensus (2017), but full validation remains incomplete.
 
 ## Confidence
 

@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/antibiotics
   - topic/surgery
+  - topic/fistula
   - evidence/clinical-guideline
   - scholar/lichtenstein
   - source/acg-crohns-2018

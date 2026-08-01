@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/carbohydrate-malabsorption
+  - topic/imaging
+  - topic/sibo
   - evidence/expert-consensus
   - scholar/sarna
   - source/sarna-sibo-diet

@@ -30,7 +30,7 @@ SIBO Has Two Distinct Clinical Presentations
 
 ## Evidence
 
-See source note.
+See source note [[Yamada Ch58 - Bacterial Overgrowth Textbook]] for full evidence evaluation. This claim was extracted from a synthesis/whole-book note where evidence is distributed across the text rather than concentrated in a single section.
 
 ## Confidence
 

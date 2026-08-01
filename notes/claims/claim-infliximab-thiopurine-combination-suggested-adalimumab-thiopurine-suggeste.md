@@ -33,7 +33,7 @@ Infliximab + thiopurine combination is suggested; adalimumab + thiopurine is sug
 
 ## Evidence
 
-See source note.
+**Recommendation 5A:** "In biologic and immunomodulator-naive patients, the AGA suggests infliximab + thiopurines over infliximab monotherapy." **Conditional, moderate certainty.** Two trials: combination therapy more effective for induction (RR 0.77, 0.64-0.92) and maintenance (RR 0.74, 0.60-0.90). The infliximab + methotrexate trial (126 patients) showed no difference vs. infliximab monotherapy (RR 1.07 for induction, very serious imprecision).
 
 ## Confidence
 

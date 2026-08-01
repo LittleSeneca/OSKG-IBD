@@ -21,6 +21,11 @@ related:
   - "[[../Notes Index]]"
   - "[[Microbiome Index]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 1
+claims_files: ["claim-sonnenburg-gut-implicit-6"]
+
 
 # The Good Gut — Sonnenburg & Sonnenburg (2015)
 

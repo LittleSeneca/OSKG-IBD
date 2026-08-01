@@ -4,6 +4,8 @@ tags:
   - oskg-ibd
   - topic/sibo
   - topic/imaging
+  - topic/surgery
+  - topic/een
   - evidence/clinical-guideline
   - evidence/expert-consensus
   - scholar/pimentel

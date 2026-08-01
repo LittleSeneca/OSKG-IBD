@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/ibd
+  - topic/diagnosis
+  - topic/imaging
   - evidence/clinical-guideline
   - scholar/pimentel
   - source/rome-sibo-2017

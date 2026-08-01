@@ -30,6 +30,11 @@ related:
   - "[[CALM trial (Colombel 2017)]]"
   - "[[Steinhart 2018 - Ch7 Drug Therapy]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 8
+claims_files: ["claim-yamada-cd64-1", "claim-yamada-cd64-2", "claim-yamada-cd64-3", "claim-yamada-cd64-4", "claim-yamada-cd64-5", "claim-yamada-cd64-6", "claim-yamada-cd64-7", "claim-yamada-cd64-8"]
+
 
 # Yamada 7E -- Ch64: Crohn's Disease: Clinical Manifestations and Management
 

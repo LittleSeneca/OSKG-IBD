@@ -42,6 +42,11 @@ related:
   - "[[SCENIC Consensus 2015 - Laine]]"
   - "[[ACG Preventive Care IBD 2017 - Farraye]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 67
+claims_files: ["claim-acg-uc2019-1", "claim-acg-uc2019-2", "claim-acg-uc2019-3", "claim-acg-uc2019-4", "claim-acg-uc2019-5", "claim-acg-uc2019-6", "claim-acg-uc2019-7", "claim-acg-uc2019-8", "claim-acg-uc2019-9", "claim-acg-uc2019-10", "claim-acg-uc2019-11", "claim-acg-uc2019-12", "claim-acg-uc2019-13", "claim-acg-uc2019-14", "claim-acg-uc2019-15", "claim-acg-uc2019-16", "claim-acg-uc2019-17", "claim-acg-uc2019-18", "claim-acg-uc2019-rec1", "claim-acg-uc2019-rec2", "claim-acg-uc2019-rec15", "claim-acg-uc2019-rec3", "claim-acg-uc2019-rec4", "claim-acg-uc2019-rec5", "claim-acg-uc2019-rec6", "claim-acg-uc2019-rec7", "claim-acg-uc2019-rec8", "claim-acg-uc2019-rec9", "claim-acg-uc2019-rec10", "claim-acg-uc2019-rec11", "claim-acg-uc2019-rec12", "claim-acg-uc2019-rec13", "claim-acg-uc2019-rec14", "claim-acg-uc2019-rec16", "claim-acg-uc2019-rec17", "claim-acg-uc2019-rec18", "claim-acg-uc2019-rec19", "claim-acg-uc2019-rec20", "claim-acg-uc2019-rec21", "claim-acg-uc2019-rec22", "claim-acg-uc2019-rec23", "claim-acg-uc2019-rec24", "claim-acg-uc2019-rec25", "claim-acg-uc2019-rec26", "claim-acg-uc2019-rec27", "claim-acg-uc2019-rec28", "claim-acg-uc2019-rec29", "claim-acg-uc2019-rec30", "claim-acg-uc2019-rec31", "claim-acg-uc2019-rec32", "claim-acg-uc2019-rec33", "claim-acg-uc2019-rec34", "claim-acg-uc2019-rec35", "claim-acg-uc2019-rec36", "claim-acg-uc2019-rec37", "claim-acg-uc2019-rec38", "claim-acg-uc2019-rec39", "claim-acg-uc2019-rec40", "claim-acg-uc2019-rec41", "claim-acg-uc2019-rec42", "claim-acg-uc2019-rec43", "claim-acg-uc2019-rec44", "claim-acg-uc2019-rec45", "claim-acg-uc2019-rec46", "claim-acg-uc2019-rec47", "claim-acg-uc2019-rec48", "claim-acg-uc2019-rec49"]
+
 
 # ACG Clinical Guideline: Ulcerative Colitis in Adults (Rubin et al., 2019)
 

@@ -3,6 +3,8 @@ tags:
   - type/claim
   - oskg-ibd
   - topic/endoscopy
+  - topic/diagnosis
+  - topic/een
   - evidence/clinical-guideline
   - scholar/maaser
   - source/ecco-diagnostic-2019
@@ -29,7 +31,7 @@ CRC surveillance begins at 8 years with screening colonoscopy; chromoendoscopy w
 
 ## Evidence
 
-See source note.
+**Statement 3.6.1:** Screening colonoscopy offered 8 years after symptom onset to reassess extent and exclude dysplasia [EL5]. **Statement 3.6.2:** Proctitis-only patients need not enter regular surveillance [EL2]. **Statement 3.6.3:** PSC patients — annual surveillance from PSC diagnosis regardless of activity/extent/duration [EL3]. **Statement 3.6.6:** Chromoendoscopy with targeted biopsies increases dysplasia detection [EL2]; if white-light endoscopy used, random quadrantic biopsies every 10 cm + targeted biopsies [EL3]; high-definition endoscopy preferred [EL2].
 
 ## Confidence
 

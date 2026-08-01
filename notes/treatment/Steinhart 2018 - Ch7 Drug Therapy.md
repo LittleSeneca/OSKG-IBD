@@ -29,6 +29,11 @@ related:
   - "[[ACT trials (Rutgeerts 2005)]]"
   - "[[CALM trial (Colombel 2017)]]"
 ---
+claims_status: extracted
+claims_extracted_date: 2026-08-01
+claims_count: 10
+claims_files: ["claim-steinhart-drug-1", "claim-steinhart-drug-2", "claim-steinhart-drug-3", "claim-steinhart-drug-4", "claim-steinhart-drug-5", "claim-steinhart-drug-8", "claim-steinhart-drug-6", "claim-steinhart-drug-7", "claim-steinhart-drug-9", "claim-steinhart-drug-10"]
+
 
 # Steinhart -- Ch7: Drug Therapy for Managing IBD
 

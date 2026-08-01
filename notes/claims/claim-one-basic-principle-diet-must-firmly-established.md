@@ -4,6 +4,7 @@ tags:
   - oskg-ibd
   - topic/diet
   - topic/carbohydrate-malabsorption
+  - topic/imaging
   - evidence/expert-consensus
   - scholar/gottschall
   - source/gottschall-btv
