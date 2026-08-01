@@ -1,7 +1,7 @@
 ---
 tags: [type/evidence-brief, oskg-ibd, topic/treat-to-target, topic/mucosal-healing, topic/treatment, evidence/synthesis]
 created: 2026-08-01
-related: ["[[../synthesis/Synthesis Index]]", "[[../claims/claim-summary-statement-symptoms-crohns-disease-correlate-well]]", "[[../claims/claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target]]", "[[../claims/claim-mucosal-healing-important-therapeutic-goal-both-validated]]", "[[../claims/claim-progressive-disease-requiring-early-intensive-monitoring-individualized]]"]
+related: ["[[../synthesis/Synthesis Index]]", "[[../claims/claim-summary-statement-symptoms-crohns-disease-correlate-well]]", "[[../claims/claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target]]", "[[../claims/claim-mucosal-healing-important-therapeutic-goal-both-validated]]", "[[../claims/claim-progressive-disease-requiring-early-intensive-monitoring-individualized]]", "[[../claims/claim-disease-severity-must-incorporate-four-domains-patient-reported]]"]
 ---
 
 # Evidence Brief: What Justifies Treat-to-Target Over Symptom-Based Management?
@@ -19,7 +19,7 @@ related: ["[[../synthesis/Synthesis Index]]", "[[../claims/claim-summary-stateme
 
 ### Pillar 1: Symptoms Do Not Track Inflammation (Strong Evidence)
 
-[[claim-summary-statement-symptoms-crohns-disease-correlate-well|acg-cd2018-2]] states the foundational premise: symptoms of Crohn's disease do not correlate well with active mucosal inflammation. This is the most clinically transformative concept in modern IBD management. The implication is clear: treating symptoms alone risks undertreating patients with silent inflammation, leading to progressive bowel damage. This claim underlies the entire treat-to-target paradigm and is consistently endorsed across ACG, AGA, ECCO, and BSG guidelines.
+[[claim-summary-statement-symptoms-crohns-disease-correlate-well|acg-cd2018-2]] states the foundational premise: symptoms of Crohn's disease do not correlate well with active mucosal inflammation. This is the most clinically transformative concept in modern IBD management. The implication is clear: treating symptoms alone risks undertreating patients with silent inflammation, leading to progressive bowel damage. This claim underlies the entire treat-to-target paradigm and is consistently endorsed across ACG, AGA, ECCO, and BSG guidelines. The conceptual framework is further specified by [[claim-disease-severity-must-incorporate-four-domains-patient-reported|acg-uc2019-2]], which established that disease severity encompasses patient-reported outcomes, inflammatory burden, disease course, and disease impact -- making symptoms only one of four domains, none of which can be assessed reliably without objective measures.
 
 **Evidence quality:** Well-documented in multiple studies. A convergence point in the graph: 3+ independent sources converge on this claim.
 

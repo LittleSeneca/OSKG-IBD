@@ -1,7 +1,7 @@
 ---
 tags: [type/evidence-brief, oskg-ibd, topic/sibo, topic/ibd, evidence/synthesis]
 created: 2026-08-01
-related: ["[[../synthesis/Synthesis Index]]", "[[../claims/claim-possible-ibs-ibd-coexist-higher-expected-frequency]]", "[[../claims/claim-sibo-prevalence-84-vs-60-75-percent]]", "[[../claims/claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate]]"]
+related: ["[[../synthesis/Synthesis Index]]", "[[../claims/claim-possible-ibs-ibd-coexist-higher-expected-frequency]]", "[[../claims/claim-sibo-prevalence-84-vs-60-75-percent]]", "[[../claims/claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate]]", "[[../claims/claim-current-working-hypothesis-abnormal-microbiota-activate-mucosal]]", "[[../claims/claim-key-concept-most-common-symptom-sibo-bloating]]"]
 ---
 
 # Evidence Brief: What Is the Evidence That SIBO Contributes to IBD Symptoms?
@@ -22,6 +22,10 @@ The evidence for SIBO as a direct contributor to IBD symptoms is **circumstantia
 2. **IBS-like symptoms are common in IBD patients in apparent remission.** Keohane et al. (2010) found that IBD patients with IBS symptoms in "clinical remission" actually had elevated calprotectin, suggesting that what appears to be coexistent IBS is often subclinical IBD inflammation. This directly challenges the SIBO-as-IBS-cause narrative by reframing IBS symptoms in IBD patients as undiagnosed active disease.
 
 3. **Microbiota alterations are documented across both IBS and IBD.** [[claim-results-16s-rrna-based-microbiota-profiling-approaches-demonstrate|rome-sibo2017-6]] documents quantitative and qualitative changes in IBS microbiota, while IBD studies show similar dysbiosis patterns. But correlation is not causation: the dysbiosis could be downstream of inflammation rather than upstream of it.
+
+4. **The Rome Foundation proposes a host-microbial interaction model** that bridges functional and organic disorders. [[claim-current-working-hypothesis-abnormal-microbiota-activate-mucosal|rome-sibo2017-7]] describes a working hypothesis in which abnormal microbiota activate mucosal innate immune responses, increase epithelial permeability, and dysregulate the enteric nervous system -- a pathway that could explain how SIBO-related dysbiosis amplifies IBD symptoms without necessarily being the primary driver of inflammation.
+
+5. **Bloating is the cardinal SIBO symptom** and also a common IBD complaint. [[claim-key-concept-most-common-symptom-sibo-bloating|acg-sibo2020-2]] establishes bloating as the most common SIBO presentation, but notes vitamin deficiencies are uncommon except in structural/surgical cases. This symptom overlap (bloating, gas, distension) between SIBO and quiescent IBD is the clinical conundrum: when an IBD patient in apparent remission complains of bloating, is it SIBO or subclinical IBD?
 
 ## The Critical Gap
 

@@ -651,7 +651,7 @@ def main():
         print(f"  {i:2}. {h['claim_id']} (score={h['score']:.4f}, deg={h['degree']}, bc={h['betweenness']:.6f})")
 
     print("\n=== Analysis 2: Cascade Trees ===")
-    cascades = cascade_trees(graph, hinges, depth=3, top_n=6)
+    cascades = cascade_trees(graph, hinges, depth=3, top_n=15)
 
     print("\n=== Analysis 3: Convergence Points ===")
     conv = convergence_points(graph)
@@ -714,7 +714,7 @@ def main():
 
     # 2. Cascade Trees
     lines.append("\n\n" + "─" * 72)
-    lines.append("2. CASCADE TREES (Top 6 Hinges)")
+    lines.append("2. CASCADE TREES (Top 15 Hinges)")
     lines.append("─" * 72)
     lines.append(cascades)
 

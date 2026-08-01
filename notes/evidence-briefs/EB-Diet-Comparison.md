@@ -31,7 +31,7 @@ All three diets target the same underlying problem: reducing fermentable substra
 
 - **Best evidence: Low-FODMAP** -- multiple RCTs in IBS (not SIBO specifically), reproducible across centers, consensus guideline endorsement
 - **Moderate but focused: SCD** -- Ian Hoffman's comment that "SCD is simply presented yet sophisticated" [[claim-hoffman-states-scd-simply-presented-yet-sophisticated|hoffman-assessment]] captures the situation: strong mechanistic narrative but weak formal evidence. Six hundred cited publications establish biological plausibility, case reports establish possibility, but no RCT has tested SCD against placebo or comparator in IBS or SIBO
-- **Weakest evidence: LFE** -- the two-rule structure is elegant (restrict fermentable carbs + space meals) but no published trial exists. The 80-90% improvement claim is from unpublished clinical experience. Rule 2 (meal spacing 4-5 hours) has strong mechanistic support from MMC research but has not been tested in isolation.
+- **Weakest evidence: LFE** -- [[claim-low-fermentation-eating-two-essential-rules-restrict-products|pimentel-lfe-1]] establishes the two-rule structure (restrict fermentable carbs + space meals) but no published trial exists. The 80-90% improvement claim is from unpublished clinical experience. Rule 2 (meal spacing 4-5 hours) has strong mechanistic support from MMC research but has not been tested in isolation.
 
 ### Clinical Practicality
 

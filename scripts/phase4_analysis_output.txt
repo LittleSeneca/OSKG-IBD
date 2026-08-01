@@ -85,7 +85,7 @@
 
 
 ────────────────────────────────────────────────────────────────────────
-2. CASCADE TREES (Top 6 Hinges)
+2. CASCADE TREES (Top 15 Hinges)
 ────────────────────────────────────────────────────────────────────────
 ## Cascade: gottschall-ch35-3 (claim-sensible-harmless-form-warfare-aberrant-population-intestinal)
 **A sensible and harmless form of warfare on the aberrant population of intestinal microbes is to manipulate their ener...**
@@ -122,6 +122,61 @@ Confidence: medium | Source: [[ACG UC 2019 - Rubin]]
 Confidence: high | Source: [[ACG UC 2019 - Rubin]]
 
 └── (extends) TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab
+
+## Cascade: aga-cd2021-rec4 (claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy)
+**Biologic monotherapy over thiopurine monotherapy**
+Confidence: high | Source: [[AGA Crohn's 2021 - Feuerstein]]
+
+
+## Cascade: aga-cd2021-rec7 (claim-aga-cd2021-r7-early-biologic---im-over-step-up)
+**Early biologic ± IM over step-up**
+Confidence: medium | Source: [[AGA Crohn's 2021 - Feuerstein]]
+
+
+## Cascade: aga-cd2021-rec9 (claim-aga-cd2021-r9-against-5-asa-sulfasalazine)
+**AGAINST 5-ASA/sulfasalazine**
+Confidence: high | Source: [[AGA Crohn's 2021 - Feuerstein]]
+
+├── (supports) Mesalamine should NOT be used for active CD
+│  └── (supports) 5-ASA NOT for maintenance
+
+## Cascade: aga-uc2020-rec2c (claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab)
+**TNF-exposed: ustekinumab/tofacitinib > vedolizumab/adalimumab**
+Confidence: medium | Source: [[AGA UC 2020 - Feuerstein]]
+
+
+## Cascade: aga-uc2020-rec3b (claim-aga-uc2020-r3b-thiopurine-maintenance)
+**Thiopurine maintenance**
+Confidence: medium | Source: [[AGA UC 2020 - Feuerstein]]
+
+└── (extends) Against thiopurine/MTX monotherapy induction
+   ├── (supports) Against thiopurine induction
+   │  └── (supports) Against thiopurine monotherapy for induction
+
+## Cascade: bsg-ibd2019-5 (claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin)
+**Statement 18 (strong, high): Patients failing IV steroids by day 3 for ASUC should receive rescue therapy with IV inf...**
+Confidence: very-high | Source: [[BSG IBD 2019 - Lamb]]
+
+
+## Cascade: gottschall-ch12-2 (claim-common-denominator-underlying-effectiveness-both-natural-specific)
+**The common denominator underlying the effectiveness of both the natural Specific Carbohydrate Diet and the synthetic ...**
+Confidence: high | Source: [[Gottschall 1994 - Ch1-2 Origins and Scientific Evidence]]
+
+└── (supports) A sensible and harmless form of warfare on the aberrant population of intestinal microbes is to m...
+   └── (supports) An elemental diet "provides the colon with the rest necessary to heal its wounds unhindered." Bec...
+
+## Cascade: ballantyne-paleo-implicit-8 (claim-core-thesis-ballantyne-paleo)
+**Autoimmune disease is caused by a combination of genetic predisposition, intestinal permeability (leaky gut), and env...**
+Confidence: medium | Source: [[The Paleo Approach - Ballantyne 2013]]
+
+├── (extends) Autoimmune disease is not inevitable or irreversible. Genetic predisposition accounts for only 25...
+│  ├── (supports) One of the best ways to fight inflammation is to adopt an anti-inflammatory diet.
+│  └── (supports) I began to notice other unanticipated benefits. Patients with muscle aches, stiff joints, and eve...
+
+## Cascade: acg-cd2018-19 (claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia)
+**IV corticosteroids are first-line for severe/fulminant disease; anti-TNF agents (especially infliximab) may be effect...**
+Confidence: medium | Source: [[ACG Crohn's 2018 - Lichtenstein]]
+
 
 
 ────────────────────────────────────────────────────────────────────────
@@ -222,7 +277,7 @@ Confidence: high | Source: [[ACG UC 2019 - Rubin]]
     Giant component: 0 claims
     Small isolated clusters (2-5 claims): 94
       Size 3: claim-1951-after-many-years-clinical-experience-drs, claim-specific-carbohydrate-diet-most-often-corrects-malabsorption, claim-pimentel-rezaie-survey-dietary-landscape-find-existing
-      Size 4: claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd, claim-aga-cd2021-r9-against-5-asa-sulfasalazine, claim-acg-cd2018-r46-5-asa-not-for-maintenance, claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd
+      Size 4: claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd, claim-aga-cd2021-r9-against-5-asa-sulfasalazine, claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd, claim-acg-cd2018-r46-5-asa-not-for-maintenance
       Size 4: claim-acg-cd2018-r18-corticosteroids-do-not-consistently-achieve-mucosa, claim-aga-cd2021-r7-early-biologic---im-over-step-up, claim-acg-cd2018-r47-corticosteroids-not-for-maintenance, claim-acg-cd2018-r21-thiopurines-for-maintenance
       Size 4: claim-acg-cd2018-r22-tpmt-testing-before-thiopurine-initiation, claim-aga-cd2021-r4-biologic-monotherapy-over-thiopurine-monotherapy, claim-acg-cd2018-r25-anti-tnf-for-thiopurine-mtx-refractory-cd, claim-acg-cd2018-r26-combination-infliximab---immunomodulator
       Size 2: claim-acg-cd2018-r40-antibiotics--imidazoles--for-simple-perianal-fistu, claim-aga-cd2021-r11-biologic---antibiotic-over-biologic-alone
@@ -237,7 +292,7 @@ Confidence: high | Source: [[ACG UC 2019 - Rubin]]
       Size 2: claim-acg-uc2019-r23-against-concomitant-5-asa-with-anti-tnf, claim-aga-uc2020-r7-stop-5-asa-after-biologic-escalation
       Size 2: claim-acg-uc2019-r24-combination-ifx---thiopurine, claim-aga-uc2020-r4a-biologic---thiopurine-for-induction
       Size 2: claim-acg-uc2019-r25-vedolizumab-for-induction, claim-ecco-uc2022-r13-vedolizumab-for-induction-in-moderate-severe-uc
-      Size 5: claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure, claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity, claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab, claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab, claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure
+      Size 5: claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure, claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab, claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity, claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure, claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab
       Size 2: claim-acg-uc2019-r27-tofacitinib-for-induction, claim-ecco-uc2022-r14-tofacitinib-for-induction-in-moderate-severe-uc
       Size 2: claim-acg-uc2019-r33-against-methotrexate-for-maintenance, claim-aga-uc2020-r3c-against-methotrexate--induction---maintenance
       Size 2: claim-acg-uc2019-r34-continue-anti-tnf-for-maintenance, claim-ecco-uc2022-r16-anti-tnf-agents-for-maintenance-after-anti-tnf-ind
@@ -245,15 +300,15 @@ Confidence: high | Source: [[ACG UC 2019 - Rubin]]
       Size 2: claim-acg-uc2019-r36-continue-tofacitinib-for-maintenance, claim-ecco-uc2022-r20-tofacitinib-for-maintenance-after-tofacitinib-indu
       Size 2: claim-acg-uc2019-r40-against-routine-broad-spectrum-antibiotics-in-asuc, claim-aga-uc2020-r9-against-adjunctive-antibiotics-in-asuc
       Size 2: claim-acg-uc2019-r42-iv-methylprednisolone-60-mg-d-or-hc-100-mg-tid-qid, claim-aga-uc2020-r8-iv-methylprednisolone-40-60-mg-day
-      Size 5: claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day, claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin, claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia, claim-adjunctive-antibiotics-used-routinely-asuc-without-infection, claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi
+      Size 5: claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day, claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin, claim-adjunctive-antibiotics-used-routinely-asuc-without-infection, claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia, claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi
       Size 2: claim-acg-uc2019-r6-rectal-5-asa-1-g-d-for-proctitis-induction, claim-ecco-uc2022-r2-topical-5-asa--1-g-d-for-induction-in-distal-colit
       Size 2: claim-acg-uc2019-r7-rectal-5-asa---rectal-steroids-for-left-sided, claim-ecco-uc2022-r5-topical-5-asa-over-topical-steroids-for-distal-col
       Size 2: claim-acg-uc2019-r8-combination-oral---rectal-5-asa-for-left-sided, claim-ecco-uc2022-r3-combined-oral---topical-5-asa-over-oral-alone-for
       Size 2: claim-after-elemental-diet-reintroduce-foods-four-progressive, claim-most-cases-begin-improve-within-three-weeks
       Size 3: claim-aga-sibo2020-bpa-1, claim-sibo-defined-presence-excessive-numbers-bacteria-small, claim-functional-gastrointestinal-disorders-fgids-defined-symptom-based-diagnost
       Size 2: claim-aga-sibo2020-bpa-5-6, claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based
-      Size 4: claim-almost-patients-see-practice-crohns-disease-ulcerative, claim-citing-bioessays-2014-hypothesis-gut-bacteria-release, claim-modern-westerners-lost-roughly-third-their-microbial, claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies
-      Size 3: claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical, claim-steroids-used-many-decades-treatment-inflammatory-bowel, claim-concept-broad-based-pyramid-implies-majority-patients-mild
+      Size 4: claim-almost-patients-see-practice-crohns-disease-ulcerative, claim-modern-westerners-lost-roughly-third-their-microbial, claim-citing-bioessays-2014-hypothesis-gut-bacteria-release, claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies
+      Size 3: claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical, claim-concept-broad-based-pyramid-implies-majority-patients-mild, claim-steroids-used-many-decades-treatment-inflammatory-bowel
       Size 3: claim-anti-tnf-agents-effective-steroid-refractory-thiopurine-refractory-combina, claim-consensus-reached-methotrexate-induction-anti-tnf-agents-standard, claim-cyclosporine-mycophenolate-mofetil-tacrolimus-used-crohns-disease
       Size 4: claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended, claim-mucosal-healing-important-therapeutic-goal-both-validated, claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently, claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to
       Size 2: claim-anti-tnf-agents-maintain-anti-tnf-induced-remission-combination-therapy, claim-bsg-statement-91-biosimilar-infliximab-ct-p13
@@ -271,7 +326,7 @@ Confidence: high | Source: [[ACG UC 2019 - Rubin]]
       Size 2: claim-bacterial-overgrowth-stomach-small-intestine-occur-various, claim-doubt-autoimmunity-born-gut
       Size 3: claim-based-network-metaanalysis-induction-trials-including-8020, claim-controlled-release-5-asa-medications-useful-milder-flares-inflammatory, claim-neither-sulfasalazine-nor-mesalamine-effective-maintaining-remission
       Size 2: claim-because-food-poisoning-connection-now-know-more, claim-shown-more-percent-patients-ibd-controlled-inflammation
-      Size 4: claim-began-notice-other-unanticipated-benefits-patients-muscle, claim-core-thesis-ballantyne-paleo, claim-core-thesis-myers-autoimmune, claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory
+      Size 4: claim-began-notice-other-unanticipated-benefits-patients-muscle, claim-core-thesis-ballantyne-paleo, claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory, claim-core-thesis-myers-autoimmune
       Size 5: claim-biologic-naive-patients-infliximab-adalimumab-ustekinumab-preferred-over, claim-ustekinumab-effective-moderate-to-severe-including-anti-tnf-failures-anti, claim-ustekinumab-vedolizumab-effective-induction-agents-both-biologic-naive, claim-infliximab-adalimumab-ustekinumab-strongly-recommended-over-treatment, claim-vedolizumab-natalizumab-ustekinumab-maintain-their-respective-induced
       Size 2: claim-bsg-statement-126-mesalazine-crc-chemoprevention, claim-medication-proven-chemopreventive-efficacy-replace-colonoscopic-surveillan
       Size 3: claim-bsg-statement-3-5asa-induction-uc, claim-thiopurines-methotrexate-effective-induction-use-monotherapy-active, claim-thiopurines-effective-steroid-sparing-maintenance-short-term-induction-tpm
@@ -284,7 +339,7 @@ Confidence: high | Source: [[ACG UC 2019 - Rubin]]
       Size 3: claim-chromoendoscopy-increases-dysplasia-detection-over-standard-definition-whi, claim-crc-surveillance-begins-years-screening-colonoscopy-chromoendoscopy, claim-screening-colonoscopy-starts-years-after-diagnosis-immediately
       Size 2: claim-combination-biologic-immunomodulator-therapy-recommended-over-either, claim-infliximab-thiopurine-combination-suggested-adalimumab-thiopurine-suggeste
       Size 3: claim-connection-between-crohns-disease-sugar-rich-diet-proved, claim-diets-work-same-reason-they-reduce-amount, claim-gottschall-presents-historical-through-line-aretaeus-300-treated
-      Size 3: claim-core-thesis-sonnenburg-gut, claim-fewer-bacteria-our-gut-our-ancestors-because, claim-microbial-cells-outnumber-human-cells-ten-one
+      Size 3: claim-core-thesis-sonnenburg-gut, claim-microbial-cells-outnumber-human-cells-ten-one, claim-fewer-bacteria-our-gut-our-ancestors-because
       Size 2: claim-diet-alone-wont-cure-sibo-even-you, claim-strictness-diet-cannot-overemphasized-nor-difficulty-adhering
       Size 2: claim-endoscopic-recurrence-rates-70-90-reported-early-year, claim-perhaps-best-way-reduce-risk-recurrence-crohns
       Size 2: claim-fecal-calprotectin-helpful-test-differentiate-ibd-ibs, claim-structured-fc-based-monitoring-strategy-detect-preclinical-relapse

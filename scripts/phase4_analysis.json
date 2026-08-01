@@ -2748,8 +2748,8 @@
           "members": [
             "claim-acg-cd2018-r10-sulfasalazine-for-colonic-cd",
             "claim-aga-cd2021-r9-against-5-asa-sulfasalazine",
-            "claim-acg-cd2018-r46-5-asa-not-for-maintenance",
-            "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd"
+            "claim-acg-cd2018-r11-mesalamine-should-not-be-used-for-active-cd",
+            "claim-acg-cd2018-r46-5-asa-not-for-maintenance"
           ]
         },
         {
@@ -2863,10 +2863,10 @@
           "size": 5,
           "members": [
             "claim-acg-uc2019-r26-vedolizumab-after-anti-tnf-failure",
-            "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
             "claim-aga-uc2020-r2c-tnf-exposed--ustekinumab-tofacitinib---vedolizumab",
-            "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab",
-            "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure"
+            "claim-ecco-uc2022-r19-vedolizumab-over-adalimumab--varsity",
+            "claim-acg-uc2019-r28-tofacitinib-after-anti-tnf-failure",
+            "claim-aga-uc2020-r2a-na-ve--infliximab-vedolizumab---adalimumab"
           ]
         },
         {
@@ -2923,8 +2923,8 @@
           "members": [
             "claim-acg-uc2019-r43-rescue-therapy-with-ifx-or-cyclosporine-at-3-5-day",
             "claim-bsg-statement-18-asuc-rescue-infliximab-ciclosporin",
-            "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
             "claim-adjunctive-antibiotics-used-routinely-asuc-without-infection",
+            "claim-corticosteroids-first-line-severefulminant-disease-anti-tnf-agents-especia",
             "claim-systemic-corticosteroids-prednisolone-strongly-recommended-induction-despi"
           ]
         },
@@ -2975,8 +2975,8 @@
           "size": 4,
           "members": [
             "claim-almost-patients-see-practice-crohns-disease-ulcerative",
-            "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
             "claim-modern-westerners-lost-roughly-third-their-microbial",
+            "claim-citing-bioessays-2014-hypothesis-gut-bacteria-release",
             "claim-emulsifier-polysorbate-disrupts-mucous-membranes-effect-emulsifies"
           ]
         },
@@ -2984,8 +2984,8 @@
           "size": 3,
           "members": [
             "claim-although-biologics-largely-replaced-corticosteroids-cornerstone-medical",
-            "claim-steroids-used-many-decades-treatment-inflammatory-bowel",
-            "claim-concept-broad-based-pyramid-implies-majority-patients-mild"
+            "claim-concept-broad-based-pyramid-implies-majority-patients-mild",
+            "claim-steroids-used-many-decades-treatment-inflammatory-bowel"
           ]
         },
         {
@@ -3127,8 +3127,8 @@
           "members": [
             "claim-began-notice-other-unanticipated-benefits-patients-muscle",
             "claim-core-thesis-ballantyne-paleo",
-            "claim-core-thesis-myers-autoimmune",
-            "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory"
+            "claim-one-best-ways-fight-inflammation-adopt-anti-inflammatory",
+            "claim-core-thesis-myers-autoimmune"
           ]
         },
         {
@@ -3225,8 +3225,8 @@
           "size": 3,
           "members": [
             "claim-core-thesis-sonnenburg-gut",
-            "claim-fewer-bacteria-our-gut-our-ancestors-because",
-            "claim-microbial-cells-outnumber-human-cells-ten-one"
+            "claim-microbial-cells-outnumber-human-cells-ten-one",
+            "claim-fewer-bacteria-our-gut-our-ancestors-because"
           ]
         },
         {
