@@ -140,9 +140,22 @@ Influential researchers and clinicians without standalone books (or whose contri
 | 3 | The Microbiome Connection | libgen | Acquired | 2026-08-01 | 3.2 MB EPUB. Extracted to 0.3 MB text. |
 | 4 | A New IBS Solution | libgen | Acquired | 2026-08-01 | 2.9 MB PDF. Extracted to 0.3 MB text. |
 | 5 | Crohn's and Colitis (Steinhart) | libgen | Acquired | 2026-08-01 | 4.3 MB EPUB. Extracted to 0.6 MB text. |
-| 6-16 | Tier 2 books | libgen | Acquired | 2026-08-01 | Previously downloaded and extracted. |
-| 17-20 | Tier 4 books | libgen | Acquired | 2026-08-01 | Previously downloaded and extracted. |
-| G1-G11 | Clinical Guidelines | Direct download | Pending | — | |
+| 6 | Healing SIBO (Sarna) | libgen | Acquired | 2026-08-01 | PDF + EPUB. Extracted to 0.3 MB text. |
+| 7 | SIBO Made Simple (LaPine) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 0.6 MB text. |
+| 8 | Gut: The Inside Story (Enders) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 0.5 MB text. |
+| 9 | The Mind-Gut Connection (Mayer) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 0.6 MB text. |
+| 10 | Fiber Fueled (Bulsiewicz) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 0.6 MB text. |
+| 11 | I Contain Multitudes (Yong) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 0.8 MB text. |
+| 12 | Breaking the Vicious Cycle (Gottschall) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 0.4 MB text. |
+| 13 | The Crohn's Disease Cookbook (Foote) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 0.2 MB text. |
+| 14 | The IBD Remission Diet (Thompson) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 0.4 MB text. |
+| 15 | The Microbiome Solution (Chutkan) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 0.5 MB text. |
+| 16 | Gut and Physiology Syndrome (Campbell-McBride) | libgen | Acquired | 2026-08-01 | EPUB. Extracted to 1.4 MB text. |
+| 17 | The Good Gut (Sonnenburg) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 0.6 MB text. |
+| 18 | The Autoimmune Solution (Myers) | libgen | Acquired | 2026-08-01 | EPUB only. Extracted to 0.7 MB text. |
+| 19 | The Paleo Approach (Ballantyne) | libgen | Acquired | 2026-08-01 | PDF. Extracted to 1.4 MB text. |
+| 20 | Inflamed (Marya/Patel) | libgen | Acquired | 2026-08-01 | EPUB only. Extracted to 1.1 MB text. |
+| G1-G11 | Clinical Guidelines | Direct download + Sci-Hub | Acquired | 2026-08-01 | All 11 guidelines acquired and extracted. PDFs in _pdfs/, text in sources/guidelines/. |
 
 ---
 
