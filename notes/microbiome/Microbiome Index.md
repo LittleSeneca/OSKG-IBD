@@ -20,6 +20,7 @@ Gut microbiome science relevant to IBD and SIBO. Dysbiosis, archaea, methanogens
 | [[Pimentel 2022 - Ch6 Three Pillars of SIBO Management]] | Ch6 (Tier 1) | Complete |
 | [[Pimentel 2022 - Ch9 Refractory SIBO]] | Ch9 (Tier 1) | Complete |
 | [[Pimentel 2022 - Ch10-11 Probiotics FMT and Myths]] | Ch10-11 (Tier 1) | Complete |
+| [[Pimentel 2006 - SIBO Theory Evolution 2006-2022]] | Intro, Ch1,4,5,6 (Tier 1) | Complete |
 | [[The Good Gut - Sonnenburg 2015]] | Whole book (Tier 4) | Complete |
 | [[The Microbiome Solution - Chutkan - Intro Ch1-3]] | Intro + Chs 1-3 (Tier 2) | Complete |
 | [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] | Ch 5 (Tier 2) | Complete |
