@@ -12,7 +12,7 @@ pinned: true
 
 This is the knowledge graph for Inflammatory Bowel Disease (IBD) and Small Intestinal Bacterial Overgrowth (SIBO). Every claim, edge, and synthesis here is drawn from structured extraction of the canon: gastroenterology textbooks, SIBO-specific clinical guides, microbiome science, clinical practice guidelines, and dietary intervention research.
 
-**Status:** Phase 0 — project scaffolded, sources being acquired.
+**Status:** Phase 5 complete. Culminating capstone published. [[notes/synthesis/Phase-5-Capstone|Read the capstone]] for the evidence-grounded synthesis of the IBD-SIBO relationship.
 
 ## Structure
 
