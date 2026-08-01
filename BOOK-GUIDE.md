@@ -137,7 +137,7 @@ Influential researchers and clinicians without standalone books (or whose contri
 |---|-------|--------|--------|------|
 | 1 | Sleisenger and Fordtran, 11E | libgen | Pending | — |
 | 2 | Yamada's Textbook, 7E | libgen | Pending | — |
-| 3 | The Microbiome Connection | libgen | Pending | — |
+| 3 | The Microbiome Connection | libgen | Acquired | 2026-08-01 |
 | 4 | A New IBS Solution | libgen | Pending | — |
 | 5 | Crohn's and Colitis (Steinhart) | libgen | Pending | — |
 | 6 | Healing SIBO (Sarna) | libgen | Acquired | 2026-08-01 |
