@@ -133,29 +133,16 @@ Influential researchers and clinicians without standalone books (or whose contri
 
 ## Acquisition Status
 
-| # | Title | Method | Status | Date |
-|---|-------|--------|--------|------|
-| 1 | Sleisenger and Fordtran, 11E | libgen | Pending | — |
-| 2 | Yamada's Textbook, 7E | libgen | Pending | — |
-| 3 | The Microbiome Connection | libgen | Acquired | 2026-08-01 |
-| 4 | A New IBS Solution | libgen | Pending | — |
-| 5 | Crohn's and Colitis (Steinhart) | libgen | Pending | — |
-| 6 | Healing SIBO (Sarna) | libgen | Acquired | 2026-08-01 |
-| 7 | SIBO Made Simple (LaPine) | libgen | Acquired | 2026-08-01 |
-| 8 | Gut: The Inside Story (Enders) | libgen | Acquired | 2026-08-01 |
-| 9 | The Mind-Gut Connection (Mayer) | libgen | Acquired | 2026-08-01 |
-| 10 | Fiber Fueled (Bulsiewicz) | libgen | Acquired | 2026-08-01 |
-| 11 | I Contain Multitudes (Yong) | libgen | Acquired | 2026-08-01 |
-| 12 | Breaking the Vicious Cycle (Gottschall) | libgen | Acquired | 2026-08-01 |
-| 13 | The Crohn's Disease Cookbook (Foote) | libgen | Acquired | 2026-08-01 |
-| 14 | The IBD Remission Diet (Thompson) | libgen | Acquired | 2026-08-01 |
-| 15 | The Microbiome Solution (Chutkan) | libgen | Acquired | 2026-08-01 |
-| 16 | Gut and Physiology Syndrome (Campbell-McBride) | libgen | Acquired | 2026-08-01 |
-| 17 | The Good Gut | libgen | Acquired (PDF) | 2026-08-01 |
-| 18 | The Autoimmune Solution | libgen | Acquired (epub) | 2026-08-01 |
-| 19 | The Paleo Approach | libgen | Acquired (PDF) | 2026-08-01 |
-| 20 | Inflamed | libgen | Acquired (epub) | 2026-08-01 |
-| G1-G11 | Clinical Guidelines | Direct download | Pending | — |
+| # | Title | Method | Status | Date | Notes |
+|---|-------|--------|--------|------|-------|
+| 1 | Sleisenger and Fordtran, 11E | libgen | Partial | 2026-08-01 | Main textbook (289 MB) failed 4 CDN attempts. Review Companion (Qayed/Shahnavaz, 2020, 7 MB) acquired as stopgap. Retry 11E later. |
+| 2 | Yamada's Textbook, 7E | libgen | Acquired | 2026-08-01 | 156 MB PDF. Extracted to 19.3 MB text. |
+| 3 | The Microbiome Connection | libgen | Acquired | 2026-08-01 | 3.2 MB EPUB. Extracted to 0.3 MB text. |
+| 4 | A New IBS Solution | libgen | Acquired | 2026-08-01 | 2.9 MB PDF. Extracted to 0.3 MB text. |
+| 5 | Crohn's and Colitis (Steinhart) | libgen | Acquired | 2026-08-01 | 4.3 MB EPUB. Extracted to 0.6 MB text. |
+| 6-16 | Tier 2 books | libgen | Acquired | 2026-08-01 | Previously downloaded and extracted. |
+| 17-20 | Tier 4 books | libgen | Acquired | 2026-08-01 | Previously downloaded and extracted. |
+| G1-G11 | Clinical Guidelines | Direct download | Pending | — | |
 
 ---
 
