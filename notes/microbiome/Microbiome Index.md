@@ -29,6 +29,7 @@ Gut microbiome science relevant to IBD and SIBO. Dysbiosis, archaea, methanogens
 | [[The Microbiome Solution - Chutkan - Intro Ch1-3]] | Intro + Chs 1-3 (Tier 2) | Complete |
 | [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] | Ch 5 (Tier 2) | Complete |
 | [[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]] | Ch 11 (Tier 2) | Complete |
+| [[Sleisenger Yamada SIBO Source Assessment]] | Source investigation (Tier 1) | Complete — no additional notes warranted |
 
 ## Key Questions
 
