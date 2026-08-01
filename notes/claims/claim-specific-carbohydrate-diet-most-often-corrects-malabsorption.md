@@ -65,6 +65,7 @@ If SCD truly replicates elemental diet effects through carbohydrate restriction 
 
 **Contradicts:**
 - [[claim-diet-alone-wont-cure-sibo-even-you|Gottschall claims SCD corrects malabsorption and can heal chronic intestinal disorders through carbohydrate restriction alone; Pimentel asserts diet alone cannot cure SIBO — contradictory positions on dietary monotherapy efficacy]]
+- [[claim-pimentel-rezaie-survey-dietary-landscape-find-existing|Gottschall's SCD efficacy claim is directly contradicted by Pimentel's citation of a clinical trial finding SCD did not relieve IBS symptoms vs low-FODMAP]]
 
 ## Assessment
 
