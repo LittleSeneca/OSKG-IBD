@@ -116,7 +116,7 @@ The three positions are not contradictory at the level of individual facts. ACG,
 
 The disagreement is about **threshold for clinical action.** ACG says breath testing is adequate for clinical decision-making (treat empirically based on breath test results). Rome says breath testing has not been validated against an accepted gold standard (treat based on clinical judgment, not breath test alone). AGA says the definitional problems are fundamental (more research needed before formal recommendations).
 
-The graph does not resolve this disagreement. It documents it. The resolution would require independent, multi-center validation of breath testing against clinical outcomes -- a study design that the Rome report outlines but that no claim in the graph reports as having been conducted.
+The graph does not resolve this disagreement. It documents it. The resolution would require independent, multi-center validation of breath testing against clinical outcomes -- a study design that the Rome report outlines but that no claim in the graph reports as having been conducted. This question is formalized in [[../questions/sibo-diagnostic-standard]], which specifies the study designs that could resolve the diagnostic standard debate.
 
 **Evidence quality:** The individual facts (breath test limitations, culture cutoff controversy, limited microbiome characterization) are established. The resolution of the clinical action threshold is unresolved.
 
@@ -194,6 +194,8 @@ If the common mechanism hypothesis is correct, the choice between dietary protoc
 
 The [[../evidence-briefs/EB-Diet-Comparison]] rates this as low confidence for direct comparison (no head-to-head trials exist) but high confidence for the common mechanism hypothesis (consistent across all major sources, mechanically plausible, consistent with elemental diet efficacy data).
 
+The structural gap between dietary evidence and guideline integration is formalized in [[../questions/diet-guideline-gap]]: can dietary therapy be positioned within IBD treatment guideline algorithms alongside pharmacotherapy, or do the different evidence standards for dietary vs. pharmaceutical interventions preclude formal integration?
+
 ---
 
 ## 5. The IBD-SIBO Relationship: What the Evidence Shows
@@ -266,6 +268,8 @@ The graph surfaces three categories of unanswered questions. Each is documented 
 **Does treating SIBO in IBD patients improve outcomes beyond symptom relief?** No trial exists. The graph contains prevalence data, treatment efficacy data, and mechanistic rationale, but the final link -- does SIBO treatment change IBD outcomes? -- is absent. See [[../questions/SIBO-IBD-contribution]].
 
 **What is the long-term efficacy of prokinetics for SIBO prevention?** The graph documents short-term efficacy (200+ days) from a single research group. Long-term data (>2 years) and independent replication are absent.
+
+**Can pathophysiological mechanisms guide treatment selection in IBD?** The graph contains substantial claims on IBD pathogenesis (NOD2 mutations, autophagy defects, IL-23/Th17 pathway) and treatment recommendations (anti-TNF, anti-integrin, JAK inhibitors). But no edge connects a specific genetic variant to a specific biologic choice -- precision medicine has not arrived in IBD. See [[../questions/pathogenesis-treatment-gap]].
 
 ### 7.2 Questions the Graph Partially Answers (Evidence Exists but Is Contested)
 
