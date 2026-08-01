@@ -32,19 +32,19 @@ The treatment of inflammatory bowel disease is the best-connected domain in the 
 
 The convergence on 5-aminosalicylates for ulcerative colitis is the strongest consensus signal in the graph.
 
-**Rectal 5-ASA for proctitis.** [[acg-uc2019-5]] establishes rectal 5-ASA (1 g/d) as first-line therapy for proctitis, with combined oral + rectal 5-ASA superior to oral alone. The evidence grade is high (meta-analyses of multiple RCTs). [[ecco-uc2022-3]] makes the same recommendation, with the notable transparency that the strong recommendation rests on low-quality evidence -- a pattern seen throughout the UC guideline literature. The Yamada textbook network meta-analysis of 48 trials (8,020 patients) provides the largest data synthesis, confirming combined oral+rectal 5-ASA as the most effective induction strategy for mild-moderate UC [[yamada-uc63-1]].
+**Rectal 5-ASA for proctitis.** [[../claims/claim-rectal-5-asa-first-line-proctitis-combined-oral-rectal]] establishes rectal 5-ASA (1 g/d) as first-line therapy for proctitis, with combined oral + rectal 5-ASA superior to oral alone. The evidence grade is high (meta-analyses of multiple RCTs). [[../claims/claim-oral-5-asa-induces-remission-low-quality-evidence-strong]] makes the same recommendation, with the notable transparency that the strong recommendation rests on low-quality evidence -- a pattern seen throughout the UC guideline literature. The Yamada textbook network meta-analysis of 48 trials (8,020 patients) provides the largest data synthesis, confirming combined oral+rectal 5-ASA as the most effective induction strategy for mild-moderate UC [[../claims/claim-based-network-metaanalysis-induction-trials-including-8020]].
 
 **Evidence quality:** Established. Multiple independent meta-analyses, large network meta-analysis, strong recommendations across three guideline bodies.
 
-**Maintenance.** [[ecco-uc2022-7]] strongly recommends oral 5-ASA ≥2 g/d and topical 5-ASA for distal disease as maintenance therapy. [[acg-uc2019-6]] adds that once-daily dosing is as effective as split dosing, improving adherence without sacrificing efficacy.
+**Maintenance.** [[../claims/claim-oral-5-asa-topical-5-asa-distal-disease-strongly]] strongly recommends oral 5-ASA ≥2 g/d and topical 5-ASA for distal disease as maintenance therapy. [[../claims/claim-once-daily-5-asa-dosing-effective-split-dosing-switching]] adds that once-daily dosing is as effective as split dosing, improving adherence without sacrificing efficacy.
 
 ### 2.2 Corticosteroids: The Induction-Maintenance Paradox
 
 The graph captures a structural tension in corticosteroid positioning that has clinical consequences.
 
-**For induction: effective.** [[acg-cd2018-12]] states oral corticosteroids are effective for short-term symptom relief in moderate-severe Crohn's disease, but do not consistently achieve mucosal healing. [[ecco-cd2020-3]] confirms systemic corticosteroid efficacy for moderate-severe CD but emphasizes substantial toxicity. [[ecco-uc2022-11]] recommends oral prednisolone for moderate-severe UC induction. [[acg-uc2019-7]] positions budesonide MMX (a gut-targeted corticosteroid with lower systemic exposure) as preferred over prednisolone for 5-ASA-refractory mild-moderate UC.
+**For induction: effective.** [[../claims/claim-oral-corticosteroids-effective-short-term-symptom-relief-consistently]] states oral corticosteroids are effective for short-term symptom relief in moderate-severe Crohn's disease, but do not consistently achieve mucosal healing. [[../claims/claim-systemic-corticosteroids-effective-moderate-to-severe-carry-substantial-to]] confirms systemic corticosteroid efficacy for moderate-severe CD but emphasizes substantial toxicity. [[../claims/claim-tofacitinib-strongly-recommended-induction-moderate-quality-evidence-guide]] recommends oral prednisolone for moderate-severe UC induction. [[../claims/claim-budesonide-mmx-preferred-over-systemic-steroids-5-asa-refractory]] positions budesonide MMX (a gut-targeted corticosteroid with lower systemic exposure) as preferred over prednisolone for 5-ASA-refractory mild-moderate UC.
 
-**For maintenance: contraindicated.** [[acg-cd2018-47]] states corticosteroids should NOT be used for maintenance -- a strong recommendation across all guidelines. This is the structural paradox: corticosteroids work for induction but are harmful when continued.
+**For maintenance: contraindicated.** [[../claims/claim-acg-cd2018-r47-corticosteroids-not-for-maintenance]] states corticosteroids should NOT be used for maintenance -- a strong recommendation across all guidelines. This is the structural paradox: corticosteroids work for induction but are harmful when continued.
 
 **Evidence quality:** Established for induction efficacy and maintenance contraindication. The budesonide MMX positioning (preferred for mild-moderate, insufficient for severe) is probable, supported by one guideline body (ACG) but not universally adopted.
 
@@ -52,11 +52,11 @@ The graph captures a structural tension in corticosteroid positioning that has c
 
 The biologic era has transformed IBD management, and the graph reflects a consistent hierarchy across guidelines.
 
-**Anti-TNF as first biologic.** [[acg-uc2019-9]] recommends anti-TNF therapy (infliximab, adalimumab, golimumab) with high-quality evidence for UC induction. Combination infliximab + thiopurine is superior to either monotherapy. [[ecco-uc2022-9]] makes the same recommendation with strong endorsement, supported by network meta-analysis.
+**Anti-TNF as first biologic.** [[../claims/claim-anti-tnf-therapy-infliximab-adalimumab-golimumab-high-quality-evidence]] recommends anti-TNF therapy (infliximab, adalimumab, golimumab) with high-quality evidence for UC induction. Combination infliximab + thiopurine is superior to either monotherapy. [[../claims/claim-anti-tnf-agents-infliximab-adalimumab-golimumab-strongly-recommended]] makes the same recommendation with strong endorsement, supported by network meta-analysis.
 
-**Early biologic over step-up.** [[aga-cd2021-7]] recommends early biologic ± immunomodulator over step-up therapy for moderate-severe CD -- representing the paradigm shift away from the historical "5-ASA → corticosteroids → immunomodulators → biologics" ladder toward early effective therapy to prevent progressive bowel damage. This is particularly critical in CD, where [[ecco-cd2020-1]] frames the disease as progressive, requiring early intensive monitoring and individualized risk-stratified treatment.
+**Early biologic over step-up.** [[../claims/claim-corticosteroids-suggested-induction-strongly-recommended-against-maintenan]] recommends early biologic ± immunomodulator over step-up therapy for moderate-severe CD -- representing the paradigm shift away from the historical "5-ASA → corticosteroids → immunomodulators → biologics" ladder toward early effective therapy to prevent progressive bowel damage. This is particularly critical in CD, where [[../claims/claim-progressive-disease-requiring-early-intensive-monitoring-individualized]] frames the disease as progressive, requiring early intensive monitoring and individualized risk-stratified treatment.
 
-**Second-line biologics.** [[acg-uc2019-25]] recommends vedolizumab for induction; [[acg-uc2019-35]] recommends continuing vedolizumab for maintenance. The graph captures vedolizumab's established position as second-line biologic after anti-TNF failure, with the gut-selective mechanism (gut-homing α4β7 integrin blockade) offering a safety advantage. [[vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat]] confirms efficacy in anti-TNF-exposed patients.
+**Second-line biologics.** [[../claims/claim-acg-uc2019-r25-vedolizumab-for-induction]] recommends vedolizumab for induction; [[../claims/claim-acg-uc2019-r35-continue-vedolizumab-for-maintenance]] recommends continuing vedolizumab for maintenance. The graph captures vedolizumab's established position as second-line biologic after anti-TNF failure, with the gut-selective mechanism (gut-homing α4β7 integrin blockade) offering a safety advantage. [[../claims/claim-vedolizumab-tofacitinib-effective-induction-including-anti-tnf-exposed-pat]] confirms efficacy in anti-TNF-exposed patients.
 
 **Evidence quality:** Established for anti-TNF superiority over placebo (multiple RCTs). Probable for early biologic over step-up (observational data, biological rationale, guideline consensus, but no RCT randomizing early biologic against step-up). Probable for vedolizumab as preferred second-line (consistent guideline recommendations, limited head-to-head data).
 
@@ -64,11 +64,11 @@ The biologic era has transformed IBD management, and the graph reflects a consis
 
 This is the graph's most philosophically interesting convergence. All major guidelines endorse treating to objective targets (endoscopic, imaging, or biomarker) rather than symptoms alone. The evidence is detailed in [[../evidence-briefs/EB-Treat-to-Target]].
 
-**The symptom-inflammation disconnect.** [[acg-cd2018-2]] states the foundational premise: symptoms of Crohn's disease do not correlate well with active mucosal inflammation. This claim is a convergence point in the graph (3+ independent sources converge) and is the settled-science basis for the entire treat-to-target paradigm.
+**The symptom-inflammation disconnect.** [[../claims/claim-summary-statement-symptoms-crohns-disease-correlate-well]] states the foundational premise: symptoms of Crohn's disease do not correlate well with active mucosal inflammation. This claim is a convergence point in the graph (3+ independent sources converge) and is the settled-science basis for the entire treat-to-target paradigm.
 
-**The progressive disease model.** [[ecco-cd2020-1]] frames CD as a progressive disease where untreated inflammation causes cumulative bowel damage (strictures, fistulas, surgical resection) even when the patient feels well. The model provides biological urgency for preemptive, objective-monitoring-driven therapy.
+**The progressive disease model.** [[../claims/claim-progressive-disease-requiring-early-intensive-monitoring-individualized]] frames CD as a progressive disease where untreated inflammation causes cumulative bowel damage (strictures, fistulas, surgical resection) even when the patient feels well. The model provides biological urgency for preemptive, objective-monitoring-driven therapy.
 
-**Specific targets: low-quality evidence.** [[acg-uc2019-3]] establishes mucosal healing (Mayo endoscopic subscore 0-1) as the treatment target, but the confidence rating is only medium and the evidence grade is low. [[bsg-ibd2019-2]] makes mucosal healing the target with weak recommendation and very low-quality evidence. [[ecco-diag2019-6]] documents the emerging endpoint of transmural healing (MRE/IUS), relevant for CD where mucosal-only assessment may miss deep disease.
+**Specific targets: low-quality evidence.** [[../claims/claim-mucosal-healing-mayo-endoscopic-subscore-treatment-target]] establishes mucosal healing (Mayo endoscopic subscore 0-1) as the treatment target, but the confidence rating is only medium and the evidence grade is low. [[../claims/claim-bsg-statement-2-treatment-target-mucosal-healing]] makes mucosal healing the target with weak recommendation and very low-quality evidence. [[../claims/claim-mucosal-healing-important-therapeutic-goal-both-validated]] documents the emerging endpoint of transmural healing (MRE/IUS), relevant for CD where mucosal-only assessment may miss deep disease.
 
 **The paradox:** No guideline claims that treat-to-target is supported by high-quality evidence from randomized trials comparing treat-to-target against symptom-based care. The paradigm is consensus-driven -- a precautionary principle judgment that the observational data and biological rationale outweigh the absence of definitive trials. The graph captures this honestly: the paradigm is settled at the level of clinical reasoning but tentative at the level of specific targets.
 
@@ -82,15 +82,15 @@ SIBO diagnosis is the most contested area in the graph. Three major positions ex
 
 ### 3.1 Position A: Breath Testing Is Clinically Valid (ACG SIBO 2020)
 
-[[acg-sibo2020-3]] (Pimentel et al.) recommends glucose or lactulose hydrogen breath testing for SIBO diagnosis in IBS, suspected motility disorders, and post-surgical patients. [[acg-sibo2020-5]] refines the framework: methane-positive breath testing (≥10 ppm) indicates intestinal methanogen overgrowth (IMO), not bacterial SIBO, requiring different treatment. [[acg-sibo2020-1]] provides the operational definition: "the presence of excessive numbers of bacteria in the small bowel causing gastrointestinal symptoms."
+[[../claims/claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo]] (Pimentel et al.) recommends glucose or lactulose hydrogen breath testing for SIBO diagnosis in IBS, suspected motility disorders, and post-surgical patients. [[../claims/claim-methane-positive-breath-testing-ppm-indicates-intestinal-methanogen]] refines the framework: methane-positive breath testing (≥10 ppm) indicates intestinal methanogen overgrowth (IMO), not bacterial SIBO, requiring different treatment. [[../claims/claim-sibo-defined-presence-excessive-numbers-bacteria-small]] provides the operational definition: "the presence of excessive numbers of bacteria in the small bowel causing gastrointestinal symptoms."
 
-**The clinical basis:** Pimentel's 16-year dataset (2006-2022) shows that breath test results correlate with treatment response [[pimentel-evol-6]]. The MMC housekeeper wave, food poisoning etiology, elemental diet efficacy (>80%), and the H. pylori/peptic ulcer analogy have remained stable across two decades of research. The framework is internally consistent and clinically predictive.
+**The clinical basis:** Pimentel's 16-year dataset (2006-2022) shows that breath test results correlate with treatment response [[../claims/claim-sibo-core-principles-unchanged-2006-2022]]. The MMC housekeeper wave, food poisoning etiology, elemental diet efficacy (>80%), and the H. pylori/peptic ulcer analogy have remained stable across two decades of research. The framework is internally consistent and clinically predictive.
 
-**The weakness:** The evidence is primarily from a single research group. Independent validation of lactulose breath test sensitivity/specificity is limited. [[acg-sibo2020-4]] acknowledges (but does not formally grade) that jejunal aspirate culture -- the putative gold standard -- has significant limitations: the >10^5 CFU/mL cutoff was established from post-surgical diversion samples, not healthy controls.
+**The weakness:** The evidence is primarily from a single research group. Independent validation of lactulose breath test sensitivity/specificity is limited. [[../claims/claim-graded-recommendation-discussed-reference-standard-significant-limitations]] acknowledges (but does not formally grade) that jejunal aspirate culture -- the putative gold standard -- has significant limitations: the >10^5 CFU/mL cutoff was established from post-surgical diversion samples, not healthy controls.
 
 ### 3.2 Position B: The Evidence Base Is Fundamentally Weak (Rome 2017)
 
-[[rome-sibo2017-4]] states the problem directly: "The role of SIBO in the pathogenesis of IBS is very controversial because the breath tests employed to establish this role have not been validated. Even the validity of the 'gold standard', jejunal cultures >10^5 cfu/ml with colonic-type bacteria, has been challenged."
+[[../claims/claim-role-sibo-pathogenesis-ibs-controversial-because-breath]] states the problem directly: "The role of SIBO in the pathogenesis of IBS is very controversial because the breath tests employed to establish this role have not been validated. Even the validity of the 'gold standard', jejunal cultures >10^5 cfu/ml with colonic-type bacteria, has been challenged."
 
 The Rome report catalogs the empirical difficulties:
 
@@ -98,11 +98,11 @@ The Rome report catalogs the empirical difficulties:
 - **Pyleris et al. (2012):** 85 IBS, 150 non-IBS -- 37% IBS >10^3 CFU/mL vs 15.11% non-IBS.
 - **Choung et al. (2011):** 148 IBS, duodenal aspirate -- 2% IBS >10^5 CFU/mL vs 10% in patients with other indications.
 
-The core problem: **there is no accepted definition of what constitutes a normal small intestinal microbiota** [[rome-sibo2017-3]]. Without knowing what "normal" looks like at each segment of the small intestine, "overgrowth" cannot be objectively defined. Breath tests are proxies for a condition whose reference standard is itself contested.
+The core problem: **there is no accepted definition of what constitutes a normal small intestinal microbiota** [[../claims/claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based]]. Without knowing what "normal" looks like at each segment of the small intestine, "overgrowth" cannot be objectively defined. Breath tests are proxies for a condition whose reference standard is itself contested.
 
 ### 3.3 Position C: The Definition Lacks Precision (AGA 2020)
 
-[[aga-sibo2020-implicit-1]] (Quigley et al.) opens with: "The definition of SIBO lacks precision and consistency." [[aga-sibo2020-implicit-3]] elaborates: "A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations."
+[[../claims/claim-aga-sibo2020-bpa-1]] (Quigley et al.) opens with: "The definition of SIBO lacks precision and consistency." [[../claims/claim-aga-sibo2020-bpa-5-6]] elaborates: "A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations."
 
 The AGA Best Practice Advice occupies a middle position: SIBO is clinically real, breath testing has clinical utility, but the evidence base is insufficient for formal guideline recommendations. The AGA's implicit framing -- all statements are Best Practice Advice, not graded recommendations -- is itself a signal of the evidence quality.
 
@@ -110,9 +110,9 @@ The AGA Best Practice Advice occupies a middle position: SIBO is clinically real
 
 The three positions are not contradictory at the level of individual facts. ACG, Rome, and AGA all agree that:
 
-1. Jejunal aspirate culture is the historical gold standard but is impractical and has definitional problems [[acg-sibo2020-4]], [[rome-sibo2017-4]]
-2. Breath testing is the clinically pragmatic alternative [[acg-sibo2020-3]], [[aga-sibo2020-implicit-3]]
-3. The normal small intestinal microbiome is poorly characterized [[rome-sibo2017-3]], [[aga-sibo2020-implicit-3]]
+1. Jejunal aspirate culture is the historical gold standard but is impractical and has definitional problems [[../claims/claim-graded-recommendation-discussed-reference-standard-significant-limitations]], [[../claims/claim-role-sibo-pathogenesis-ibs-controversial-because-breath]]
+2. Breath testing is the clinically pragmatic alternative [[../claims/claim-glucose-lactulose-hydrogen-breath-testing-suggested-sibo]], [[../claims/claim-aga-sibo2020-bpa-5-6]]
+3. The normal small intestinal microbiome is poorly characterized [[../claims/claim-arrival-new-high-throughput-sequencing-approaches-16s-rrna-based]], [[../claims/claim-aga-sibo2020-bpa-5-6]]
 
 The disagreement is about **threshold for clinical action.** ACG says breath testing is adequate for clinical decision-making (treat empirically based on breath test results). Rome says breath testing has not been validated against an accepted gold standard (treat based on clinical judgment, not breath test alone). AGA says the definitional problems are fundamental (more research needed before formal recommendations).
 
@@ -130,11 +130,11 @@ The dietary domain is the most orphaned in the graph (77 claims, almost entirely
 
 EEN is the most rigorously evidenced dietary therapy in IBD, and the only dietary intervention recommended by formal clinical guidelines.
 
-**Pediatric Crohn's: established efficacy.** [[thompson-een-1]] establishes elemental diet therapy as equivalent to corticosteroids for inducing remission in pediatric Crohn's, with superior mucosal healing. [[bsg-ibd2019-9]] confirms: "EEN is as effective as corticosteroids in paediatric CD (73% remission on intention-to-treat basis)." The evidence is meta-analysis-grade.
+**Pediatric Crohn's: established efficacy.** [[../claims/claim-elemental-diet-therapy-effective-steroids-inducing-remission]] establishes elemental diet therapy as equivalent to corticosteroids for inducing remission in pediatric Crohn's, with superior mucosal healing. [[../claims/claim-bsg-statement-34-een-adult-cd]] confirms: "EEN is as effective as corticosteroids in paediatric CD (73% remission on intention-to-treat basis)." The evidence is meta-analysis-grade.
 
-**Adult Crohn's: efficacy likely, compliance weak.** [[bsg-ibd2019-9]] gives EEN in adults a weak recommendation with low-quality evidence. The adult evidence is weaker due to lower adherence (taste fatigue, social restrictions) rather than lower biological efficacy. Polymeric feeds are as effective as elemental feeds, undermining the "elemental" rationale and suggesting the mechanism is bowel rest and/or dietary antigen elimination rather than amino acid predigestion.
+**Adult Crohn's: efficacy likely, compliance weak.** [[../claims/claim-bsg-statement-34-een-adult-cd]] gives EEN in adults a weak recommendation with low-quality evidence. The adult evidence is weaker due to lower adherence (taste fatigue, social restrictions) rather than lower biological efficacy. Polymeric feeds are as effective as elemental feeds, undermining the "elemental" rationale and suggesting the mechanism is bowel rest and/or dietary antigen elimination rather than amino acid predigestion.
 
-**For SIBO: probable efficacy.** [[pimentel-ch6-4]] reports a 14-day elemental diet was more than 80% effective in treating SIBO (Pimentel's 2004 study). This is the dietary benchmark: if an oral diet approaches elemental-diet efficacy for breath test normalization, it becomes a first-line therapy.
+**For SIBO: probable efficacy.** [[../claims/claim-our-study-published-years-ago-14-day-elemental]] reports a 14-day elemental diet was more than 80% effective in treating SIBO (Pimentel's 2004 study). This is the dietary benchmark: if an oral diet approaches elemental-diet efficacy for breath test normalization, it becomes a first-line therapy.
 
 **Evidence quality:** Established for pediatric Crohn's induction. Probable for adult Crohn's (efficacy likely, compliance is the barrier). Probable for SIBO (single-center data).
 
@@ -142,9 +142,9 @@ EEN is the most rigorously evidenced dietary therapy in IBD, and the only dietar
 
 The low-FODMAP diet has the best RCT evidence of any elimination diet for IBS, with multiple trials showing symptom reduction. But the evidence is in IBS, not SIBO specifically, and not IBD.
 
-**The gap:** No claim in the graph documents a low-FODMAP trial with SIBO-specific endpoints (breath test normalization, methane reduction). The Rome 2017 report [[rome-sibo2017-4]] discusses breath testing controversy but does not mention low-FODMAP for SIBO. ACG SIBO 2020 [[acg-sibo2020-2]] recommends dietary evaluation as part of SIBO management but does not specify a protocol.
+**The gap:** No claim in the graph documents a low-FODMAP trial with SIBO-specific endpoints (breath test normalization, methane reduction). The Rome 2017 report [[../claims/claim-role-sibo-pathogenesis-ibs-controversial-because-breath]] discusses breath testing controversy but does not mention low-FODMAP for SIBO. ACG SIBO 2020 [[../claims/claim-key-concept-most-common-symptom-sibo-bloating]] recommends dietary evaluation as part of SIBO management but does not specify a protocol.
 
-**The limitation:** [[pimentel-lfe-1]] critiques low-FODMAP as "too restrictive (207 foods to avoid), reduces microbiome diversity, and was not designed for SIBO." The Monash protocol's elimination/reintroduction phases are research-validated for IBS but the food list was developed for IBS symptom patterns, not SIBO breath test patterns.
+**The limitation:** [[../claims/claim-pimentel-rezaie-survey-dietary-landscape-find-existing]] critiques low-FODMAP as "too restrictive (207 foods to avoid), reduces microbiome diversity, and was not designed for SIBO." The Monash protocol's elimination/reintroduction phases are research-validated for IBS but the food list was developed for IBS symptom patterns, not SIBO breath test patterns.
 
 **Evidence quality:** Established for IBS symptom reduction. Speculative for SIBO-specific outcomes (breath test normalization, recurrence rates).
 
@@ -152,13 +152,13 @@ The low-FODMAP diet has the best RCT evidence of any elimination diet for IBS, w
 
 Gottschall's SCD (1994) is the oldest and most philosophically developed dietary protocol in the graph. The mechanistic narrative is compelling:
 
-**The vicious cycle model.** [[gottschall-ch35-5]] articulates a five-step mechanism: carbohydrate malabsorption → increased luminal carbohydrates → microbial fermentation → acid and gas production → enterocyte injury → further carbohydrate malabsorption (vicious cycle). [[gottschall-ch12-2]] identifies the common denominator: restricting carbohydrates that gut bacteria can ferment.
+**The vicious cycle model.** [[../claims/claim-vicious-cycle-figure-text-proceeds-follows-carbohydrate]] articulates a five-step mechanism: carbohydrate malabsorption → increased luminal carbohydrates → microbial fermentation → acid and gas production → enterocyte injury → further carbohydrate malabsorption (vicious cycle). [[../claims/claim-common-denominator-underlying-effectiveness-both-natural-specific]] identifies the common denominator: restricting carbohydrates that gut bacteria can ferment.
 
-**The historical lineage.** [[gottschall-ch12-3]] traces a through-line from Aretaeus (300 AD, celiac-type diarrhea treated with fasting) through Samuel Gee (1888, diet therapy for celiac) to the Haas banana diet (1924) to modern SCD. The intellectual tradition is rich but the evidence is case-report-level.
+**The historical lineage.** [[../claims/claim-gottschall-presents-historical-through-line-aretaeus-300-treated]] traces a through-line from Aretaeus (300 AD, celiac-type diarrhea treated with fasting) through Samuel Gee (1888, diet therapy for celiac) to the Haas banana diet (1924) to modern SCD. The intellectual tradition is rich but the evidence is case-report-level.
 
-**The evidence gap.** Gottschall claims that "most cases begin to improve within three weeks" [[gottschall-ch910-3]], that the SCD "most often corrects malabsorption" [[gottschall-ch35-8]], and that "the connection between Crohn's disease and a sugar-rich diet is proved beyond reasonable doubt" [[gottschall-ch12-4]]. These are strong claims resting on weak evidence: 600 cited publications establish biological plausibility, but no RCT has tested SCD against placebo or comparator in IBD, IBS, or SIBO.
+**The evidence gap.** Gottschall claims that "most cases begin to improve within three weeks" [[../claims/claim-most-cases-begin-improve-within-three-weeks]], that the SCD "most often corrects malabsorption" [[../claims/claim-specific-carbohydrate-diet-most-often-corrects-malabsorption]], and that "the connection between Crohn's disease and a sugar-rich diet is proved beyond reasonable doubt" [[../claims/claim-connection-between-crohns-disease-sugar-rich-diet-proved]]. These are strong claims resting on weak evidence: 600 cited publications establish biological plausibility, but no RCT has tested SCD against placebo or comparator in IBD, IBS, or SIBO.
 
-**The modernization.** [[lapine-cookbook-2]] demonstrates that SCD and low-FODMAP have a substantial intersection: foods that are both SCD-legal and low-FODMAP form a coherent dietary framework. This intersection is a pragmatic starting point that honors both traditions. [[sarna-sibo-diet-2]] integrates SCD principles with low-FODMAP and clinical SIBO experience in Dr. Siebecker's food guide.
+**The modernization.** [[../claims/claim-scd-low-fodmap-intersection-dietary-framework]] demonstrates that SCD and low-FODMAP have a substantial intersection: foods that are both SCD-legal and low-FODMAP form a coherent dietary framework. This intersection is a pragmatic starting point that honors both traditions. [[../claims/claim-food-guide-developed-siebecker-based-her-clinical]] integrates SCD principles with low-FODMAP and clinical SIBO experience in Dr. Siebecker's food guide.
 
 **Evidence quality:** Speculative for SCD-specific efficacy. The mechanism is plausible, the case reports are numerous, but no controlled trial exists.
 
@@ -166,9 +166,9 @@ Gottschall's SCD (1994) is the oldest and most philosophically developed dietary
 
 Pimentel and Rezaie's LFE (2022) represents the endpoint of the dietary evolution: SCD (1994, carbohydrate-structure-based) → low-FODMAP (2005, fermentation-tested) → Siebecker's SSFG (clinical hybrid) → LFE (2022, SIBO-specific, meal-timing-integrated).
 
-**The two-rule structure.** [[pimentel-lfe-3]]: (1) Restrict products containing high levels of carbohydrates that are not easily digestible, and (2) eat only 2-3 meals per day with 4-5 hours between meals and no snacking. Rule 2 (meal spacing) is grounded in MMC physiology [[pimentel-ch2-1]] and is the protocol's most mechanistically grounded element.
+**The two-rule structure.** [[../claims/claim-low-fermentation-eating-two-essential-rules-restrict-products]]: (1) Restrict products containing high levels of carbohydrates that are not easily digestible, and (2) eat only 2-3 meals per day with 4-5 hours between meals and no snacking. Rule 2 (meal spacing) is grounded in MMC physiology [[../claims/claim-remember-gut-two-modes-feeding-digestion-fasting]] and is the protocol's most mechanistically grounded element.
 
-**The evidence gap.** LFE has no published trials. The 80-90% improvement claim is from unpublished clinical experience at Cedars-Sinai [[pimentel-lfe-5]]. Pimentel himself states the limitation: "Diet alone won't cure SIBO. Even if you strictly follow low-fermentation eating, diet alone is not going to get rid of bacterial overgrowth" [[pimentel-lfe-5]]. Dietary therapy is positioned as supportive, not curative -- a management tool to control symptoms while treating the underlying dysmotility/infection.
+**The evidence gap.** LFE has no published trials. The 80-90% improvement claim is from unpublished clinical experience at Cedars-Sinai [[../claims/claim-diet-alone-wont-cure-sibo-even-you]]. Pimentel himself states the limitation: "Diet alone won't cure SIBO. Even if you strictly follow low-fermentation eating, diet alone is not going to get rid of bacterial overgrowth" [[../claims/claim-diet-alone-wont-cure-sibo-even-you]]. Dietary therapy is positioned as supportive, not curative -- a management tool to control symptoms while treating the underlying dysmotility/infection.
 
 **Evidence quality:** Speculative for efficacy. The protocol is mechanistically sound but untested.
 
@@ -176,11 +176,11 @@ Pimentel and Rezaie's LFE (2022) represents the endpoint of the dietary evolutio
 
 The GAPS diet (Campbell-McBride) and Paleo approaches (Ballantyne, Myers) occupy Tier 4 in the graph: adjacent frameworks with strong philosophical commitments and no controlled evidence.
 
-**GAPS.** [[campbell-gaps-1]] asserts: "I have no doubt that all autoimmunity is born in the gut." The protocol includes an Introduction Diet with six progressive stages, a Full GAPS Diet, fermented foods as "the most potent probiotics," and detoxification protocols [[campbell-gaps-2]], [[campbell-gaps-3]], [[campbell-gaps-6]]. The claims are confident but rest on the author's clinical experience.
+**GAPS.** [[../claims/claim-doubt-autoimmunity-born-gut]] asserts: "I have no doubt that all autoimmunity is born in the gut." The protocol includes an Introduction Diet with six progressive stages, a Full GAPS Diet, fermented foods as "the most potent probiotics," and detoxification protocols [[../claims/claim-introduction-diet-works-three-mechanisms-providing-large]], [[../claims/claim-full-gaps-diet-adds-more-variety-meats]], [[../claims/claim-most-potent-probiotics-use-gaps-nutritional-protocol]]. The claims are confident but rest on the author's clinical experience.
 
-**The Autoimmune Solution (Myers).** [[myers-autoimmune-implicit-9]] asserts that genetic predisposition accounts for only 25% of autoimmune disease risk; the rest is environmental triggers that dietary and lifestyle modification can address. The framework is biologically plausible but untested.
+**The Autoimmune Solution (Myers).** [[../claims/claim-core-thesis-myers-autoimmune]] asserts that genetic predisposition accounts for only 25% of autoimmune disease risk; the rest is environmental triggers that dietary and lifestyle modification can address. The framework is biologically plausible but untested.
 
-**The Paleo Approach (Ballantyne).** [[ballantyne-paleo-implicit-8]] identifies intestinal permeability ("leaky gut") as the common pathway linking genetics, diet, and autoimmune disease. The mechanism is consistent with the epithelial barrier literature but the Paleo-diet-as-treatment evidence is absent from the graph.
+**The Paleo Approach (Ballantyne).** [[../claims/claim-core-thesis-ballantyne-paleo]] identifies intestinal permeability ("leaky gut") as the common pathway linking genetics, diet, and autoimmune disease. The mechanism is consistent with the epithelial barrier literature but the Paleo-diet-as-treatment evidence is absent from the graph.
 
 **Evidence quality:** Speculative at best. These are patient experience and practitioner consensus, not clinical evidence. The claims are documented in the graph because they represent real patient-reported outcomes and clinical traditions, but they occupy the lowest tier of the evidence hierarchy.
 
@@ -188,7 +188,7 @@ The GAPS diet (Campbell-McBride) and Paleo approaches (Ballantyne, Myers) occupy
 
 The most important insight from the dietary domain is that all effective dietary protocols likely work through the same mechanism: **reducing fermentable substrate reaching colonic bacteria.**
 
-[[sarna-sibo-diet-1]] states it plainly: "All of these diets work for the same reason: They reduce the amount of fermentable carbohydrates you consume." [[gottschall-ch12-2]] identified the same mechanism in 1994 using different language (restricting carbohydrates that intestinal microbes can ferment). [[pimentel-lfe-5]] frames LFE as doing the same thing with a modern understanding of which carbohydrates are fermentable.
+[[../claims/claim-diets-work-same-reason-they-reduce-amount]] states it plainly: "All of these diets work for the same reason: They reduce the amount of fermentable carbohydrates you consume." [[../claims/claim-common-denominator-underlying-effectiveness-both-natural-specific]] identified the same mechanism in 1994 using different language (restricting carbohydrates that intestinal microbes can ferment). [[../claims/claim-diet-alone-wont-cure-sibo-even-you]] frames LFE as doing the same thing with a modern understanding of which carbohydrates are fermentable.
 
 If the common mechanism hypothesis is correct, the choice between dietary protocols is driven by compliance, patient preference, and practitioner familiarity -- not evidence of differential efficacy. The practical question becomes not "which diet is best" but "which diet can this patient sustain."
 
@@ -202,9 +202,9 @@ The relationship between IBD and SIBO is the central question the graph was buil
 
 ### 5.1 SIBO Prevalence in IBD: Probable but Unvalidated
 
-The most clinically significant claim in the graph on this question is [[pimentel-ch9-3]]: "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO." This is published data from Pimentel's group. If validated, it would change IBD management: breath testing and SIBO treatment would become standard practice for patients with persistent symptoms despite endoscopic remission, potentially avoiding unnecessary immunosuppression escalation.
+The most clinically significant claim in the graph on this question is [[../claims/claim-shown-more-percent-patients-ibd-controlled-inflammation]]: "We have shown that more than 50 percent of such patients [IBD with controlled inflammation but persistent symptoms] have SIBO." This is published data from Pimentel's group. If validated, it would change IBD management: breath testing and SIBO treatment would become standard practice for patients with persistent symptoms despite endoscopic remission, potentially avoiding unnecessary immunosuppression escalation.
 
-**The mechanism is plausible.** IBD causes structural damage (strictures, fistulas, surgical anatomy) that impairs motility. IBD inflammation may damage the migrating motor complex, the small intestine's primary housekeeper mechanism [[pimentel-ch2-1]]. IBD patients receive frequent antibiotics, which alter the microbiome. All three factors -- altered anatomy, impaired MMC, and dysbiosis -- are established contributors to SIBO in other contexts.
+**The mechanism is plausible.** IBD causes structural damage (strictures, fistulas, surgical anatomy) that impairs motility. IBD inflammation may damage the migrating motor complex, the small intestine's primary housekeeper mechanism [[../claims/claim-remember-gut-two-modes-feeding-digestion-fasting]]. IBD patients receive frequent antibiotics, which alter the microbiome. All three factors -- altered anatomy, impaired MMC, and dysbiosis -- are established contributors to SIBO in other contexts.
 
 **Independent validation is absent.** No claim in the graph from a non-Pimentel source reports SIBO prevalence in IBD patients using validated testing. The 50% figure needs replication.
 
@@ -212,11 +212,11 @@ The most clinically significant claim in the graph on this question is [[pimente
 
 The graph contains both positions, and both are defensible.
 
-**SIBO as epiphenomenon.** [[acg-sibo2020-6]] states that SIBO is almost always an epiphenomenon -- the underlying cause (motility disorder, structural abnormality, immune deficiency) is the real disease. [[pimentel-ch6-1]] frames SIBO as "not a primary disease" but a consequence of impaired MMC function. Under this model, treating SIBO with antibiotics without addressing the underlying cause is palliative, not curative.
+**SIBO as epiphenomenon.** [[../claims/claim-sibo-almost-always-epiphenomenon-underlying-cause-motility]] states that SIBO is almost always an epiphenomenon -- the underlying cause (motility disorder, structural abnormality, immune deficiency) is the real disease. [[../claims/claim-first-step-treating-sibo-understand-sibo-primary]] frames SIBO as "not a primary disease" but a consequence of impaired MMC function. Under this model, treating SIBO with antibiotics without addressing the underlying cause is palliative, not curative.
 
-**SIBO as dysbiosis.** [[chutkan-dysbiosis-3]] collapses the distinction: "SIBO is really just another term for dysbiosis that occurs when large amounts of not-so-good bacteria take up residence in the small intestine." Under this model, SIBO is one manifestation of a broader microbiome disturbance, and the distinction between SIBO and IBS/functional dyspepsia/dysbiosis is semantic rather than biological.
+**SIBO as dysbiosis.** [[../claims/claim-sibo-really-just-another-term-dysbiosis-occurs]] collapses the distinction: "SIBO is really just another term for dysbiosis that occurs when large amounts of not-so-good bacteria take up residence in the small intestine." Under this model, SIBO is one manifestation of a broader microbiome disturbance, and the distinction between SIBO and IBS/functional dyspepsia/dysbiosis is semantic rather than biological.
 
-**The continuum hypothesis.** [[rome-sibo2017-8]] proposes that IBS and IBD may exist on a continuum, with IBS and IBD at different ends of the inflammatory spectrum. The Keohane 2010 finding -- that IBD patients in "clinical remission" with IBS symptoms had elevated calprotectin, suggesting the IBS symptoms were actually undiagnosed subclinical inflammation -- is the most important data point. It suggests that what appears to be coexistent IBS/SIBO in IBD patients is often undiagnosed active IBD.
+**The continuum hypothesis.** [[../claims/claim-possible-ibs-ibd-coexist-higher-expected-frequency]] proposes that IBS and IBD may exist on a continuum, with IBS and IBD at different ends of the inflammatory spectrum. The Keohane 2010 finding -- that IBD patients in "clinical remission" with IBS symptoms had elevated calprotectin, suggesting the IBS symptoms were actually undiagnosed subclinical inflammation -- is the most important data point. It suggests that what appears to be coexistent IBS/SIBO in IBD patients is often undiagnosed active IBD.
 
 **Synthesis.** The question "is SIBO a distinct entity or one manifestation of dysbiosis?" is answerable only if we define the level of analysis. At the microbial ecology level, SIBO is clearly dysbiosis -- an alteration of the normal small intestinal microbial community. At the clinical level, SIBO is a useful diagnostic category because it directs treatment (antibiotics, prokinetics, dietary modification) that differs from IBD treatment (anti-inflammatories, immunosuppressants, biologics). The pragmatic answer is that SIBO is clinically useful even if it is not biologically unique.
 
@@ -227,9 +227,9 @@ The graph contains both positions, and both are defensible.
 **The graph does not answer this question.** There is no claim documenting a trial of SIBO-directed therapy in IBD patients with SIBO-positive breath tests that measures IBD-specific outcomes (endoscopic inflammation, calprotectin, hospitalization, surgery).
 
 The closest evidence is:
-- [[pimentel-ch9-3]]: SIBO is present in >50% of IBD patients with persistent symptoms
-- [[acg-sibo2020-7]]: rifaximin has 61-78% efficacy for SIBO treatment
-- [[pimentel-lfe-5]]: dietary therapy reduces SIBO symptoms but does not cure SIBO
+- [[../claims/claim-shown-more-percent-patients-ibd-controlled-inflammation]]: SIBO is present in >50% of IBD patients with persistent symptoms
+- [[../claims/claim-antibiotics-cornerstone-sibo-treatment-rifaximin-best-evidence]]: rifaximin has 61-78% efficacy for SIBO treatment
+- [[../claims/claim-diet-alone-wont-cure-sibo-even-you]]: dietary therapy reduces SIBO symptoms but does not cure SIBO
 
 These three claims, when combined, suggest a clinical hypothesis: identify SIBO in IBD patients with persistent symptoms despite endoscopic remission, treat with rifaximin and/or dietary therapy, and expect symptomatic improvement. But the evidence chain is missing the final link: does treating SIBO improve IBD outcomes beyond symptom relief?
 
@@ -243,13 +243,13 @@ The [[../questions/SIBO-IBD-contribution]] formalizes this gap with a study desi
 
 Prokinetic therapy is Pillar 3 of Pimentel's SIBO management framework (prevention of recurrence). The evidence is modest but the clinical stakes are high: SIBO recurrence after antibiotic treatment is common, and preventing recurrence is the difference between episodic treatment and chronic disease management.
 
-**The prokinetic evolution.** [[pimentel-evol-4]] traces the evolution from erythromycin (antibiotic + prokinetic, limited by tachyphylaxis) or tegaserod (withdrawn for cardiac safety, reintroduced with restrictions) in 2006, to prucalopride (selective 5-HT4 agonist, better safety profile) as the preferred agent in 2022. Serotonin agonists prevent SIBO recurrence for 200+ days vs erythromycin's "few months."
+**The prokinetic evolution.** [[../claims/claim-prokinetic-optimization-erythromycin-prucalopride]] traces the evolution from erythromycin (antibiotic + prokinetic, limited by tachyphylaxis) or tegaserod (withdrawn for cardiac safety, reintroduced with restrictions) in 2006, to prucalopride (selective 5-HT4 agonist, better safety profile) as the preferred agent in 2022. Serotonin agonists prevent SIBO recurrence for 200+ days vs erythromycin's "few months."
 
-**The nighttime dosing rationale.** Prokinetics are dosed at bedtime, not with meals. This targets the fasting MMC (migrating motor complex), which occurs during sleep and between meals -- not feeding motility. The rationale is mechanistic and elegant [[pimentel-ch2-1]].
+**The nighttime dosing rationale.** Prokinetics are dosed at bedtime, not with meals. This targets the fasting MMC (migrating motor complex), which occurs during sleep and between meals -- not feeding motility. The rationale is mechanistic and elegant [[../claims/claim-remember-gut-two-modes-feeding-digestion-fasting]].
 
 **The evidence gap.** The prokinetic efficacy data is from Pimentel's group and has not been independently replicated at scale. The drug holiday strategy (cycling prokinetics to prevent tachyphylaxis) is clinically sensible but untested. Long-term prokinetic safety in SIBO patients (beyond 1-2 years) is not documented in the graph.
 
-**Sarna's expanded options.** [[sarna-guide-2]] adds naturopathic prokinetics (Iberogast, ginger) and acknowledges that "most SIBO patients need more than one course of treatment." This is consistent with Pimentel's framework: SIBO management is chronic, not acute.
+**Sarna's expanded options.** [[../claims/claim-sibo-relapse-management-multiple-treatment-rounds]] adds naturopathic prokinetics (Iberogast, ginger) and acknowledges that "most SIBO patients need more than one course of treatment." This is consistent with Pimentel's framework: SIBO management is chronic, not acute.
 
 **Evidence quality:** The MMC mechanism is established. Prokinetic efficacy for SIBO prevention is probable (single-group data, biologically plausible, consistent clinical experience). Long-term efficacy and safety are speculative.
 
