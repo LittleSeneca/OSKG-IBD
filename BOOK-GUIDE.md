@@ -140,7 +140,17 @@ Influential researchers and clinicians without standalone books (or whose contri
 | 3 | The Microbiome Connection | libgen | Pending | — |
 | 4 | A New IBS Solution | libgen | Pending | — |
 | 5 | Crohn's and Colitis (Steinhart) | libgen | Pending | — |
-| 6-16 | Tier 2 books | libgen | Pending | — |
+| 6 | Healing SIBO (Sarna) | libgen | Acquired | 2026-08-01 |
+| 7 | SIBO Made Simple (LaPine) | libgen | Acquired | 2026-08-01 |
+| 8 | Gut: The Inside Story (Enders) | libgen | Acquired | 2026-08-01 |
+| 9 | The Mind-Gut Connection (Mayer) | libgen | Acquired | 2026-08-01 |
+| 10 | Fiber Fueled (Bulsiewicz) | libgen | Acquired | 2026-08-01 |
+| 11 | I Contain Multitudes (Yong) | libgen | Acquired | 2026-08-01 |
+| 12 | Breaking the Vicious Cycle (Gottschall) | libgen | Acquired | 2026-08-01 |
+| 13 | The Crohn's Disease Cookbook (Foote) | libgen | Acquired | 2026-08-01 |
+| 14 | The IBD Remission Diet (Thompson) | libgen | Acquired | 2026-08-01 |
+| 15 | The Microbiome Solution (Chutkan) | libgen | Acquired | 2026-08-01 |
+| 16 | Gut and Physiology Syndrome (Campbell-McBride) | libgen | Acquired | 2026-08-01 |
 | 17-20 | Tier 4 books | libgen | Pending | — |
 | G1-G11 | Clinical Guidelines | Direct download | Pending | — |
 

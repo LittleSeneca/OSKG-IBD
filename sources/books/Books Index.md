@@ -26,17 +26,17 @@ Targeted claims extraction. Fills specific gaps Tier 1 doesn't cover.
 
 | # | Title | Author(s) | Year | Status |
 |---|-------|-----------|------|--------|
-| 6 | Healing SIBO | Sarna | 2021 | Pending |
-| 7 | SIBO Made Simple | LaPine | 2021 | Pending |
-| 8 | Gut: The Inside Story of Our Body's Most Underrated Organ | Enders | 2018 | Pending |
-| 9 | The Mind-Gut Connection | Mayer | 2016 | Pending |
-| 10 | Fiber Fueled | Bulsiewicz | 2020 | Pending |
-| 11 | I Contain Multitudes | Yong | 2016 | Pending |
-| 12 | Breaking the Vicious Cycle: Intestinal Health Through Diet | Gottschall | 1994 | Pending |
-| 13 | The Crohn's Disease Cookbook | Foote | 2020 | Pending |
-| 14 | The IBD Remission Diet | Thompson | 2013 | Pending |
-| 15 | The Microbiome Solution | Chutkan | 2015 | Pending |
-| 16 | Gut and Physiology Syndrome | Campbell-McBride | 2020 | Pending |
+| 6 | Healing SIBO | Sarna | 2021 | Acquired 2026-08-01 |
+| 7 | SIBO Made Simple | LaPine | 2021 | Acquired 2026-08-01 |
+| 8 | Gut: The Inside Story of Our Body's Most Underrated Organ | Enders | 2018 | Acquired 2026-08-01 |
+| 9 | The Mind-Gut Connection | Mayer | 2016 | Acquired 2026-08-01 |
+| 10 | Fiber Fueled | Bulsiewicz | 2020 | Acquired 2026-08-01 |
+| 11 | I Contain Multitudes | Yong | 2016 | Acquired 2026-08-01 |
+| 12 | Breaking the Vicious Cycle: Intestinal Health Through Diet | Gottschall | 1994 | Acquired 2026-08-01 |
+| 13 | The Crohn's Disease Cookbook | Foote | 2020 | Acquired 2026-08-01 |
+| 14 | The IBD Remission Diet | Thompson | 2013 | Acquired 2026-08-01 |
+| 15 | The Microbiome Solution | Chutkan | 2015 | Acquired 2026-08-01 |
+| 16 | Gut and Physiology Syndrome | Campbell-McBride | 2020 | Acquired 2026-08-01 |
 
 ## Tier 4: Adjacent
 
