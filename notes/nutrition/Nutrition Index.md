@@ -12,7 +12,9 @@ Dietary interventions for IBD and SIBO. EEN, SCD, low-FODMAP, low-fermentation e
 
 | Source | Chapters | Status |
 |--------|----------|--------|
-| — | — | — |
+| [[The Autoimmune Solution - Myers 2015]] | Whole book (Tier 4) | Complete |
+| [[The Paleo Approach - Ballantyne 2013]] | Whole book (Tier 4) | Complete |
+| [[Gut and Physiology Syndrome - Campbell-McBride - GAPS Protocol]] | GAPS Protocol (Tier 2) | Complete |
 
 ## Key Questions
 

@@ -12,7 +12,10 @@ Gut microbiome science relevant to IBD and SIBO. Dysbiosis, archaea, methanogens
 
 | Source | Chapters | Status |
 |--------|----------|--------|
-| — | — | — |
+| [[The Good Gut - Sonnenburg 2015]] | Whole book (Tier 4) | Complete |
+| [[The Microbiome Solution - Chutkan - Intro Ch1-3]] | Intro + Chs 1-3 (Tier 2) | Complete |
+| [[The Microbiome Solution - Chutkan - Ch5 Dysbiosis]] | Ch 5 (Tier 2) | Complete |
+| [[The Microbiome Solution - Chutkan - Ch11 Rewilding Illness]] | Ch 11 (Tier 2) | Complete |
 
 ## Key Questions
 

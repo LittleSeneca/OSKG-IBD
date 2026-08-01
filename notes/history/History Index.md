@@ -12,7 +12,7 @@ Evolution of IBD and SIBO understanding. Timeline of key discoveries, shifting p
 
 | Source | Chapters | Status |
 |--------|----------|--------|
-| — | — | — |
+| [[Inflamed - Marya Patel 2021]] | Whole book (Tier 4) | Complete |
 
 ## Key Events
 

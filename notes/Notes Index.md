@@ -15,10 +15,10 @@ Entry point for all OSKG-IBD knowledge domains. Each sub-index links to the read
 | Pathophysiology | [[pathophysiology/Pathophysiology Index]] | Empty — pending Phase 1 |
 | Diagnosis | [[diagnosis/Diagnosis Index]] | Empty — pending Phase 1 |
 | Treatment | [[treatment/Treatment Index]] | Empty — pending Phase 1 |
-| Microbiome | [[microbiome/Microbiome Index]] | Empty — pending Phase 1 |
-| Nutrition | [[nutrition/Nutrition Index]] | Empty — pending Phase 1 |
+| Microbiome | [[microbiome/Microbiome Index]] | Active — 4 notes (Tier 2 + Tier 4) |
+| Nutrition | [[nutrition/Nutrition Index]] | Active — 3 notes (Tier 2 + Tier 4) |
 | Clinical Guidelines | [[clinical-guidelines/Clinical Guidelines Index]] | Empty — pending Phase 1 |
-| History | [[history/History Index]] | Empty — pending Phase 1 |
+| History | [[history/History Index]] | Active — 1 note (Tier 4) |
 
 ## Pipeline Directories
 
